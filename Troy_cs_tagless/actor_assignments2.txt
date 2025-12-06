@@ -1,0 +1,495 @@
+ACTOR LINE ASSIGNMENTS - 82 ITEMS (~2794 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  481 words ( 17.2%)
+
+  monologues_selftalk :  200 words (  7.2%)
+
+  conversation        :  345 words ( 12.3%)
+
+  cs_alpha            :  719 words ( 25.7%)
+
+  cs_noalpha          :  381 words ( 13.6%)
+
+  basic_scenarios     :  428 words ( 15.3%)
+
+  monologues          :  240 words (  8.6%)
+
+  TOTAL               : 2794 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (53 words)
+
+Script: b53b997c_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You promised you'd be there.
+
+93 Character 2: I know, I know I did, but—look, my mom literally called me crying. What was I supposed to do, just ignore that? I mean, come on, you know I wouldn't bail unless it was something serious.
+
+Character 1: You could've texted.
+
+94 Character 2: I—okay, yeah, I should've texted sooner. But honestly, I was kinda dealing with a family emergency here? [Sigh] Like, I get that you're mad, but you're acting like I just decided to blow you off for fun.
+
+Character 1: That's what it felt like.
+
+95 Character 2: That's not—that's not fair though. You know me better than that. I've never, and I mean never, broken a promise to you before this, so maybe—I dunno—maybe cut me some slack here?
+
+Character 1: Everyone was asking where you were.
+
+96 Character 2: Oh, so this is about you being embarrassed? Not about—okay, fine. [Frustrated laugh] I'm sorry everyone asked questions, but my mom was having a literal breakdown, so excuse me for prioritizing that.
+
+Character 1: Don't make this about me being selfish.
+
+97 Character 2: I'm not! I'm just—look look, I'm trying to explain that sometimes things happen that are outta my control, y'know? And yeah, I shoulda handled it better, but you're not even letting me explain properly.
+
+Character 1: What's to explain? You weren't there.
+
+98 Character 2: Because my mom needed me! God, you're being so—whatever. Fine. I messed up. Is that what you wanna hear? But I'm not gonna apologize for putting my family first when there was an actual crisis.
+
+Character 1: It was important to me.
+
+99 Character 2: And I get that, I really do. But like—life happens sometimes? I didn't plan for this. I wanted to be there, honestly I did, but I literally couldn't. [Scoff] And you standing there all cold and angry isn't exactly helping anything.
+
+Character 1: You made a promise.
+
+100 Character 2: Yeah, and promises are important, but they're not—they're not more important than emergencies. I mean, if your dad had a heart attack, would you still show up to my thing? Seriously?
+
+Character 1: That's different.
+
+101 Character 2: How? How is it different? My mom was—she was falling apart, okay? And maybe I didn't handle the communication perfectly, but I was kinda busy trying to keep my family together, so...
+
+Character 1: Fine.
+
+102 Character 2: That's it? Just "fine"? Look, I'm—I'm sorry I let you down, okay? I am. But I'm also really disappointed that you can't see past your own hurt here to understand that I was in an impossible situation.
+
+Script: 443c02fb_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So I did the thing.
+
+103 Character 2: Wait wait wait—you went up? You actually did it? Oh my god, I'm like—I'm literally so proud of you right now! How did it go?
+
+Character 1: They laughed. A lot.
+
+104 Character 2: They—hold on, they laughed? Like actually laughed? Not just polite chuckles but like, real laughs? [Gasp] Dude, that's incredible!
+
+Character 1: The callback about my mom's cooking landed perfectly.
+
+105 Character 2: Stop it—the one where she, um, where she thinks salt is a vegetable? That's—oh my god, I knew that would kill! You were so nervous about that one!
+
+Character 1: Yeah. Even got some applause mid-set.
+
+106 Character 2: Mid-set applause? That's like—okay that's basically unheard of for open mics. Were there any, y'know, any comics there? Like established ones?
+
+Character 1: The headliner stayed to watch.
+
+107 Character 2: No no no, you're—you're kidding me. The actual headliner watched your set? That's huge! What did they—did they say anything after? [Excited] Please tell me they said something!
+
+Character 1: Said I had "natural timing."
+
+108 Character 2: Natural timing is like—that's literally the thing you can't teach! Oh my god, I'm getting secondhand adrenaline just hearing this. Are you gonna do it again?
+
+Character 1: Already booked for next Tuesday.
+
+109 Character 2: Already—wait, you already booked another one? Look at you! [Laugh] Remember when you were like "I'll probably bomb and never do this again"?
+
+Character 1: Don't remind me.
+
+110 Character 2: No but seriously, this is—I mean, you've been writing jokes in that notebook for what, like two years? And you finally got up there and just... killed it.
+
+Character 1: It felt good. Really good.
+
+111 Character 2: It felt good? Okay okay, that's—that's the most emotion I've heard from you in months! You're gonna be one of those comics, aren't you? The ones who like, can't stop once they start?
+
+Character 1: Maybe. We'll see.
+
+112 Character 2: We'll see, they say, like they're not already planning their [Chuckle] Netflix special. I'm so—honestly? I'm just really happy for you. This is your thing, I can feel it.
+
+Script: 7696fd46_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: We need to talk about the comments.
+
+113 Character 2: Comments? What—oh. Oh no. Is this about earlier? Because I didn't mean—I was just trying to be helpful, you know? Like supportive or whatever.
+
+Character 1: Supportive.
+
+114 Character 2: Okay, that came out wrong. Really wrong. I just meant like—when I said that thing about your jeans, I wasn't trying to [nervous laugh] god, this sounds terrible now that I'm saying it out loud.
+
+Character 1: It's not just the jeans thing.
+
+115 Character 2: Wait wait wait, there's more? Oh god, what else did I—actually, no, you're right. I know I've been... I've been doing this a lot lately, haven't I? The gym comment last week and the—the salad thing.
+
+Character 1: And the "are you sure you want dessert" thing. And asking if I've been stress eating.
+
+116 Character 2: Shit. Shit, I'm—I'm that person. I'm literally that person who can't shut up about—god, I'm so sorry. My mom does this to me and I hate it and now I'm doing it to you [groan] I'm the worst.
+
+Character 1: Yeah. You are.
+
+117 Character 2: I deserve that. I do. It's just—okay this isn't an excuse but my sister just started this whole fitness thing and she keeps talking about it and I guess I just internalized all that toxic—that's not your problem though. That's my problem.
+
+Character 1: I don't want to hear about your sister's fitness journey either.
+
+118 Character 2: No no no, of course not. That's not—I wasn't gonna—look, I genuinely didn't realize how much I was doing it until right now. Like hearing you list it all out? I wanna crawl into a hole and die.
+
+Character 1: Do you think I don't own a mirror?
+
+119 Character 2: That's not—oh my god, of course you do. Of course. I'm not trying to—I don't think you need to change or anything. Honestly, I think I was projecting my own weird issues and that's so unfair to you.
+
+Character 1: It really hurts. Every single time.
+
+120 Character 2: I know. Or—actually I don't know, but I can imagine and I'm... I'm really, really sorry. Like genuinely sorry, not just saying-it-to-make-this-stop sorry. I had no idea I was hurting you like that. [quieter] I should've known though.
+
+Character 1: I've been dreading hanging out with you.
+
+121 Character 2: Oh. That's—wow. Okay. That really... yeah. I get it though. I do. Can we—is there a way to fix this? Because I swear I will never, ever comment on your body or your food or anything like that again. Ever.
+
+Character 1: I need you to actually mean that. Not just say it.
+
+122 Character 2: I do mean it. I promise I do. And if I slip up—which I won't, but if I do—you can call me out immediately. Like, just tell me to shut up. I want you to. Because your friendship means way more to me than whatever stupid thing I might wanna say about... anything.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (71 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (357 words)
+
+============================================================
+
+============================================================
+
+ITEMS 32-41 - CONVERSATION (345 words)
+
+Script: 2510ee8a
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+124 Character 1: [devastated] My life is completely over! [voice breaking] The coffee shop ran out of oat milk, and I had to use regular milk in my latte. [wailing] How am I supposed to function today with dairy destroying my entire digestive system?
+
+Character 2: [flat] You're lactose intolerant now? [skeptical] Since when? [deadpan] I literally watched you eat an entire cheese pizza last night while crying over that Netflix show about the woman who talks to ghosts.
+
+125 Character 1: [dramatically gasping] That was different! [whimpering] Pizza cheese doesn't count because it's... it's comfort food! [building hysteria] But coffee is sacred, and now my whole morning routine is ruined forever and I'll probably die!
+
+Character 2: [monotone] Right. [slower] You're going to die from one tablespoon of milk. [sarcastically] Should I call your mom and tell her to start planning the funeral, or do you want to handle that yourself?
+
+126 Character 1: [trembling whisper] You don't understand the psychological damage! [getting louder] I specifically chose that coffee shop because they respect dietary preferences! [shouting] This betrayal cuts deeper than when Jennifer stole my parking spot last Tuesday!
+
+Character 2: [tired sigh] Jennifer has a broken leg. [matter-of-fact] She has a handicapped permit. [increasingly annoyed] You parked in the handicapped spot illegally and got towed, remember? That wasn't theft, that was karma.
+
+127 Character 1: [defensive shriek] Details! [quieter, sulking] The point is that everything is against me today. [building drama again] First the milk catastrophe, then I broke a nail, and now you're being completely heartless about my suffering!
+
+Character 2: [dry laugh] A broken nail? [disbelieving] Call the emergency services. [more sarcastic] I'm sure they have a special unit for cosmetic emergencies that will rush right over with their nail glue and tiny files.
+
+128 Character 1: [sobbing dramatically] See? [hiccupping] This is exactly why I can't share my feelings with you! [accusatory] When YOUR favorite pen ran out of ink, I was there for you! I listened! I cared!
+
+Character 2: [slightly louder] That pen was a limited edition from Japan! [defensive] It cost me eighty dollars! [returning to deadpan] Your nail will literally grow back in two weeks for free. These situations are not remotely comparable.
+
+129 Character 1: [wounded gasp] How can you put a price on emotional trauma? [pleading] My grandmother gave me these nails! [softer, manipulative] Well, she gave me the DNA that grows them, which is basically the same thing!
+
+Character 2: [long exhale] Your grandmother has been dead for three years. [slowly, deliberately] She did not give you those acrylic extensions. [firm] You got them done at that sketchy place in the mall last weekend for fifteen dollars.
+
+130 Character 1: [indignant squeal] They're gel, not acrylic! [huffing] And it was twenty dollars! [dejected moan] But fine, minimize my pain. When I'm hospitalized for calcium deficiency from avoiding dairy forever, don't come visit me!
+
+Character 2: [amused snort] Calcium deficiency? [steadily] From one cup of coffee? [laughing quietly] You do realize vegetables have calcium too, right? Or are you also suddenly allergic to broccoli and all leafy greens?
+
+131 Character 1: [mysteriously] You know what? [building suspense] I might be! [dramatic revelation] Maybe I'm developing multiple food sensitivities because of the stress you're causing me right now with your complete lack of empathy!
+
+Character 2: [bored] Cool. [pause] Starve then. [dismissively] I'm sure your funeral will be very well-attended by all the other people who've died from temporary oat milk shortages and broken nail emergencies.
+
+132 Character 1: [fake cheerful] Fine! [bitterly] I'll just suffer alone! [melodramatic whisper] Like I always do, carrying the weight of this cruel, dairy-filled world on my lactose-intolerant shoulders while everyone else lives in ignorant bliss!
+
+Character 2: [slight chuckle] Ignorant bliss? [normally] I have actual problems. [frustrated exhale] My car needs new tires, my rent went up, and my boss is making me work weekends. But sure, let's focus on your milk crisis.
+
+133 Character 1: [immediately sympathetic] Oh my god, your rent went up? [excited squeal] Why didn't you say something? [rapidly] We should totally move in together and split the cost! Think of all the money we'd save!
+
+Character 2: [horrified] Absolutely not. [quickly] I'd rather pay double rent. [firmly] Living with you would mean daily emergencies about expired yogurt, wrong-colored towels, and whatever else you decide is literally killing you that particular morning.
+
+============================================================
+
+ITEMS 42-51 - CS ALPHANUMERIC (719 words)
+
+Script: 01021a80
+
+============================================================
+
+You are playing a customer service agent; your role: Character 1
+
+--- FULL SCRIPT ---
+
+134 Character 1: [mysteriously] I need to understand your... membership structures. [pause] The basic tier at $60 annually versus the, um, Executive at $120—[whispers] what hidden benefits exist beyond the posted signage?
+
+Customer Support: D2: [enthusiastically] Oh, absolutely! So the Gold Star membership, that's SKU-4589B, gives you shopping privileges at all 578 locations nationwide. [more cheerfully] But the Executive, code EX-7721A, [emphasizes] that's where the magic happens—2% rewards on qualified purchases!
+
+135 Character 1: [contemplatively] Two percent... interesting. [suddenly intense] If someone were to spend, say, $6,000 annually on—[clears throat] let's call them "bulk provisions"—the mathematics become quite favorable, don't they?
+
+Customer Support: D4: [excited] Exactly! You'd earn back your entire upgrade fee! [calculating tone] Plus, Executive members get exclusive coupons—usually 20-30% off select items. [confidentially] Between you and me, last month's tire promotion saved Executive members nearly $180 per set.
+
+136 Character 1: [cryptically] Tires, yes... vehicles need those. [more directly] Tell me about the pharmacy benefits under policy PH-2024-EX. [quietly] Are prescription records kept... separately from main membership databases?
+
+Customer Support: D6: [slightly confused] Well, uh, the pharmacy offers Executive members extra discounts on generics—usually 5-8% more. [reassuringly] All medical records are HIPAA-protected in system MED-SEC-9000, [nervous chuckle] completely separate from our regular shopping data, if that's what you mean?
+
+137 Character 1: [satisfied] Precisely what I meant. [abruptly] Business memberships—code BUS-500X—can those be registered to, shall we say, [pause] entities with offshore addresses like Box 4472, Grand Cayman?
+
+Customer Support: D8: [hesitant] Um, business memberships require a valid EIN or business license... [more firmly] We need a physical US address for the primary account holder. [helpful tone] But you can add up to 16 subsidiary cardholders at $60 each, no questions asked really.
+
+138 Character 1: [intrigued] Sixteen additional humans, fascinating redundancy. [calculating] If hypothetically someone needed to purchase 500 pounds of—[coughs]—protein powder monthly, would that trigger any... [whispers darkly] algorithmic concerns in your inventory system INV-TRACK-7?
+
+Customer Support: D10: [laughs nervously] That's quite a lot of protein! [professional tone] Our system only flags purchases over $10,000 or restricted items. [cheerfully] Actually, bulk buyers like yourself get assigned personal business reps—[excited] they even arrange special delivery to loading dock 7-B!
+
+139 Character 1: [thoughtfully] Loading dock 7-B... noted for future reference. [urgently] One final query—member data from terminated accounts, policy TERM-POL-2024, [lower voice] how long before complete purging from servers located at 1599 Data Center Drive?
+
+Customer Support: D12: [uncomfortably] That's... oddly specific. [officially] Per our privacy policy, inactive accounts are archived for 7 years, then deleted. [helpful whisper] Though if you pay with cash and use guest checkout, [pause] well, there's virtually no digital footprint at all.
+
+140 Character 1: [pleased] Cash transactions, the elegant simplicity of analog commerce. [decisively] I'll take the Executive membership, paying in sequential hundreds. [mysteriously soft] Please register it under the name "A. Individual"—[chuckles] first initial A, period, last name Individual.
+
+Customer Support: D14: [typing sounds] Alright, A. Individual it is—[doubtfully] though I'll need to see some ID for the system. [brightening] The membership number will be EX20241147-B, and [proudly] you'll receive your physical card in 7-10 business days to whatever address you provide.
+
+141 Character 1: [smoothly] Excellent, here's a passport from—[pause] never mind which nation. [quickly] Send everything to P.O. Box 1138, Station Alpha, zip code 00501. [satisfied sigh] This concludes our illuminating exchange about membership benefits, doesn't it?
+
+Customer Support: D16: [relieved] Yes, absolutely! [cheerful again] Oh, and don't forget—Executive members get free roadside assistance through program ROAD-EXEC-24! [helpfully] Just call 1-800-774-2678 if your, uh, [pause] vehicles carrying protein powder ever need help.
+
+142 Character 1: [amused] Roadside assistance for protein transport emergencies, how... thoughtful. [formally] You've been most informative, employee badge number—[squints] —4472. [whispers] I may return during your shift pattern, Tuesdays through Saturdays, 10am to 6pm.
+
+Customer Support: D18: [nervously] How did you know my schedule? [forced cheerfulness] I mean, yes, I'm always happy to help valued Executive members! [quickly] The welcome packet includes voucher WEL2024-EX for a free hot dog combo, [awkward laugh] everyone loves those, right?
+
+143 Character 1: [cryptically] Hot dogs... processed meat of mysterious origin, yes. [standing to leave] Until we meet again—[pause] though you won't remember this conversation. [softer] Check your pocket later for a tip that's distinctly... non-digital.
+
+Customer Support: D20: [confused] Wait, what do you mean I won't remem—[trails off] [surprised gasp] Is this a hundred dollar bill? [calling out] Sir, you forgot your receipt with confirmation number REC-994521—[quieter] and he's already vanished into the paper towel aisle.
+
+============================================================
+
+ITEMS 52-61 - CS NO-ALPHANUMERIC (381 words)
+
+Script: bf4ccbc1
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+144 Customer Support: Good afternoon, Pest Shield Services, this is Marcus speaking. How can I help you today? I see you're calling from—oh yes, the Johnson residence on Maple Street.
+
+Character 1: [frustrated] Yeah, hi, I need someone back out here immediately. [raising voice] Those ants you treated last week? They're everywhere now—kitchen counters, bathroom, [disgustedly] even found them in my cereal this morning!
+
+145 Customer Support: [apologetically] Oh no, I'm terribly sorry to hear that, Mrs. Johnson. Our treatment comes with a thirty-day guarantee, so we'll absolutely send someone back. Let me just pull up your file here... when works best for you?
+
+Character 1: [impatiently] Today would be ideal, or tomorrow morning at the latest. [sighs heavily] My mother-in-law is visiting this weekend and she's already... particular about cleanliness. [sarcastically] Finding ants in her tea would really complete the experience.
+
+146 Customer Support: I completely understand the urgency. [more quickly] Let me check our schedule—we have... actually, Tom can squeeze you in between three and five today. He's our senior technician, specializes in persistent ant colonies.
+
+Character 1: [relieved] Three to five works perfectly, thank God. [curiously] But why didn't the first treatment work? The guy seemed thorough, spent like an hour here, [quieter] though he did mention something about needing different bait.
+
+147 Customer Support: [thoughtfully] Sometimes ants switch their food preferences seasonally—protein versus sugar. Tom will bring our full arsenal this time, different gel baits, granules, the works. [reassuringly] We'll identify the species and hit them with exactly what they're craving.
+
+Character 1: [skeptically] Right, well, I hope this Tom knows what he's doing. [firmly] Because I'm not paying for another visit after this one. [sighs] The guarantee covers everything, correct? No hidden fees or "special treatment" charges?
+
+148 Customer Support: [quickly] Absolutely no additional charges, it's all covered under your initial service warranty. Tom will also do a full perimeter check—sometimes we find new entry points that weren't visible before. Would you like him to call when he's on his way?
+
+Character 1: [decisively] Yes, definitely have him call first. [softer] And please, make sure he knows about the kitchen especially—that's where it's worst. [exasperated] I've already thrown out half my pantry trying to find where they're coming from.
+
+149 Customer Support: Oh, that's so frustrating, losing food on top of everything else. I'm making detailed notes for Tom right now—kitchen priority, check pantry area thoroughly. He'll also leave extra bait stations in problem zones, no charge.
+
+Character 1: [somewhat relieved] Good, that sounds more comprehensive than last time. [cautiously] The tech before just sprayed around and left some traps. [more firmly] I need this actually solved, not just... temporarily managed, you know?
+
+150 Customer Support: Absolutely, and that's exactly why we're sending Tom. He's been with us twelve years, has this methodical approach—checks everything from foundation cracks to, [chuckles] even dishwasher connections. Really thorough guy.
+
+Character 1: [impressed] Twelve years, that's reassuring at least. [curiously] Should I do anything to prepare? Move furniture, clear counters? [quickly] I mean, I've already cleaned everything about five times trying to discourage them.
+
+151 Customer Support: Just clear under the sink if you can, give Tom access to baseboards. Don't worry about deep cleaning—actually, leaving a few ants visible helps him track their trails. Oh, and pet bowls should be picked up during treatment.
+
+Character 1: [acknowledging] Right, I'll grab the cat's dishes before he arrives. [sighs] This whole thing has been such a headache. [tiredly] I specifically asked the first guy if one treatment would be enough, and he assured me it would.
+
+152 Customer Support: I'm really sorry you were given that impression. Sometimes it does take one visit, but persistent colonies, especially in spring—they can be tricky. I'm also adding a note for Tom to inspect neighboring units for source colonies.
+
+Character 1: [surprised] Wait, this could be coming from my neighbors? [groans] Great, just great. [resigned] Well, whatever it takes—just please make sure Tom is thorough about finding the actual source this time around.
+
+153 Customer Support: [reassuringly] He definitely will, and if it is from neighboring property, we can coordinate treatment. I've scheduled you for three to five, Tom Rodriguez will call thirty minutes before arrival. Is this still the best number to reach you?
+
+Character 1: [confirmingly] Yes, this number's fine, I'll have my phone on me. [gratefully] Thanks for fitting me in today, I really appreciate it. [hopefully] Let's hope Tom can finally put an end to this ant invasion once and for all.
+
+============================================================
+
+ITEM 62 - BASIC SCENARIO (23 words)
+
+============================================================
+
+154 [Fast] Okay so, like, I was in my childhood home but it wasn't—it had extra rooms that kept appearing, you know? [Confused] [Laugh]
+
+============================================================
+
+ITEM 63 - BASIC SCENARIO (22 words)
+
+============================================================
+
+155 [Whisper] And my teeth started falling out, one by one, into my hands like, um, like little pearls or something. [Slow] [Tsk]
+
+============================================================
+
+ITEM 64 - BASIC SCENARIO (19 words)
+
+============================================================
+
+156 [Happy] The weirdest part? I could fly but only, uh, only backwards! [Chuckle] Just zooming through clouds in reverse!
+
+============================================================
+
+ITEM 65 - BASIC SCENARIO (19 words)
+
+============================================================
+
+157 [Sarcastic] Oh, and naturally my boss was there dressed as a giant lobster, because that's totally normal, right? [Groan]
+
+============================================================
+
+ITEM 66 - BASIC SCENARIO (21 words)
+
+============================================================
+
+158 [Slow] Everything was kinda... underwater but I could still breathe somehow? [Sigh] I dunno, it felt completely natural at the time.
+
+============================================================
+
+ITEM 67 - BASIC SCENARIO (21 words)
+
+============================================================
+
+159 [Angry] I kept trying to scream but—but nothing would come out! [Fast] Just this horrible silence while everyone stared at me!
+
+============================================================
+
+ITEM 68 - BASIC SCENARIO (22 words)
+
+============================================================
+
+160 [Disappointed] My phone wouldn't work properly, like, the numbers kept changing and I couldn't—I just couldn't call anyone for help. [Tsk] [Sad]
+
+============================================================
+
+ITEM 69 - BASIC SCENARIO (16 words)
+
+============================================================
+
+161 You were there too, but you had, um, your face was all wrong somehow? [Slow] [Whisper]
+
+============================================================
+
+ITEM 70 - BASIC SCENARIO (20 words)
+
+============================================================
+
+162 [Shout] Then suddenly I'm at my wedding but I'm wearing pajamas! [Laugh] [Fast] Everyone's just acting like it's totally fine!
+
+============================================================
+
+ITEM 71 - BASIC SCENARIO (20 words)
+
+============================================================
+
+163 [Sad] My grandma showed up, which was—I mean, she passed away years ago, but there she was, y'know? [Sigh] [Slow]
+
+============================================================
+
+ITEM 72 - BASIC SCENARIO (25 words)
+
+============================================================
+
+164 [Happy] I won the lottery but the money was all, like, Monopoly money and I didn't even care! [Chuckle] Just stuffing it in my pockets!
+
+============================================================
+
+ITEM 73 - BASIC SCENARIO (23 words)
+
+============================================================
+
+165 [Fast] Wait wait wait, I forgot the part where my cat could talk—actually, all animals could talk and they were really judgmental! [Groan]
+
+============================================================
+
+ITEM 74 - BASIC SCENARIO (20 words)
+
+============================================================
+
+166 [Disappointed] I kept trying to run but my legs were like—ugh, like moving through molasses or something. [Angry] So frustrating!
+
+============================================================
+
+ITEM 75 - BASIC SCENARIO (25 words)
+
+============================================================
+
+167 [Whisper] There was this door that I knew I shouldn't open, but I had to—I just had to see what was behind it. [Tsk] [Slow]
+
+============================================================
+
+ITEM 76 - BASIC SCENARIO (24 words)
+
+============================================================
+
+168 [Sarcastic] And of course I showed up to take an exam I'd never studied for, because my subconscious is super original like that. [Sigh]
+
+============================================================
+
+ITEM 77 - BASIC SCENARIO (20 words)
+
+============================================================
+
+169 Honestly, the sky was, um, purple with green stars and nobody seemed to—to even notice anything was off? [Slow] [Disappointed]
+
+============================================================
+
+ITEM 78 - BASIC SCENARIO (21 words)
+
+============================================================
+
+170 [Shout] I turned into a bird mid-conversation! [Laugh] [Happy] Just literally sprouted wings and took off while talking to my mother!
+
+============================================================
+
+ITEM 79 - BASIC SCENARIO (22 words)
+
+============================================================
+
+171 [Sad] I was lost in this endless hallway and every door led to—to the same empty room over and over. [Whisper] [Sigh]
+
+============================================================
+
+ITEM 80 - BASIC SCENARIO (22 words)
+
+============================================================
+
+172 [Fast] My reflection didn't match what I was doing, like it had its own—its own agenda or whatever, super creepy! [Angry] [Tsk]
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (23 words)
+
+============================================================
+
+173 [Chuckle] The whole thing ended when I realized I was dreaming, and then I tried to—to stay asleep but couldn't! [Disappointed] Typical, right?

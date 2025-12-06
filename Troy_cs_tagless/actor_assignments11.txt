@@ -1,0 +1,305 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 24a5694c_script | Role: Character 2 (B)
+
+Character 1: Got the corner office today.
+
+862 Character 2: Wait wait wait—the actual corner office? Like the one with the—oh my god, with the windows? That's huge! I mean, that's literally what everyone wants, right?
+
+Character 1: Yeah. Jenkins retired last week.
+
+863 Character 2: Okay but like—you don't sound excited? This is kinda... I mean, shouldn't you be like, popping champagne or something? [Laugh] That office is basically the dream spot.
+
+Character 1: It's fine.
+
+864 Character 2: Fine? It's—no no no, something's up. You've been working toward this for like, what, three years? And now you're just... fine?
+
+Character 1: Everyone's being weird about it. Like I didn't earn it.
+
+865 Character 2: Oh. Oh shit, okay—are people being assholes? Because honestly, some people just can't handle when good things happen to others, y'know? It's like—it's their problem, not yours.
+
+Character 1: Thompson thinks he should've gotten it. Twenty years here.
+
+866 Character 2: Ugh, Thompson's been coasting for like—I dunno, forever? Just because someone's been somewhere longer doesn't mean they're actually, you know, good at the job. [Sigh] That's gotta feel awkward though.
+
+Character 1: He won't even look at me now.
+
+867 Character 2: That's so—god, that's so petty. Like, what are we, in middle school? You earned this, okay? The bosses obviously saw something in you that he doesn't have.
+
+Character 1: Maybe. The view is nice at least.
+
+868 Character 2: See? That's—okay that's something! And honestly? Once everyone gets over their little feelings about it, they're gonna forget. It'll just be your office, y'know?
+
+Character 1: It echoes. Too big.
+
+869 Character 2: Well yeah, it's gonna feel weird at first—like, any change does. But you could get some plants maybe? Or like—ooh, one of those little rugs? Make it yours. [Chuckle]
+
+Character 1: Plants die around me.
+
+870 Character 2: Okay okay, fake ones then! Nobody has to know. But seriously though—you worked really hard for this. Don't let Thompson or whoever make you feel like you shouldn't be there.
+
+Character 1: I know. It's just... different up there.
+
+871 Character 2: Different how? Like—wait, are you worried you're gonna become one of those corner office people? Because um, hate to break it to you, but you're way too weird for that. In the best way.
+
+Script: 80785e04_script | Role: Character 2 (B)
+
+Character 1: That was humiliating.
+
+872 Character 2: Oh come on, it was just a joke! Everyone was laughing—I thought you'd think it was funny too. It's not like I was trying to—I dunno, make you look bad or whatever.
+
+Character 1: Everyone was laughing at me.
+
+873 Character 2: No, they were laughing with—okay, fine, maybe it came off wrong, but you gotta know I wasn't trying to embarrass you. I was literally just trying to lighten the mood. [scoff] You're acting like I planned this whole thing to hurt you.
+
+Character 1: In front of my coworkers. Really?
+
+874 Character 2: I didn't—look look, I didn't realize it was gonna be that big of a deal, alright? You joke about that stuff all the time when it's just us, so I thought—I mean, how was I supposed to know you'd react like this?
+
+Character 1: There's a difference.
+
+875 Character 2: Okay okay, yeah, there's a difference, but honestly? You could've just laughed it off instead of making it into this whole—now everyone probably thinks we're having some kinda drama. [frustrated laugh] That's way more awkward than the original joke.
+
+Character 1: So this is my fault now.
+
+876 Character 2: That's not what I'm—ugh, you're twisting everything I say. I'm trying to explain that I didn't mean anything by it, and you're basically acting like I'm the worst friend in the world. Which is kinda unfair, don't you think?
+
+Character 1: You shared something private. As a punchline.
+
+877 Character 2: It wasn't—it wasn't that private! You've told that story to like half the people there already. I just thought—I dunno, I thought it'd be funny coming from me. Obviously I was wrong, but [sigh] you're not even letting me apologize properly here.
+
+Character 1: Haven't heard an actual apology yet.
+
+878 Character 2: Because you keep—fine, I'm sorry, okay? I'm sorry it came out wrong and I'm sorry you got embarrassed. But I'm also kinda frustrated that you think I'd ever intentionally humiliate you. Like, seriously? After everything?
+
+Character 1: Intent doesn't change what happened.
+
+879 Character 2: No, but it should matter a little bit, shouldn't it? I mean, there's a difference between me being an idiot who misjudged a situation and me being—being some kinda terrible friend who wanted to hurt you. You know that's not who I am.
+
+Character 1: Do I?
+
+880 Character 2: Wow. Okay. That's—if you really think that little of me after one stupid joke that went wrong, then maybe—I dunno what to tell you. I messed up, yeah, but you're being pretty harsh here.
+
+Character 1: You haven't even said you won't do it again.
+
+881 Character 2: Because I thought that was—[groan] fine, I won't make jokes about you in public anymore. Happy? Though honestly, if this is how you're gonna react every time I make a mistake, maybe we need to talk about more than just tonight.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+882 SCENARIO: trying to figure out which remote controls what
+
+==================================================
+
+[muttering]
+
+Okay, so I want to, um, I want to turn on Netflix but this— this remote isn't doing anything. Like, literally nothing. Is this the, uh, is this the TV remote or the cable box remote? 
+
+[slightly confused]
+
+Wait, no, this one says Samsung so that's gotta be the TV, right? But then why isn't it— [sigh] okay, maybe the TV's already on and I need the, um, the other one for the actual—
+
+[picking up pace]
+
+Alright, so this black one is definitely something because it has all these buttons I don't recognize. Roku? Is that— oh wait, we don't have Roku anymore, that's the old one. Why do we still have the old one?
+
+[frustrated but amused]
+
+This is ridiculous. I literally live here. I should know which remote does what, but there's like— [counting under breath] one, two, three, four remotes on this coffee table and I have no idea what half of them even go to.
+
+[deadpan]
+
+Oh. The TV wasn't plugged in. Cool. That's, uh, that's why the remote wasn't working. [laugh] Mystery solved, I guess.
+
+--- CONVERSATION ---
+
+Script: 01861daa | Role: Character 2 (B)
+
+Character 1: [knowingly] Mija, your headache won't go away until you put a potato slice on your forehead. [more insistent] My mother taught me this, and her mother before her. [Soft chuckle] Trust your abuela—these old remedies work better than pills.
+
+883 Character 2: [skeptical] Grandma, that's literally just a vegetable on my face. [laughing] How could that possibly cure anything? [more seriously] I already took ibuprofen, which has actual science behind it, not folklore from a hundred years ago.
+
+Character 1: [defensive whisper] Science doesn't know everything, mi amor. [building volume] When you were a baby with colic, I rubbed an egg over your belly and you stopped crying! [triumphant] Explain that with your Google searches!
+
+884 Character 2: [gently] I stopped crying because you were holding me and singing, not because of the egg. [Sigh] Correlation isn't causation, Abuela. [pleading] Can we please just stick to actual medicine when someone's sick?
+
+Character 1: [Scoff] Medicine, medicine! [in a mocking tone] Your grandfather had pneumonia once and I cured him with onion tea and prayer. [quieter] The doctors said he wouldn't make it, but look—forty more years he lived.
+
+885 Character 2: [exasperated] He also took antibiotics from the hospital, remember? [slower pace] The onion tea didn't hurt, sure, but it wasn't what saved him. [Nervous laugh] Though I admit, your soup does make everyone feel better somehow.
+
+Character 1: [warmly] Ah, now you're learning! [mysterious whisper] The soup has my secret—a blessing whispered three times while stirring clockwise. [more firmly] Your cousin Maria's fever broke after just one bowl last week, you saw it yourself.
+
+886 Character 2: [tired voice] She had a twenty-four hour bug that was already ending. [Quick breath] Abuela, I love you, but wearing garlic around my neck won't prevent flu. [amused] My coworkers already think I'm weird enough, honestly.
+
+Character 1: [Cackling] Weird? [indignant] Being healthy is weird now? [in a low rumble] Fine, when everyone else catches that nasty cold going around, don't come crying to me for my eucalyptus steam treatment that actually works.
+
+887 Character 2: [conceding slightly] Okay, the eucalyptus steam does help with congestion—that one's legitimate. [more animated] But that's because menthol vapors actually open airways! [Soft groan] See? Some of your remedies have real reasons behind them.
+
+Character 1: [smugly] So now you admit I know things! [rapid fire] The hiccup cure, the nightmare prevention, the evil eye ward—all real, mija. [whispering intensely] Your modern world forgot the wisdom our ancestors discovered through centuries.
+
+888 Character 2: [flatly] Holding my breath cures hiccups through diaphragm control, not magic. [getting louder] And nightmares aren't caused by sleeping with wet hair! [Defeated sigh] Though I do sleep better when you tuck that lavender sachet under my pillow.
+
+Character 1: [Gentle laugh] The lavender is my grandmother's recipe—picked under a full moon, dried with rosemary. [nostalgic tone] She lived to ninety-six with barely a sniffle. [firmly] These traditions kept our family strong through everything.
+
+889 Character 2: [softening] I know these remedies mean a lot to you, and the history is beautiful. [hesitant] But when I have strep throat, I need penicillin, not honey and prayers. [quickly] Though your honey lemon tea is pretty soothing afterward.
+
+Character 1: [hurt quietly] You think I'm just a foolish old woman. [more passionate] But when you have children, you'll understand—sometimes love and tradition heal what medicine cannot touch. [Sniffling] A mother knows things science hasn't discovered yet.
+
+890 Character 2: [apologetically] Abuela, no, I don't think you're foolish at all. [tenderly] Your care and attention probably do more healing than any remedy. [with humor] But can we compromise? Medicine first, then your treatments for extra comfort?
+
+Character 1: [considering slowly] Maybe... but you must promise to try my ginger compress for your cramps. [excited whisper] And wear the red string I blessed! [Chuckle] Your science can't hurt either, I suppose—extra protection never killed anyone.
+
+891 Character 2: [relieved] Deal! I'll try the ginger compress—ginger does have anti-inflammatory properties anyway. [teasing] But the red string stays under my sleeve at work. [warmly] And you have to admit when something needs real medical attention, okay?
+
+Character 1: [grumbling] Fine, fine, hospitals for emergencies. [brighter] But everything else, we try my way first! [confident declaration] Your children will thank me someday when they know both worlds—the old wisdom and the new.
+
+892 Character 2: [laughing warmly] My future kids will be the healthiest, most superstitious little scientists ever. [lovingly] They'll wear evil eye bracelets to their chemistry classes. [Contented sigh] Maybe that's the perfect balance—skepticism with just a pinch of magic.
+
+--- CS ALPHANUMERIC ---
+
+Script: b22f216f | Role: CS
+
+ Character 1: [irritated] Mrs. Henderson, I've been waiting since 2:15 PM for this meeting. [sharp exhale] My daughter Emma, student ID 47832B, has been bullied for three weeks straight and you've done [sarcastically] absolutely nothing about it.
+
+893 Customer Support: D2: [apologetically] I understand your frustration, Mr. Davies. [measured tone] According to our incident report filed on October 12th, we've already initiated Protocol 5A which includes, um, mediation sessions between the students involved.
+
+ Character 1: [scoffs] Mediation? [raising voice] The Miller boy pushed her down the stairs near classroom 204B yesterday! [more angrily] She has bruises, actual physical bruises, and you're talking about sitting them down for a chat?
+
+894 Customer Support: D4: Physical assault is taken very seriously here. [concerned] However, our security footage from camera C-7 at timestamp 14:32:18 shows... well, it appears to be an accidental collision during class transition.
+
+ Character 1: [incredulous] Accidental? [laughs bitterly] He's posted six different messages on her social media, screenshots dated November 3rd through 8th, calling her horrible names. [demanding] I want him suspended immediately, minimum five days.
+
+895 Customer Support: D6: Cyberbullying falls under District Policy 8.7.2, which requires documentation. Have you filed the formal complaint form 22-A with our counseling office at extension 3451? We need proper channels followed, Mr. Davies.
+
+ Character 1: [exasperated] I've filled out seven forms already! [groans] Forms 22-A, 18-C, even that ridiculous wellness check 14-B you insisted on. [more desperately] Meanwhile, Emma refuses to attend her AP Chemistry class in room 312.
+
+896 Customer Support: D8: I see she's maintaining a 3.8 GPA despite these challenges. What if we arrange a schedule change, moving her from Period 3 Chemistry, course code CHM-401, to Period 6 with Mr. Johnson instead?
+
+ Character 1: [frustrated sigh] That's just avoiding the problem! [louder] The Miller family lives at 458 Oak Street, two blocks from us. [bitterly] We see them everywhere—grocery store, soccer practice at Field 4, even at church.
+
+897 Customer Support: D10: Mr. Davies, I've scheduled a disciplinary hearing for November 15th at 9:00 AM. The superintendent, three board members, and our legal counsel from Suite 200 will review all evidence, including the twelve-page report I've compiled.
+
+ Character 1: [skeptically] Twelve pages? [softer] Look, I... I appreciate that, but Emma's therapy bills are already at $2,400 this month. [voice breaking] Insurance claim number TH-889214 only covers sixty percent of mental health services.
+
+898 Customer Support: D12: Our district provides free counseling services through Partnership Code MH-2023. Dr. Sarah Chen, licensed therapist, credential number 45778-CA, visits campus every Tuesday and Thursday. Should I schedule Emma for the 3:30 slot?
+
+ Character 1: [hesitant] Well, that's... [clears throat] I didn't know about that program. [defensively] But this doesn't address the core issue—why is that boy still attending school like nothing happened?
+
+899 Customer Support: D14: [carefully] Due to FERPA regulations, Section 99.31, I can't discuss another student's disciplinary status. However, I assure you that appropriate measures, documented in case file 2023-BUL-0847, are being implemented as we speak.
+
+ Character 1: [annoyed grunt] Always hiding behind regulations! [accusingly] Three other parents—the Johnsons, the Garcias, and the Chens from the PTA board—they've all complained about this same student. [demanding] When does it become enough?
+
+900 Customer Support: D16: [seriously] Pattern behavior triggers automatic review under Statute 48900. [more confidentially] Between us, after incident number four, which would be yours, the district mandate requires immediate intervention including possible transfer to Westfield Alternative School, campus code WAS-7.
+
+ Character 1: [surprised] Oh. [quieter] That's actually... more than I expected. [sighs] Emma just wants to feel safe in her honors classes, especially room 215 where most of these incidents occur during passing period.
+
+901 Customer Support: D18: [warmly] Starting Monday, we'll have additional supervision at Junction Point B between buildings 200 and 300. Officer Martinez, badge number 7841, will specifically monitor that area during all transition periods, roughly 10:47 to 10:52 AM.
+
+ Character 1: [relieved exhale] Thank you, that... that helps. [more calmly] I'll need this all documented in writing, sent to my email ddavies@lawfirm447.com, preferably PDF format with reference number for our records. [firmly] By tomorrow, please.
+
+902 Customer Support: D20: Absolutely, you'll receive comprehensive documentation by 5:00 PM tomorrow. Emma's wellbeing is our priority, Mr. Davies, and I'll personally call you at 555-0147 after Monday's intervention to, um, discuss progress. We'll get through this together.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: f27f564a | Role: Customer Support
+
+Character 1: [frustrated] I've been to three different stores today, and nobody—nobody—has this physics textbook in stock. [groans] The professor said it was, um, "widely available," but [sarcastically] apparently that means nowhere on Earth. Do you have Thornton's Classical Dynamics, third edition?
+
+903 Customer Support: [briskly] Let me check our system right away. Thornton's Classical Dynamics... I'm showing we had five copies, but they sold out yesterday morning. We can order it though—takes about three to four business days.
+
+Character 1: [exasperated] Three to four days? My assignment is due Monday! [voice rising] Why didn't the bookstore order enough copies when [pause] when you knew every physics major needs this book? This happens every single semester!
+
+904 Customer Support: [calmly] I completely understand your frustration. [speaking faster] Listen, we actually have the second edition available for rental—it's mostly the same content. Or there's a digital version you can access immediately for about half the price.
+
+Character 1: [skeptical] The second edition? But the professor specifically said... [sighs heavily] wait, the page numbers won't match up, will they? [desperately] And I hate reading on screens for hours.
+
+905 Customer Support: The page numbers are different, yes, but—here's what I can do. We have a comparison guide that shows which chapters correspond. Most students manage fine with it, and you'd save about sixty dollars.
+
+Character 1: [reluctantly] I guess I don't have much choice, do I? [pause] How much is the rental for the second edition? [more quietly] And, um, what if I accidentally highlight in it?
+
+906 Customer Support: Rental's forty-five dollars for the semester. Normal highlighting and note-taking is totally fine—we expect that. Just no water damage or missing pages, and you're good.
+
+Character 1: [resigned] Fine, I'll take it. [muttering] Though I still think it's ridiculous that you guys never order enough books. [louder] Oh, and do you know if Professor Mitchell is using the same book next semester?
+
+907 Customer Support: I know, textbook ordering is... it's complicated with enrollment fluctuations. Professor Mitchell hasn't submitted next term's list yet, but if you keep your receipt, you can return it within two weeks of next semester if needed.
+
+--- BASIC SCENARIOS ---
+
+908 [Sarcastic] Oh wow, you're right again—what a surprise. [Tsk] I mean, how do you even fit through doorways with that massive brain of yours?
+
+909 [Whisper] Between you and me, I kinda think he's just making half this stuff up as he goes. [Chuckle]
+
+910 [Fast] Actually, that's not—you know what, never mind, you're obviously the expert here. [Sigh] [Disappointed]
+
+911 [Angry] Could you just let me finish one sentence without correcting me? [Groan] Like, seriously, just one?
+
+912 [Happy] No no, please, tell me more about quantum physics while we're ordering coffee! [Laugh] [Sarcastic] I'm sure the barista's fascinated.
+
+913 [Slow] So, um, when you say "actually," do you—do you practice that in the mirror or does it just come naturally? [Tsk]
+
+914 [Shout] I GET IT! [Fast] You went to Yale, you've mentioned it literally seventeen times today!
+
+915 [Sad] I used to really enjoy these conversations before they became, like, competitive lectures, y'know? [Sigh]
+
+916 [Disappointed] Huh, that's funny 'cause I coulda sworn Wikipedia said something different when you were in the bathroom. [Chuckle] [Sarcastic]
+
+917 [Whisper] [Fast] Quick question—is there literally any topic where you don't have a PhD-level opinion ready to go?
+
+918 [Angry] You wanna know what I think? [Slow] Oh wait, that's right, you're gonna tell me what I think anyway. [Groan]
+
+919 [Happy] My favorite part is when you pretend to consider my point for like half a second! [Laugh] [Sarcastic]
+
+920 [Sad] [Slow] I guess I just—I dunno, I thought friends were supposed to listen to each other sometimes.
+
+921 [Fast] Okay so basically you're saying everyone else at NASA is wrong and you've cracked the code from your living room? [Tsk] [Disappointed]
+
+922 [Shout] [Angry] IT'S OKAY TO NOT KNOW SOMETHING! It's literally fine to just say "I don't know!"
+
+923 [Whisper] Here we go again with the "well, technically" routine—I'm gonna need another drink for this. [Sigh] [Chuckle]
+
+924 [Sarcastic] Wait wait wait, let me grab my notebook so I can document this rare moment of wisdom. [Slow] [Tsk]
+
+925 [Happy] You know what, sure! [Fast] The earth is flat, vaccines are fake, and you invented the internet—anything else? [Laugh]
+
+926 [Disappointed] I was actually excited to share this with you, but, um, I kinda forgot you turn everything into a TED talk. [Sigh]
+
+927 [Angry] [Slow] Sometimes—and hear me out here—sometimes other people might actually have valid experiences too, yeah?
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+928 SCENARIO: Calmly mentioning an old hard drive they found, then plugging it in while talking, then finding files they forgot existed and definitely shouldn't have kept, spiraling into data anxiety
+
+==================================================
+
+[casual]
+
+Oh, you know what I found while cleaning out my closet today? This old external hard drive from like, college maybe? I completely forgot I even had it. Just sitting there under a pile of old textbooks.
+
+[conversational]
+
+I'm actually plugging it in right now to see what's on it. Probably just, like, old essays and maybe some photos from that spring break trip we took. You know how it is with old drives—half of it's probably corrupted anyway.
+
+[mild curiosity]
+
+Huh, okay, it's loading... wow, there's actually a lot more stuff on here than I thought. Let me just... [pause] wait, what is this folder?
+
+[growing concern]
+
+Oh no. Oh no no no. This is— why do I have a folder labeled "Tax Stuff 2019" with what looks like... [nervous laugh] social security numbers? And not just mine.
+
+[panic building]
+
+Wait, there's more folders. "Client Data Backup"—what? I never— [sharp exhale] Oh god, this is from that temp job at the accounting firm. I must have backed up work files and completely forgot.
+
+[spiraling]
+
+There are like, hundreds of people's personal information on here! Social security numbers, addresses, bank account details— [groan] This has been sitting in my closet for YEARS! What if someone had stolen this?
+
+[full panic]
+
+I could go to prison! This is a massive data breach just sitting on my hard drive! [whimpering] What do I even do with this? I can't just delete it, can I? Oh my god, I'm a criminal!

@@ -1,0 +1,305 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: f8a1a518_script | Role: Character 2 (B)
+
+Character 1: You gave my number to Alex.
+
+1175 Character 2: Oh god, okay—I can explain! It wasn't—I mean, they were asking about you and I thought maybe you'd be interested? Like, they seemed really nice and I just—I dunno, I thought I was helping.
+
+Character 1: By giving out my personal information?
+
+1176 Character 2: No no no, you're right, that sounds—that sounds terrible when you say it like that. I wasn't thinking about it as personal information, y'know? Just your number. But that's—[groan] that's literally what personal information is. I'm an idiot.
+
+Character 1: Yeah.
+
+1177 Character 2: I'm sorry. I really—I should've asked you first. Obviously. Like that's just basic respect and I completely ignored it because I got excited about playing matchmaker or whatever. Which is so stupid.
+
+Character 1: I had three missed calls before noon.
+
+1178 Character 2: Oh no. Oh no no no, they called you already? I told them—wait, actually I didn't tell them anything about when to call. [nervous laugh] God, I really didn't think this through at all, did I? I'm so sorry.
+
+Character 1: And texts. Lots of texts.
+
+1179 Character 2: Shit. I mean—shit. That's... yeah. I can um, I can talk to them? Tell them to back off? I know that doesn't fix what I did but maybe it'll help? I dunno, I'm just—I'm trying to think of something here.
+
+Character 1: Don't make it worse.
+
+1180 Character 2: Right. Right, of course. I won't—I won't do anything else without asking you. Promise. I just... I feel terrible about this, honestly. Like you trusted me with your number and I just handed it out like it was nothing.
+
+Character 1: It wasn't nothing to me.
+
+1181 Character 2: I know. I mean—I know that now. I should've known it before. You're really private about stuff and I just completely steamrolled over that because I thought—doesn't matter what I thought. [sigh] I messed up bad.
+
+Character 1: Why didn't you just ask me first?
+
+1182 Character 2: Because I'm—okay this is gonna sound dumb but I was worried you'd say no? And I thought Alex was perfect for you and I wanted to surprise you with this great thing but instead I just... violated your trust. Basically.
+
+Character 1: You thought I'd say no. So you did it anyway.
+
+1183 Character 2: Yeah. Yeah, when you—when you put it like that it sounds really, really bad. Because it is. It is bad. I basically decided I knew better than you about your own life which is so messed up. I'm really, truly sorry. I don't—I don't know how to make you believe me but I am.
+
+Character 1: Just... next time? Ask me. About anything that involves me.
+
+1184 Character 2: Yes. Absolutely. I will, I promise. And there's gonna—I mean, I'm gonna work really hard to make sure there is a next time? That you'll still wanna be friends with me after this. Because I know I screwed up but you're—you're really important to me and I promise I'll do better.
+
+Script: ff067f6b_script | Role: Character 2 (B)
+
+Character 1: So I got invited to the Whitmore Gala.
+
+1185 Character 2: Wait wait wait—the Whitmore? As in like, the one where they literally have security checking net worth at the door? That's—oh my god, that's huge!
+
+Character 1: It's next month. Black tie.
+
+1186 Character 2: Okay so you're gonna need—I mean, we're gonna need to get you something absolutely stunning. Like, this is not a rent-the-runway situation, y'know? This is like... this is the real deal. [Gasp] Do you have a plus one?
+
+Character 1: Yeah. Haven't decided who yet.
+
+1187 Character 2: Um, hello? Are you—are you actually sitting there pretending like I'm not literally right here begging with my eyes? Because I will, I will absolutely beg out loud if that's what you need.
+
+Character 1: You hate these things. You said they're "soul-sucking displays of capitalist excess."
+
+1188 Character 2: Okay okay, yes, but like—that was before I knew we could go judge everyone together! Plus honestly? The champagne is probably worth more than my car payment, so... [Laugh] priorities, right?
+
+Character 1: I don't even know why they invited me.
+
+1189 Character 2: Oh no no no, we're not—we're not doing this. You know exactly why. That project you did? The one that basically saved their entire—what was it, their sustainability initiative? They'd be idiots not to invite you.
+
+Character 1: It was just data analysis.
+
+1190 Character 2: Just data—babe, you literally restructured their entire carbon offset program! In like, what, three weeks? That's not "just" anything, that's... that's genius-level stuff.
+
+Character 1: I'll probably say something stupid. Or use the wrong fork.
+
+1191 Character 2: Okay first of all, nobody actually knows which fork is which—they're all just pretending, trust me. And second, you're like... you're the most naturally sophisticated person I know. You just don't realize it because you're not, y'know, trying to be. [Sigh]
+
+Character 1: What if I don't fit in?
+
+1192 Character 2: Honestly? Good. These people need someone who's gonna—who's actually real, y'know? Someone who isn't just another MBA robot making small talk about portfolios or whatever they discuss at these things.
+
+Character 1: Maybe I shouldn't go.
+
+1193 Character 2: Um, absolutely not—no way. You're going. Because like, imposter syndrome is such a—it's such a liar, okay? And also because if you don't go, I will literally never forgive you for depriving me of living vicariously through your fancy evening.
+
+Character 1: Fine. You can come. But you're not allowed to steal centerpieces.
+
+1194 Character 2: I—okay that was one time! One time at your cousin's wedding and suddenly I'm branded for life as the centerpiece thief? [Laugh] But yes yes yes, thank you, I promise I'll behave. Mostly. Probably. We'll see.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1195 SCENARIO: waiting for the waiter to notice them
+
+==================================================
+
+[muttering]
+
+Okay, so, um, I've been sitting here for like— what, ten minutes? Fifteen? And I haven't even, uh, I haven't even gotten water yet. Which is, I mean, that's fine, but I'm just— I'm getting kind of thirsty here.
+
+[slightly louder, then catching themselves]
+
+Should I just— [clears throat] should I try to make eye contact or something? I don't want to be that person who's like waving around and being all— all demanding, but also I just, um, I just want to order some food, you know?
+
+[contemplative]
+
+Maybe he's busy. He's probably busy, right? I mean, there's other tables and— oh, wait, he's going to that table over there. Okay, so after that table maybe he'll— maybe he'll come over here? Or should I, uh, should I try to catch him when he walks by?
+
+[hesitant]
+
+I could just sort of, like, lean forward a little bit? Make myself more visible? Is that weird? That feels weird. [hmm] But I'm really hungry and I just— I just want to look at the menu.
+
+[resigned but hopeful]
+
+Okay, I'll just, um, I'll just wait another minute or two. He'll notice eventually, right? Right. People notice things. That's how this works.
+
+--- CONVERSATION ---
+
+Script: 2bcfdfae | Role: Character 1 (A)
+
+1196 Character 1: [trembling] Oh my god, look at how he's shaking. [voice breaking] He's pulling out the ring and I can't—this is exactly how Jake proposed to me. [Soft sob] The sunset behind them is perfect, just like ours was.
+
+Character 2: [whispered] I know, honey, I know. [Sniffling] She has no idea it's coming, look at her face! [more shakily] Remember when we thought we'd both be married by now? Life just takes such weird turns sometimes.
+
+1197 Character 1: [Gasping breath] He's getting on one knee! [high pitched] This part always destroys me completely. [quieter] My chest feels so tight watching this—it's beautiful but it hurts, you know? Why does happy stuff make us cry harder than sad stuff?
+
+Character 2: [croaking voice] Because we know what we're missing. [Hiccup] Pass me another tissue, please? [steadier] At least we have each other to ugly cry with during these proposal compilation videos. That's something special too, right?
+
+1198 Character 1: [laughing through tears] You're right, you're absolutely right about that. [louder] Oh shit, she said yes! [Squealing] Look at them spinning around like that! My mascara is completely gone now, I must look like a raccoon who got caught in rain.
+
+Character 2: [slow mumble] We both look ridiculous and I don't care anymore. [more firmly] Wait, is that her mom hiding behind the tree? [Excited gasp] The whole family was there! That's so sweet I might actually throw up from emotions.
+
+1199 Character 1: [hoarse whisper] The way she covers her mouth when she realizes. [nostalgic tone] That's such a universal reaction to shock and joy, isn't it? [Shaky exhale] I did the same thing when Jake asked, before I could even say yes properly.
+
+Character 2: [bitter laugh] My ex proposed during a commercial break. [softer] But watching this reminds me love still exists somewhere out there. [voice cracking] Even if it's not for us right now, maybe someday we'll get our moment too.
+
+1200 Character 1: [determined] We definitely will, don't even doubt it. [Sniffle] Should we watch another one or have we tortured ourselves enough? [lighter tone] My heart can't take much more but I'm also addicted to this beautiful pain somehow.
+
+Character 2: [dramatically] One more, just one more, I promise. [pleading voice] But let's pick a funny fail compilation after this? [Watery chuckle] We need to balance out all these tears with something that won't completely dehydrate us into human raisins.
+
+1201 Character 1: [mock serious] Deal, but I'm choosing the next one. [getting faster] Oh wait, here comes another proposal at Disneyland! [Groaning] Why do I do this to myself? It's like emotional masochism but I literally cannot look away.
+
+Character 2: [accusingly] Because you're a glutton for romantic punishment! [gentler] But honestly, same here, completely the same. [Long sigh] At least this one has fireworks—if you're going to cry, might as well have special effects, right?
+
+1202 Character 1: [through laughter] The fireworks are perfectly timed with my sob schedule. [breathless] How do they even plan these things so well? [quieter] Meanwhile I can't even plan what I'm having for dinner tonight without having an existential crisis.
+
+Character 2: [deadpan] Dinner is overrated anyway when you're emotionally eating ice cream. [warming up] Oh god, she's crying happy tears now too. [Sympathetic whimper] We're all just crying together through the screen—her, us, probably whoever's filming this.
+
+1203 Character 1: [strained voice] The ring is gorgeous, look at that rock! [joking] If someone proposed to me with that, I'd say yes before they finished talking. [more serious] Actually, who am I kidding? I'd take a ring pop at this point.
+
+Character 2: [Cackling] A ring pop proposal sounds kind of perfect actually. [dreamily] Sweet, colorful, and you can eat your feelings immediately afterward. [trailing off] Though I guess that's what we're doing now anyway, just with more steps and tissues involved.
+
+1204 Character 1: [exhausted tone] Okay, I'm officially emotionally drained now. [perking up] But look how her dad is crying too! [Soft sob] That's it, that's what broke me completely. Dads crying at proposals should be illegal, it's too much.
+
+Character 2: [barely audible] Mine won't even get to see me get married. [stronger] Sorry, that was heavy, but proposal videos do that. [Shuddering breath] They make you think about everyone who should be there when your moment finally comes around.
+
+1205 Character 1: [gentle] Come here, let's hug it out properly. [firmly] Your dad would be so proud of you regardless. [whispered] We're going to find love that makes everyone cry happy tears, I promise you that. Even if we're ninety when it happens.
+
+Character 2: [grateful tone] You're the best friend anyone could ask for, seriously. [more brightly] Now let's watch those proposal fails before we flood your apartment! [Giggling] Nothing says emotional recovery quite like watching someone drop the ring in the ocean, right?
+
+--- CS ALPHANUMERIC ---
+
+Script: a3807255 | Role: CS
+
+ Character 1: [frustrated] Your Honor, on March 15th at 2:47 PM, Mr. Davidson here changed the locks on my apartment at 4821 Oak Street—while I was at work! [voice breaking] I came home to find all my belongings, my grandmother's china, just... [sighs heavily] dumped on the sidewalk.
+
+1206 Customer Support: D2: The tenant hadn't paid rent for three months, Your Honor. I sent notices on January 10th, February 8th, and March 1st—all certified mail with tracking numbers RR-4478-B, RR-5502-C, and RR-6891-A.
+
+ Character 1: [outraged] Three months? I paid $1,850 on January 5th, check number 3021! [louder] February's payment was rejected because—because you claimed insufficient funds, but my bank statement shows [voice shaking] the money was there!
+
+1207 Customer Support: D4: The lease clearly states in Section 14-B that any bounced payment incurs a $150 fee. [more sternly] When she didn't pay the penalty by February 20th, that constituted breach of contract under provision 7-A-2.
+
+ Character 1: [incredulous] You never told me about any penalty fee! [getting louder] And even if—even if there was one, that doesn't give you the right to throw my disabled mother's medical equipment, her oxygen tank serial number OX-78234, onto the street! [voice cracking]
+
+1208 Customer Support: D6: [impatiently] I followed proper procedure according to state statute 47-8-36. Look, after multiple attempts to contact her at phone numbers ending in 4455 and 7891, I had no choice but to take action to protect my property.
+
+ Character 1: [desperately] Your Honor, those aren't even my phone numbers anymore—I updated my contact to 555-0122 in December! [pleading] He's been harassing me since I complained about the broken heater in unit 3B that he refused to fix for six weeks.
+
+1209 Customer Support: D8: Harassing? I made three legitimate maintenance visits! [more defensively] January 18th at 10 AM, January 25th at 2:30 PM, and—and February 2nd at 9:15 AM, all documented in my maintenance log ML-2024-089.
+
+ Character 1: [sarcastically] Oh yes, "maintenance visits" where you'd bang on my door at midnight! [voice rising] My security camera footage from February 28th, timestamp 23:47:33, shows you trying to enter with [gasps] what looks like a crowbar!
+
+1210 Customer Support: D10: That was a standard maintenance tool for the apartment 3A water leak! Your Honor, this tenant has filed seven—seven!—false complaints with the housing authority, case numbers HA-9901 through HA-9907, all dismissed as unfounded.
+
+ Character 1: [exasperated] False complaints? The mold in my bathroom tested positive for Stachybotrys, report number ENV-5543-X! [more emotionally] My four-year-old daughter has been sick since November, and you—you said it was just [mockingly] "a little moisture."
+
+1211 Customer Support: D12: The inspection on December 12th by license number INS-77834-Q found no hazardous conditions. She's making things up because she wants to break her lease that doesn't expire until August 31st, 2024!
+
+ Character 1: [desperately] Your Honor, I have receipts—$342.50 for the hotel on March 15th, $1,200 for emergency storage unit A-44 at SecureStore, and [voice breaking] $500 to replace my daughter's medications that were destroyed in the rain!
+
+1212 Customer Support: D14: If she had simply paid the $2,000 she owed by March 10th as agreed in our payment plan document PP-0234, none of—none of this would have happened. [sighs heavily] I'm a reasonable man, Your Honor.
+
+ Character 1: [incredulous] Payment plan? You mean that paper you shoved under my door at 11 PM with no signature line? [more firmly] The one that demanded I pay late fees from 2019 for apartment 2C—which I never even lived in?
+
+1213 Customer Support: D16: Our records show account number TEN-8934-2C associated with her social security ending in 4456. Perhaps there was some, uh, administrative confusion, but she still violated the lease terms!
+
+ Character 1: [emotionally] Administrative confusion that left me and my daughter homeless for five nights! [voice cracking] The shelter at 892 Mission Boulevard was full, so we—we slept in my car, license plate 7G9-X24, [whispers] in twenty-degree weather.
+
+1214 Customer Support: D18: Well, I—that's unfortunate, but the law allows for expedited eviction under emergency provision E-12. [more firmly] The water damage from her unit was affecting 3A and 3C below, causing thousands in damage!
+
+ Character 1: [angrily] What water damage? The only leak was from YOUR faulty pipes that burst on February 14th! [louder] The plumber's invoice PL-20240214-66 specifically states "landlord negligence" and—and "deferred maintenance since 2021"! [sighs heavily]
+
+1215 Customer Support: D20: Your Honor, I... perhaps we could discuss a settlement. Maybe if she agrees to vacate by April 30th and drops the countersuit CS-2024-0789, we could waive the remaining fees of $3,847.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 5d15ed41 | Role: Customer Support
+
+1216 Customer Support: [cheerfully] Hello, welcome to ShopEasy support! I see you're reaching out about a login issue today. Don't worry, we'll get this sorted right away—could you describe what's happening when you try to sign in?
+
+Character 1: [frustrated] Yeah, so I've been trying for like thirty minutes now and it just... [sighs heavily] it keeps saying "invalid credentials" even though I KNOW this is my password. [more urgently] I literally wrote it down yesterday when I changed it!
+
+1217 Customer Support: I completely understand your frustration. Let me pull up your account—what's the email address you're using? And just to confirm, you're not seeing any other error messages, right, just the invalid credentials one?
+
+Character 1: [quickly] It's janet.miller at gmail dot com. [groans] No other messages, but here's the weird thing—sometimes the page just refreshes itself? [confused] Like, I'll type everything in and before I can even click submit, boom, blank form again.
+
+1218 Customer Support: Hmm, that refreshing issue is... unusual. Have you tried clearing your browser cache or maybe—actually, wait—are you using any password managers or browser extensions that might be interfering?
+
+Character 1: [defensively] I mean, I have LastPass but it's never been a problem before! [sighs] Should I... should I disable it? [more quietly] I also have an ad blocker but that shouldn't affect login pages, right?
+
+1219 Customer Support: Let's try disabling both temporarily, just to rule them out. Sometimes these extensions can conflict with our security features—it's more common than you'd think. Can you try that now while I'm here?
+
+Character 1: [reluctantly] Okay, okay, I'm doing it now... [pause] [surprised] Wait, what? It's—the page looks completely different! [excitedly] There's a captcha box that wasn't showing before!
+
+1220 Customer Support: Ah, there we go! Your ad blocker was hiding our captcha verification—that's why it kept failing. The system thought you were a bot since it couldn't verify the captcha that you couldn't even see.
+
+Character 1: [embarrassed] Oh my god, I feel so stupid. [laughs nervously] All this time and it was just... [more quietly] Well, at least it's working now. [gratefully] Thank you so much for your patience with me!
+
+--- BASIC SCENARIOS ---
+
+1221 [Disappointed] I mean, it's kinda flattering, I guess, but like—when you showed up in the exact same jacket? [Sigh] That was a bit much.
+
+1222 [Sarcastic] Oh wow, you just happened to dye your hair the same shade of purple? [Tsk] What a crazy coincidence, right?
+
+1223 [Fast] Okay so basically everyone's been asking me if we coordinated and I'm like no, no we didn't, she just—[Groan] whatever.
+
+1224 [Happy] You know what? I'm actually gonna take this as a compliment because clearly I have amazing taste! [Laugh]
+
+1225 [Whisper] Between you and me, I think she's been, um, screenshot-ing all my outfits from Instagram. [Slow] It's getting really weird.
+
+1226 [Angry] This is my thing—I worked really hard to develop my own style and now you're just, what, stealing it? [Shout] Find your own identity!
+
+1227 [Sad] I used to feel special, y'know? Like I had something unique about me, but now I just—[Sigh] I dunno anymore.
+
+1228 [Chuckle] Remember when you said my style was "too out there"? [Sarcastic] Funny how things change, huh?
+
+1229 [Fast] She literally bought the same sneakers, the same bag, even started using my catchphrases—it's like, get your own personality! [Angry] [Tsk]
+
+1230 [Slow] I wanna say something to her but, uh, how do you even bring that up without sounding totally paranoid? [Disappointed]
+
+1231 [Happy] Wait, are you seriously asking where I got my vintage band tees? [Laugh] [Fast] Girl, you gotta do your own thrift store hunting!
+
+1232 [Whisper] I actually started buying stuff I don't even like just to see if she'd copy those too. [Chuckle] She did.
+
+1233 [Sad] [Slow] The worst part is we used to have our own distinct vibes, and now people think we're like, trying to be twins or something.
+
+1234 [Shout] Stop tagging me in those "who wore it better" posts! [Angry] It's not funny anymore!
+
+1235 [Sarcastic] [Fast] Oh let me guess, you suddenly discovered your love for obscure Japanese streetwear brands all by yourself?
+
+1236 [Disappointed] I'm honestly thinking about just—I dunno, completely changing everything about how I dress. [Sigh] Maybe that'll fix this.
+
+1237 [Happy] You know what's kinda hilarious? She copies everything except the thrift store stuff—[Laugh] [Fast] guess she's too good for secondhand!
+
+1238 [Slow] It's not even about the clothes anymore, it's more like, er, the principle of it? [Sad] [Tsk] I thought we were closer than this.
+
+1239 [Angry] [Fast] I spent years—YEARS—figuring out what works for me and you just waltz in and carbon copy everything in two months?
+
+1240 [Whisper] Honestly? I'm gonna start telling people she inspired MY style. [Chuckle] [Sarcastic] See how she likes that little plot twist.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1241 SCENARIO: Annoyed about a wrong food delivery, then the app refunds and lets them keep it
+
+==================================================
+
+[frustrated]
+
+Oh my god, so I ordered Thai food tonight, right? Like I was really craving that green curry from that place on Fifth Street, and I specifically— I specifically put in the notes "medium spice, extra basil" because you know how I am about basil.
+
+[annoyed]
+
+And they show up with like— it's not even Thai food. It's Chinese food from some random place I've never heard of. Orange chicken and fried rice, which is like, fine, but that's not what I wanted? I was so ready for that curry, I could literally taste it.
+
+[increasingly irritated]
+
+So I'm on the phone with customer service for like twenty minutes, and the guy keeps being like "I understand your frustration" but then he's like— he's asking me all these questions like it's my fault somehow? Like did I check the address, did I check the restaurant name, blah blah blah.
+
+[surprised]
+
+Oh wait, I'm getting a notification right now, hold on... 
+
+[lighter, confused]
+
+Okay so they just— they refunded my entire order? And they're saying I can keep the food too. That's like forty bucks worth of Chinese food for free.
+
+[sheepish] [chuckling]
+
+I mean... this orange chicken actually smells pretty good. And I didn't have to cook anything, so... 
+
+[amused]
+
+Maybe this worked out better than I thought? [laugh] I'm probably gonna order the Thai food tomorrow anyway.

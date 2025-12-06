@@ -1,0 +1,285 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: c251b5b1_script | Role: Character 2 (B)
+
+Character 1: Hit my goal weight this morning.
+
+1011 Character 2: Wait wait wait—what? You hit—oh my god, are you serious right now? That's like, that's incredible! How do you feel? I mean—wow, I'm actually getting emotional about this [Laugh]
+
+Character 1: Weird. Good weird, but weird.
+
+1012 Character 2: No no, I totally get that. It's gotta be like—I mean, you've been working at this for what, almost a year? That's a huge change, y'know?
+
+Character 1: Eleven months. Yeah.
+
+1013 Character 2: Eleven months of just—okay, the dedication though. Like, I watched you meal prep every Sunday, turn down pizza nights, get up at ungodly hours to work out... honestly? You're kinda my hero right now.
+
+Character 1: It's just consistency. Nothing heroic.
+
+1014 Character 2: Um, excuse me? No—that's literally the hardest part! Showing up every single day when you don't wanna? That's the whole thing! [Sigh] Don't downplay this.
+
+Character 1: My jeans from college fit.
+
+1015 Character 2: Stop it. The ones from—wait, the dark wash ones you kept in the back of your closet? Those are like, what, fifteen years old?
+
+Character 1: Sixteen. They're a bit loose, actually.
+
+1016 Character 2: That's—I'm sorry, loose? They're loose now? Okay okay, we're definitely celebrating. I don't care what you say, we're doing something special.
+
+Character 1: I don't need a fuss.
+
+1017 Character 2: It's not a fuss, it's—look, you literally just accomplished something most people never do. Like, ninety-whatever percent of diets fail, right? And you just... didn't. [Chuckle]
+
+Character 1: Almost quit in February. Remember that week?
+
+1018 Character 2: Oh god, the plateau week. You were so—yeah, you were ready to throw your scale out the window. But you didn't quit, and that's what I'm saying!
+
+Character 1: You helped. The pep talks.
+
+1019 Character 2: I mean, I just—aw, stop. I basically just rambled at you while you nodded politely. But honestly? Watching you push through was kinda inspiring for me too, y'know?
+
+Character 1: Thanks. Really.
+
+1020 Character 2: Okay now you're gonna make me cry for real. Come here—actually no, we're getting drinks. Skinny margaritas or whatever you want, but we're toasting to this tonight.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1021 SCENARIO: debating whether to ask for a receipt
+
+==================================================
+
+[muttering]
+
+Okay, so, um, do I need a receipt for this? I mean, it's just— it's just coffee, right? But, uh, but maybe I should get one anyway, like, in case— in case what, though?
+
+[slightly uncertain]
+
+I don't know, maybe, um, maybe I need it for my budget thing? That spreadsheet I was gonna— I was gonna start tracking my expenses, but then I never actually— [sigh] I never actually do that stuff.
+
+[more decisive]
+
+But the line's moving and she's already, uh, she's already processing the next person and I'm just standing here like— like an idiot. Do I go back? That's weird, right? Going back for a receipt?
+
+[resigned]
+
+It's three-fifty. Three-fifty for a latte. I'm not gonna, um, I'm not gonna return a latte. [laugh] What am I gonna do, claim it's defective? "Excuse me, this coffee is too coffee-ey"?
+
+[trailing off]
+
+I mean, I could just— I could just ask next time. Make it a habit or whatever. Yeah. Next time I'll just... I'll remember to ask.
+
+[quieter]
+
+Probably won't remember, though.
+
+--- CONVERSATION ---
+
+Script: ee77e4cf | Role: Character 1 (A)
+
+1022 Character 1: [scrutinizing] Oh honey, that one's not going to work. [sharper] The cut-up sides will just emphasize your hips, and [Tsk] we both know you need more coverage there. Maybe try something with a little skirt attached?
+
+Character 2: [defensive] I actually like how this looks, Mom. [quietly] It's a normal bikini, and plenty of people with my body type wear them. [more firmly] Besides, I'm thirty-two years old—I can choose my own swimsuit.
+
+1023 Character 1: [fake sweetness] Of course you can, sweetheart! [patronizing] I'm just trying to help you look your best. [Sigh] When I was your age, I could wear anything, but bodies change differently for everyone, don't they?
+
+Character 2: [exhausted tone] You wore a size two, Mom. [flatly] You've mentioned it every shopping trip since I was thirteen. [bitter laugh] Not everyone inherits the same metabolism or bone structure—can we just focus on finding something?
+
+1024 Character 1: [wounded] I'm only thinking of your confidence at the beach! [whimpering] You know how cruel people can be. [more insistent] That black one-piece over there would be so slimming and elegant on you.
+
+Character 2: [through gritted teeth] People aren't cruel, Mom—you are. [building anger] I came here for a fun shopping trip, not another lecture about my body. [Sharp exhale] I'm getting this red bikini whether you approve or not.
+
+1025 Character 1: [Gasp] Red? [horrified whisper] Darling, bright colors draw attention to problem areas. [pleading voice] At least consider navy or black—they're so much more flattering and sophisticated for fuller figures.
+
+Character 2: [sarcastically sweet] Problem areas? [ice cold] You mean my stomach that grew your grandchildren? Or my thighs that run marathons? [proudly] This body does incredible things, Mom, even if it doesn't meet your standards.
+
+1026 Character 1: [flustered] That's not what I meant at all! [higher pitch] I just want you to be happy and feel beautiful. [manipulative softness] You used to trust my fashion advice when you were younger, remember?
+
+Character 2: [sad whisper] I remember crying in dressing rooms. [steadier] I remember skipping meals before family vacations. [with resolve] What I don't remember is ever feeling good enough for you, no matter what size I wore.
+
+1027 Character 1: [defensive shriek] How dare you make me the villain! [trembling] Every mother wants their daughter to be healthy and attractive. [Sniffling] I've only ever wanted the best for you, even if you can't see it.
+
+Character 2: [gentle but firm] Healthy isn't a clothing size, Mom. [measured pace] And attractive isn't determined by your narrow standards from 1985. [deeper tone] I'm done letting your voice be louder than my own self-worth.
+
+1028 Character 1: [coldly] Fine, buy whatever you want. [clipped words] But don't come crying to me when the beach photos surface on Facebook. [bitter tone] Your cousin Sarah just lost twenty pounds—she looks absolutely fantastic now.
+
+Character 2: [laughing incredulously] Sarah had surgery, Mom! [exasperated] And she's miserable on her liquid diet. [firmly] I'd rather be happy in my skin than constantly chasing your impossible approval through starvation.
+
+1029 Character 1: [huffing] Impossible approval? [getting louder] I complimented your hair just this morning! [accusatory] You only focus on the negative things I say, never the positive encouragement I try to give you.
+
+Character 2: [monotone] You said it hides my round face well. [Scoff] That's not a compliment, Mom—it's an insult wrapped in fake kindness. [shaking voice] Every "compliment" you give comes with a criticism attached.
+
+1030 Character 1: [fake hurt] I suppose I'm just a terrible mother then. [dramatic whisper] All those years of caring for you, and this is the thanks I get. [building intensity] Maybe I should just keep my opinions to myself.
+
+Character 2: [hopeful] That would be wonderful, actually. [stronger] Let's try it right now—I'll try on swimsuits, and you can just nod or shake your head. [determined] No commentary about my body required.
+
+1031 Character 1: [sulking] If that's what you really want. [passive-aggressive sweetness] But when you're wondering why something doesn't look quite right in photos, [trailing off] don't say I didn't try to warn you, darling.
+
+Character 2: [peaceful resignation] I'll look exactly like myself in photos—a happy woman at the beach. [warmly] That's more than enough for me, even if it'll never be enough for you. [decisive] I'm buying the red bikini.
+
+--- CS ALPHANUMERIC ---
+
+Script: efc236f5 | Role: Customer Support
+
+Character 1: [frustrated] Look, I submitted everything on March 28th, receipt number FSA-2024-78432, and now you're telling me it's past the deadline? [sighs heavily] The portal said I had until March 31st, I have screenshots!
+
+1032 Customer Support: [apologetically] I understand your frustration, Mr. Chen. [calmly] According to our system, your account ID 4589-JKL shows the submission deadline was actually March 15th for the 2023 plan year.
+
+Character 1: [incredulous] March 15th? That's... that's impossible! [getting louder] My employer at 1250 Riverside Drive sent an email saying we had an extension, reference code EXT-90DAY-2024!
+
+1033 Customer Support: Let me pull that up for you. [carefully] Ah, I see the confusion—the extension code you mentioned applies only to dependent care expenses, not medical FSA claims.
+
+Character 1: [exasperated] But I spent $847.50 on prescription medications! [groans] The pharmacy at Walgreens, transaction ID WG-789-456-123, they told me I had time to submit everything!
+
+1034 Customer Support: I completely understand this is disappointing. Unfortunately, the IRS regulations for plan year 2023, section 125-C, don't allow us to make exceptions after the run-out period ends.
+
+Character 1: [desperately] Can't you just... I don't know, backdate it or something? [pleading] My daughter's insulin alone was $312, claim reference MED-2024-00567, we really need this reimbursement!
+
+1035 Customer Support: I truly wish I could help with that, but backdating would violate federal compliance rules. However, let me check if any of your receipts qualify for the current 2024 plan year.
+
+Character 1: [sarcastically] Oh great, so my January 12th receipt from CVS, number 445-789-0012, that's just gone? [bitter laugh] This whole FSA system is completely broken!
+
+1036 Customer Support: Actually, that January 12th receipt would fall under your 2024 plan! If you can resubmit it with form FSA-2024-B before June 30th, we can process that $147.23 charge.
+
+Character 1: [confused] Wait, so some receipts work and others don't? [sighs] What about my December 29th physical therapy bill, provider ID PT-8890-CA, for $225?
+
+1037 Customer Support: December 29th would have been part of the 2023 plan year, unfortunately. [explaining patiently] The cutoff is based on service date, not payment date, according to regulation 213-D in your benefits handbook.
+
+Character 1: [defeated] I've been paying into this account, $150 every paycheck, employee number 78945-B, for what? [quietly] To just lose hundreds of dollars on a technicality?
+
+1038 Customer Support: I know this feels unfair, and I'm genuinely sorry. Would you like me to email you at jchen@techcorp.com a detailed breakdown of what can still be claimed?
+
+Character 1: [skeptically] An email, sure, that'll fix everything. [mumbling] Last time you guys sent something to the wrong address, 4521 Oak Street instead of 4251.
+
+1039 Customer Support: [apologetically] I see that error in your file from February, case number SUP-2024-1123. I've updated your correct address and will personally ensure this email reaches you within the hour.
+
+Character 1: [resigned] Fine, whatever, just... make sure it includes that orthopedic receipt too, doctor's NPI number 1234567890. [tiredly] I paid $189 on January 8th for custom insoles.
+
+1040 Customer Support: [positively] Perfect, that January 8th charge definitely qualifies! I'm adding reference number NEW-CLAIM-5643 to track it, and you should receive reimbursement within 7-10 business days.
+
+Character 1: [slightly hopeful] Okay, so I can at least get back $336.23 from the January stuff? [cautiously] And you promise this won't somehow expire tomorrow at midnight or something ridiculous?
+
+1041 Customer Support: Absolutely, Mr. Chen, those January expenses are secure. I've noted everything in ticket FSA-HELP-9987, and I'll personally monitor your account to ensure smooth processing.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 8ecfe09d | Role: Customer Support
+
+1042 Customer Support: Good afternoon, ticket support, how can I help you today? I see you're calling about a transfer issue—let me pull up your account real quick.
+
+Character 1: [frustrated] Yeah, I've been trying for, uh, three hours now to transfer these concert tickets. [groans] The system keeps saying "transfer pending" but [slower] nothing's actually happening.
+
+1043 Customer Support: I understand your frustration, let me check that for you. [typing rapidly] Hmm, I'm seeing here that... wait, did you verify your email through the confirmation link we sent?
+
+Character 1: [exasperated] Of course I verified it! [sarcastically] I verified it twice, actually, because your system sent me two different emails. [sighs heavily] Look, the concert's tomorrow and my friend still doesn't have her ticket.
+
+1044 Customer Support: Right, I see the issue now—there's a hold on your account. [more quickly] Sometimes this happens when multiple transfer attempts are made within, um, a short timeframe. I can override this manually for you.
+
+Character 1: [desperately] Please, yes, whatever you need to do. [anxiously] My friend flew in from Seattle specifically for this show, and I... [trails off] I really can't mess this up.
+
+1045 Customer Support: Okay, I'm releasing the hold now, should just take a moment. While we wait, can you confirm the recipient's email? Make sure it's spelled exactly right, even one letter off will bounce it back.
+
+Character 1: [carefully] It's S-A-R-A-H dot [pause] M-I-L-L-E-R [emphasizing] two L's, at gmail. [nervously] That's definitely right because she, uh, she texted it to me three times.
+
+1046 Customer Support: Perfect, and... there we go! [triumphantly] The transfer just went through on my end. Your friend should receive an email within the next five to ten minutes with her ticket access.
+
+Character 1: [relieved] Oh thank God, finally! [gratefully] You have no idea how stressed I've been about this. [chuckles softly] I was about to just screenshot everything and hope security would accept that.
+
+1047 Customer Support: Oh no, definitely don't do that—screenshots won't scan at the gate! But you're all set now. [helpfully] Tell your friend to add the ticket to her digital wallet once she gets it.
+
+Character 1: [curiously] Wait, one more thing—why does it say "non-refundable" on her ticket now? [concerned] Mine doesn't say that, and we bought them together in the same transaction.
+
+1048 Customer Support: Oh that's just standard language for transferred tickets, nothing to worry about. Once a ticket's transferred, the new holder can't request refunds directly—but the tickets themselves are exactly the same.
+
+Character 1: [understanding] Ah, okay, that makes sense I guess. [hesitantly] And she'll definitely get them in the next few minutes? [worried] Because last time you guys said that, it took two days.
+
+1049 Customer Support: This time it's different—I pushed it through manually. [enthusiastically] In fact, let me just... yep, I can see it's already been delivered to her inbox!
+
+Character 1: [excitedly] Really? Let me text her right now to check! [typing sounds] She's... [gasps] yes, she got it! [relieved laugh] Oh my God, you're a lifesaver!
+
+1050 Customer Support: [pleased] Excellent, glad we could sort that out for you! Is there anything else I can help you with regarding tomorrow's show? Parking passes, venue information, anything like that?
+
+Character 1: [thoughtfully] Actually, yeah—do you know if they're still doing the COVID checks at entry? [uncertainly] The website says one thing but my confirmation email says, uh, something completely different.
+
+1051 Customer Support: They stopped requiring those last month actually. Just bring your ID and your ticket, that's all you need. Doors open at seven, but I'd suggest arriving by six-thirty if you want decent merch selection.
+
+Character 1: [appreciatively] Perfect, thank you so much for everything. [warmly] You've literally saved our girls' night out. [chuckles] I owe you one—wish I could buy you a drink at the show!
+
+--- BASIC SCENARIOS ---
+
+1052 [Disappointed] Look, I just—I don't have that, um, that maternal instinct everyone talks about, you know? [Sigh] It's not there.
+
+1053 [Happy] Honestly, I love my freedom too much! [Laugh] Like, I can just pack up and go to Thailand tomorrow if I want.
+
+1054 [Fast] People keep saying "you'll change your mind" but I'm thirty-five and still waiting for this magical transformation, so... [Sarcastic] [Tsk]
+
+1055 [Angry] Why does everyone act like I'm—like I'm broken or something just because I don't wanna reproduce? [Groan]
+
+1056 [Slow] The planet's kinda, uh, dying? [Sad] And bringing a kid into this mess feels... I dunno, cruel maybe.
+
+1057 [Whisper] Between you and me, I can barely take care of myself most days. [Chuckle] A tiny human would be a disaster.
+
+1058 [Sarcastic] Oh sure, let me just give up my career I worked fifteen years for to, what, watch Bluey all day? [Disappointed]
+
+1059 [Happy] My sister has three kids and honestly—wait, don't tell her this—but it looks absolutely exhausting. [Fast] [Laugh]
+
+1060 [Shout] It's my body! [Angry] I get to decide what happens with it, right?
+
+1061 [Sad] I grew up in a really messed up family and I'm just—I'm terrified I'd repeat those patterns, y'know? [Sigh]
+
+1062 [Slow] Have you seen how much college costs now? [Disappointed] [Groan] It's like a quarter million dollars or something insane.
+
+1063 [Fast] Okay so basically my friend just had a baby and she literally hasn't slept in—what, three months? [Whisper] She looks dead inside.
+
+1064 [Happy] I mean, I've got twelve houseplants and I've killed, um, probably half of them, so... [Chuckle] [Tsk]
+
+1065 [Sarcastic] Yeah, 'cause what I really need is someone screaming at 3 AM when I finally got my insomnia under control. [Angry]
+
+1066 [Disappointed] The thing is—actually, you know what? [Slow] I just don't want them, and that should be enough of a reason.
+
+1067 [Sad] My partner and I, we're—we're not even sure we'll make it, honestly. [Sigh] Adding a kid would be... yeah.
+
+1068 [Whisper] Sometimes I wonder if I'm just too selfish for it, but then I think—wait, isn't that self-aware at least? [Fast]
+
+1069 [Shout] Can we please stop pretending pregnancy is beautiful? [Angry] [Groan] It literally rearranges your organs!
+
+1070 [Happy] I've got, like, seventeen godchildren already, okay? [Laugh] I get to spoil them and send them home—it's perfect!
+
+1071 [Slow] You wanna know the real reason? [Sad] I'm scared I'd love them so much it would break me, and I can't—I just can't risk that.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1072 SCENARIO: Calmly recounting skipping a meeting they thought was recorded, then checking, then finding it wasn't recorded and they missed critical information, spiraling into FOMO professional anxiety
+
+==================================================
+
+[casual]
+
+So I skipped that quarterly planning meeting today. You know, the one with all the department heads? I figured it was being recorded anyway, so I could just catch up on it later when I had more time.
+
+[matter-of-fact]
+
+I mean, everything's recorded these days, right? Plus I had that client call that was actually billable, so it seemed like a no-brainer. Better use of my time.
+
+[slight concern]
+
+But then I'm wrapping up my afternoon and I realize I should probably check the recording, just to see if I missed anything important. So I log into the portal and I'm scrolling through today's meetings...
+
+[growing worry]
+
+And it's not there. Like, it's just... not there. [nervous laugh] So I refresh the page, thinking maybe it's just taking time to upload or whatever.
+
+[anxiety building]
+
+Still nothing. So I check my email and there's this message from IT about recording system maintenance. Maintenance! Today! [frustrated laugh] Of course today.
+
+[spiraling]
+
+Oh god, what if they talked about the restructuring? What if they assigned new projects and I— [sharp exhale] Everyone's gonna think I don't care about my career. They're probably making decisions right now about who gets promoted and I'm just... absent.
+
+[frantic] [overwhelmed]
+
+I'm literally watching my professional reputation crumble because I couldn't sit through one meeting! [groan] This is how careers die, isn't it? One missed meeting at a time?

@@ -1,0 +1,277 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 8c9d1818_script | Role: Character 2 (B)
+
+Character 1: Three days. That's how long you took to answer about Friday.
+
+432 Character 2: Oh god, I know—I saw that and I meant to reply right away but then I got distracted and—wait wait, that's not an excuse, I'm not making excuses. I just... I'm really bad at this stuff, you know?
+
+Character 1: But when I don't text back within an hour, suddenly it's a crisis.
+
+433 Character 2: That's—okay, that's fair. That's totally fair and I'm being a complete hypocrite. [nervous laugh] I literally sent you like eight texts in a row last week asking if you were mad at me because you didn't reply for two hours. God, I'm the worst.
+
+Character 1: Yeah. You are.
+
+434 Character 2: I don't even—I don't know why I do that? Like, honestly, I see your message and I think "oh I'll reply when I have more time to give a good response" and then I just... forget. But when you don't reply I immediately assume you hate me which is so—it's so stupid, I know.
+
+Character 1: It's exhausting.
+
+435 Character 2: No no no, you're right. You're absolutely right and I'm—[sigh]—I'm sorry. I've been a really shitty friend about this. Like, expecting you to be available 24/7 when I can't even remember to text back? That's messed up.
+
+Character 1: I had to call the restaurant myself. To cancel. Because you never confirmed.
+
+436 Character 2: Oh my god. Oh my god, I'm so sorry. That's—I didn't even think about the reservation and now you probably—they probably charged you a fee, didn't they? I'll pay you back, obviously, I'll Venmo you right now, I'm literally opening the app as we speak.
+
+Character 1: It's not about the money.
+
+437 Character 2: I know. I know it's not, it's about—it's about me being reliable, right? And I'm not. I'm really, really not and that's... that's gotta change. Like, starting now, I promise.
+
+Character 1: You've said that before.
+
+438 Character 2: Yeah, I—yeah. But I mean it this time? Okay that sounds—every time someone says "this time is different" it's never different but I swear I'm gonna actually try. Maybe I'll set reminders or something, I dunno, but I gotta figure this out because I can't keep doing this to you.
+
+Character 1: I almost didn't bring it up. Again.
+
+439 Character 2: Wait, you—you've been upset about this for a while? And you didn't say anything? [groan] Because you knew I'd just apologize and not change, right? God, I really am that person. The flaky friend who everyone just... puts up with.
+
+Character 1: I don't want to just put up with you. You're my best friend.
+
+440 Character 2: That's—okay now I'm gonna cry. You're my best friend too and I've been treating you like—like you don't matter as much as my stupid anxiety about replying perfectly and that's so backwards. You matter more than anyone. You really do.
+
+Character 1: Just... text me back. Even if it's just "hey, busy, talk later." Something.
+
+441 Character 2: Yes. Yes, absolutely. Even if it's just an emoji or—or whatever, I'll respond. And I'll stop freaking out when you take a normal amount of time to reply because that's—that's on me, not you. I'm really, really sorry. Thank you for... for telling me instead of just giving up on me.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+442 SCENARIO: trying to decide if this headache warrants medicine
+
+==================================================
+
+[muttering]
+
+Ugh, okay, so this headache is, um— it's not getting better. Like, it's been what, two hours? Three? I don't know, but it's just, uh, it's just sitting there being all... headache-y.
+
+[contemplative]
+
+I mean, it's not that bad. It's not like a, um, like a migraine or anything. Those are— those are the worst. This is just kind of, uh, kind of dull and annoying? Like when someone's tapping their pen, but in my brain.
+
+[slightly whiny]
+
+But do I really need to take something for this? I feel like I'm always taking, um, taking medicine for every little thing. [sigh] My mom used to say, "Oh, just drink some water, you're probably dehydrated," which, okay, fair point.
+
+[perking up]
+
+Actually, when did I last— when did I last drink water? [pause] Hmm. That's, uh, that's probably not a good sign. Let me just— I should probably try the water thing first.
+
+[resigned]
+
+But if this is still here in like twenty minutes, I'm totally taking an Advil. Life's too short to, um, to suffer through a perfectly treatable headache, right?
+
+--- CONVERSATION ---
+
+Script: 0cbc0180 | Role: Character 1 (A)
+
+443 Character 1: [defensive] Look Mom, the Ferber method is backed by research. [speaking faster] We check on her every five minutes, then ten, then fifteen. [firmly] She's learning to self-soothe, and it's only been three nights so far.
+
+Character 2: [incredulous] Self-soothe? [rising pitch] She's a baby, not a yoga instructor! [accusatory tone] When you were little, I rocked you to sleep every single night. [softer] You turned out fine, didn't you?
+
+444 Character 1: [exhausted sigh] Mom, I haven't slept more than two hours straight in eight months. [pleading] The pediatrician recommended this. [more firmly] Besides, crying for a few minutes won't damage her emotionally—that's just outdated thinking from your generation.
+
+Character 2: [offended gasp] Outdated? [sharply] Loving your baby is outdated now? [trembling voice] I can hear my granddaughter crying through the monitor right now. How can you just sit there drinking coffee like nothing's happening?
+
+445 Character 1: [controlled frustration] It's been exactly four minutes, Mom. [checking watch nervously] One more minute and I go in. [defensive whisper] This is harder for me than her—she won't even remember this tomorrow morning.
+
+Character 2: [bitter laugh] Oh, she'll remember. [ominous tone] Maybe not consciously, but somewhere deep down she'll know. [getting louder] You're teaching her that when she needs you most, you won't come. Is that really the lesson?
+
+446 Character 1: [voice breaking] That's not fair and you know it! [steadying breath] I'm teaching her healthy sleep habits. [desperately] Do you think I enjoy this? My heart breaks every single time, but it's working—she slept six hours last night!
+
+Character 2: [sarcastic] Six whole hours, what a miracle. [gentler] Sweetheart, babies aren't meant to sleep through the night. [matter-of-fact] They need comfort, warmth, reassurance. [whispered] That's not spoiling them, it's called being a mother.
+
+447 Character 1: [near tears] You think I don't know that? [angry whisper] Every instinct screams at me to run in there! [voice cracking] But I'm drowning here, Mom. I need sleep to function, to work, to be a good parent.
+
+Character 2: [sympathetic sigh] I could come stay for a while. [hopeful] Help with the nights like I used to? [warm tone] Let me rock her while you rest—no crying, no timers, just grandmother's arms and lullabies.
+
+448 Character 1: [long pause] That's... that's really sweet, Mom. [conflicted] But what happens when you leave? [frustrated groan] We'd be right back where we started, except now she'd be even more confused about bedtime.
+
+Character 2: [hurt] So you'd rather have her cry than accept help? [disbelieving] When did parenting become so complicated? [nostalgic whisper] We just followed our hearts, trusted our instincts. Now everything needs an expert's approval.
+
+449 Character 1: [defensive shout] Because we know better now! [calming down] We have studies about SIDS, about attachment, about sleep cycles. [determined] I'm not just winging it like your generation did—I'm making informed decisions here.
+
+Character 2: [cold laugh] Informed decisions. [mockingly] Right. [serious tone] You know what I see? A exhausted mother fighting her own instincts because some book told her to. [gentle] That's not progress, honey.
+
+450 Character 1: [breaking down] Stop it, just stop! [sobbing] You think this is easy for me? [angry tears] Every night I question everything, wonder if I'm ruining her, but at least I'm trying something!
+
+Character 2: [immediately softening] Oh sweetheart, come here. [soothing murmur] I'm sorry, I didn't mean to— [gentle voice] You're doing your best, I know that. We just did things differently, that's all. Different doesn't mean wrong.
+
+451 Character 1: [sniffling] It's been five minutes. [determined exhale] I need to go check on her now. [steadier voice] Just a quick pat, reassuring words, then back out. Want to watch on the monitor with me?
+
+Character 2: [resigned sigh] If that's what you need. [supportive but sad] I'll be right here. [quiet admission] Maybe I don't understand these new methods, but I understand loving your baby. That part never changes.
+
+452 Character 1: [relieved whisper] Thanks Mom. [hopeful] Listen—she's already calming down. [amazed] Yesterday it took twenty minutes, today just seven. [trembling laugh] Maybe this really is working. God, I hope I'm doing the right thing.
+
+Character 2: [thoughtful pause] You know what? [warmer tone] Your father and I let you cry once—for exactly thirty seconds before caving. [soft chuckle] You survived that too. [reassuring] Trust yourself, sweetheart. That's all any of us can do.
+
+--- CS ALPHANUMERIC ---
+
+Script: 7578cbf5 | Role: Customer Support
+
+Character 1: [furious] Are you kidding me right now? [voice shaking] I just got a letter saying my surgery for March 15th at Cedar Medical, procedure code 47562, was denied! [louder] This is the third time you people have done this to me!
+
+453 Customer Support: [professionally calm] I understand your frustration, sir. May I please have your member ID and date of birth to pull up your account? I'll need to verify a few things before we can discuss the specifics of your case.
+
+Character 1: [exasperated] It's... it's BD4789-K221, birth date November 2nd, 1978. [sarcastically] Though I'm sure you'll find some way to say that's wrong too. [bitter laugh] My doctor at 4521 Elm Street already submitted everything twice!
+
+454 Customer Support: Thank you, Mr. Peterson. [pause] I see here the denial was issued on February 8th for insufficient medical necessity documentation. Your provider submitted forms A-1127 and B-3342, but we're still missing the prior authorization supplement.
+
+Character 1: [shouting] Prior authorization supplement? [incredulous] Dr. Martinez sent that on January 15th, then again on the 23rd! [voice breaking] I have the fax confirmation numbers right here: 88901-TX and 88967-TX!
+
+455 Customer Support: Sir, I'm showing those faxes were received but... they were sent to our old processing center. As of January 1st, all prior authorizations need to go to department PA-7700 at our Memphis location.
+
+Character 1: [stunned silence] Nobody told us about any Memphis location! [getting louder] The insurance card, your website, even your phone system all say to send to Dallas! [desperately] I've been in pain for six months waiting for this!
+
+456 Customer Support: I do apologize for the confusion, Mr. Peterson. [professionally] I can expedite a new review if your doctor resubmits to fax number 901-555-8827. [reassuring] With proper documentation to code PA-7700-SURG, we can have an answer within 72 hours.
+
+Character 1: [laughs bitterly] Seventy-two hours? [voice cracking] My surgery is in two weeks! [pleading] Can't you just... can't you transfer the documents you already have? [exhausted] Please, I'm begging you, just help me here.
+
+457 Customer Support: [uncomfortable] Unfortunately, our system doesn't allow transfers between departments. However, I can escalate this to supervisor review, case number EMG-2024-0298. They might be able to override if you file an urgent appeal by tomorrow at 5 PM Eastern.
+
+Character 1: [desperately] An urgent appeal? [groans] How do I even do that? [frustrated] Your website has like seventeen different forms, and half the links lead to error 404 pages! [sarcastically] Real professional operation you're running there.
+
+458 Customer Support: Sir, I'm trying to help you here. [more patiently] You'll need form URA-2024, available under "Member Resources," then "Appeals," then "Urgent Medical." [precisely] Make sure to include your reference number, which is now MED-47562-BD4789-UR.
+
+Character 1: [writing frantically] MED-4756... slow down! [anxiously] Is that B as in boy, D as in David? [sighs heavily] And this form, does it need to be notarized like the last nightmare you put me through?
+
+459 Customer Support: That's B-David-4789-UR, correct. No notarization needed for urgent appeals, just your signature and your physician's NPI number. But it must be submitted electronically through our portal, not faxed or mailed.
+
+Character 1: [exhausted] The portal that requires a 16-character password with three symbols? [groans] The one that logs me out every two minutes? [more desperately] Look, what if I just pay out of pocket and you reimburse me?
+
+460 Customer Support: Out-of-network reimbursement requires pre-approval through form OON-789. Without prior authorization, we can only reimburse at 20% of the Medicare rate. For procedure 47562, that would be approximately $1,200 of the $18,000 cost.
+
+Character 1: [voice breaking] Twelve hundred out of eighteen thousand? [shouting] I pay $890 a month for this insurance! [bitterly] That's $10,680 a year for you to deny everything! [defeated] This is insane, absolutely insane.
+
+461 Customer Support: [defensively] Mr. Peterson, we approve 87% of all submitted claims. I genuinely want to help resolve this for you. If you submit the appeal by tomorrow with case number EMG-2024-0298, I'll personally flag it for expedited review.
+
+Character 1: [skeptically] You'll personally flag it? [sighs deeply] Like employee ID J-4482 personally flagged my last appeal that got lost? [resigned] Fine, I'll submit form URA-2024 to the broken portal by tomorrow 5 PM Eastern.
+
+462 Customer Support: That's correct, and please reference my employee ID, T-9923-Austin, in your appeal. I've made detailed notes in your file about today's call at 2:47 PM. Is there anything else I can help clarify about the appeals process today?
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 5ae15c40 | Role: Customer Support
+
+463 Customer Support: Thank you for calling TechFlow Solutions, this is Marcus speaking. [quickly] How can I assist you with your software today?
+
+Character 1: [frustrated] Yeah, hi Marcus, I'm having—[sighs heavily]—major issues with your latest update. [angrily] The whole dashboard keeps freezing every five minutes, and I've lost work twice already today!
+
+464 Customer Support: I'm really sorry to hear you're experiencing those problems. Let me pull up your account and we'll get this sorted—what's your subscription email?
+
+Character 1: [impatiently] It's johnson dot kate at globaltech dot com. [sarcastically] You know, the premium account that's supposed to have "priority support" and "seamless performance"?
+
+465 Customer Support: Got it, I see your account here, Ms. Johnson. The freezing issue is actually a known bug we're addressing—our team pushed a hotfix about an hour ago.
+
+Character 1: [incredulously] A hotfix? [louder] Then why is it still happening? I just restarted the program ten minutes ago and—[groans]—nothing's changed!
+
+466 Customer Support: The patch might not have auto-installed yet. Can you check your version number—bottom left corner, help menu, then about?
+
+Character 1: [muttering] Hold on, let me... okay, it says version 4.2.1. [exasperated] Is that the broken one or the supposedly fixed one?
+
+467 Customer Support: That's the old version, the fix is 4.2.3. Good news though—I can manually push the update to your system right now, should only take about two minutes.
+
+Character 1: [skeptically] Two minutes? [sighs] Fine, but what about the work I lost this morning—three hours of data entry just vanished!
+
+468 Customer Support: That's incredibly frustrating, I understand. The new version has an auto-recovery feature that might—and I stress might—retrieve your recent work from the cache files.
+
+Character 1: [hopefully] Really? [more cautiously] Because if this doesn't work, I'm going to need some serious compensation here—this has cost me an entire morning of productivity.
+
+469 Customer Support: Absolutely understood. I'm initiating the update now—you should see a prompt—and I'm also adding a service credit to your account for the inconvenience.
+
+Character 1: [surprised] Oh, okay, I see the update window now. [more calmly] How much of a credit are we talking about here?
+
+470 Customer Support: [briskly] I'm applying a full month's credit, that's $89 value. Plus, I'm escalating this to ensure you get priority queue status for any future support needs.
+
+Character 1: [relieved] Well, that's... that's actually pretty fair. [curiously] The update says it's at sixty percent—should I be doing anything special after it completes?
+
+471 Customer Support: Just restart the application once it hits a hundred percent. Then check the File menu for "Recover Recent Work"—fingers crossed your data is there.
+
+Character 1: [anxiously] It's done, restarting now... [gasps] Oh my god, there's a recovery popup! [excitedly] It shows my morning files!
+
+472 Customer Support: Excellent! Click "Restore All" and let it process—should have everything back within thirty seconds or so.
+
+Character 1: [gratefully] Marcus, you just saved my day—seriously. [chuckles] I was ready to cancel everything, but this... [sincerely] thank you for actually fixing this mess.
+
+--- BASIC SCENARIOS ---
+
+473 [Angry] Are you—are you kidding me right now? [Shout] I literally checked the status like five minutes ago!
+
+474 [Disappointed] So that's it, huh? [Sigh] Three months of planning and it's just... gone.
+
+475 [Sarcastic] Oh fantastic, this is just, um, exactly what I needed today. [Tsk] Perfect timing, really.
+
+476 [Fast] Wait wait wait, I gotta—I need to call my boss right now or I'm totally screwed. [Groan]
+
+477 [Whisper] I can't tell my mom about this, she's gonna absolutely lose it if she finds out I'm not coming.
+
+478 [Happy] Actually, you know what? [Laugh] Maybe this is the universe telling me I wasn't supposed to go anyway!
+
+479 [Slow] Let me, uh, let me get this straight here... [Disappointed] Every single flight today is just done?
+
+480 [Sad] I was finally gonna see them after—god, it's been what, two years? [Sigh] [Slow] Two whole years.
+
+481 [Angry] [Fast] Okay so basically you're telling me that nobody thought to mention this earlier? Like, nobody?
+
+482 [Chuckle] My ex is on that flight too, so honestly? [Happy] This might be the best thing that's ever happened to me!
+
+483 [Disappointed] I mean, I kinda had a feeling something would go wrong, but... [Tsk] not this.
+
+484 [Shout] How is "mechanical issues" even an excuse anymore? [Angry] It's 2024 for crying out loud!
+
+485 [Whisper] [Sad] The funeral's tomorrow morning and I—I don't know how I'm gonna make it now.
+
+486 [Sarcastic] Sure, yeah, a voucher for fifty bucks will totally make up for missing my wedding. [Tsk] [Angry] Thanks so much.
+
+487 [Fast] [Happy] Oh my god, wait—if I'm stuck here, that means I can actually go to Sarah's party tonight!
+
+488 [Slow] You know what's funny? [Chuckle] I literally had a dream about this exact thing happening last night.
+
+489 [Sad] [Whisper] I just wanna go home, I'm so tired of—I can't do this anymore, I really can't.
+
+490 [Angry] [Fast] No no no, don't put me on hold again, I've been—hello? HELLO?
+
+491 [Disappointed] [Slow] Guess I'm, uh, guess I'm sleeping in the airport tonight then, right?
+
+492 [Sarcastic] [Laugh] Twenty-three hours of delays would've been fine, but cancelled? Now that's just special.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+493 SCENARIO: Mad about a restaurant getting their order wrong twice, then they comp the whole meal
+
+==================================================
+
+[frustrated]
+
+Okay so I went to that new bistro place, you know the one on Fifth? And I ordered the salmon with like the lemon butter sauce, very simple, right? They bring me chicken. [scoff] Not even good chicken, like dry as hell chicken.
+
+[annoyed]
+
+So I'm like, okay fine, mistakes happen, I send it back. The server's all apologetic, "So sorry, we'll get that right out," blah blah blah. Twenty minutes later— twenty minutes— they bring me salmon, but it's like... it's swimming in this weird cream sauce that I definitely did not order.
+
+[irritated]
+
+At this point I'm just— I'm hangry, you know? I haven't eaten since like breakfast and it's almost two o'clock and I'm just like, are you kidding me right now? I was about to just walk out, I was gonna be like forget it, just—
+
+[surprised]
+
+Oh wait, the manager's calling me? That's... weird, hold on. 
+
+[confused] [slightly defensive]
+
+Hello? Oh... oh wow. Um, okay so apparently the server told the manager about the whole thing and they're— they're comping my entire meal. Plus dessert. And they want to give me like a gift card for next time?
+
+[sheepish] [warm]
+
+That's actually... that's really nice. [small laugh] God, I feel kind of bad for being so pissed off now. I mean, stuff happens, right? At least they're making it right.

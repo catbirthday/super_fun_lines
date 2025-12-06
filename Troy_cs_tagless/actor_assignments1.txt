@@ -1,0 +1,547 @@
+ACTOR LINE ASSIGNMENTS - 92 ITEMS (~2349 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  280 words ( 11.9%)
+
+  monologues_selftalk :  182 words (  7.7%)
+
+  conversation        :  344 words ( 14.6%)
+
+  cs_alpha            :  383 words ( 16.3%)
+
+  cs_noalpha          :  380 words ( 16.2%)
+
+  basic_scenarios     :  542 words ( 23.1%)
+
+  monologues          :  238 words ( 10.1%)
+
+  TOTAL               : 2349 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (58 words)
+
+Script: 3d7130a0_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You told Marcus about the promotion thing.
+
+1 Character 2: I—okay, yeah, I mentioned it, but I honestly thought it would help you! You've been complaining for months about not getting recognized and I just wanted to—I dunno, give you a boost.
+
+Character 1: That wasn't your call to make.
+
+2 Character 2: Look look, I get that you're upset, but you're acting like I sabotaged you or something. I was literally trying to help. Marcus even seemed really interested when I brought up all the extra hours you've been putting in.
+
+Character 1: Now he thinks I'm going behind his back.
+
+3 Character 2: What? No no no, that's not—I specifically said you didn't know I was talking to him. [scoff] I made sure he knew this was just me looking out for you.
+
+Character 1: Right. Because that makes it so much better.
+
+4 Character 2: Okay, fine, maybe I should've asked first, but come on—you would've said no. You always say no when people try to help you with this stuff. And then you just sit there being miserable about it.
+
+Character 1: So you just decided for me.
+
+5 Character 2: That's not—ugh, you're twisting this. I saw an opportunity at the happy hour and I took it. Sue me for actually [frustrated laugh] caring about your career apparently.
+
+Character 1: This could affect my whole job.
+
+6 Character 2: You're being dramatic. Marcus likes you—he's always liked you. I mean, yeah, maybe the timing wasn't perfect, but I really don't think it's gonna be as bad as you're making it out to be.
+
+Character 1: You don't get to decide that.
+
+7 Character 2: And you don't get to just—okay okay, I messed up the approach, fine. But you're acting like I'm some kind of enemy here when I was literally just trying to have your back.
+
+Character 1: Having my back means respecting my boundaries.
+
+8 Character 2: I—yeah, okay, fair. [sigh] But also, like, having your back sometimes means pushing you when you won't push yourself. That's what friends do. Or at least that's what I thought we did for each other.
+
+Character 1: Not like this.
+
+9 Character 2: Then how? Seriously, tell me how I'm supposed to help when you won't—when you never let anyone help. I'm sorry I didn't do it perfectly, but I'm kinda tired of watching you get passed over because you're too proud to advocate for yourself.
+
+Character 1: That's my choice. Mine.
+
+10 Character 2: Yeah. Yeah, it is. And maybe I crossed a line, I dunno. But don't pretend like you wouldn't have done something similar if you thought—whatever. I was trying to help. That's all.
+
+Script: 900ae27c_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Everything's a contest with you.
+
+11 Character 2: What? That's—that's not even true. I don't know where you're getting that from, honestly. We're just friends who do stuff together, I'm not trying to compete with anyone.
+
+Character 1: Right. That's why you had to run a marathon after I did a 5K.
+
+12 Character 2: Oh come on, that's not—I've been wanting to do a marathon for like, years. It had nothing to do with your 5K, I mean, those aren't even the same thing. You're reading way too much into this.
+
+Character 1: And the promotion you went for right after mine?
+
+13 Character 2: Are you serious right now? [scoff] I'm supposed to not advance my career because you got promoted first? That's—I can't believe you're actually saying this to me. We work in completely different departments!
+
+Character 1: You literally said "if you can do it, so can I."
+
+14 Character 2: Because I was inspired! That's what friends do—they inspire each other, they push each other to be better. I didn't realize that was like, a crime or whatever. I thought you'd be happy for me.
+
+Character 1: Happy. Sure.
+
+15 Character 2: Look look, I get that maybe—okay, maybe sometimes I get a little carried away trying to keep up, but it's not because I'm trying to beat you or make you feel bad. I just... I dunno, I see you doing cool stuff and I wanna do cool stuff too.
+
+Character 1: It's exhausting.
+
+16 Character 2: Well I'm sorry you feel that way, but like—[frustrated laugh] I'm not gonna apologize for having ambitions. That's not fair. You're basically asking me to make myself smaller so you feel better.
+
+Character 1: That's not what I'm asking.
+
+17 Character 2: Then what? What do you want from me? Because it sounds like—it really sounds like you want me to just... not try at things. Or only try at things you don't care about, which is kinda messed up, honestly.
+
+Character 1: I want you to admit what you're doing.
+
+18 Character 2: I'm not—okay okay, fine. Maybe I do get a little competitive sometimes. But it's not like, malicious or anything. It's just how I'm wired, y'know? I see someone doing something and I think "I could probably do that too."
+
+Character 1: Someone. Not your best friend. Someone.
+
+19 Character 2: You're—you're twisting everything I say. [sigh] Yes, fine, with you too. But that doesn't mean I see our entire friendship as some kind of competition. It just means I... I dunno, I admire you and wanna push myself the way you push yourself.
+
+Character 1: By one-upping everything I do.
+
+20 Character 2: That's not—ugh, okay, if that's how you wanna see it, then I guess I can't change your mind. But I'm not gonna sit here and pretend I'm some terrible person for wanting to achieve things. Maybe—maybe you should think about why it bothers you so much when I succeed at something.
+
+Script: 441cff87_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: I saw you talking to Jamie at the party.
+
+21 Character 2: Okay, um—yeah, I did talk to them. But it's not like I sought them out or anything. We're literally in the same friend group, what am I supposed to do, just ignore them completely?
+
+Character 1: That's exactly what you're supposed to do.
+
+22 Character 2: That's—come on, that's not realistic. We were both at Mark's birthday thing, standing in the same circle and—I mean, everyone would've noticed if I just [scoff] turned my back or whatever. That would've made it worse.
+
+Character 1: You seemed pretty comfortable.
+
+23 Character 2: I was being polite! There's a difference between being polite and—look look, I get that you're hurt, okay? But you're acting like I betrayed you when I was literally just trying not to make things weird for everyone else.
+
+Character 1: It's already weird. You made it weird.
+
+24 Character 2: No, you know what? This whole situation where I have to pick sides in a breakup when we all hang out together—that's what's weird. And honestly? [frustrated laugh] I'm kinda tired of being put in the middle of this.
+
+Character 1: Nobody put you anywhere. You chose.
+
+25 Character 2: I chose to—to what, not be a complete asshole at a mutual friend's party? Yeah, guilty. But you're making it sound like I'm, I dunno, hanging out with them behind your back or something, which I'm not.
+
+Character 1: How would I know?
+
+26 Character 2: Because I'm telling you! God, when have I ever—okay okay, fine. Be like that. But I've been your friend for like six years, and if you seriously think I'd do that to you, then maybe you don't know me at all.
+
+Character 1: I thought I did.
+
+27 Character 2: That's—wow. That's really unfair. You're basically asking me to be rude to someone in front of all our friends, and when I don't, suddenly I'm this terrible person? [sigh] I'm sorry you're hurting, I really am, but this isn't fair.
+
+Character 1: You could've walked away.
+
+28 Character 2: And gone where? It was a small apartment! Look, I kept it short, I didn't—we talked about the weather and Mark's new job, that's it. I didn't bring up anything about you or the relationship or anything like that.
+
+Character 1: That's supposed to make me feel better?
+
+29 Character 2: I dunno what's supposed to make you feel better anymore! I'm trying here, but you're not—you're not even listening. You just wanna be mad at me, and honestly? That's starting to feel pretty shitty from my end too.
+
+Character 1: Then maybe you should've thought about that before.
+
+30 Character 2: Before what? Before existing in the same space as your ex? Yeah, okay. Fine fine. But y'know what? I'm not gonna apologize for refusing to make every social situation into some big dramatic thing just because you two couldn't work it out. That's not my job.
+
+Script: 6168073c_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: We need to talk about the constant preaching.
+
+31 Character 2: Oh. Oh no, is this about—wait, are you talking about the meditation thing? Or the veganism? Because I wasn't trying to preach, I swear, I was just—I thought I was sharing, y'know?
+
+Character 1: Every conversation. Every single one.
+
+32 Character 2: That's not—okay maybe that's a little true. [nervous laugh] But like, I genuinely didn't realize I was doing it that much? I just get excited about stuff and then I can't shut up about it.
+
+Character 1: I asked you to stop. Multiple times.
+
+33 Character 2: You did. You totally did and I—god, I'm such an idiot. I thought I was being helpful? Like, when you mentioned your stress, I immediately went into the whole meditation spiel and I should've just—I should've just listened.
+
+Character 1: But you didn't.
+
+34 Character 2: No. No, I didn't. And then with the diet stuff too, right? When you were just trying to enjoy your lunch and I started going on about—ugh, I can see it now. [groan] I'm that person. I became that annoying person.
+
+Character 1: Yeah. You did.
+
+35 Character 2: I'm sorry. Like, really really sorry. It's just—these things helped me so much that I wanted to share them with you because I care about you? But that's not an excuse to be pushy and I—I get that now.
+
+Character 1: Do you though? Because you said that last month too.
+
+36 Character 2: I know I know, but this time—okay, that sounds bad. Um. This time I actually hear you? Like really hear you. You're not my project to fix, you're my friend who just wants to hang out without getting a lecture.
+
+Character 1: Exactly. That's all I want.
+
+37 Character 2: And you deserve that. God, you must've been so frustrated with me. Like every time we'd get together you're probably thinking "here we go again" and that's—that's not what friendship should be, right?
+
+Character 1: It was exhausting, honestly.
+
+38 Character 2: I bet. I bet it was. [sigh] Look, I'm gonna—I'm gonna work on this. Really work on it. Maybe put like a rubber band on my wrist or something to snap when I start doing it again?
+
+Character 1: That might actually help.
+
+39 Character 2: Right? And you can totally call me out if I slip up. Just be like "rubber band" and I'll know to shut up immediately. I mean it—I don't wanna lose you over my big mouth.
+
+Character 1: I don't want to lose you either. Just... be my friend, not my life coach.
+
+40 Character 2: Yes. Yes, absolutely. Just your friend who talks about normal stuff like TV shows and gossip and—and whatever you wanna talk about. I can do that. I want to do that.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (66 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (67 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (89 words)
+
+============================================================
+
+============================================================
+
+ITEMS 42-51 - CONVERSATION (344 words)
+
+Script: 124163b3
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+42 Character 1: [breathless] Oh my God, oh my God, we're alive! [nervous giggle] Did he seriously just throw his coffee at the wall? [voice cracking] I thought we were getting fired for sure when the projector died mid-presentation.
+
+Character 2: [wheezing laugh] The way you just kept talking while smoke literally poured out! [higher pitched] "And as you can see on slide—" [snorting] There WAS no slide, Sarah! Just flames and his face turning purple!
+
+43 Character 1: [whispered panic] When he started screaming about incompetence, I literally forgot how to breathe. [louder] But then YOU— [cackling] you offered him a stress ball from your purse like that would fix everything!
+
+Character 2: [defensive squeak] I panicked! [slower] What else was I supposed to do when a grown man starts having a tantrum? [giggling uncontrollably] His assistant mouthed "run" at us through the glass door, remember?
+
+44 Character 1: [exhausted sigh] Twenty years. [flat tone] He said he'd been waiting twenty years for this presentation. [hysterical laugh] We gave him Comic Sans headers and a fire hazard instead. This is how careers die.
+
+Character 2: [shrieking] Comic Sans was YOUR choice! [accusatory] "It's approachable," you said! [dissolving into giggles] Nothing says quarterly revenue projections like the font of a middle school birthday invitation, apparently. We're so doomed.
+
+45 Character 1: [mock serious] At least we maintained eye contact during the meltdown. [voice shaking] Very professional of us. [burst of laughter] Even when he called us "disappointments to capitalism itself"—that was oddly poetic for pure rage.
+
+Character 2: [groaning] My favorite part? [sarcastic brightness] When he asked if we even went to college. [deadpan] Sir, I have two degrees and crippling debt to prove it. This disaster was highly educated, thank you!
+
+46 Character 1: [sudden realization] Wait, wait, did we even save the file? [panic rising] The backup is on my desktop but— [relieved exhale] Oh who cares, we're probably banned from the building anyway after today's performance.
+
+Character 2: [philosophical tone] You know what? [building confidence] We survived Jeremy Peterson, the client from hell. [triumphant] If we can live through that, we can survive anything. [quieter] Right after I update my resume tonight.
+
+47 Character 1: [disbelieving whisper] Did security actually escort us out? [normal volume] Or was that just a very aggressive goodbye? [confused giggle] The guard seemed sympathetic when he handed us our visitor badges back, so that's something.
+
+Character 2: [cheerful denial] I'm choosing to believe he was just walking us to the door! [dropping lower] Coincidentally. With his hand on his radio. [nervous laughter] While calling for backup. Totally normal client meeting behavior, really.
+
+48 Character 1: [rapid words] The conference room still smelled like burnt plastic when we left. [amazed] How is that even possible from one projector? [tired laugh] Maintenance is going to hate us forever, assuming we ever get back in.
+
+Character 2: [matter-of-fact] Honestly? [building energy] Best worst meeting of my entire career! [gleeful shout] We're legends now! The cautionary tale they'll tell interns about why you always check equipment beforehand. We're infamous!
+
+49 Character 1: [soft wonder] My hands finally stopped shaking. [steadier] Only took forty-five minutes and probable career suicide. [bitter laugh] Mom's going to love hearing about this at Thanksgiving. "How's work, sweetie?" "Well, funny story..."
+
+Character 2: [dramatic whisper] What if he calls corporate? [regular pitch] What if he already called them? [rising panic] Oh God, are our phones ringing? Check your phone! [pause] Actually don't, ignorance is bliss right now.
+
+50 Character 1: [resigned acceptance] Tomorrow's problem. [firm] Right now, we survived the Peterson apocalypse together. [warming up] That bonds us for life, you realize? [chuckle] We're disaster sisters now. There's no going back from this.
+
+Character 2: [solemn tone] If I get fired, you're my reference. [more playfully] "She stayed calm during actual fire." [snickering] "Maintained composure while client questioned our basic intelligence." These are marketable skills in this economy, right?
+
+51 Character 1: [suddenly urgent] Oh no, the parking meter! [frantic] We've been decomposing here for an hour! [groaning laugh] A parking ticket would be the perfect end to this nightmare. The universe's final little joke today.
+
+Character 2: [zen-like calm] Let it happen. [more intensely] After Peterson's meltdown, nothing can hurt us anymore. [breaking into giggles] We faced the dragon and lived! A parking ticket is just victory tax at this point!
+
+============================================================
+
+ITEMS 52-61 - CS ALPHANUMERIC (383 words)
+
+Script: 9b745f6b
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [angrily] Look, I've been trying to access my account for three days now—account number 4782-9516-3847—and it's completely frozen! [voice rising] I have bills due tomorrow, mortgage payment, everything! [frustrated groan] What exactly is going on here?
+
+52 Customer Support: I understand your frustration, sir, let me pull up your account. [apologetically] Could you please verify the last four digits of your social security number and your mother's maiden name? These freezes are usually triggered by our security system for account protection.
+
+Character 1: [exasperated] It's 7-8-9-2, and her name was Henderson—H-E-N-D-E-R-S-O-N. [more aggressively] I've already given this information to three different people on the phone! [sarcastically] Is this some kind of joke to you people?
+
+53 Customer Support: I see here that there were three suspicious transactions from IP address 192.168.45.209 on Tuesday. [cautiously] Someone attempted transfers totaling $8,500 to accounts in, um... Lagos, Nigeria. Did you authorize these?
+
+Character 1: [shouting] Nigeria?! Are you kidding me? [incredulous] I haven't even left the state in two years! [more intensely] I live at 4521 Oak Street, work at the same office for fifteen years—why would I send money to Nigeria?
+
+54 Customer Support: Sir, please lower your voice, I'm trying to help you here. The system shows login attempts from your registered device, MAC address 3C-7B-96-A4-22-F1. [measured tone] Were you perhaps using public WiFi or—
+
+Character 1: [interrupting loudly] I don't care about MAC addresses or IP whatever! [desperately] My daughter's tuition check is going to bounce—$12,000—if you don't unfreeze this right now! [pleading] Can't you just override it or something?
+
+55 Customer Support: I need to escalate this to our fraud department, reference number FRD-2024-78453. [apologetically] They'll need 48 to 72 hours to investigate, and then— I know it's not what you want to hear, but—
+
+Character 1: [furiously] Seventy-two hours?! [voice cracking] I've been banking here since 1998—account opened October fifteenth—twenty-six years! [bitterly] This is how you treat loyal customers? [scoffs] Maybe I should just switch to First National!
+
+56 Customer Support: Sir, threatening to leave won't speed up the process. Your security is our priority, and these protocols exist for a reason. However, I can issue you a temporary access code—TMP-8847-QRX—for limited withdrawals up to $500.
+
+Character 1: [mockingly] Oh, five hundred dollars, how generous! [sarcastically slower] That'll really cover my $3,200 mortgage payment due tomorrow. [frustrated laugh] You know what, get me your manager—badge number, name, everything—right now.
+
+57 Customer Support: My name is Sandra Mitchell, employee ID 44729, and my supervisor is Mr. Davies. But he'll tell you the same thing—Policy 47-B clearly states frozen accounts require full investigation. Sir, have you checked for any malware on your devices?
+
+Character 1: [exhausted] I'm a software engineer, Sandra, I think I'd know if I had malware. [wearily] Look, I—I just need access to my own money, the $47,000 I've worked for. [desperately quiet] Please, there has to be something you can do.
+
+58 Customer Support: Let me try one more thing—I'm checking alternative verification through your loan history. You had an auto loan, account LA-2019-6634, paid off early? This might allow me to partially lift the restriction.
+
+Character 1: [suddenly hopeful] Yes! Yes, the Honda Accord, paid it off six months early! [eagerly] Does that mean—can you actually do something? [anxiously] Because I swear, every penny in there is legitimate, I have pay stubs, tax returns, everything!
+
+59 Customer Support: Okay, I'm seeing green flags here, your employment with TechCorp since 2009 is verified. I can release up to $5,000 immediately to checking sub-account 4782-A. The rest should be available within 24 hours if fraud clears it.
+
+Character 1: [relieved sigh] Finally, some progress! [gratefully] Five thousand will cover the mortgage at least. [more calmly] But Sandra, what about the tuition payment? [worried] Can you put a note or something so it doesn't bounce?
+
+60 Customer Support: I'm adding priority flag PRY-1147 to your case right now. Call this direct line—1-800-555-8924 extension 4429—tomorrow at 9 AM sharp. Ask for Janet in escalations, tell her Sandra pre-authorized override code X-4-Alpha.
+
+Character 1: [exhausted but grateful] Okay, okay... 9 AM, Janet, X-4-Alpha. [sighs deeply] I'm sorry for yelling earlier, I just—this whole thing has been a nightmare. [quietly] Twenty-six years, and this is my first real problem with you guys.
+
+61 Customer Support: No apology necessary, Mr. Thompson, I'd be upset too if my account showed $47,000 frozen. [reassuringly] Your funds are safe, we'll get this sorted. Is there anything else I can help with while you're here today?
+
+============================================================
+
+ITEMS 62-71 - CS NO-ALPHANUMERIC (380 words)
+
+Script: 6e804853
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [frustrated] Look, this is the fourth time I've brought my car in for the same issue. [louder] The engine keeps stalling at red lights, and [exasperated sigh] nothing you guys do seems to fix it permanently.
+
+62 Customer Support: [apologetically] I completely understand your frustration, Mr. Johnson. Let me pull up your service history right away—I see here multiple visits for engine stalling. We're going to get to the bottom of this today, I promise.
+
+Character 1: [sarcastically] That's what your colleague said last time, and the time before that. [groans] I've already paid over two thousand dollars, and I'm—I'm honestly considering just getting rid of the car altogether. [bitterly] This is ridiculous.
+
+63 Customer Support: [calmly] I hear you, and you're absolutely right to be upset. Here's what we're going to do differently—our master technician will personally inspect it, not just run diagnostics. No charge for today's inspection, obviously.
+
+Character 1: [skeptically] Your master technician? [pause] Why wasn't he looking at it before? [angrier] I specifically bought this car from you guys because of your supposed excellent service department, but this is... [trails off] unacceptable.
+
+64 Customer Support: You're right, he should have been involved earlier—that's on us. Between you and me, we've had some staffing changes that affected our process. But John, our senior tech, he's been here fifteen years and knows these engines inside out.
+
+Character 1: [tiredly] I just need my car to work. [softer] My daughter's scared to drive with me now because we broke down on the highway last week. [more desperately] Can you guarantee this will actually fix it this time?
+
+65 Customer Support: Oh no, that must have been terrifying for both of you. I can't guarantee anything until John looks at it, but [briskly] here's what I can do—we'll provide a loaner car while we work on yours, no rental fees.
+
+Character 1: [surprised] A loaner car? [cautiously hopeful] Well, that's... that's something at least. [sighs deeply] How long will this inspection take, because I've already missed work twice this month for this nonsense.
+
+66 Customer Support: [quickly] John can see it this afternoon—should have answers by five. [more confidently] If it's something we've missed before, we'll make it right, including refunding previous repairs that didn't address the real issue. [firmly] That's my manager's commitment.
+
+Character 1: [incredulous] Refunding previous repairs? [pause] I'll believe that when I see the check. [more calmly] But okay, fine, let's try this one more time with your master technician. [wearily] One more time.
+
+67 Customer Support: Perfect, let me get you set up with that loaner right now. It's a newer model actually, fully insured by us. And Mr. Johnson, I'm giving you my direct line—any issues, you call me personally.
+
+Character 1: [slightly warmer] I appreciate that. [firmly] But if this doesn't work, I'm not just done with the car—I'm done with this dealership. [pause] My whole family buys cars here, you know that, right?
+
+68 Customer Support: We absolutely know, and we value that relationship immensely. That's why I'm escalating this to regional management as well—they need to know we've let you down. [quickly] This isn't just about one car anymore.
+
+Character 1: [surprised] Regional management? [thoughtfully] Well, maybe you're actually taking this seriously now. [sighs] I just want what I paid for—a reliable car that doesn't leave us stranded, is that too much to ask?
+
+69 Customer Support: Not at all, that's the bare minimum you deserve. John just freed up—he can look at it in an hour actually. [more warmly] Would you like coffee while you wait, or should I have someone drive you home?
+
+Character 1: [consideringly] I'll wait, but yeah, coffee would be good. [more cooperatively] And... thanks for actually listening this time. [quietly] The last service advisor just kept saying it was probably my driving style.
+
+70 Customer Support: [indignantly] Your driving style? That's completely inappropriate—engine stalling isn't user error. I'm sorry you were told that, that's not how we should handle concerns, ever.
+
+Character 1: [relieved] Finally, someone who gets it. [more hopefully] Okay, so one hour with John, then we'll know what's really going on? [cautiously] And you'll personally handle the follow-up?
+
+71 Customer Support: One hour for initial assessment, yes, and I'm your point person from now on. I'll text you updates as John works, so you're not left wondering. We're going to make this right, Mr. Johnson.
+
+============================================================
+
+ITEM 72 - BASIC SCENARIO (33 words)
+
+============================================================
+
+72 [Happy] So every single Thanksgiving, right, we all have to, um, wear these ridiculous pilgrim hats my grandma made in like 1982. [Laugh] They're falling apart but nobody's allowed to throw them away!
+
+============================================================
+
+ITEM 73 - BASIC SCENARIO (24 words)
+
+============================================================
+
+73 [Slow] It started when my great-grandfather came over from Italy and he—well, he couldn't afford presents, so... [Sigh] he'd hide coins in the bread.
+
+============================================================
+
+ITEM 74 - BASIC SCENARIO (28 words)
+
+============================================================
+
+74 [Whisper] Don't tell anyone but honestly? [Fast] I think half the family hates doing it but we're all too scared to be the first one to say something.
+
+============================================================
+
+ITEM 75 - BASIC SCENARIO (24 words)
+
+============================================================
+
+75 [Sarcastic] Oh yeah, nothing says "family bonding" like forcing everyone to sing that awful song Uncle Jerry wrote. [Tsk] It doesn't even rhyme properly.
+
+============================================================
+
+ITEM 76 - BASIC SCENARIO (29 words)
+
+============================================================
+
+76 We basically just, uh, throw flour at each other at midnight—I know, I know it sounds weird but [Chuckle] you should see my dad's face when he gets hit!
+
+============================================================
+
+ITEM 77 - BASIC SCENARIO (24 words)
+
+============================================================
+
+77 [Angry] Look, I've tried explaining this like fifty times already! [Groan] You gotta spin counterclockwise or grandma will literally lose her mind about it!
+
+============================================================
+
+ITEM 78 - BASIC SCENARIO (23 words)
+
+============================================================
+
+78 [Disappointed] The younger kids don't really, um, get why we do it anymore, y'know? [Slow] They just wanna play on their phones instead.
+
+============================================================
+
+ITEM 79 - BASIC SCENARIO (27 words)
+
+============================================================
+
+79 [Fast] Wait wait wait, I forgot the most important part—you absolutely cannot, and I mean cannot, eat anything until the bell rings three times! [Shout] Three times!
+
+============================================================
+
+ITEM 80 - BASIC SCENARIO (24 words)
+
+============================================================
+
+80 My mom insists we all have to share our—actually, it's kinda embarrassing but [Sad] we share our biggest failure of the year first. [Sigh]
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (32 words)
+
+============================================================
+
+81 [Happy] Every New Year's Eve we burn these little paper wishes and the smoke is supposed to—oh man, last year mine caught the curtains on fire! [Laugh] [Fast] Dad was so mad!
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (26 words)
+
+============================================================
+
+82 You're gonna think this is strange but, er, we bury a jar of pennies in the backyard every summer solstice? [Whisper] Nobody remembers why anymore. [Chuckle]
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (26 words)
+
+============================================================
+
+83 [Slow] The thing about our Sunday dinners is that whoever arrives last has to... [Disappointed] well, they become the designated storyteller for the entire meal. [Tsk]
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (27 words)
+
+============================================================
+
+84 [Sarcastic] Sure, let's all pretend that watching the same movie every Christmas Eve is "magical" and not just because Dad doesn't know how to work Netflix. [Groan]
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (29 words)
+
+============================================================
+
+85 Okay so basically when someone turns sixteen in our family they gotta—no wait, first they blindfold you, then—[Fast] actually it's easier if I just show you the video. [Laugh]
+
+============================================================
+
+ITEM 86 - BASIC SCENARIO (28 words)
+
+============================================================
+
+86 [Angry] I mean, why does it always have to be me who explains this to people?! [Sad] Everyone else just assumes outsiders automatically understand our weird pickle ceremony!
+
+============================================================
+
+ITEM 87 - BASIC SCENARIO (26 words)
+
+============================================================
+
+87 The birthday person isn't allowed to, um, touch their cake until everyone else takes a bite first—[Whisper] supposedly it brings good luck but I dunno. [Sigh]
+
+============================================================
+
+ITEM 88 - BASIC SCENARIO (26 words)
+
+============================================================
+
+88 [Happy] Oh, you're gonna love this part—we all wear our clothes inside out on the first day of spring! [Chuckle] The neighbors think we're absolutely insane!
+
+============================================================
+
+ITEM 89 - BASIC SCENARIO (23 words)
+
+============================================================
+
+89 [Slow] It's not really about the tradition itself, I guess, it's more about—[Disappointed] well, it's the only time everyone actually shows up anymore.
+
+============================================================
+
+ITEM 90 - BASIC SCENARIO (37 words)
+
+============================================================
+
+90 We've been doing this since before I was born and honestly? [Sarcastic] Nobody can agree on the actual rules so we just kinda make it up as we go. [Tsk] [Fast] Very official family tradition right there.
+
+============================================================
+
+ITEM 91 - BASIC SCENARIO (26 words)
+
+============================================================
+
+91 [Shout] No no no, you're holding it wrong! [Happy] Here, let me—sorry, I get weirdly intense about the proper way to pass the ceremonial spoon. [Laugh]

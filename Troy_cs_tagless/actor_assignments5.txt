@@ -1,0 +1,349 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: a94ed4b7_script | Role: Character 2 (B)
+
+Character 1: You lied to my face about the presentation.
+
+355 Character 2: I didn't—okay, I didn't lie exactly. I just... I mean, you were so excited about it and I didn't wanna be the one to, y'know, crush that. Is that really so terrible?
+
+Character 1: Yes. It is.
+
+356 Character 2: Come on, that's not—you're acting like I committed some huge crime here. I was trying to be supportive! You literally spent weeks on that thing and I thought—I dunno, I thought being encouraging was the right move.
+
+Character 1: I asked for your honest opinion.
+
+357 Character 2: And I get that, but honestly? Sometimes people say they want honesty when they really don't. [scoff] Like, you were practically glowing when you showed it to me—what was I supposed to say?
+
+Character 1: The truth.
+
+358 Character 2: The truth. Right. Okay okay, so next time you're all proud of something, I should just—what, tear it apart? That's what you want from me? Because that feels pretty crappy too, just saying.
+
+Character 1: I looked like an idiot in that meeting.
+
+359 Character 2: That's—no, that's not on me. I mean, I'm sorry you felt embarrassed, I really am, but you can't put that all on me. Other people saw it too, right? They could've said something.
+
+Character 1: You're my friend. Or supposed to be.
+
+360 Character 2: Oh, come on, don't—don't do that. [frustrated laugh] I AM your friend, which is exactly why I didn't wanna hurt your feelings. You think I enjoyed pretending? It was awkward as hell for me too.
+
+Character 1: So you knew it was bad.
+
+361 Character 2: I knew it was... look look, it wasn't terrible, it just wasn't—okay fine, yeah, it needed work. But you seemed so sure about it, and I figured, y'know, maybe I was wrong. Maybe it would land differently with other people.
+
+Character 1: Stop making excuses.
+
+362 Character 2: I'm not making—ugh, seriously? I'm trying to explain where I was coming from here. And yeah, I messed up, I get that, but you're not exactly being fair either. You're acting like I did this to sabotage you or something.
+
+Character 1: You let me fail.
+
+363 Character 2: That's... [sigh] okay, that's fair. I guess I did. But honestly? I thought I was protecting you. Which—yeah yeah, I know how that sounds now, but at the time it felt like the right thing.
+
+Character 1: It wasn't.
+
+364 Character 2: No. It wasn't. And I'm—I'm sorry about that part, I really am. But I'm also kinda frustrated that you can't see I was coming from a good place, even if I... even if I totally screwed it up.
+
+Script: 8871094b_script | Role: Character 2 (B)
+
+Character 1: We need to talk about what happened at game night.
+
+365 Character 2: Oh god, yeah, I—I know I got a little intense. Wait wait, no, that's not—I got way too intense, you're right. I'm sorry, I just get really into games sometimes and I know that's not an excuse.
+
+Character 1: It's not just game night.
+
+366 Character 2: What do you—oh. Oh no. Is this about the running thing too? Because I swear I didn't mean to make it weird when you said you ran a 5K, I was just excited that I'd done one too and—[nervous laugh]—okay yeah, I see how that came off.
+
+Character 1: And the promotion. And the cooking class. And literally everything.
+
+367 Character 2: I don't—wait, I made the cooking class competitive? How did I even—actually no, you know what, you're right. I remember. I literally turned making pasta into some kind of contest. God, I'm such an idiot.
+
+Character 1: It's exhausting.
+
+368 Character 2: I know. I know it is and I'm—I'm really sorry. It's just, growing up with three older siblings, everything was a competition, y'know? Like who could eat fastest, who got better grades, who could—[sigh] but that's not your problem. I shouldn't make it your problem.
+
+Character 1: I can't share anything with you anymore.
+
+369 Character 2: No no no, please don't say that. That's—that's the last thing I want. I love when you share stuff with me, I really do. I think maybe I just get so excited that I wanna share too and then it becomes this whole—ugh, I'm doing it wrong.
+
+Character 1: Yeah. You are.
+
+370 Character 2: Can we—can we maybe start over? Like, I promise I'll work on it. I'll literally bite my tongue if I have to. Actually, my therapist says I should try active listening more anyway, so maybe this is—sorry, not about me. This is about you. About us.
+
+Character 1: Your therapist?
+
+371 Character 2: Yeah, I've been going for a couple months now. Not just for this! But it's kinda helped me realize that I do this thing where I need external validation constantly? And competing is like—it's basically my broken way of connecting with people. Which is messed up, I know.
+
+Character 1: I didn't know you were seeing someone.
+
+372 Character 2: I didn't wanna make a big deal about it. Plus I figured you'd tell me about your therapy and then I'd—oh my god, I would've made therapy competitive too, wouldn't I? [groan] I'm literally the worst.
+
+Character 1: You're not the worst. Just... a lot sometimes.
+
+373 Character 2: Yeah, that's—that's fair. Really fair, actually. Um, would it help if we had like a code word or something? For when I'm doing it? So you can call me out? Because honestly, half the time I don't even realize I'm doing it until after.
+
+Character 1: Maybe. We could try that.
+
+374 Character 2: Really? You'd—you'd do that? Oh thank god, I thought you were gonna stop being my friend entirely. I mean, I would've understood but I really really don't wanna lose you. You're like, one of the most important people in my life and I—yeah. I'll do better. Promise.
+
+Script: d524c39a_script | Role: Character 2 (B)
+
+Character 1: When was the last time you apologized to me first?
+
+375 Character 2: What? That's—that's not even—okay, where is this coming from? I apologize when I need to apologize. When I've actually done something wrong, y'know?
+
+Character 1: Right. When you think you've done something wrong.
+
+376 Character 2: Well yeah, obviously. I'm not gonna apologize for stuff I didn't—look, if this is about yesterday, I already told you I didn't think it was that big a deal. [scoff] You're acting like I never take responsibility.
+
+Character 1: You don't.
+
+377 Character 2: That's—come on, that's literally not true. Remember when I forgot your birthday dinner? I apologized like fifty times. Or when I accidentally told Jake about your promotion before you could? I owned that.
+
+Character 1: After I brought it up. After I had to explain why I was upset.
+
+378 Character 2: Okay okay, but—sometimes I genuinely don't realize something's wrong until you tell me. That doesn't mean I'm not sorry, it just means I'm not a [frustrated laugh] mind reader, y'know?
+
+Character 1: Must be nice. Never being wrong unless someone proves it.
+
+379 Character 2: That's not what I—ugh, you're twisting my words. Look, I'm sorry if you feel like I don't apologize enough, but honestly? Sometimes you get upset about stuff that's just... I dunno, not actually my fault?
+
+Character 1: Name one time.
+
+380 Character 2: Um, literally last month? When you got mad that I went to Sarah's party without you? You said you didn't wanna go, so I went, and then suddenly I'm the bad guy for not convincing you harder or whatever.
+
+Character 1: That's not what happened.
+
+381 Character 2: That's—that's exactly what happened! You literally said "go without me" and I did, and then you were cold to me for like three days. [sigh] And I still said sorry, by the way, even though I didn't think I did anything wrong.
+
+Character 1: You said "sorry you feel that way."
+
+382 Character 2: Because I was! I was sorry you felt bad, but I wasn't gonna pretend I did something terrible when I—when I literally just listened to what you told me to do.
+
+Character 1: Whatever. This is pointless.
+
+383 Character 2: No no no, don't—don't do that. Don't shut down just because I'm defending myself. You brought this up, and now you're mad that I'm not just... what, falling on my sword? Admitting I'm always wrong?
+
+Character 1: Just once would be nice. Without me having to beg for it.
+
+384 Character 2: I'm—okay, fine. Maybe I could be better about that, I guess. But you gotta admit, sometimes you expect apologies for stuff that's just... life happening, y'know? Not everything needs to be somebody's fault.
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+385 SCENARIO: attempting to read small print without glasses
+
+==================================================
+
+[squinting]
+
+Okay, so, um, what does this— what does this even say? I swear they make this stuff smaller every time. Like, um, like deliberately smaller just to mess with people who are, uh, who are over thirty.
+
+[muttering under breath]
+
+"Important information about your—" something something. Great. [sigh] Really helpful. I mean, it's probably nothing, right? It's probably just, um, just the usual boring stuff they have to put on there.
+
+[slightly annoyed]
+
+But what if it's not? What if it's like, uh, what if it's actually important and I'm just— I'm just sitting here squinting like an idiot because I left my, um, my reading glasses upstairs and I don't want to—
+
+[hopeful]
+
+Wait, let me try— let me try holding it further away. Sometimes that, uh, that works, right? [pause] Nope. Nope, that's worse. That's definitely worse.
+
+[resigned but amused]
+
+Okay, so I guess I'm either going upstairs to get my glasses or I'm just, um, I'm just gonna have to trust that this mystery text isn't telling me my house is about to explode or something. [laugh] Which, knowing my luck...
+
+--- CONVERSATION ---
+
+Script: c18b9364 | Role: Character 1 (A)
+
+386 Character 1: [exhausted] So... that was the worst set of my entire life. [long pause] The silence after my airline food joke was so thick, [voice cracking] I could've carved it with a knife and served it as dessert.
+
+Character 2: [matter-of-fact] Yeah, watching you up there was like witnessing a car crash [slower] in slow motion. [Sharp exhale] Except the car kept reversing and hitting the same tree over and over again.
+
+387 Character 1: [defensive] Come on, the crowd was dead from the start! [pleading] That guy in the front row was literally asleep before I even grabbed the mic. [quieter] Maybe my material just went over their heads?
+
+Character 2: [incredulous] Over their heads? [Snort] Buddy, your jokes were so underground they needed mining equipment. [bluntly] That bit about your ex and the toaster made absolutely zero sense to anyone breathing.
+
+388 Character 1: [frantically] But I workshopped that one for weeks! [higher pitch] Sarah said it was hilarious when I practiced it at her place. [mumbling] Though she was pretty drunk at the time, now that I think about it.
+
+Character 2: [dryly] Sarah also thinks her cat can predict the weather. [more firmly] Listen, when three separate people walked out during your setup, [Bitter laugh] that's not a timing issue, that's a content emergency.
+
+389 Character 1: [desperately cheerful] Okay but what about when I recovered with the impression? [voice dropping] The manager seemed to smile... [trailing off] or maybe that was a grimace, hard to tell in that lighting actually.
+
+Character 2: [exasperated] Your Christopher Walken sounded like Kermit the Frog with bronchitis. [Groan] I've heard more convincing impressions from my nephew, [pointedly] and he's four years old and thinks all celebrities are named Bob.
+
+390 Character 1: [defeated whisper] Should I just quit? [stronger] Five years of open mics and I'm still bombing like it's my first night. [Shaky breath] Even the bartender stopped pretending to laugh at this point.
+
+Character 2: [gentler] Look, you don't quit, you evolve. [thoughtfully] Remember when you killed with that story about your mom and the DMV? [encouraging] That was real, that connected with people.
+
+391 Character 1: [hopeful] You really think there's still hope? [nervously fast] Because I've got this new bit about dating apps that I've been working on and— [stopping short] wait, you're making that face again.
+
+Character 2: [carefully] The dating app material is... [pause] it's been done. [Sigh] By literally everyone since 2015. You need to dig deeper, find what makes your perspective actually unique.
+
+392 Character 1: [frustrated growl] But unique doesn't pay bills! [sarcastically] Should I talk about my thrilling life as a part-time barista who lives with three roommates? [deflating] Because that's my unique perspective right there.
+
+Character 2: [animated] Actually, yes! [firmly] That's exactly what you should talk about. [warming up] Real struggles, real awkwardness, the weird stuff that happens when you're broke and trying to make it.
+
+393 Character 1: [skeptical] You want me to go up there and just... [slowly] talk about my actual pathetic life? [Nervous giggle] "Hey everyone, today my roommate used my coffee mug as an ashtray, how's your Tuesday?"
+
+Character 2: [enthusiastically] See, that's already funnier than your toaster joke! [insistent] People relate to mess and chaos. [quieter] Stop trying to be Seinfeld when you're clearly more of a disaster-story comedian.
+
+394 Character 1: [considering] I did have that thing happen with the landlord and the raccoons last week. [building excitement] And my roommate's girlfriend who keeps stealing our toilet paper. [brightening] Maybe you're onto something here.
+
+Character 2: [proudly] Now you're thinking like a real comedian. [Chuckle] Embrace the chaos of your actual existence. [seriously] Your life is already a joke, just learn how to tell it properly.
+
+395 Character 1: [renewed energy] Alright, new plan then! [determined] I'm ditching all the airplane food garbage and going full millennial-crisis mode. [laughing] If I'm going down, at least it'll be as myself.
+
+Character 2: [supportively] That's the spirit! [teasingly] Though maybe workshop it with someone besides Sarah this time. [Loud laugh] And for the love of comedy, please retire that Christopher Walken impression forever.
+
+--- CS ALPHANUMERIC ---
+
+Script: 67b45f49 | Role: Customer Support
+
+Character 1: [confused] So I'm looking at policy PET-447892X, and there's this whole section about, um, pre-existing conditions that's just... [frustrated sigh] it's written like a law textbook. [slower] Does my cat's anxiety from 2019—before I even thought about insurance—does that count against me?
+
+396 Customer Support: Thank you for calling about policy PET-447892X! I completely understand the confusion—pre-existing conditions can be tricky. [reassuring tone] Basically, any diagnosed condition before your coverage start date of March 15th, 2024, would be considered pre-existing.
+
+Character 1: [skeptical] But here's the thing—Dr. Morrison at 4821 Oakwood Avenue only wrote "nervous behavior" in her notes. [increasingly agitated] That's not really a diagnosis, is it? [softer] I mean, what cat isn't nervous at the vet?
+
+397 Customer Support: That's actually a great point about veterinary language. We'd need to review the complete medical records from Dr. Morrison's office. [helpful tone] Even informal observations can sometimes be classified as pre-existing, but nervous behavior alone might not exclude coverage.
+
+Character 1: [exasperated groan] The thing is, I've already paid $1,847.50 in premiums since March, and now—[pause]—now Whiskers needs actual treatment. [worried] Her new vet says it's definitely clinical anxiety, needs medication, probably $200 monthly.
+
+398 Customer Support: I can see why you're concerned about the investment you've made. Let me pull up your claim history under account WH-3847-ANXC. Since you've been continuously covered, we might have options through our behavioral wellness add-on.
+
+Character 1: [sarcastically] Oh fantastic, another add-on that probably costs—what—$47.99 more per month? [sighs heavily] Look, I just need to know if code ICD-F41.9 for generalized anxiety will be covered or if I'm just... [deflated] throwing money away.
+
+399 Customer Support: Actually, the behavioral add-on is only $12.50 monthly, effective immediately. And here's something interesting—since there's a gap between 2019 and 2024 with no treatment, we might consider this a new episode rather than continuation.
+
+Character 1: [suddenly interested] Wait, really? [faster] So because I didn't treat it for—let me count—four years, five months, it's like... reset? [cautiously optimistic] Even though it's technically the same underlying issue?
+
+400 Customer Support: Our underwriting department at extension 5521 would make the final determination. [more confidently] But yes, gaps over 24 months often qualify for reconsideration. I can expedite your case to senior reviewer Ms. Chen, reference number SR-9984-FELX, for review within 48 hours.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 5a9a09bc | Role: Customer Support
+
+401 Customer Support: Good afternoon, Riverside Auto, service department speaking. [quickly] How can I help you today—do you have an appointment or, uh, a question about your vehicle?
+
+Character 1: [frustrated] Yeah, I got this recall notice in the mail yesterday about my steering column. [sighs heavily] The thing is, I've been calling you guys for three weeks about a weird clicking sound, and [angrily] nobody ever mentioned a recall!
+
+402 Customer Support: Oh, I see, let me just... pull up your information here. [more quickly] What's your VIN number or—actually, your name and the vehicle year would work too, whatever's easier.
+
+Character 1: [impatiently] It's Davidson, Sarah Davidson. [groans] 2019 sedan, the blue one—look, is this steering thing dangerous? [worried] Should I even be driving it right now?
+
+403 Customer Support: Okay, Ms. Davidson, I'm seeing your file here. The recall is precautionary, but we do recommend scheduling service within, um, thirty days. You're safe to drive, just avoid any aggressive steering maneuvers.
+
+Character 1: [sarcastically] Aggressive steering? [louder] What does that even mean—no turning left? [exasperated sigh] This is ridiculous, I need my car for work every single day!
+
+404 Customer Support: No, no, normal driving is completely fine, I meant like—racing or extremely sharp turns at high speeds. [more calmly] Let me check our earliest availability for the repair, which takes about two hours.
+
+Character 1: [skeptical] Two hours, sure, but last time you said an oil change would take thirty minutes. [bitterly] I sat in that waiting room for three and a half hours watching daytime TV!
+
+405 Customer Support: I understand your frustration, truly. For recall work, we prioritize those appointments and—here we go—I can get you in Thursday at eight AM. Would that work?
+
+Character 1: [sighs] Thursday... I guess I can rearrange my morning meetings. [cautiously] This is covered completely, right? [more firmly] Because I'm not paying for something that's your manufacturer's mistake.
+
+406 Customer Support: Absolutely, one hundred percent covered—parts, labor, everything. We'll even provide a loaner vehicle if you need one, though most customers just wait since it's, you know, relatively quick.
+
+Character 1: [relieved] Okay, fine, book me for Thursday then. [chuckles dryly] A loaner for two hours seems excessive, but—wait—[suddenly worried] will they check that clicking noise while they're at it?
+
+407 Customer Support: Oh yes, definitely! I'll add a note right now about the clicking sound, and since they'll already be working on the steering column, it might even be related.
+
+Character 1: [sarcastically] Might be related? [groans] You think? [resigned] Whatever, just... make sure someone actually looks at it this time, please.
+
+408 Customer Support: I've highlighted it in your file, and I'll personally mention it to Jake, our lead technician. Now, you'll get a confirmation text shortly with all the details—Thursday, eight AM sharp.
+
+Character 1: [tired] Yeah, okay, I'll be there. [sighs] Do I need to bring anything specific—the recall notice or... [trailing off] I don't know, documentation or whatever?
+
+409 Customer Support: Just bring the recall notice if you have it handy, but honestly, we have everything in the system already. Oh, and your keys, obviously—sometimes people forget those!
+
+Character 1: [chuckles] Right, keys would help. [more seriously] And you're absolutely sure it's safe to drive until Thursday? [nervously] It's a twenty-mile commute each way.
+
+410 Customer Support: Completely safe for normal driving, I promise. If you experience any actual steering problems before then—which is highly unlikely—just call us immediately, and we'll arrange a tow.
+
+Character 1: [resigned] Alright, I guess I'll see you Thursday then. [sighs] Eight AM, sharp, two hours max—[firmly] and someone better check that clicking sound, or I'm asking for Jake personally.
+
+--- BASIC SCENARIOS ---
+
+411 [Sigh] You know what, I'm just gonna—I'm gonna order pizza and watch something stupid, okay? [Chuckle] That's self-care, right?
+
+412 [Fast] Honestly, if one more thing goes wrong today, I swear I'm just gonna lose it completely. [Groan] [Angry] Like, how is this even possible?
+
+413 [Happy] Wait, my favorite show just dropped a new season! [Laugh] I mean, the day's been trash but at least there's, uh, there's that.
+
+414 [Whisper] Maybe I should just, like, crawl into bed and pretend today never happened. [Slow] Tomorrow's gotta be better, right?
+
+415 [Sarcastic] Oh sure, because what I really needed was to spill coffee on myself too. [Tsk] Perfect ending to a perfect day.
+
+416 [Disappointed] I thought treating myself to ice cream would help, but I'm still just—ugh, I dunno, empty? [Sigh]
+
+417 [Shout] Okay, that's it! [Fast] I'm done feeling sorry for myself—gonna blast some music and just, like, dance it out!
+
+418 [Slow] My mom always said bad days are just... um, what was it? [Chuckle] Something about tomorrow being a gift or whatever.
+
+419 [Sad] I keep trying to—to find something good about today, but honestly? [Whisper] I got nothing.
+
+420 [Happy] You know what, screw it—I'm gonna take a bubble bath with, like, all the fancy stuff I've been saving. [Laugh]
+
+421 [Angry] Why do I even bother trying when everything just—[Groan] No, you know what? Not doing this to myself.
+
+422 [Sarcastic] [Fast] Oh look, my horoscope says today's gonna be great for new opportunities—bit late for that advice, stars.
+
+423 [Disappointed] I had this whole plan to, um, to turn things around after lunch, but then I just... [Tsk] couldn't.
+
+424 [Slow] Maybe I should call someone? [Sigh] Actually, no, I don't wanna dump all this on—never mind.
+
+425 [Chuckle] At least my cat's happy to see me, even if I'm a total mess right now. [Happy] C'mere, buddy.
+
+426 [Shout] [Angry] This day can officially bite me! I'm so—wait, is that wine still in the fridge?
+
+427 [Whisper] Tomorrow I'll wake up and this'll all just be, like, a weird bad memory. [Slow] [Sad] Hopefully.
+
+428 [Fast] Okay so basically I'm gonna make a list of—no wait, lists stress me out. [Laugh] Forget the list!
+
+429 [Disappointed] I really thought today would be different, y'know? [Sigh] Like, I actually woke up feeling good for once.
+
+430 [Happy] [Fast] Found twenty bucks in my jacket pocket—I mean, the day sucked but hey, surprise money's kinda nice!
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+431 SCENARIO: Frustrated about being put on a waitlist, then gets the call mid-rant that they're in
+
+==================================================
+
+[frustrated]
+
+Okay so you know how I've been waiting to hear back from that graduate program? The one I really, really wanted? Well they finally— they finally got back to me today and guess what. Waitlist. [scoff] Waitlist!
+
+[annoyed]
+
+Like what does that even mean, you know? It's like being in relationship purgatory or something. They're basically saying "eh, maybe, if someone better doesn't come along." It's so— ugh, it's so degrading.
+
+[bitter]
+
+And the worst part is now I have to just sit here and, and wait around like some desperate— I don't know, like I'm begging for scraps or whatever. Meanwhile all my friends are getting their acceptance letters and planning their futures and I'm just—
+
+[increasingly agitated]
+
+I mean I had a 3.8 GPA, my recommendations were amazing, my personal statement was— I spent months on that thing, months! And for what? To be told "thanks but you're not quite good enough, but stick around just in case"?
+
+[phone ringing] [surprised]
+
+Oh wait, that's— that's actually them calling. The admissions office. Hold on, I should— hello?
+
+[shocked] [barely containing excitement]
+
+Oh my god. Oh my GOD. Yes, yes I'm still interested! [nervous laugh] Sorry, I was just— yes, absolutely, when do I need to— okay, okay thank you so much!
+
+[elated] [slightly embarrassed]
+
+Dude. I'm in. Someone declined their spot and I'm— I'm actually in! [laugh] God, I feel like such an idiot for that whole rant.

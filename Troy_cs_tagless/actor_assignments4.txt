@@ -1,0 +1,280 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: d75d5884_script | Role: Character 2 (B)
+
+
+292 Character 2: Okay I deserve that. I totally deserve that. But like, honestly? I'm gonna make this up to you. Whatever you need—unpacking, organizing, I'll buy you pizza for a month, I don't care. Just... please don't hate me forever?
+
+Character 1: I don't hate you.
+
+293 Character 2: You sure? Because you seem pretty—I mean, you have every right to be pissed. I would be too if someone flaked on me like that.
+
+Character 1: I'm tired. And my back hurts. And yeah, I'm pissed.
+
+294 Character 2: Can I—would it be okay if I came over now? I could bring dinner and help you unpack? Or just... sit there while you yell at me some more. Whatever you need, honestly. [sigh] I just really wanna fix this.
+
+Character 1: You can't "fix" my back.
+
+295 Character 2: No, but I've got that heating pad you like? And um, those muscle relaxer things from when I threw out my shoulder? Plus I make a mean massage—wait, that's weird. I meant like, I could help with the heavy boxes that are left or whatever.
+
+Character 1: ...You still have that heating pad?
+
+296 Character 2: Yeah! The fancy one with like, all the settings and stuff. And I'll grab takeout from that Thai place you love—the one with the crazy spicy pad thai that basically destroys my mouth but you somehow eat like it's nothing?
+
+Character 1: Fine. But you're paying.
+
+297 Character 2: Obviously! Oh thank god, yes, absolutely I'm paying. And next time you move—which hopefully isn't for like, a really long time—I'm gonna be there super early with coffee and donuts and like, an actual truck. I promise. No more flaking.
+
+Script: f5ec5e95_script | Role: Character 2 (B)
+
+Character 1: I saw the photos on Instagram.
+
+298 Character 2: Oh god. Oh no no no. I was gonna—I wanted to tell you in person, I swear. This isn't how you were supposed to find out.
+
+Character 1: Your wedding. You got married and didn't invite me.
+
+299 Character 2: I know how it looks but it wasn't—we didn't really invite anyone? It was super small, like literally just family and—okay that sounds worse. [nervous laugh] I'm making this worse.
+
+Character 1: We've been friends for twelve years.
+
+300 Character 2: I know! God, I know, and that's why this is so—I mean, you gotta understand, Marcus's parents basically hijacked the whole thing? They wanted this tiny ceremony and we just... we went along with it.
+
+Character 1: Right.
+
+301 Character 2: No wait wait, please don't do the one-word thing. I can't—I need you to know that I wanted you there. Like, desperately wanted you there. I actually argued about it for weeks. [sigh]
+
+Character 1: But not hard enough, apparently.
+
+302 Character 2: That's... yeah. That's fair. I should've fought harder, I should've just—I dunno, insisted? But his mom was crying and talking about tradition and intimate family moments and I just... I caved. I'm weak, okay? I'm admitting it.
+
+Character 1: You could have at least told me. Before Instagram knew.
+
+303 Character 2: You're right. You're absolutely right and I'm—I'm literally the worst friend. I kept meaning to call but then it felt like the longer I waited the worse it got? And then suddenly it was happening and—that's not an excuse. There's no excuse.
+
+Character 1: I would have understood if you'd just talked to me.
+
+304 Character 2: I know. [groan] God, I know you would've and that makes it worse somehow? Like you're—you're literally being more understanding right now than I deserve and I just... I panicked. I always panic with confrontation, you know that about me.
+
+Character 1: This really hurt.
+
+305 Character 2: I'm so sorry. Like, from the bottom of my heart, I'm so—we're actually planning a bigger reception thing next month? For all our friends? And you're obviously—I mean, if you even wanna come now—you're the first person on that list.
+
+Character 1: A reception. After the fact.
+
+306 Character 2: I know it's not the same. It's not. But maybe we could—I dunno, maybe you could do a speech? Or—wait, that's probably insulting to even suggest. I just... I really wanna make this right somehow.
+
+Character 1: I need some time to think about it.
+
+307 Character 2: Yeah. Yeah, of course. Take all the time you need. And I'm—I'm just really, really sorry. You deserved so much better from me. As a friend, I mean. You deserved better.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+308 SCENARIO: discovering the restaurant they walked to is closed
+
+==================================================
+
+[confused]
+
+Oh. Oh, um— okay, so they're just... they're just closed. Cool. That's, uh, that's not what I was expecting when I walked, like, fifteen minutes to get here. [sigh] There's a sign and everything. "Closed for staff training." Staff training on a Tuesday? I mean, I guess that's— that's when you do it, but—
+
+[slightly annoyed]
+
+I was really, um, I was really looking forward to their pad thai, you know? Like, I've been thinking about it all day, and now I'm just standing here like an idiot going, uh, going "well, what now?" [laugh] Should've called ahead. Should've definitely called ahead, but who calls restaurants anymore? I mean, some people do, but—
+
+[muttering]
+
+Okay, so, um, what are my options here? I could walk back home and just, like, make a sandwich or something. Thrilling. Or there's that pizza place down the street, but I had pizza yesterday, so that's... that's probably not great for me.
+
+[brightening slightly]
+
+Wait, actually— actually, there's that new Thai place that opened up near the, uh, near the grocery store. I've been meaning to try it anyway, so maybe this is just, um, maybe this is the universe telling me to branch out a little. [hmm] Yeah, let's— let's go with that.
+
+--- CONVERSATION ---
+
+Script: b65dbed2 | Role: Character 2 (B)
+
+Character 1: [Roaring] We did it, brother! [breathless] The emperor's finest warriors lay beaten in the sand! [triumphant shout] Twenty years I've fought in this arena, and never have I felt victory taste this sweet upon my tongue!
+
+309 Character 2: [Wild laughter] Their golden armor couldn't save them! [panting heavily] Did you see Marcus's face when my blade found its mark? [quieter] The crowd chants our names now, not theirs—we are legends born today!
+
+Character 1: [Deep growl] Let them remember this day. [building intensity] Two slaves who became gods in this circle of death! [Spitting] The emperor watches from his throne, and for once, his champions taste defeat's bitter dust.
+
+310 Character 2: [Hushed awe] Look at them flee the arena. [mocking tone] The "invincible" Praetorian Guard, running like children! [Bellowing laugh] My mother always said I'd amount to nothing—if only she could witness her son's glory now!
+
+Character 1: [Low and dangerous] This changes everything, you realize? [faster] No more fighting for scraps, no more sleeping in chains. [Victory cry] Freedom tastes sweeter than wine, and we've earned it with blood and steel today!
+
+311 Character 2: [Whispered excitement] The emperor's jaw clenched when you broke Titus's shield. [growing louder] His precious champion, trained since birth, defeated by arena dogs! [Cackling] We've shattered more than bones—we've broken the myth of their superiority forever!
+
+Character 1: [Weary but proud] My wounds sing with purpose now. [steadier] Every scar was worth this moment, every drop of blood a payment. [Thunderous] Rome will speak our names in taverns and temples for generations to come!
+
+312 Character 2: [Trembling with emotion] Brother, we've survived the impossible. [more firmly] A hundred men have died where we stand victorious. [Sobbing laugh] The gods themselves must have guided our blades through that massacre of steel and fury!
+
+Character 1: [Soft wonder] The silence before they cheered felt eternal. [building excitement] Then came the thunder of ten thousand voices screaming our worth! [Hoarse shout] We are no longer property—we are champions who conquered the unconquerable!
+
+313 Character 2: [Fierce whisper] Tomorrow they'll offer us anything—gold, women, land beyond imagination. [normal volume] But tonight, we stand as brothers forged in combat's furnace. [Roaring] Nothing can break the bond of warriors who've tasted death together!
+
+Character 1: [Gravelly voice] The sand beneath our feet holds their blood now, not ours. [lighter] For once, we walk away while others are carried. [Bitter laugh] The mighty emperor must crown slaves as his new champions!
+
+314 Character 2: [Quick and excited] Did you hear the senators gasping when I took two at once? [slowing down] Their perfect world crumbled in moments. [Shrieking victory] We've proven that birth means nothing when steel meets flesh in honest combat!
+
+Character 1: [Exhausted pride] My sword arm burns like fire, but my spirit soars higher. [stronger] We entered as entertainment for nobles. [Quiet intensity] We leave as the men who humbled an empire's greatest warriors before thousands.
+
+315 Character 2: [Shaking voice] I thought we'd die today, truly. [more confident] Instead, we've written ourselves into Rome's history with blood. [Hysterical laughter] The emperor's champions—defeated by two nameless gladiators who refused to kneel or break!
+
+Character 1: [Booming declaration] Let every fighter in every ludus hear this tale! [softer] Hope lives even in chains, brother. [Building roar] We've proven that courage and skill can topple even golden-armored arrogance from its throne!
+
+316 Character 2: [Breathless wonder] The crowd threw flowers instead of stones. [steadying] Women weep for our victory, children chant our names in streets. [Triumphant cry] We've become what every gladiator dreams—heroes instead of corpses in sand!
+
+Character 1: [Grim satisfaction] Their training, their breeding, their noble blood—all worthless. [louder] We learned to fight in desperation's shadow. [Barking laugh] That made us deadlier than any emperor's pampered warriors could ever hope to become!
+
+317 Character 2: [Reverent whisper] The gods watched us today, I felt it. [normal tone] Mars himself guided my blade through their defenses. [Screaming] We were instruments of divine justice, punishing their hubris with our humble, savage strength!
+
+Character 1: [Slow and meaningful] This arena has seen our transformation, brother. [quickening] From nothing to everything in one glorious afternoon. [Choking up] My children will know their father stood tall when the empire tried to crush him.
+
+318 Character 2: [Final roar] Tonight we feast as free men! [quieter triumph] Tomorrow brings new battles, but nothing can steal this moment. [Whispered intensity] We are gladiators who conquered champions, and Rome herself trembles at what we've done!
+
+--- CS ALPHANUMERIC ---
+
+Script: 30ff1941 | Role: Customer Support
+
+Character 1: [frustrated] Dr. Matthews, this is Jennifer Wilson, patient ID 4782-B. [groans] My lower back has been killing me since Tuesday's adjustment—it's actually worse than before I came in. [accusingly] What exactly did you do to me?
+
+319 Customer Support: Ms. Wilson, I'm so sorry to hear you're experiencing increased discomfort. Let me pull up your file from Tuesday, November 14th... Can you describe specifically where the pain is radiating?
+
+Character 1: [sharply] It's shooting down my left leg now, all the way to my ankle! [exasperated] I can barely walk to my mailbox at 2847 Oak Street without—without crying. [bitterly] This never happened before your treatment.
+
+320 Customer Support: That sounds like potential sciatic nerve involvement, which is concerning. [more urgently] I need you to come in immediately—can you make it by 3:30 PM today? We'll do a complete reassessment, no charge, reference code NC-1147.
+
+Character 1: [sarcastically] Oh great, so you can make it worse? [sighs heavily] My husband already thinks I'm crazy for trusting a chiropractor. [demanding] I want my $185 copay refunded from visit C-20231114.
+
+321 Customer Support: I understand your frustration completely, Ms. Wilson. However, sometimes the body needs 48 to 72 hours to adjust—though your symptoms do sound atypical. Let's focus on getting you relief first.
+
+Character 1: [angrily] Atypical? You cracked my back like a glowstick! [voice breaking] I've been taking 800mg of ibuprofen every four hours just to function. [desperately] My insurance, BlueCross policy PPO-7829, better cover whatever you need to fix.
+
+322 Customer Support: [professionally] Your insurance is active in our system, yes. [concerned tone] But Ms. Wilson, that's too much ibuprofen—please reduce to 600mg maximum. Can you rate your pain from 1 to 10 right now?
+
+Character 1: [loudly] It's a solid 9, Doctor! [trembling] Yesterday at 4 AM, I literally crawled to the bathroom. [accusingly] My neighbor at unit 2849 heard me crying through the walls—this is humiliating!
+
+323 Customer Support: Ms. Wilson, with pain at that level, you need immediate attention. If you can't make it here, call 911 or go to Mercy General ER. I'll fax them your records, patient file JW-4782B-2023.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 907d5119 | Role: Customer Support
+
+324 Customer Support: Thank you for reaching out to our office. I see you're inquiring about insurance coverage for therapy sessions. How can I help you today?
+
+Character 1: [hesitant] Hi, um, I have BlueCross BlueShield and I'm... [pause] I'm wondering if you accept it? [nervously] My card says PPO but I honestly don't understand what that means.
+
+325 Customer Support: Yes, we do accept BlueCross BlueShield PPO plans. [briskly] Let me explain quickly—PPO means you have out-of-network benefits too, but in-network saves you money. Would you like me to verify your specific benefits?
+
+Character 1: [relieved] Oh thank god, yes please. [more anxiously] I've been putting this off for months because... [sighs] insurance stuff just overwhelms me. Do I need pre-authorization or something?
+
+326 Customer Support: [calmly] I completely understand, insurance can be confusing. For most PPO plans, you don't need pre-authorization for outpatient therapy. I'll just need your member ID and date of birth to check your benefits.
+
+Character 1: [fumbling] Sure, it's... wait, let me find my card. [frustrated groan] The member ID is XYZ789456. [quieter] Born March 15th, 1991. How much will I have to pay?
+
+327 Customer Support: Let me pull that up for you right now. [briskly] While I'm checking—typically PPO plans have a deductible, then you pay a copay or coinsurance. Your out-of-pocket costs depend on whether you've met your deductible.
+
+Character 1: [worried] My deductible is like $2,000 and I've only paid maybe... [calculating] three hundred toward it? [desperately] I really need help but I can't afford hundreds per session.
+
+328 Customer Support: I see your deductible is $2,000, you're right. But here's good news—your plan covers 80% after deductible, and our session rate is $150. So you'd pay full price until deductible, then just $30 per session.
+
+Character 1: [shocked] Wait, only $30 after the deductible? [hopefully] That's... that's actually doable. [faster] How many sessions would it take to hit my deductible then?
+
+329 Customer Support: With $1,700 remaining on your deductible, roughly eleven sessions at full price. Many clients find the investment worth it, especially since therapy is ongoing. We also offer payment plans if that helps.
+
+Character 1: [thoughtfully] Eleven sessions... that's almost three months weekly. [sighs deeply] I mean, I need this, I've been struggling since... [determined] okay, yes. Can we do biweekly to start?
+
+330 Customer Support: Absolutely, biweekly is perfectly fine to start. Dr. Martinez has openings Tuesday afternoons and Thursday mornings. [warmly] Would either of those work for your schedule?
+
+Character 1: [quickly] Tuesdays would be perfect, I work from home then. [nervously] Um, stupid question but—do I pay you directly and get reimbursed, or... [trails off] how does billing work exactly?
+
+331 Customer Support: Not a stupid question at all! We bill insurance directly, you just pay your portion at each visit. We'll handle all the claim submissions and paperwork for you.
+
+Character 1: [relieved exhale] Oh thank god, I was dreading dealing with claim forms. [curiously] What if insurance denies something? [worried] I've heard horror stories about surprise bills months later.
+
+332 Customer Support: We verify benefits before every session to avoid surprises. [quickly] If there's ever an issue, we contact you before providing service. You'll always know your costs upfront—no surprise bills, I promise.
+
+Character 1: [gratefully] This is... you've made this so much easier than I expected. [emotionally] I've been putting off getting help because of insurance fears. [decisively] Let's book that Tuesday slot, what time?
+
+333 Customer Support: I'm so glad we could help clarify everything. Tuesday at 2 PM or 4 PM? Dr. Martinez is wonderful, you're making a great decision for your health.
+
+Character 1: [enthusiastically] 2 PM works perfectly! [sighs happily] I actually feel... hopeful? [chuckles] Who knew insurance conversations could be therapeutic too. Thank you so much for your patience.
+
+--- BASIC SCENARIOS ---
+
+334 [Slow] I'm just gonna, um, rest my eyes for like two seconds here—no, no, I'm awake, totally listening. [Groan]
+
+335 [Whisper] Did anyone else just see that? [Fast] I swear the clock went backwards, I'm not even kidding right now.
+
+336 [Sarcastic] Oh wow, another pie chart about quarterly projections—this is, uh, this is exactly what my Tuesday needed. [Tsk]
+
+337 [Happy] Coffee break! [Laugh] Finally, I can—wait, we're not done yet? Seriously?
+
+338 [Angry] If he says "synergy" one more time, I'm gonna literally lose it, I mean, who even talks like that? [Groan]
+
+339 [Sad] I used to be, like, excited about these meetings, y'know? [Sigh] Now I just kinda feel my soul leaving my body.
+
+340 [Fast] Quick, someone ask a question so I can, um, so I can wake up a bit—I'm drifting here, people! [Chuckle]
+
+341 [Disappointed] This could've been an email. [Slow] This really, really could've been a two-sentence email, couldn't it?
+
+342 [Whisper] [Fast] Pinch me, pinch me right now before I start snoring—no wait, that's too obvious, just kick my chair.
+
+343 [Shout] What? Oh, sorry, I was just—[Laugh]—enthusiastically agreeing with your point about, uh, the thing you just said!
+
+344 [Slow] The fluorescent lights are literally humming a lullaby right now, and I'm, I'm fighting for my life here. [Sigh]
+
+345 [Happy] Only forty-seven minutes left! [Sarcastic] I mean, who's counting, right?
+
+346 [Angry] [Fast] My phone's dead, I've counted the ceiling tiles twice, and I swear time has actually stopped moving forward.
+
+347 [Disappointed] I drove through rush hour traffic for this? [Tsk] [Slow] For a PowerPoint that hasn't changed since 2019?
+
+348 [Whisper] Is it just me or does his voice sound exactly like, um, like white noise? [Chuckle] [Fast] I'm basically being hypnotized here.
+
+349 [Sad] I had such big plans for today, y'know, and now I'm just—[Sigh]—now I'm watching my life tick away, slide by slide.
+
+350 [Sarcastic] Sure, let's dive deeper into subsection 4B, because the first hour wasn't thorough enough, apparently. [Groan]
+
+351 [Slow] [Whisper] If I just slowly slide down in my chair, maybe I can disappear under the—no, he's looking at me.
+
+352 [Happy] [Fast] Wait, are those donuts? There are donuts! Suddenly I'm wide awake and very interested in this budget report!
+
+353 [Angry] My leg's gone numb, my brain's gone numb, everything's just—[Tsk]—I gotta get outta here before I become part of the furniture.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+354 SCENARIO: Complaining about a weird noise in the car, then it stopping on its own
+
+==================================================
+
+[frustrated]
+
+Okay so you know how my car's been making that weird noise? Like that, that grinding sound whenever I brake? Well today it was so bad, like I'm driving to work and every time I stop at a light it's just— [groan] it sounds like nails on a chalkboard.
+
+[anxious]
+
+And I'm thinking great, this is gonna cost me like a thousand dollars I don't have. I'm already picturing the mechanic being like "oh yeah, your brake pads are completely shot" or whatever, and I'm gonna have to put it on my credit card again.
+
+[worked up]
+
+So I call three different shops trying to get an appointment, and of course nobody can see me until next week. One guy was like "well if it's grinding you really shouldn't be driving it" and I'm like okay well I still need to get to work, so—
+
+[confused]
+
+But then the weirdest thing happened. I'm driving home and I brake for this stop sign, and... nothing. No noise. I try it again and it's completely silent.
+
+[bewildered] [half laugh]
+
+Like what? Cars don't just, they don't just fix themselves, right? But I've been braking for like ten minutes now and it's totally fine. Maybe it was just... I don't know, maybe something was stuck?
+
+[relieved] [slightly embarrassed]
+
+I mean I'm not complaining, but now I feel kind of stupid for panicking about it all day.
