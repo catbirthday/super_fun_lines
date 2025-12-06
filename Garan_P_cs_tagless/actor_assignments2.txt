@@ -1,0 +1,599 @@
+ACTOR LINE ASSIGNMENTS - 102 ITEMS (~2258 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  310 words ( 13.7%)
+
+  monologues_selftalk :  185 words (  8.2%)
+
+  conversation        :  363 words ( 16.1%)
+
+  cs_alpha            :  414 words ( 18.3%)
+
+  cs_noalpha          :  320 words ( 14.2%)
+
+  basic_scenarios     :  403 words ( 17.8%)
+
+  monologues          :  263 words ( 11.6%)
+
+  TOTAL               : 2258 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (44 words)
+
+Script: 14053732_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Nice of you to finally tell me about the trip.
+
+101 Character 2: Oh god, you heard about—okay, I was gonna tell you, I swear. It just—everything happened so fast and I meant to text you but then—wait, who told you?
+
+Character 1: Does it matter?
+
+102 Character 2: No, no you're right. It doesn't. I just—I feel terrible, okay? Like genuinely awful. We were all hanging out and someone mentioned the beach house and suddenly everyone was making plans and I kept thinking I should call you but—[groan] that sounds so lame now.
+
+Character 1: Yeah. It does.
+
+103 Character 2: I know, I know. I'm the worst friend ever. But honestly, it wasn't like we deliberately excluded you or anything. It was more like—okay that's not better. Um. I'm making this worse, aren't I?
+
+Character 1: You made a whole group chat without me.
+
+104 Character 2: That was—okay yeah, that looks bad. Really bad. [nervous laugh] But it was supposed to be temporary! Just to figure out dates and then I was gonna add you once we had the basics down because you know how chaotic those big group chats get and I thought—I dunno, I thought I was being helpful?
+
+Character 1: Helpful. By leaving me out completely.
+
+105 Character 2: No no no, not leaving you out! More like—wait wait, let me explain properly. You know how you hate when everyone's talking over each other making plans? I wanted to have something concrete before I brought it to you. But then—then it kinda snowballed and suddenly everyone was booking flights and I realized how badly I'd messed up.
+
+Character 1: Two weeks. You've been planning this for two weeks.
+
+106 Character 2: I know. God, when you put it like that it sounds—it is terrible. I kept meaning to tell you, literally every day I'd think "I gotta text them" but then I'd psyche myself out because I knew you'd be upset and the longer I waited the worse it got and—that's not an excuse. I'm not trying to make excuses.
+
+Character 1: But you are.
+
+107 Character 2: You're right. You're—you're totally right. [sigh] I'm doing that thing where I talk and talk instead of just saying sorry, aren't I? I'm sorry. Like really, genuinely sorry. I should've included you from the start.
+
+Character 1: This isn't the first time either.
+
+108 Character 2: What? What do you—oh. Oh, the concert thing. And the—yeah. Okay. I see it now. I keep doing this, don't I? Making decisions for the group without asking you. I didn't even realize I was—no, that's a lie. Part of me knew. I just... I guess I thought I was being efficient or something but really I was just being a crappy friend.
+
+Character 1: I'm tired of finding out about things after everyone else.
+
+109 Character 2: You shouldn't have to. That's—you're part of this group, you know? Like, you're important to us. To me. And I've been treating you like you're not and that's—[quieter] I'm really, really sorry. Can we—can we figure out a way to fix this? I wanna fix this.
+
+Character 1: I don't know. Maybe start by actually including me?
+
+110 Character 2: Yes. Yes, absolutely. Starting right now—actually, everyone's meeting tomorrow to finalize stuff and you should—you should totally be there. I mean, if you want. And maybe we can talk about, like, how to make sure this doesn't happen again? Because I don't wanna lose you as a friend over me being an idiot.
+
+Script: 2eec3589_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: My sister asked me to be her kid's godparent.
+
+111 Character 2: Oh my god, wait—that's huge! That's like, that's such an honor, right? How are you—I mean, how are you feeling about it?
+
+Character 1: I don't know. It's a lot.
+
+112 Character 2: No no no, totally, I get that. It's like—it's not just some random title, y'know? There's actual, um, responsibilities and stuff. When did she ask you?
+
+Character 1: Yesterday. At dinner. In front of everyone.
+
+113 Character 2: She—wait, she asked you in front of everyone? [Groan] That's so much pressure! Like, what are you supposed to say, right? "Let me think about it" while grandma's watching?
+
+Character 1: Exactly. I just said yes.
+
+114 Character 2: Of course you did! I mean, what else could you—but okay, okay, so now you're kinda freaking out about what you agreed to?
+
+Character 1: I don't even go to church.
+
+115 Character 2: Oh. Oh yeah, that's—hmm. Does your sister know that? Because like, isn't there usually some whole religious ceremony thing?
+
+Character 1: She knows. She said it doesn't matter. But it matters to me.
+
+116 Character 2: Right, because you're actually—you're actually thinking about what it means, which is honestly really thoughtful. Most people just, y'know, show up and smile for photos.
+
+Character 1: What if something happens to them? I'd have to raise a kid.
+
+117 Character 2: Okay wait wait wait—that's like, that's the worst-case scenario though. [Softer] But I get it, you're taking it seriously, which is... actually kinda beautiful?
+
+Character 1: Beautiful. Right.
+
+118 Character 2: No, I mean it! Like, you could just be buying presents and showing up for birthdays, but you're actually thinking about—about being there, really being there if they need you.
+
+Character 1: I can barely take care of myself.
+
+119 Character 2: Oh stop, that's—that's not true and you know it. You're literally the most responsible person I know. Remember when you, um, when you watched my cat for like three weeks? [Chuckle] He was basically your son.
+
+Character 1: Your cat just sleeps all day.
+
+120 Character 2: Okay fine, but still! Look, being scared about this just means you understand how important it is. That's—that's exactly why your sister picked you, y'know? Not in spite of the overthinking. Because of it.
+
+Script: 10b46ecd_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You threw up on my couch.
+
+121 Character 2: I—okay, yes, that happened, but I told you I was nervous about meeting all your work friends and you just kinda... left me there with strangers while you played host.
+
+Character 1: So you got wasted?
+
+122 Character 2: That's not—[sigh] I didn't plan to get wasted, okay? People kept offering me drinks and I didn't wanna be that weird person who keeps saying no, and I was trying to like, loosen up, y'know?
+
+Character 1: You embarrassed me.
+
+123 Character 2: And I'm sorry about that, I am, but honestly? You embarrassed me first. You literally introduced me as your "friend from high school" and then ditched me. Not your best friend, not—just "friend from high school" like I'm nobody.
+
+Character 1: That doesn't excuse what you did.
+
+124 Character 2: No, it doesn't, you're right. But I'm not gonna sit here and pretend like I just randomly decided to ruin your party. I was uncomfortable and I—I handled it badly, fine, but [frustrated laugh] you're not exactly innocent here either.
+
+Character 1: My boss saw you stumbling around the kitchen.
+
+125 Character 2: Look look, I get why you're mad, I do. But you invited me to this thing knowing I don't do well with those kinds of people, and then you basically abandoned me to go network or whatever. What was I supposed to do?
+
+Character 1: Not get blackout drunk would've been a start.
+
+126 Character 2: I wasn't blackout—okay okay, I was really drunk, but I remember most of it. And yeah, throwing up was... that was bad. But come on, you've been way worse at my birthday last year.
+
+Character 1: That was different.
+
+127 Character 2: How? How is that different? Because it wasn't in front of your fancy work friends? Because it didn't affect your image or whatever? That's—that's pretty messed up actually.
+
+Character 1: You made me look unprofessional. At my own party.
+
+128 Character 2: And I'm sorry about the professional thing, seriously, but I'm also kinda hurt that you care more about what those people think than about why your supposed best friend was drinking that much in the first place. [scoff] Like, did you even wonder why?
+
+Character 1: You're an adult. Figure out your limits.
+
+129 Character 2: Yeah, I am an adult, and adults make mistakes sometimes. I dunno what you want me to say here—I already said I was sorry about the couch, I'll pay for cleaning, but I'm not gonna grovel because I had anxiety and dealt with it wrong.
+
+Character 1: Just forget it.
+
+130 Character 2: No, see, this is what you always do. You get all cold and shut down instead of actually talking about what's really bothering you. Fine fine, be mad, but don't pretend like this is all on me when you know—you know you could've handled things differently too.
+
+Script: dde5a11f_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Got the grant.
+
+131 Character 2: Wait wait wait—what? The big one? The one you've been like, completely stressing about for months?
+
+Character 1: Yeah. That one.
+
+132 Character 2: Oh my god, oh my god! This is—I mean, this is huge! How much are we talking here? Actually wait, is that rude to ask? [Laugh] I don't care, tell me everything!
+
+Character 1: Three hundred thousand. Over five years.
+
+133 Character 2: Three hundred—okay, I'm gonna need you to like, show some emotion here because that's literally life-changing money! Aren't you excited?
+
+Character 1: I am. Just processing.
+
+134 Character 2: No no no, I get it, I totally get it. It's like—when something this big happens, you kinda go numb first, right? [Sigh] God, I'm so proud of you though.
+
+Character 1: Thanks. There's a lot to do now.
+
+135 Character 2: Okay but like—can we just, can we celebrate for one second? You've been working on this forever! All those late nights, all those rewrites you were complaining about...
+
+Character 1: We can get dinner or something.
+
+136 Character 2: Dinner? Babe, this is champagne territory! This is like—I mean, you basically just got validated by the entire scientific community, y'know?
+
+Character 1: It's just money for research. Not a Nobel Prize.
+
+137 Character 2: Just money for—are you kidding me right now? Do you know how many people applied for this thing? Actually, wait, you told me. [Groan] It was like hundreds, wasn't it?
+
+Character 1: Four hundred and twelve.
+
+138 Character 2: See? See, that's what I'm talking about! Out of four hundred people, they picked you. That's... honestly that's kinda making me emotional and it's not even my grant!
+
+Character 1: You're being dramatic.
+
+139 Character 2: I'm being—okay fine, maybe a little, but like... you gotta understand, watching you doubt yourself all this time was rough, y'know? And now look!
+
+Character 1: I should probably call my advisor.
+
+140 Character 2: Yeah yeah, of course, but—hey. Before you go all business mode on me... you did it. You actually did it. Just let that sink in for a sec, okay?
+
+Script: 5f5c2d05_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: It's been three months.
+
+141 Character 2: I know, I know it has, okay? But you're acting like I'm just—like I forgot about it or something. I didn't forget, I just... things have been really tight, you know that.
+
+Character 1: You said two weeks.
+
+142 Character 2: Yeah, well, I thought it would be two weeks! I wasn't lying to you, I legitimately thought I'd have it by then. But then my hours got cut and—[sigh]—look, I'm not making excuses, I'm just telling you what happened.
+
+Character 1: You bought those concert tickets last month.
+
+143 Character 2: That's—okay, that's not fair. Those were like forty bucks, and it was my birthday. I'm supposed to just never do anything nice for myself? Come on.
+
+Character 1: My forty bucks, actually.
+
+144 Character 2: No, that's—you're twisting it. The money I owe you isn't the same as—I mean, I still gotta live my life. You're making it sound like I'm out here throwing money around when I'm literally eating ramen every night.
+
+Character 1: I'm eating ramen too. Because I lent you my grocery money.
+
+145 Character 2: And I feel terrible about that, okay? I do. But you—you said it was fine, that you weren't in a rush. Now suddenly you're acting like I scammed you or something. [frustrated laugh] That's not what this was.
+
+Character 1: When can you pay me back?
+
+146 Character 2: I don't—I dunno, maybe next month? I'm trying, alright? I've got like three bills overdue right now, my car needs fixing, and you're—honestly, you're not the only person I owe money to.
+
+Character 1: Oh. Great.
+
+147 Character 2: See, this is what I mean. You're being all—all cold and judgmental when you know, you know what I'm dealing with. My mom's medical bills, the layoffs... I'm drowning here and you're mad about concert tickets.
+
+Character 1: I asked you not to borrow it if you couldn't pay it back.
+
+148 Character 2: And I thought I could! God, I—I really thought I could. [scoff] But yeah, fine, I messed up. Is that what you wanna hear? I messed up and now we're both broke and you hate me for it.
+
+Character 1: I don't hate you. I just need my money.
+
+149 Character 2: Well I don't have it! I literally don't have it. So I guess we're—I dunno, we're stuck, aren't we? Unless you want me to sell my blood or something.
+
+Character 1: Maybe just ask before spending money on fun stuff. While you owe me.
+
+150 Character 2: Yeah. Yeah, okay. Fine. I'll—I'll check with you next time I wanna spend five dollars on coffee too. Look, I'm gonna pay you back, alright? I am. Just... gimme some time. Please.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (75 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (66 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (75 words)
+
+============================================================
+
+============================================================
+
+ITEMS 41-50 - EMPATHETIC PARTIAL (50 words)
+
+============================================================
+
+============================================================
+
+ITEMS 52-61 - CONVERSATION (363 words)
+
+Script: 0704b575
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+151 Character 1: [nervously] Did you check the slides again? [faster] I swear I saw a typo on slide fourteen—or was it fifteen? [Sharp inhale] We present in thirty minutes and I can't remember if I fixed the revenue projections from yesterday's edit.
+
+Character 2: [panicked whisper] Oh God, the projections! [louder] Wait, didn't Mark say we needed to update those charts too? [Nervous laugh] I've been so focused on my speaking notes that I completely forgot about the visual data updates.
+
+152 Character 1: [trembling] My hands won't stop shaking. [more urgently] What if Davidson asks about the Q3 metrics that we don't have yet? [Gulp] He always asks the one question we're not prepared for—remember last quarter's disaster?
+
+Character 2: [in a strained voice] Don't even mention last quarter! [quieter] I still have nightmares about stumbling through that market analysis. [speeding up] Plus Jennifer from accounting is sitting in today and she always catches every single numerical inconsistency.
+
+153 Character 1: [high-pitched] The conference room's projector was broken yesterday—did anyone fix it? [Shaky breath] I can't do this presentation on my tiny laptop screen. [desperately] Maybe we should just call in sick, both of us, right now.
+
+Character 2: [sarcastically] Oh sure, that won't be suspicious at all. [Bitter laugh] Two presenters simultaneously getting food poisoning? [in a lower voice] Though honestly, I might actually throw up from these nerves anyway, so it wouldn't be entirely dishonest.
+
+154 Character 1: [whimpering] I practiced all night but now I can't remember my opening line. [Gasping breath] It's like my brain just deleted everything! [more frantically] Do you have the backup notes? Please tell me you printed the backup notes.
+
+Character 2: [defeated tone] The printer ran out of toner this morning. [ironically cheerful] So no, no backup notes! [Hollow laugh] We're going in there with nothing but our laptops and whatever dignity we can desperately cling to.
+
+155 Character 1: [quavering voice] My mouth is so dry I can barely speak. [Nervous giggle] What if my voice cracks during the important part? [hushed] Everyone will think we're incompetent—they're probably already placing bets on our failure right now.
+
+Character 2: [in measured tones] Okay, okay, we need to breathe. [more shakily] We know this material inside out, even if our brains are melting. [Deep sigh] Let's just get through this together and never volunteer for anything ever again.
+
+156 Character 1: [quietly] You're right, we've prepared for weeks. [building confidence] The content is solid even if we're falling apart. [wavering] Though I still might need you to take over if I completely freeze up there.
+
+Character 2: [reassuringly] Deal, but same goes for me. [Shaky exhale] If I start hyperventilating, just smoothly take the clicker and keep going. [with dread] Oh God, they're gathering in the conference room already—I can see them through the glass.
+
+157 Character 1: [in a hollow voice] This is it then. [Nervous chuckle] Time to pretend we're competent professionals who definitely aren't dying inside. [whispered] Remember to smile—but not too much or they'll know we're faking it completely.
+
+Character 2: [grimly] My fake smile is ready. [more tensely] Along with my fake confidence and fake enthusiasm for these quarterly numbers. [Bitter laugh] At least after this we can collapse at our desks and eat stress chocolate for lunch.
+
+158 Character 1: [suddenly urgent] Wait, which version of the budget did you upload? [panicking] The one with the corrections or the draft? [Strangled gasp] Please don't tell me we're about to present completely wrong information to the entire leadership team.
+
+Character 2: [through gritted teeth] I uploaded version final-FINAL-v3-actually-final. [hysterically] That's the right one, right? [more desperately] Or was it supposed to be final-FINAL-v4-Davidson-approved? I can't even remember what day it is anymore!
+
+159 Character 1: [resigned] It doesn't matter now, we're out of time. [Hollow laugh] Whatever happens, at least we'll go down together in this corporate nightmare. [firmly] Let's just walk in there and pretend everything is absolutely perfect.
+
+Character 2: [with false brightness] Yes, absolutely perfect! [dropping lower] Nothing says professional like pit stains and trembling hands. [Sigh] Come on, let's grab our laptops and march to our doom—I mean, our very successful presentation.
+
+160 Character 1: [breathlessly] Okay, walking to the conference room now. [more quietly] My legs feel like jelly but I'm moving forward. [Shaky inhale] Just remember, if I pass out, tell them it's part of the dramatic effect.
+
+Character 2: [in a tight voice] And if I forget how to speak English, just say I'm demonstrating international market challenges. [Weak chuckle] Here we go—showtime! [whispered frantically] Oh God, Davidson's already sitting at the head of the table looking disappointed.
+
+============================================================
+
+ITEMS 62-71 - CS ALPHANUMERIC (414 words)
+
+Script: 04e52571
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [mysteriously] The shadows on Highway 47 whispered my plate number wrong, [pause] or so they claim. [softer] Violation #TRL-892347-X speaks of a silver chariot, but mine sleeps in burgundy dreams.
+
+161 Customer Support: Thank you for contacting FastPass Support regarding violation notice TRL-892347-X. I'm, uh, having difficulty understanding your concern—are you disputing the vehicle color listed on your toll violation from Highway 47?
+
+Character 1: [cryptically] The electronic eye at mile marker 23.7 blinked twice on Tuesday's moon. [sighs deeply] My account, EZ-5739-ALPHA, knows no silver truth, [whispering] only the burgundy vessel that carries my soul past concrete rivers.
+
+162 Customer Support: [patiently] I can see account EZ-5739-ALPHA in our system, thank you. To clarify—you're saying your vehicle is burgundy, not silver as listed? I'll need your license plate number to investigate this violation from Tuesday at mile marker 23.7.
+
+Character 1: [dramatically] Seven letters dance in twilight: 4-X-M-9-2-K-P, though cameras dream them differently. [chuckles darkly] The toll plaza at 1847 Riverside Avenue has seen my truth seventeen times, [quieter] yet Tuesday's passage remains... contested.
+
+163 Customer Support: Perfect, I've located plate 4XM92KP in our system. [increasingly concerned] There's definitely a discrepancy here—your registered 2019 Honda Accord is listed as burgundy, but the violation photo from 3:47 PM Tuesday shows what appears to be a silver Toyota Camry.
+
+Character 1: [ominously] Ah, the doppelganger emerges from digital fog! [more intensely] Someone wears my numbers like a mask at masquerade balls, dancing through tolls unpaid. [gasps] Check the timestamp's shadow—3:47 cannot exist where I was breathing at 482 Oak Street.
+
+164 Customer Support: Oh! You're suggesting someone has duplicate plates matching yours. This is actually a serious issue—plate cloning. If you were at 482 Oak Street at 3:47 PM, do you have any proof like a receipt or security footage we could reference?
+
+Character 1: [triumphantly] The oracle at Joe's Coffee, transaction #JC-20240315-1647, speaks truth in thermal paper! [softer] Three forty-seven found me drowning in cappuccino foam, [chuckles] while my twin violated the sacred toll covenant twenty-three miles away.
+
+165 Customer Support: Excellent! Transaction JC-20240315-1647 at 3:47 PM would indeed prove you weren't at the toll plaza. I'm escalating this to our fraud department as case #FRD-098234. We'll void violation TRL-892347-X and investigate the plate cloning issue—expect a follow-up within 48 hours.
+
+Character 1: [philosophically] Case FRD-098234 shall join the constellation of disputed truths. [groans softly] But tell me, keeper of tolls, what becomes of the silver ghost's other transgressions? [more urgently] Three more violations haunt my mailbox—TRL-892348-X through 892350-X.
+
+166 Customer Support: Three additional violations under your plate number? Let me pull those up... yes, I see them here, all from this week. Given the confirmed fraud on FRD-098234, I'm flagging all four violations for review immediately.
+
+Character 1: [gratefully] The veil lifts, understanding dawns like Tuesday's forgotten sunrise. [sighs deeply] My account balance of $127.43 trembles at these false accusations, [quieter] each carrying $35 in penalties plus the unholy late fees.
+
+167 Customer Support: Your account balance of $127.43 will remain untouched—we're placing a hold on all disputed charges. That's $140 in base violations plus $67.80 in late fees, all suspended. We'll also add a fraud alert flag to account EZ-5739-ALPHA.
+
+Character 1: [mysteriously] The fraud alert flag waves in digital wind, but questions linger like morning mist. [more intensely] Will the silver phantom's journey through other kingdoms—Bay Bridge Authority, Golden State Expressway—[pause] also bear my cursed numbers?
+
+168 Customer Support: That's an excellent point about other toll agencies. I'll notify Bay Bridge Authority and Golden State Expressway about the plate cloning through our inter-agency alert system. Unfortunately, each agency handles their own violations, so you may need to contact them directly.
+
+Character 1: [dramatically] Inter-agency prophecies spread like wildfire through fiber optic veins! [chuckles darkly] Send word also to reference number INTER-7823-ALERT, [softer] for the shadow twin may dance wherever concrete rivers demand their tolls.
+
+169 Customer Support: I've created inter-agency alert INTER-7823-ALERT and distributed it to seven regional toll authorities. Each agency should flag plate 4XM92KP for manual review before issuing violations. You'll receive confirmation emails at the address on file within the hour.
+
+Character 1: [contemplatively] Seven kingdoms warned, the silver specter's reign may finally end. [gratefully] Your digital sorcery brings peace to my troubled account, [sighs] though I wonder—should I request new plates from the DMV, form REG-14-B perhaps?
+
+170 Customer Support: Yes, absolutely file form REG-14-B for replacement plates—that's the smartest move. The DMV can expedite it with our fraud case number FRD-098234 as reference. Is there anything else I can help you with today regarding your account or these violations?
+
+============================================================
+
+ITEMS 72-81 - CS NO-ALPHANUMERIC (320 words)
+
+Script: dfcb0e25
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+171 Customer Support: Good afternoon, Dr. Martinez's office, this is Rachel speaking. How can I help you today?
+
+Character 1: [frustrated] Hi, yes, I've been waiting for my referral to the specialist for, um, six weeks now? [sighs heavily] My doctor said it would take two weeks [more urgently] maximum, and I'm still in pain every single day.
+
+172 Customer Support: Oh, I understand your frustration, let me just... [briskly] pull up your file here. Can you verify your date of birth and the specialist you were referred to?
+
+Character 1: [impatiently] March fifteenth, nineteen eighty-seven. [groans] It's for Dr. Chen, the neurologist? [more desperately] Look, I've called three times already and each time someone tells me they'll expedite it.
+
+173 Customer Support: I see the notes here about your previous calls. The referral was sent on the tenth, but it looks like—well, there might have been an insurance verification delay.
+
+Character 1: [loudly] Insurance delay? [incredulous] My insurance approved it weeks ago! I called them myself because [voice breaking] nobody from your office would give me a straight answer about what's happening.
+
+174 Customer Support: Sir, I understand you're upset, but we process dozens of referrals daily and sometimes the specialist's office takes time to—actually, let me call them right now while you're on hold.
+
+Character 1: [sarcastically] Oh great, more waiting. [sighs] Can you at least tell me if the paperwork even made it there, or [desperately] did it just disappear into the medical void like everything else?
+
+175 Customer Support: I'm going to place you on a brief hold—two minutes maximum—and I'll contact Dr. Chen's scheduling department directly. We'll get this sorted today, I promise.
+
+Character 1: [skeptically] You promise? [bitter laugh] That's what Jennifer promised last week, and Mark the week before that. [pleading] I just need to see someone before this gets worse.
+
+176 Customer Support: Actually sir, I'm looking at your file more closely here. [surprised] It shows Dr. Chen's office sent us a request for additional medical records on the twenty-second, but we never... responded?
+
+Character 1: [outraged] Are you serious right now? [voice rising] So this whole time I've been waiting, suffering, calling, and it's just been sitting there [exasperated] because nobody checked their fax machine or whatever?
+
+177 Customer Support: This is absolutely our error, and I'm so sorry. [more quickly] I'm marking this as urgent priority right now, and I will personally fax those records within the next ten minutes.
+
+Character 1: [tiredly] Ten minutes. [sighs deeply] You know what, fine, but I need—[more firmly] I need something in writing that confirms this is happening today, because I can't do this dance anymore.
+
+178 Customer Support: Absolutely, I'll email you a confirmation with a tracking number for the referral. Also, I'm giving you my direct extension—[clearly] two two seven—so you can reach me personally for updates.
+
+Character 1: [cautiously] Okay, that's... that's actually helpful. [pause] But what happens if they need more information, [worried] because I literally cannot wait another six weeks for someone to notice another missing form.
+
+179 Customer Support: I'm putting a flag in our system to alert me of any incoming requests from Dr. Chen's office. Plus, I'll call them after I send the fax to confirm receipt and get you a tentative appointment date.
+
+Character 1: [relieved] Thank you, that's all I wanted from the beginning—just [emotionally] someone to actually follow through. [more calmly] When should I expect to hear back from you or them?
+
+180 Customer Support: I'll call you back within two hours with confirmation, and Dr. Chen's office typically schedules within forty-eight hours of receiving completed referrals. I've noted your cell number here—is that still the best way to reach you?
+
+Character 1: [grateful] Yes, that number's fine. [sighs] Look, Rachel, I'm sorry if I was harsh earlier, I'm just—[quietly] I'm exhausted from being in pain and fighting to get basic healthcare, you know?
+
+============================================================
+
+ITEM 181 - BASIC SCENARIO (20 words)
+
+============================================================
+
+181 [Disappointed] Look, I just—I don't have that, um, that maternal instinct everyone talks about, you know? [Sigh] It's not there.
+
+============================================================
+
+ITEM 182 - BASIC SCENARIO (23 words)
+
+============================================================
+
+182 [Happy] Honestly, I love my freedom too much! [Laugh] Like, I can just pack up and go to Thailand tomorrow if I want.
+
+============================================================
+
+ITEM 183 - BASIC SCENARIO (21 words)
+
+============================================================
+
+183 [Fast] People keep saying "you'll change your mind" but I'm thirty-five and still waiting for this magical transformation, so... [Sarcastic] [Tsk]
+
+============================================================
+
+ITEM 184 - BASIC SCENARIO (18 words)
+
+============================================================
+
+184 [Angry] Why does everyone act like I'm—like I'm broken or something just because I don't wanna reproduce? [Groan]
+
+============================================================
+
+ITEM 185 - BASIC SCENARIO (19 words)
+
+============================================================
+
+185 [Slow] The planet's kinda, uh, dying? [Sad] And bringing a kid into this mess feels... I dunno, cruel maybe.
+
+============================================================
+
+ITEM 186 - BASIC SCENARIO (22 words)
+
+============================================================
+
+186 [Whisper] Between you and me, I can barely take care of myself most days. [Chuckle] A tiny human would be a disaster.
+
+============================================================
+
+ITEM 187 - BASIC SCENARIO (22 words)
+
+============================================================
+
+187 [Sarcastic] Oh sure, let me just give up my career I worked fifteen years for to, what, watch Bluey all day? [Disappointed]
+
+============================================================
+
+ITEM 188 - BASIC SCENARIO (18 words)
+
+============================================================
+
+188 [Happy] My sister has three kids and honestly—wait, don't tell her this—but it looks absolutely exhausting. [Fast] [Laugh]
+
+============================================================
+
+ITEM 189 - BASIC SCENARIO (14 words)
+
+============================================================
+
+189 [Shout] It's my body! [Angry] I get to decide what happens with it, right?
+
+============================================================
+
+ITEM 190 - BASIC SCENARIO (20 words)
+
+============================================================
+
+190 [Sad] I grew up in a really messed up family and I'm just—I'm terrified I'd repeat those patterns, y'know? [Sigh]
+
+============================================================
+
+ITEM 191 - BASIC SCENARIO (20 words)
+
+============================================================
+
+191 [Slow] Have you seen how much college costs now? [Disappointed] [Groan] It's like a quarter million dollars or something insane.
+
+============================================================
+
+ITEM 192 - BASIC SCENARIO (23 words)
+
+============================================================
+
+192 [Fast] Okay so basically my friend just had a baby and she literally hasn't slept in—what, three months? [Whisper] She looks dead inside.
+
+============================================================
+
+ITEM 193 - BASIC SCENARIO (18 words)
+
+============================================================
+
+193 [Happy] I mean, I've got twelve houseplants and I've killed, um, probably half of them, so... [Chuckle] [Tsk]
+
+============================================================
+
+ITEM 194 - BASIC SCENARIO (22 words)
+
+============================================================
+
+194 [Sarcastic] Yeah, 'cause what I really need is someone screaming at 3 AM when I finally got my insomnia under control. [Angry]
+
+============================================================
+
+ITEM 195 - BASIC SCENARIO (21 words)
+
+============================================================
+
+195 [Disappointed] The thing is—actually, you know what? [Slow] I just don't want them, and that should be enough of a reason.
+
+============================================================
+
+ITEM 196 - BASIC SCENARIO (20 words)
+
+============================================================
+
+196 [Sad] My partner and I, we're—we're not even sure we'll make it, honestly. [Sigh] Adding a kid would be... yeah.
+
+============================================================
+
+ITEM 197 - BASIC SCENARIO (21 words)
+
+============================================================
+
+197 [Whisper] Sometimes I wonder if I'm just too selfish for it, but then I think—wait, isn't that self-aware at least? [Fast]
+
+============================================================
+
+ITEM 198 - BASIC SCENARIO (16 words)
+
+============================================================
+
+198 [Shout] Can we please stop pretending pregnancy is beautiful? [Angry] [Groan] It literally rearranges your organs!
+
+============================================================
+
+ITEM 199 - BASIC SCENARIO (19 words)
+
+============================================================
+
+199 [Happy] I've got, like, seventeen godchildren already, okay? [Laugh] I get to spoil them and send them home—it's perfect!
+
+============================================================
+
+ITEM 200 - BASIC SCENARIO (26 words)
+
+============================================================
+
+200 [Slow] You wanna know the real reason? [Sad] I'm scared I'd love them so much it would break me, and I can't—I just can't risk that.

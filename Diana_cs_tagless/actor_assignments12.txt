@@ -1,0 +1,365 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 34551f65_script | Role: Character 2 (B)
+
+Character 1: So. I'm pregnant.
+
+960 Character 2: Oh my—wait, what? Are you... are you serious right now? I mean, obviously you're serious, you wouldn't joke about—wow. Okay. Um, how are you feeling?
+
+Character 1: I don't know. Found out this morning.
+
+961 Character 2: This morning? So this is like, brand new information. God, no wonder you seem kinda... shell-shocked? Do you wanna talk about it or—actually, wait, have you told anyone else yet?
+
+Character 1: Just you.
+
+962 Character 2: Just me. Okay. Okay okay. [Exhale] That's—I'm honored, honestly? But also like, holy shit. Sorry, I'm trying to be calm but this is huge. Have you, um, have you thought about what you're gonna do?
+
+Character 1: Not really. Can't think straight.
+
+963 Character 2: No no no, that makes total sense. You literally just found out. Your brain's probably doing that thing where it's like... processing but also not processing, y'know? It's a lot.
+
+Character 1: Yeah. A lot.
+
+964 Character 2: Do you—I mean, does he know? Or wait, am I allowed to ask that? I don't wanna pry, but like... you don't have to go through this alone is all I'm saying. [Softer] You know that, right?
+
+Character 1: He doesn't know. We broke up two weeks ago.
+
+965 Character 2: Oh. Oh shit. That's—okay that definitely complicates things. Two weeks ago means... wait, you were already—but didn't know—god, that timing is actually cruel.
+
+Character 1: Tell me about it.
+
+966 Character 2: Are you gonna tell him? I mean, you don't have to decide right now, obviously. But like... ugh, this is so hard. I just wanna hug you. Can I—can I come over? Bring food or something?
+
+Character 1: I'm not really hungry.
+
+967 Character 2: Yeah, no, I get that. Your stomach's probably doing the whole— [Groan] anxiety thing. But you should eat something, even if it's just like, crackers or whatever. Keep your strength up while you figure this out, y'know?
+
+Character 1: Maybe later. I just need to sit with this.
+
+968 Character 2: Totally. Totally fair. Just... sitting with it is good. But hey, whenever you're ready to like, talk through options or cry or scream or literally whatever you need? I'm here. Day or night, seriously.
+
+Character 1: Thanks. I mean it.
+
+969 Character 2: Of course, babe. That's what I'm here for. And listen—whatever you decide? It's gonna be the right choice because it's yours, okay? Just... remember that.
+
+Script: d6265c91_script | Role: Character 2 (B)
+
+Character 1: We need to talk about what you do when I tell stories.
+
+970 Character 2: Oh—um, what do you mean? Did I—wait, did I do something wrong? I mean, I probably did, I just... I'm not sure what specifically you're talking about?
+
+Character 1: Really. You have no idea.
+
+971 Character 2: Okay, okay, you're mad. I can tell you're mad. Is this about—oh god, is this about earlier? When you were talking about your trip and I brought up Barcelona? [nervous laugh] That was—I didn't mean to—
+
+Character 1: Or when I talked about my promotion. Or my cousin's wedding. Or literally anything.
+
+972 Character 2: Oh. Oh no. I—wait, I do that? No no no, I mean, I guess I do but I never—it's not on purpose! I swear it's not like I'm trying to compete or anything, I just get excited and—
+
+Character 1: Every single story I tell, you have a better one.
+
+973 Character 2: That's not—I don't think they're better! I really don't! It's just like, when you share something it reminds me of something similar and I wanna connect, y'know? Like "oh hey, me too!" But I'm—[groan] I'm realizing how that sounds now.
+
+Character 1: It's exhausting.
+
+974 Character 2: God, I'm—I'm so sorry. Really. I had no idea I was doing that to you. I mean, thinking about it now, I can totally see it. My mom literally does the same thing and it drives me crazy so I should've—I should've known better.
+
+Character 1: I can't share anything without it becoming about you.
+
+975 Character 2: You're right. You're completely right and that's—that's awful of me. I think I just get carried away? Like I genuinely think I'm relating but actually I'm just... hijacking. Your moments. Which is so messed up, I'm sorry.
+
+Character 1: I was really proud of that promotion.
+
+976 Character 2: You should be! You absolutely should be—it was huge! And I just—god, I trampled all over it talking about my thing, didn't I? [sigh] I'm such an idiot. You worked so hard for that and I couldn't just... let you have it.
+
+Character 1: Yeah. You couldn't.
+
+977 Character 2: I don't—I dunno why I do this. Maybe I'm just really insecure or something? But that's not an excuse, I know it's not. Your stories matter and I should be listening, actually listening, not just waiting for my turn to—to show off or whatever I'm doing.
+
+Character 1: I just want to be able to tell you things again. Without dreading it.
+
+978 Character 2: Wait wait wait—you dread talking to me? Oh man, that's... that really hurts to hear but I—I get it. I do. And I'm gonna fix this, okay? Like, I'm literally gonna tape my mouth shut if I have to.
+
+Character 1: I don't need you to be silent. Just... let me have my moments sometimes.
+
+979 Character 2: Yes. Yes, absolutely. From now on when you tell me something, I'm gonna actually celebrate it with you instead of making it about—about me. I promise. And if I slip up, which I probably will at first, just... call me out? Please? I wanna be better at this. At being your friend.
+
+Script: 76b2353b_script | Role: Character 2 (B)
+
+Character 1: This is the fourth time this month.
+
+980 Character 2: I know, I know how it looks, but honestly, I didn't mean to bail on you again. Things just—they got crazy at work and then my mom needed help with her car, and I literally couldn't make it.
+
+Character 1: You always say yes. To everyone. Then bail.
+
+981 Character 2: That's not—okay, that's not entirely fair. I show up for stuff! I was there for your birthday, I helped you move, I—[scoff] you're making it sound like I'm this total flake.
+
+Character 1: You committed to helping with the fundraiser. We needed you.
+
+982 Character 2: And I wanted to be there! I did! But my boss literally called me in last minute and I can't just—I can't lose this job, okay? You know that.
+
+Character 1: Then don't volunteer for things.
+
+983 Character 2: Look look, I get that you're mad, but I'm trying to help people when they ask. I don't wanna be that person who just says no to everything. [frustrated laugh] Sorry for actually caring about people, I guess.
+
+Character 1: Saying yes then disappearing isn't helping anyone.
+
+984 Character 2: Okay, that's—wow. That's kinda harsh. I'm not "disappearing," things come up. Life happens. And honestly? You're not exactly understanding about it when it does.
+
+Character 1: Because it always happens. With you.
+
+985 Character 2: Not always! That's such an—ugh, that's such an exaggeration and you know it. Yeah, fine, I've had to cancel some stuff lately, but I'm drowning here trying to keep everyone happy.
+
+Character 1: Maybe stop trying.
+
+986 Character 2: What's that supposed to mean? Stop trying to be a good friend? Stop trying to—I mean, I thought that's what friends do, they try to show up for each other.
+
+Character 1: Showing up means actually showing up.
+
+987 Character 2: [Sigh] I know I messed up the fundraiser thing, okay? I feel terrible about it. But you're acting like I do this on purpose, like I wake up thinking "how can I let people down today?"
+
+Character 1: You overbook yourself. Every single week.
+
+988 Character 2: Because people need help! My sister needs babysitting, my coworker needs a ride, you need fundraiser help—I can't just tell everyone to fuck off, can I? I'm trying to juggle everything here.
+
+Character 1: Then be honest about what you can actually do.
+
+989 Character 2: Fine. Fine, you're right. I should've—I should've said no from the start. But honestly? [quieter] Sometimes it feels like no matter what I do, it's gonna disappoint someone. Including you.
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+990 SCENARIO: noticing the thing they threw away is now in the recycling
+
+==================================================
+
+[muttering]
+
+Wait, that's— that's weird. I literally just threw that away, like, ten minutes ago, and now it's— it's in the recycling bin. [confused] I mean, I'm pretty sure I put it in the, um, the regular trash, right? The little one by my desk?
+
+[slightly puzzled]
+
+Okay, so either I'm, uh, I'm losing my mind, or someone moved it. But who would— who would move my trash? That's so weird. [hmm] Unless— unless I just, like, autopiloted it into the wrong bin? I do that sometimes with, um, with the dishes and stuff.
+
+[thinking out loud]
+
+Let me think. I had that yogurt container, and I was, um, I was definitely gonna throw it away, but maybe I just— maybe my brain went "container equals recycling" and I just, uh, I just put it there without thinking?
+
+[slightly amused]
+
+That's probably— yeah, that's probably what happened. I'm not going crazy, I'm just, um, I'm just running on muscle memory. [chuckle] Which is, uh, which is actually kind of good? Like, at least my subconscious is being environmentally responsible.
+
+[trailing off]
+
+Still weird though. I could've sworn I...
+
+--- CONVERSATION ---
+
+Script: ecdf98cb | Role: Character 1 (A)
+
+991 Character 1: [Screaming] WE GOT IT! WE GOT THE MORRISON ACCOUNT! [jumping up and down] Three years of pitching, and they finally said yes! [voice cracking with joy] I can't believe this is actually happening right now!
+
+Character 2: [Shrieking] SHUT UP, ARE YOU SERIOUS?! [gasping] Wait, wait, THE Morrison Industries? [getting louder] The fifty-million-dollar contract Morrison?! My hands are literally shaking—look at them shake! This is insane!
+
+992 Character 1: [Breathless] I just got off the phone with their CEO! [squealing] She loved our sustainability angle! [more excited] Remember when everyone said we were crazy for that green initiative pivot? WHO'S CRAZY NOW?!
+
+Character 2: [Hysterical laughter] We're buying champagne—the expensive stuff! [yelling] JANET! JANET, COME HERE! [voice breaking] We just became the agency that landed the whale everyone's been chasing since 2019!
+
+993 Character 1: [Quieter, trembling] My mom didn't believe in this company. [building volume] She said I should've stayed at my corporate job. [explosive] LOOK AT US NOW, MOM! We're about to expand to three new offices!
+
+Character 2: [Whispered awe] Do you realize what this means? [normal volume] We can finally hire that dream team we mapped out. [shouting gleefully] No more sixteen-hour days doing everything ourselves! Actual employees! Real desks!
+
+994 Character 1: [Sobbing with joy] I haven't slept properly in six months. [sniffling] All those rejected proposals, the failed pitches... [triumphant yell] Every single "no" led us to this massive, beautiful, life-changing YES!
+
+Character 2: [Rapid words] Quick, quick, we need to call everyone—the lawyers, accounting, our families! [slowing down] Wait, should we sit down first? [giggling uncontrollably] I think I might faint from all this screaming and jumping!
+
+995 Character 1: [Sing-song voice] We're getting bonuses, we're getting bonuses! [normally] Remember eating ramen for three months straight? [roaring] GOODBYE INSTANT NOODLES, HELLO MICHELIN STARS! This is our moment! Our actual moment!
+
+Character 2: [Hoarse whisper] My voice is almost gone from screaming. [louder] But I don't even care because WE DID IT! [raspily yelling] Five years of bootstrap startup life just paid off monumentally!
+
+996 Character 1: [Incredulous] They want us to start next Monday. [panicked excitement] NEXT MONDAY! That's four days away! [determined shout] We need to hire twenty people, like, yesterday! This is beautifully terrifying!
+
+Character 2: [Cackling] Remember when that investor laughed us out of his office? [mockingly] "Too ambitious," he said! [victorious scream] I'm sending him a photo of this contract with a giant smiley face!
+
+997 Character 1: [Shaky voice] I keep thinking I'm dreaming. [firmly] But the email is right here—it's real. [overwhelming joy] Our tiny startup just beat out three Fortune 500 companies. David just destroyed Goliath!
+
+Character 2: [Whimpering happily] My dad's going to cry when I tell him. [getting emotional] He mortgaged his house to help fund us. [weeping] Now we can pay him back triple! With interest! Today!
+
+998 Character 1: [Hushed intensity] This changes everything—our lives, our futures. [building up] No more wondering if we'll make rent! [exploding] WE'RE GOING TO BE IN FORBES! The "Thirty Under Thirty" list, here we come!
+
+Character 2: [Squeaking] My throat hurts so much from screaming! [raspily] But who cares?! [croaking loudly] We need to document this moment—where's your phone? Future us needs to remember this feeling forever!
+
+999 Character 1: [Giddy] The entire floor probably thinks we've lost our minds. [louder] Let them think whatever they want! [bellowing] WE JUST MADE COMPANY HISTORY! Ten years from now, they'll tell stories about today!
+
+Character 2: [Breathlessly] Stop, stop, I need water before I completely lose my voice. [urgently] But first—group hug! [muffled yelling] This is the best day of our entire professional lives, no question!
+
+1000 Character 1: [Softly reverent] We actually pulled it off. [growing stronger] All those people who believed in us were right. [joyful sob] I'm so proud of us—we're going to change this entire industry forever.
+
+Character 2: [Exhausted whisper] I have no voice left, my legs are jelly. [faintly] But my heart is so full it might explode. [barely audible] We did it, partner. We actually, truly, magnificently did it.
+
+--- CS ALPHANUMERIC ---
+
+Script: dc0d4ebc | Role: Customer Support
+
+Character 1: [mumbling] Um, hello, I need to... [drowsily] set up the sensors for my, uh, apartment at 4521 Oak Ridge Drive. [yawns] My account number is... wait, is it KX-7742-B or [confused] KX-7724-B?
+
+1001 Customer Support: Good morning! I can help you with that sensor installation. Let me pull up your account—could you confirm if you're at unit 12A or 12B? And don't worry, I'll verify that account number for you right away.
+
+Character 1: [groggily] It's... it's 12A, I think. [long pause] [more uncertainly] Actually, maybe B? Everything's so foggy since the, um, accident. [sighs heavily] The doctors said I should be resting but these sensors are important.
+
+1002 Customer Support: I completely understand, and we'll make this as easy as possible for you. I see here account KX-7742-B for unit 12A at Oak Ridge. [helpfully] Would you prefer our basic package with 6 sensors or the premium with 12?
+
+Character 1: [weakly] The premium one, definitely. [slowly] Need them for... all the windows and, uh, [yawns] both doors. [more alertly] Can someone install them today? My nurse leaves at 3:30 PM and I can't really move around much.
+
+1003 Customer Support: We actually have a technician available at 2:15 PM today! They'll need access code 9-9-4-7 for your building's main entrance, correct? The installation typically takes 45 minutes, so you'll be all set before your nurse leaves.
+
+Character 1: [confused] Wait, the code is... [struggling] 9-4-9-7, not 9-9-4-7. [exhausted] Sorry, my medication makes everything blurry. [more urgently] Will they need me to, to sign anything? My hands aren't working so well.
+
+1004 Customer Support: [reassuringly] No problem at all, I've updated that to 9-4-9-7. We can arrange digital consent through your registered email, sarah.chen at gmail. Or if you prefer, the technician can assist with any necessary paperwork.
+
+Character 1: [relieved] Oh good, yes, the email works. [drowsily] Just... just make sure they're quiet when they come. [whispering] Sometimes I drift off unexpectedly and loud noises are [pause] [anxiously] really startling since the coma.
+
+1005 Customer Support: [softly] I'm adding a special note for quiet installation to your work order W-55621. Our technician, Marcus, specializes in medical recovery situations. Is there anything else we should know to make you more comfortable during the installation process?
+
+Character 1: [gratefully] That's... that's really thoughtful. [hesitantly] Could they maybe text when they're five minutes away? [mumbling] Phone number ends in 8-8-3-2. [more clearly] And avoid the bedroom sensors until last—I might need a nap.
+
+1006 Customer Support: Absolutely, text notification to the number ending in 8-8-3-2, bedroom sensors last. [helpfully] I'm also seeing you qualify for our medical discount—25% off, bringing your monthly monitoring to $47.99. Should I apply that to your account right now?
+
+Character 1: [surprised] There's a medical discount? [weakly] Yes, please, every bit helps with these hospital bills. [sighs] Do you need my, um, case number or something? [uncertainly] It's MC-2024-1139, I think the insurance company said.
+
+1007 Customer Support: That case number is perfect for our records, thank you. I've applied the discount and emailed your confirmation to sarah.chen at gmail. The invoice shows installation fee waived due to medical circumstances—that saves you another $199.
+
+Character 1: [emotionally] You're being so kind, I... [pause] [quietly] thank you. [more steadily] Will the sensors work with my medical alert pendant? The model is, uh, AL-7700-X from SafeGuard Systems.
+
+1008 Customer Support: [enthusiastically] Yes, the AL-7700-X integrates perfectly with our system! We'll sync them during installation using protocol 4.2.1. [reassuringly] This means any sensor trigger can also alert your medical response team if needed.
+
+Character 1: [relieved] That's perfect, one less thing to worry about. [drowsily] Oh, I should mention—my neighbor in 12C, Mrs. Peterson, has my spare key. [slowly] If I don't answer, the tech can get it from her.
+
+1009 Customer Support: I'm noting that Mrs. Peterson in 12C has the spare key for backup access. [confirmingly] Marcus will arrive at 2:15 PM with work order W-55621. We'll also send a follow-up call tomorrow to ensure everything's working properly.
+
+Character 1: [gratefully] You've been so helpful. [yawning] I should probably rest now before they arrive. [fading] The confirmation number was W-556... [confused] wait, what was it again?
+
+1010 Customer Support: It's W-55621, and everything's documented in your email. Please rest well, and Marcus will take excellent care of the installation. If you need anything else, our 24-hour line is always here. Take care, Sarah.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: fef9807a | Role: Customer Support
+
+1011 Customer Support: DMV customer service, this is Patricia speaking. [more quickly] How may I assist you with your licensing needs today?
+
+Character 1: [frustrated] Yeah, hi, I just got my renewed license in the mail and—[pause]—the expiration date is wrong? [confused] It says it expires next month, but I just paid for a five-year renewal.
+
+1012 Customer Support: I apologize for the inconvenience, sir. Let me pull up your record—could you provide your license number and [more slowly] the last four digits of your social?
+
+Character 1: [sighs] Sure, it's J-4-5-6-7-8-9-0, and the last four are 2341. [irritated] I mean, I waited three weeks for this thing to arrive, and now—[groans]—now I have to deal with this mess.
+
+1013 Customer Support: [typing tone] Alright, I'm seeing your account here. Oh, I do see the issue—it appears the system processed a one-month temporary extension instead of the full renewal. [more apologetically] This shouldn't have happened.
+
+Character 1: [exasperated] A temporary extension? [louder] I paid eighty-five dollars! That's not—that's not temporary extension money, that's [sarcastically] full renewal money, you know?
+
+1014 Customer Support: Absolutely, you're completely right. I'm escalating this to our corrections department right now, and we'll expedite a corrected license. [reassuring] You won't be charged again, of course.
+
+Character 1: [skeptically] How long is "expedited" exactly? [sighs heavily] Because last time someone told me expedited, it took [slower] six... entire... weeks.
+
+1015 Customer Support: This time it'll be different—five to seven business days, guaranteed. I'm also noting your account for priority processing and [pause] waiving any fees for duplicate copies if needed.
+
+Character 1: [relieved] Okay, that's—that's better, I guess. [curious] But what do I do if I get pulled over? This thing says it expires in [nervously] literally three weeks.
+
+1016 Customer Support: [quickly] I'm emailing you a temporary permit right now—check your inbox. It's valid for ninety days and serves as legal proof of your valid license status.
+
+Character 1: [pause] Wait, you can email those? [surprised] Why didn't anyone mention this when I called last month about [trailing off] the whole address change fiasco?
+
+1017 Customer Support: Different departments have different protocols, unfortunately. [more briskly] But yes, temporary permits can be emailed instantly for situations exactly like this.
+
+Character 1: [chuckles dryly] Different departments, different planets apparently. [resigned] Alright, I see the email coming through now—[pause]—yeah, there it is.
+
+1018 Customer Support: Perfect. [quickly] Is there anything else I can help resolve while I have your account open? Address updates, registration renewals, anything?
+
+Character 1: [sarcastically] Unless you can explain why the DMV website crashes every time I try to [frustrated] do literally anything online, then no, I think we're good.
+
+1019 Customer Support: I hear that feedback often, believe me. Between you and me, they're supposedly launching a new system [pause] next year.
+
+Character 1: [laughs] Next year, sure. [skeptically] They've been saying "next year" since [pause] what, 2015? [sighs] But hey, at least you've been helpful today.
+
+1020 Customer Support: Thank you for your patience, sir. [briskly] Your corrected license will arrive within the week, and that temporary permit is valid immediately. Have a great rest of your day.
+
+Character 1: [relieved] Yeah, thanks Patricia. [more cheerfully] Sorry for the frustration earlier—it's just, you know, [tiredly] DMV stuff always seems to go sideways somehow.
+
+--- BASIC SCENARIOS ---
+
+1021 [Happy] Oh my god, that's, um, that's amazing news! [Fast] I mean, wow, you totally deserve this after everything you've been working on! [Laugh]
+
+1022 [Sarcastic] Well, well, well—look who's finally joining the rest of us successful people, huh? [Chuckle] [Slow] Took you long enough, didn't it?
+
+1023 [Disappointed] Yeah, no, that's—that's great. [Sigh] I guess some people just have all the luck, right?
+
+1024 [Happy] [Fast] This is huge, like seriously huge, and I'm so—I mean, nobody deserves it more than you do! [Tsk]
+
+1025 [Whisper] Between you and me, I kinda thought I'd be the first one to, you know... [Slow] but hey, congratulations anyway.
+
+1026 [Sad] I'm really happy for you, honestly, it's just—[Sigh] never mind, this is your moment and I don't wanna ruin it.
+
+1027 [Shout] Are you kidding me right now? [Happy] [Laugh] That's literally the best thing I've heard all week—well, for you anyway!
+
+1028 [Angry] Of course you got it, I mean—[Fast] no, sorry, that came out wrong, I'm thrilled, really thrilled for you.
+
+1029 [Slow] So, um, when exactly did you find out about this whole thing? [Disappointed] [Tsk] 'Cause I've been waiting for months and nothing.
+
+1030 [Happy] You're gonna be so good at this! [Sarcastic] I mean, some of us have been preparing for years, but sure, you'll figure it out.
+
+1031 [Fast] Wait, they picked YOU? [Happy] [Laugh] That's—wow, okay, that's actually incredible news!
+
+1032 [Whisper] Honestly? [Slow] I applied for the same thing and they basically told me I wasn't ready yet. [Chuckle]
+
+1033 [Disappointed] That's, uh, that's really something. [Sigh] [Fast] Guess I should probably stop comparing myself to everyone else, right?
+
+1034 [Shout] No way! [Happy] This calls for champagne—the expensive stuff that I definitely can't afford anymore! [Laugh]
+
+1035 [Sad] [Slow] You know what's funny? I literally just got rejected from something similar yesterday, but... [Tsk] your timing's perfect.
+
+1036 [Sarcastic] Oh fantastic, another reminder that I'm basically falling behind while everyone else is—[Fast] sorry, I'm being weird, congratulations!
+
+1037 [Angry] I just don't understand how these things work sometimes, like—[Groan] whatever, you earned it, I'm sure.
+
+1038 [Happy] This is exactly what you needed! [Whisper] Even though I kinda needed it more, but we won't talk about that.
+
+1039 [Slow] Remember when we used to joke about who'd make it first? [Disappointed] [Chuckle] Guess we have our answer now, don't we?
+
+1040 [Fast] Okay so basically everyone's gonna be so jealous—I mean, proud! [Happy] [Laugh] Everyone's gonna be so proud of you!
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1041 SCENARIO: Offhandedly recounting a time they name-dropped someone, then remembering the context, then cringing at how desperate it sounded, ending in social climbing embarrassment
+
+==================================================
+
+[casual]
+
+Oh, so I was, um, I was talking to that new girl at work today — Sarah? And I mentioned that I, uh, I know Maya Chen, you know, from— from that startup that got bought out last year. Just came up naturally in conversation, like, um, totally normal.
+
+[matter-of-fact]
+
+She seemed pretty impressed, which, you know, whatever. I mean, Maya and I, we— we definitely know each other, so it's not like I was, um, lying or anything.
+
+[slight pause, thinking]
+
+Actually, wait— let me think about this for a sec. How did— how did Maya even come up? Sarah was talking about, um, about wanting to get into tech, and I was like, "Oh, well my friend Maya—" 
+
+[realization dawning]
+
+Oh god. Oh no. I— I literally steered the conversation there, didn't I? She was talking about her weekend plans and I was like, um, "Speaking of ambitious people, my friend Maya Chen..." [groan] Who even— who even says that?
+
+[cringing]
+
+I literally— I literally name-dropped someone I've met, like, twice at networking events! We're not— we don't even follow each other on Instagram! I called her my "friend" Maya! [frustrated laugh]
+
+[mortified]
+
+Oh my god, I'm— I'm that person now. I'm the, uh, the desperate social climber who— [whimper] Sarah probably thinks I'm such a— [defeated sigh] This is so embarrassing. I can't— I literally can't show my face in that office again!

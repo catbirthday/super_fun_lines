@@ -1,0 +1,271 @@
+ACTOR LINE ASSIGNMENTS - 50 ITEMS (~1756 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1756 words (100.0%)
+
+  TOTAL                 :  1756 words
+
+============================================================
+
+============================================================
+
+ITEMS 366-375 - GENERAL TAGS (366 words)
+
+Script: 57b5ddba_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+366 Character 1: [trembling] Edmund? [louder] Edmund, is that truly you? [Sobbing breath] I saw you fall at Blackwater Bridge—the arrow through your chest, the river taking you. [voice breaking] I've carried your death for three long years, brother.
+
+Character 2: [hoarse whisper] Marcus... [Gasping breath] My dear Marcus. [stronger] They told me the Northmen had executed you after the siege. [choked] I mourned you every sunrise, every battle cry reminded me of your absence from my side.
+
+367 Character 1: [laughing through tears] Your ghost haunted my dreams nightly. [quieter] I kept your sword, polished it religiously. [Shuddering breath] Look—I wear your family crest still, [voice cracking] hoping somehow you'd know I never forgot our oath.
+
+Character 2: [urgently] The river saved me—monks pulled me from the water half-dead. [slower] Six months I lay fevered, calling your name. [Bitter laugh] When I finally returned, they said you'd vanished into enemy territory seeking vengeance for my death.
+
+368 Character 1: [angrily] Vengeance? [Hollow laugh] I became a monster hunting those responsible. [softer] Twenty-seven Northmen fell by my blade before I learned the truth—[pause] you weren't among the executed. [whispering] By then, I was too lost to return.
+
+Character 2: [pleading tone] Why didn't you write? Send word? [more desperately] I searched every battlefield, turned over corpses praying I wouldn't find your face. [Choking sob] The not knowing was worse than any wound I've ever sustained in combat.
+
+369 Character 1: [defensively] Write to whom? [quieter] Everyone believed you dead—I believed it. [rapidly] The guilt consumed me, Edmund—I should've been there, should've protected your flank. [Ragged breath] Instead I was three leagues away, defending a meaningless outpost.
+
+Character 2: [gently] Stop, please stop torturing yourself. [firmer] We're here now, breathing, alive against all odds. [Soft laugh] The gods have granted us what we thought impossible—[emotional] a second chance to honor our brotherhood, our sacred bond.
+
+370 Character 1: [wonderingly] Your hair's gone gray. [more quietly] Mine too, I suppose. [Shaky laugh] We're different men than we were, Edmund—I've done terrible things believing you gone. [hesitant] Can you still call me brother after what I've become?
+
+Character 2: [fierce whisper] Always. [louder] You think I remained pure? Untainted? [darkly] Grief made killers of us both, Marcus. [warming] But seeing your face again—[voice lifting] I remember who we were before the world tried breaking us.
+
+371 Character 1: [breathlessly] Remember our promise? [steadier] Under the old oak, before our first battle—we swore if one fell, the other would live twice as bright. [Bitter chuckle] I only managed half as dim without you beside me.
+
+Character 2: [nostalgic] That oak still stands, somehow. [wondering] I visited last spring, carved both our names deeper into the bark. [Quiet sob] The farmers think it's haunted now—[softer] two ghosts who won't stop calling for each other.
+
+372 Character 1: [suddenly urgent] Swear to me—[pause] swear we'll never separate again. [desperately] No more solo missions, no more foolish heroics. [Exhausted sigh] I can't survive believing you dead twice, Edmund. My heart couldn't bear such cruelty again.
+
+Character 2: [solemnly] On my life, my sword, my soul—I swear it. [lighter] Besides, we're too old for heroics now. [Warm laugh] Let the young knights seek glory—[tenderly] I just want my brother back, nothing more.
+
+373 Character 1: [crying freely] I built you a memorial, you know. [embarrassed] Every year I'd sit there, tell you about the battles, the victories. [Shaking breath] The stone merchant thought me mad—[quieter] ordering such elaborate marble for a grave without a body.
+
+Character 2: [touched] Marcus... [overwhelmed] I named my horse after you. [Wet laugh] She's stubborn, loyal, refuses to retreat even when outnumbered. [more softly] The stable boys mock me for talking to her like she understands battle strategies.
+
+374 Character 1: [disbelief] How are we both here? [awed whisper] Alive, together, after everything? [stronger] Perhaps the priests were right about miracles. [Sobbing laugh] Though I'd given up on prayers until this very moment, seeing your face again.
+
+Character 2: [philosophical] Maybe we needed to lose each other to understand. [slower] Death isn't the enemy—[pause] separation is. [firmly] We've been gifted something precious, Marcus. Time. [emotional] Time I thought stolen from us forever.
+
+375 Character 1: [exhausted] Come, sit with me. [gentler] My legs won't hold much longer—the shock, the joy, it's overwhelming. [Deep breath] Tell me everything, every detail of these nightmare years. [warmly] We have lifetimes of stories to exchange.
+
+Character 2: [peacefully] Yes, everything. [Contented sigh] But first, let me just look at you, brother. [voice breaking] Let me memorize this moment—[whispered] when impossible became possible, when death gave back what it stole from us.
+
+============================================================
+
+ITEMS 376-385 - GENERAL TAGS (326 words)
+
+Script: _A_used_984a4be2_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [exhausted mumble] The patient's labs came back and... [yawning] sorry, the CBC shows mild leukocytosis. [slower] Creatinine's elevated at 1.8, but I think that's baseline from their chronic kidney disease documented in 2019.
+
+376 Character 2: [sharp] Two thousand nineteen? [louder] That's ancient history, doctor! [coldly] When was the last GFR calculated? And why am I not seeing liver enzymes on this pre-op workup for major surgery?
+
+Character 1: [defensive] I ordered them at three AM but the lab... [trailing off] they said something about hemolyzed samples. [Nervous laugh] I can redraw them now if you need them before the seven-thirty case starts.
+
+377 Character 2: [sarcastically] Oh, how thoughtful of you. [Deep sigh] The OR is already prepped, anesthesia is waiting, and you're telling me [building anger] we don't have complete labs? This is unacceptable, absolutely unacceptable behavior!
+
+Character 1: [barely audible] The patient was combative during the blood draw. [more firmly] Security had to help hold them still, and [Exhausted groan] I've been here thirty-two hours straight trying to manage four admissions simultaneously, doctor.
+
+378 Character 2: [dismissive] Everyone's tired here, resident. [Scoff] That's not an excuse for sloppy work. [icily] Did you at least review the imaging with radiology, or should I expect disappointment there too?
+
+Character 1: [perking up slightly] Actually, yes, I spent forty minutes going through the CT with Dr. Martinez. [eagerly] There's a questionable hypodense lesion near the porta hepatis that [uncertain] might be inflammatory versus early malignancy.
+
+379 Character 2: [suspicious tone] Forty minutes? [Grunt] Which Martinez—the junior or senior? Because if it's the junior, [threatening whisper] I need the senior's eyes on this immediately before we open this patient up.
+
+Character 1: [frustrated] Senior Martinez reviewed it. [Bitter laugh] He wants an MRI for better characterization, but scheduling says earliest availability is next Tuesday. [desperately] Should I call the chief and try pushing for today?
+
+380 Character 2: [mocking] Next Tuesday? [Explosive] Are you kidding me? [more controlled] Get on the phone with MRI personally, tell them this is Dr. Harrison's patient, and we need it within two hours maximum.
+
+Character 1: [weary] I already name-dropped you twice this morning. [Hollow chuckle] The tech literally hung up on me when I mentioned it was urgent. [pleading] Maybe if you called directly, they'd actually listen for once?
+
+381 Character 2: [exasperated groan] Fine, I'll handle it myself, as usual. [Muttering] Meanwhile, get consent updated with the new findings. [louder and firm] And make sure you document that lesion extensively in your operative note draft.
+
+Character 1: [confused] Wait, we're still proceeding with surgery today? [higher pitch] Even with the incomplete labs and the uncharacterized lesion? [Nervous gulp] The family's been asking me questions I honestly don't know how to answer right now.
+
+382 Character 2: [condescending] That's because you're thinking like a student, not a surgeon. [Dry laugh] We adapt, we problem-solve, we move forward. [gentler] The patient's symptomatic, and waiting poses more risk than proceeding with caution.
+
+Character 1: [resigned whisper] Understood, I'll update the consent immediately. [steadier] Should I mention the possibility of extending the procedure if we find something unexpected, [quickly] or keep it focused on the planned cholecystectomy for now?
+
+383 Character 2: [matter-of-fact] Always prepare them for possibilities—that's Surgery 101. [Tongue click] Extended resection, possible liver biopsy, everything goes in there. [firmly] And get anesthesia to review the case again with these new considerations immediately.
+
+Character 1: [suddenly alert] Oh God, I forgot to mention—the patient's on clopidogrel! [panicked rush] They didn't disclose it initially, but the nurse found it in their home med list. [Shaky breath] Last dose was yesterday morning.
+
+384 Character 2: [deadly quiet] Clopidogrel. [Building rage] You're telling me about antiplatelet therapy NOW? [Shouting] Cancel the OR immediately! This case is postponed, and you're going to explain this disaster to the family yourself!
+
+Character 1: [defeated] I'm so sorry, I should have caught it earlier. [Tired sigh] The admission note was incomplete when I got sign-out, and [weakly] I've been trying to piece together information from multiple sources all night.
+
+385 Character 2: [cold and measured] Meet me in my office after you speak with the family. [Heavy exhale] We need to discuss your future in this program, [quieter] because this level of oversight is genuinely concerning for patient safety.
+
+============================================================
+
+ITEMS 386-395 - GENERAL TAGS (392 words)
+
+Script: 6e30fc55_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+386 Character 1: [nervously] So, I'm thinking maybe the bridesmaids could wear something... [quieter] modest? [Clearing throat] Like those high-neck, long-sleeve options I showed you? I just want everything to look cohesive, you know, nothing too flashy or attention-grabbing for the photos.
+
+Character 2: [confused] Oh, those empire waist ones? [diplomatically] They're definitely... unique. [Slight pause] But won't we all melt in July heat with long sleeves? Maybe we could consider something with a bit more airflow, just for comfort's sake?
+
+387 Character 1: [defensive] Well, I thought they'd photograph beautifully! [voice cracking] Plus, they cover everything nicely. [Nervous laugh] You'd look stunning in anything anyway, so I figured why not go for something that won't steal focus from, you know, the bride?
+
+Character 2: [gently] Sarah, you're going to be radiant no matter what we wear. [reassuringly] How about those gorgeous blush pink ones you bookmarked last week? [warmly] They had that elegant A-line cut that would complement your dress perfectly without competing with it.
+
+388 Character 1: [hesitant] Those ones show so much skin though. [getting higher] What if everyone's looking at you guys instead? [Sharp exhale] I saw how that sales assistant kept staring when you tried on that strapless gown last time at the boutique.
+
+Character 2: [firmly] People stare at wedding parties, that's normal. [softer] But trust me, nobody outshines a bride on her day. [Gentle laugh] Remember Jenny's wedding? Her bridesmaids wore literal sequins and everyone still only had eyes for her walking down that aisle.
+
+389 Character 1: [mumbling] Jenny's different though, she's naturally confident. [louder, frustrated] I just want one day where I don't feel like the dowdy friend! [Shaky breath] Is it so wrong to want my bridesmaids in something that doesn't scream "look at me"?
+
+Character 2: [hurt] You think I'd try to upstage you? [more firmly] Sarah, I've been your friend for twelve years. [controlled] If you want us in potato sacks, we'll wear potato sacks, but please don't think we'd ever intentionally overshadow your moment.
+
+390 Character 1: [apologetically] No, no, I didn't mean it like that. [sniffling] God, I'm being such a bridezilla, aren't I? [Bitter laugh] It's just Mark's ex is coming and she looks like a Victoria's Secret model even in sweatpants.
+
+Character 2: [sympathetically] Oh honey, that's what this is about? [Soft sigh] Mark chose YOU, not her. [encouragingly] He literally cried during your proposal story at the engagement party - that man is completely smitten with exactly who you are.
+
+391 Character 1: [quietly] You really think the blush ones would work? [hopeful] They did have that beautiful lace detailing. [Deep breath] Maybe if we added little cover-ups for the ceremony? Then everyone gets comfort and I get my traditional church-appropriate look?
+
+Character 2: [excited] Yes! That's perfect! [enthusiastically] We could get those delicate shawls that match the groomsmen's ties! [happily] Oh, and with your cathedral veil and that stunning ballgown? Girl, you're going to look like absolute royalty walking down that aisle.
+
+392 Character 1: [warming up] You always know what to say. [more confidently] Okay, let's do the blush ones. [Giggling] But I'm picking the shoes - and I'm thinking comfortable flats because I need my girls dancing with me all night long!
+
+Character 2: [laughing] Thank God, my feet are already thanking you! [playfully] Can we also vote on hair? [teasingly] Because that slicked-back bun idea you mentioned earlier made me look like my strict aunt Margaret who collects ceramic frogs.
+
+393 Character 1: [amused] Fine, loose curls it is! [mock serious] But I draw the line at the bouquets. [Snorting laugh] Remember when you suggested succulents? My grandmother almost fainted when I mentioned it - "Cactuses at a wedding, Sarah? Cactuses?"
+
+Character 2: [defensive] Succulents are trendy! [giggling] But okay, your peonies will be gorgeous. [sincerely] Honestly, I'm just honored to stand beside you. This whole thing is going to be magical, and you're going to be the most beautiful bride.
+
+394 Character 1: [emotional] Stop, you're going to make me cry and I just did my makeup for the vendor meeting. [shakily] I'm sorry for being weird about the dresses. [Sigh] Wedding planning is making me crazy - yesterday I cried over napkin colors.
+
+Character 2: [understanding] Everyone goes a little nuts planning weddings. [jokingly] My sister tried to uninvite our cousin over a plus-one dispute. [more seriously] But you're handling it amazingly. The day will be perfect because it's yours and Mark's, not because of dresses.
+
+395 Character 1: [relieved] You're the best, you know that? [determined] Alright, let's go order those blush dresses before I change my mind again. [Laughing] And maybe we should grab some wine after - I need to decompress from all this wedding crazy.
+
+Character 2: [enthusiastically] Wine sounds perfect! [mischievously] And we can toast to Mark's ex showing up and seeing how insanely happy you two are together. [warmly] Besides, she'll be too busy crying into her champagne to notice our gorgeous bridesmaid dresses anyway!
+
+============================================================
+
+ITEMS 396-405 - GENERAL TAGS (353 words)
+
+Script: ab2d229a_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+396 Character 1: [hesitant] Okay sweetie, so I just press this button and— [sharp gasp] Oh God, everything disappeared! [panicking] The screen went black, did I break it? Where did all those little squares go? I knew this was a bad idea!
+
+Character 2: [exasperated sigh] Mom, you literally just locked the screen. [slower, patronizing] Press. The. Same. Button. Again. [irritated] See? Everything's still there, nothing exploded, the world didn't end, your apps are perfectly fine.
+
+397 Character 1: [relieved giggle] Oh thank goodness! [confused] But why do they call them apps anyway? [thoughtfully slower] In my day, applications were something you filled out at the bank. These tiny pictures don't look like paperwork at all.
+
+Character 2: [through gritted teeth] It's just short for application, Mom. [speeding up] Now can we please move on to setting up your email before I lose my mind? [deep breath] We've been on this for twenty minutes already.
+
+398 Character 1: [defensively] Well excuse me for being careful! [worried whisper] Your father's friend Harold clicked something wrong once and [dramatically louder] hackers stole his entire identity! They bought boats in his name! Multiple boats!
+
+Character 2: [flat tone] Harold downloaded sketchy casino apps, Mom. [snorting laugh] That's completely different. [firmly] Just follow exactly what I say and you'll be fine. Now tap the little envelope icon at the bottom of your screen.
+
+399 Character 1: [uncertainly] The envelope? [increasingly frantic] I see three envelope thingies! There's a blue one, a green one that's making a dinging noise, and— [triumphant] Oh wait, that last one's a shopping bag. Never mind!
+
+Character 2: [barely contained frustration] The BLUE one, Mom. [sarcastically sweet] The one that literally says 'Mail' underneath it. [muttering] How did you manage to raise three kids but can't identify basic icons? This is painful.
+
+400 Character 1: [hurt] I identified plenty of things before computers took over the world! [proudly] I can still balance a checkbook by hand. [mumbling] Unlike your generation who can't even write in cursive or read an analog clock properly.
+
+Character 2: [defensive shout] We can read analog clocks! [quieter, resigned] Whatever, just type your email address where it says 'Email Address.' [weary sigh] And please don't ask me what email address means. You've had the same one for ten years.
+
+401 Character 1: [typing sounds verbally] R... O... S... E... [confused pause] Wait, do I need the little circle thingy? [anxious] And should I capitalize anything? The computer at the library always yells at me about capitals and symbols!
+
+Character 2: [loud groan] The @ symbol, yes, you need it! [speaking rapidly] It's rosemary-underscore-smith@gmail.com, all lowercase, [desperate] exactly like it's written on the sticky note you've carried in your purse since 2014! Remember?
+
+402 Character 1: [thoughtful humming] Oh right, the sticky note! [rustling verbally] Let me just— [victorious] Found it! Though I don't understand why email addresses can't have spaces. [plaintively] Seems unnecessarily complicated if you ask me.
+
+Character 2: [exhausted whisper] Nobody asked you. [regular volume, mechanical] Now type your password. [suddenly alert] And no, don't say it out loud! [hushed urgency] Just type it. Other people exist in this coffee shop, Mother.
+
+403 Character 1: [whispering loudly] But how will I remember what I typed? [concerned] What if I make a typo? [getting louder] Last time I got locked out for three months because I accidentally held down the shift key!
+
+Character 2: [defeated tone] There's literally a "show password" option. [tired laugh] See the little eye icon? [pleading] Just tap it and you can see what you're typing. We're so close to done, please don't give up now.
+
+404 Character 1: [amazed gasp] The eye shows the password! [delighted] That's actually quite clever! [suspicious] Though isn't it creepy that phones have eyes now? [nervously] Is it watching me all the time? Should I put tape over it?
+
+Character 2: [hysterical laughter] No Mom, it's not a real eye! [catching breath] It's just a symbol! [more calmly] Like how a trash can icon doesn't mean there's actual garbage in your phone. These are metaphors!
+
+405 Character 1: [proudly] Well, I did it! [excited squeal] Look, there's already an email from someone! [reading slowly] "Nigerian prince needs your urgent help..." [hopeful] Oh how nice, royalty! Should I help him, dear?
+
+Character 2: [screaming] NO! [frantic] Delete it immediately! [rapid fire] Don't open it, don't reply, don't even look at it! [exhausted groan] You know what? I'm installing parental controls. This is for your own good.
+
+============================================================
+
+ITEMS 406-415 - GENERAL TAGS (319 words)
+
+Script: _A_used_880b9e8b_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [choking back tears] She saved us all, Maya. [Shaky breath] Every single one of us owes our freedom to her sacrifice. [whispering] I can still hear her voice telling us to run while she held them off.
+
+406 Character 2: [bitter] And we ran. [louder] We left her there to die alone! [voice cracking] These flowers, these prayers—they're nothing compared to what she deserved. She needed backup, not mourners.
+
+Character 1: [defensively] You think I don't know that? [Sob] You think I don't replay it every night? [quieter] But she gave the order. Following her command was the last way we could honor her wishes.
+
+407 Character 2: [hollow tone] Honor. [Scoff] Such a clean word for such a dirty choice. [trembling] My hands haven't stopped shaking since that day. Sometimes I wonder if surviving was the real punishment.
+
+Character 1: [fierce whisper] Don't you dare dishonor her memory with that talk. [steadier] She believed in this cause more than anything. [voice breaking] The resistance lives because she died—that was always her plan, even if we couldn't see it.
+
+408 Character 2: [exhausted] I'm so tired of being brave. [Shuddering breath] Every mission without her feels wrong, like fighting with a missing limb. [softer] She knew exactly what to say when things got dark.
+
+Character 1: [nostalgic tone] Remember how she'd make us laugh before raids? [Chuckle] That terrible impression of the general she'd do. [more serious] God, I'd give anything to hear that stupid voice one more time.
+
+409 Character 2: [sudden anger] The general's still breathing while she's six feet under! [Growl] Where's the justice in that? [defeated whisper] Sometimes I think about going rogue, finishing what she started myself.
+
+Character 1: [urgently] She'd haunt you forever if you threw your life away like that. [gentler] We finish this together, the way she taught us. [firmly] United we stand—that was her first lesson, remember?
+
+410 Character 2: [quivering] The new recruits don't even know her name. [more shakily] They call her "the martyr" like she's just another symbol. [Bitter laugh] She hated symbols. She just wanted us to be free.
+
+Character 1: [determined] Then we make them remember her name. [rising volume] Elena Rodriguez wasn't just a martyr—she was a fighter, a friend, a sister. [passionate whisper] Every victory we win, we scream her name.
+
+411 Character 2: [hoarse] My throat's already raw from screaming. [Sob] But you're right. [stronger] If they want a symbol, we'll give them a legend. Her story dies when we stop telling it.
+
+Character 1: [trembling whisper] I brought her favorite chocolate. [nervous laugh] Stupid, right? [voice cracking] But I thought maybe... maybe wherever she is, she'd know we remembered the little things too, not just the heroic stuff.
+
+412 Character 2: [warmly] That's not stupid at all. [Sniffle] I brought sheet music—that song she always hummed. [quieter] Maybe the wind will carry it to her. Maybe she's finally getting that rest she never took.
+
+Character 1: [broken] Why did it have to be her? [more desperately] There were twenty of us that day. [Gasping breath] Twenty chances for someone else to be the hero. But no, Elena always had to be first.
+
+413 Character 2: [philosophical tone] Because that's who she was. [slowly] First to fight, first to protect, first to fall. [with reverence] Some people are just built to be shields for others. She wore that burden like armor.
+
+Character 1: [angrily] Armor with too many holes in it, apparently. [Grunt] The medics said she took seventeen bullets. [horrified whisper] Seventeen. How does someone even stay standing that long?
+
+414 Character 2: [in awe] Love. [certain] Pure, stubborn love for every soul she was protecting. [voice breaking] That's the only force strong enough. She turned herself into a wall of flesh and fury for us.
+
+Character 1: [resigned] The sunrise looks different without her. [Sigh] Colors seem muted, like the world knows it lost something irreplaceable. [softly] But we keep watching them, because she can't anymore.
+
+415 Character 2: [with finality] Then we'd better make these sunrises count. [Deep breath] Every dawn is a gift she bought with blood. [fierce whisper] I swear on this grave, Elena—we won't waste a single one.

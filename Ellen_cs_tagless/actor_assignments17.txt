@@ -1,0 +1,1640 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 8810df0f_script | Role: Character 2 (B)
+
+Character 1: You said you were at your mom's.
+
+1219 Character 2: I—okay, I know how this looks, but just let me explain, please? I was gonna go to my mom's, I really was, but then—um, something came up and I just... I didn't wanna worry you.
+
+Character 1: Jake saw you downtown.
+
+1220 Character 2: Oh god. Oh no no no, this is—wait, let me just—[nervous laugh] I can explain that. I mean, I was downtown, yeah, but it's not what you're thinking, I swear.
+
+Character 1: What am I thinking?
+
+1221 Character 2: I dunno, that I—that I was avoiding you or doing something sketchy? But I wasn't! I was actually—okay this is gonna sound so stupid, but I was meeting with that therapist you recommended. The one on Third Street?
+
+Character 1: Why lie about it?
+
+1222 Character 2: Because I was—I was embarrassed, okay? You've been telling me to go for months and I kept saying I didn't need it and then suddenly I'm like, sneaking around to appointments like some kind of... I don't know. [Sigh] It's stupid, I know it's stupid.
+
+Character 1: So you lied to me instead.
+
+1223 Character 2: I know, I know! That's—that's even worse, right? God, I'm such an idiot. I just didn't want you to make a big deal about it, y'know? Like "oh finally you're listening to me" or whatever. Which is so dumb because you wouldn't even—you're not like that.
+
+Character 1: I'm not.
+
+1224 Character 2: No, you're not, and I—I knew that. I think I was just... honestly? I was scared. Like what if I went and it didn't help or what if they told me something I didn't wanna hear, and I just... I wanted to figure it out first before telling anyone.
+
+Character 1: Even me?
+
+1225 Character 2: Especially you. No wait—that came out wrong. I mean, your opinion matters the most, so if it went badly I didn't want you to—ugh, I'm explaining this so badly. [Groan] You matter the most, that's why I was scared to tell you.
+
+Character 1: That doesn't make sense.
+
+1226 Character 2: I know it doesn't! Nothing I did makes sense, okay? I panicked and I lied and I—I hate that I lied to you. Like genuinely, it's been eating at me all week. I almost told you like five different times but then I'd already lied so it got harder and harder to—
+
+Character 1: How long have you been going?
+
+1227 Character 2: Um, three weeks? Maybe four? I'm sorry, I should've just—I should've told you from the beginning. You've been nothing but supportive and I basically threw that in your face by lying about something so... so nothing, y'know?
+
+Character 1: It's not nothing if you needed to lie about it.
+
+1228 Character 2: Yeah. Yeah, you're right. I guess I'm still—I'm working through some stuff. But that's not an excuse for lying to you. I'm really, really sorry. Like I know I keep saying that but I don't—I don't know what else to say except I promise I won't do it again. No more lies, even stupid ones.
+
+Script: 43c9bb1b_script | Role: Character 2 (B)
+
+Character 1: You yelled at Mochi.
+
+1229 Character 2: Oh god, okay—I didn't yell, exactly. I just—she was jumping and I kinda raised my voice? But like, not in a mean way, I swear.
+
+Character 1: She's been hiding under my bed since you left.
+
+1230 Character 2: Wait, what? No no no, that's—I didn't mean to scare her! I was just startled when she jumped on me with muddy paws and I—[groan] I'm such an idiot.
+
+Character 1: Yeah. You are.
+
+1231 Character 2: I know, I know. Listen, I've never really been good with dogs? That's not an excuse though, I shouldn't have—she's literally just being friendly and I totally overreacted.
+
+Character 1: She was excited to see you.
+
+1232 Character 2: Which makes it worse! God, I feel terrible. She was just—she was being sweet and I ruined it. I basically rejected the sweetest dog in the world. [nervous laugh] I'm actually the worst person.
+
+Character 1: She's sensitive. I told you that.
+
+1233 Character 2: You did, you totally did, and I just—I forgot in the moment? No, that's not—I wasn't thinking. I just reacted and... um, can I apologize to her? Would that be weird?
+
+Character 1: How do you apologize to a dog?
+
+1234 Character 2: I dunno, treats? Belly rubs? I'll literally sit on the floor and let her jump on me with the muddiest paws ever if that's what it takes. I wanna make this right.
+
+Character 1: It's not just about her. You know that, right?
+
+1235 Character 2: Yeah, I—I get it. It's about you too, and how I just... I disrespected something you love. Someone you love. That's—that's really messed up of me.
+
+Character 1: She's family to me.
+
+1236 Character 2: I know she is. And I treated her like—like some annoying animal instead of your family member. [sigh] I'm really, really sorry. To both of you.
+
+Character 1: Bring those peanut butter treats she likes. The organic ones.
+
+1237 Character 2: Wait, really? You're gonna—you're gonna let me try again? Oh thank god, yes, absolutely. The organic ones from that fancy pet store downtown, right? I'll get like three bags.
+
+Character 1: One bag is fine. And maybe practice your inside voice first.
+
+1238 Character 2: Yeah, okay, that's—that's fair. I'll be super calm, I promise. Like zen meditation calm. She won't even recognize me, I'll be so chill. Thank you for giving me another chance, seriously.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1239 SCENARIO: debating whether to ask for directions or keep trying
+
+==================================================
+
+[muttering]
+
+Okay, so I've been, um, I've been driving around for like fifteen minutes now and I'm— I'm pretty sure I passed that same gas station twice. Which is, uh, which is not great. [sigh] I mean, how hard can it be to find a Target?
+
+[slightly defensive]
+
+The GPS thing isn't— it's not working right, okay? It keeps saying "turn left" but there's no, um, there's no left to turn onto. Just like a fence and some guy's yard. So that's, uh, that's helpful. Thanks, technology.
+
+[contemplative]
+
+I could ask someone. There's people around, there's that, um, that lady walking her dog. She probably knows where— I mean, everyone knows where Target is, right? It's not like I'm looking for some obscure— [trails off]
+
+[hesitant]
+
+But then I have to, like, roll down my window and be like "excuse me" and explain that I'm lost, which is... [groan] I don't know, it feels weird? Like admitting defeat or something.
+
+[resigned but practical]
+
+Although, I mean, five more minutes of this and I'm gonna be late anyway, so maybe the awkward conversation is, um, is actually the smart move here. Yeah. Okay. Next person I see.
+
+--- CONVERSATION ---
+
+Script: 1a8783bf | Role: Character 1 (A)
+
+1240 Character 1: [cheerfully] So, kiddo, how was school today? [getting quieter] I made your favorite—well, what I think is your favorite—lasagna. [nervous laugh] Your dad mentioned you liked Italian food, so I thought we could try this family recipe together.
+
+Character 2: [flat] It's not my favorite. [slower] Mom made lasagna with ricotta, not cottage cheese. [Scoff] And we never ate dinner this early—she understood teenagers have different schedules, but I guess that's asking too much here.
+
+1241 Character 1: [apologetically] Oh, I didn't realize! Next time I'll use ricotta, I promise. [more eagerly] Maybe you could even show me how she made it? [soft] We could cook together on weekends, make it a fun tradition.
+
+Character 2: [sharply] Traditions can't be forced. [Heavy sigh] Look, I appreciate the effort or whatever, but [trailing off] you've been here six months and still don't know basic things about me. [mumbled] At least the bread's store-bought.
+
+1242 Character 1: [hurt] I'm trying here, really. [steadier] Your father wants us to be a family, and so do I. [pleading] Can't we at least have one peaceful meal without you comparing everything to how it used to be?
+
+Character 2: [raised voice] How it used to be was perfect! [Bitter laugh] But sure, let's pretend this rehearsed family dinner nonsense is normal. [sarcastically sweet] Pass the cottage cheese disaster, please. [quieter] I have homework to finish anyway, so.
+
+1243 Character 1: [firmly] Sit down. We're eating together. [gentler] I know this is hard, I lost my mom young too. [carefully] But pushing everyone away won't bring her back, and it's hurting your dad to see this.
+
+Character 2: [explosive] Don't you dare! [voice cracking] You didn't lose her to cancer while watching her fade for two years! [Choked sound] [whispered] You don't get to use her death as some bonding moment between us.
+
+1244 Character 1: [quietly] You're right. I'm sorry. [Long exhale] That was inappropriate of me. [measured] I just want you to know that I'm not trying to replace anyone—I couldn't even if I wanted to. I'm just me.
+
+Character 2: [exhausted] Whatever. Fine. The lasagna's actually decent, okay? [grudgingly] And thanks for not putting mushrooms in it like Dad suggested. [Snort] [softer] He always forgets I hate them, but somehow you remembered that at least.
+
+1245 Character 1: [hopefully] Small victories, right? [warming up] I keep a notebook, actually—your likes, dislikes, allergies. [self-conscious laugh] Super weird, I know, but I wanted to get something right for once with you.
+
+Character 2: [surprised] You keep notes? About me? [uncomfortable] That's kind of stalkerish but also... [trailing off] Mom used to write everything down too. [quickly] Not that you're anything like her. You're completely different people, obviously.
+
+1246 Character 1: [gently] Different can be okay though, can't it? [more confident] I make terrible dad jokes, burn pancakes every Sunday, and [chuckle] sing off-key in the shower. But I also love your father and care about you immensely.
+
+Character 2: [defensive] Caring about someone doesn't mean knowing them. [Frustrated grunt] You buy me things, make food, show up to school events—[mockingly] playing house perfectly. [genuine] But we've never had a real conversation about anything that actually matters.
+
+1247 Character 1: [curious] Then let's have one now. [earnest] What matters to you? Besides hating my lasagna and my existence in this house. [lightly] I'm genuinely asking—what would make this easier? What do you need from me here?
+
+Character 2: [long pause] Space, mostly. [struggling] And maybe... stop trying so hard? [Sigh] It's exhausting watching you panic every time I frown. [admission] Sometimes I'm just tired, not plotting your demise or planning a dramatic rebellion.
+
+1248 Character 1: [relieved laugh] Noted—less panic, more chill. [thoughtfully] Though you did hide my car keys last week, so the rebellion theory wasn't completely unfounded. [warmer] How about we establish some boundaries? You tell me what's off-limits.
+
+Character 2: [caught] Those keys were an accident—mostly. [Half-laugh] Fine, boundaries: Don't redecorate my room, don't call yourself my "bonus mom," [firm] and never, ever chaperone school dances. [consideration] But maybe Sunday pancakes aren't completely terrible.
+
+1249 Character 1: [amused] Even burned ones? [sincerely] Deal on all counts, especially the bonus mom thing—[shudder]—that phrase makes me cringe too. [gentle] How about we just be... people who share a house and occasionally burnt breakfast food?
+
+Character 2: [considering] People who share a house. [lighter] I can work with that. [Dry laugh] But seriously, learn to flip pancakes properly—it's not that hard. [getting up] Thanks for dinner. [pause] The lasagna was actually pretty good.
+
+--- CS ALPHANUMERIC ---
+
+Script: 60b50304 | Role: Customer Support
+
+Character 1: [trembling voice] Dr. Henderson, my cat Whiskers died yesterday at 3:47 PM, just two days after you said it was just—just a hairball. [voice breaking] How could you miss something so serious, I mean, she was only seven years old?
+
+1250 Customer Support: [quietly] Mrs. Thompson, I am... I'm deeply sorry for your loss. Whiskers was patient ID number W-4829, correct? Can you tell me what happened after you took her home on Tuesday?
+
+Character 1: [angrily] She couldn't breathe properly, she was wheezing and—and you said the X-ray was clear! [voice rising] I paid $485 for those tests at your clinic on 2847 Oak Boulevard, and you missed whatever killed her!
+
+1251 Customer Support: The radiographs we took showed no immediate obstruction, Mrs. Thompson. Sometimes cardiac issues can present similarly to respiratory—I understand you're upset, but we followed standard protocol.
+
+Character 1: [bitterly] Standard protocol? My neighbor said you misdiagnosed her dog Bruno too, case number B-3901 or something. [accusingly] Maybe if you spent less time rushing through appointments, you'd actually catch these things before it's too late!
+
+1252 Customer Support: Each case is different, and I can't discuss other patients' records. But regarding Whiskers, based on her symptoms that day—lethargy, occasional cough—hairball was the most likely diagnosis. Did she show any other signs before Tuesday?
+
+Character 1: [sarcastically] Oh sure, blame me now for not noticing signs! [voice cracking] I've been coming to your practice since 2018, account number TH-00934, never missed a single vaccination. [chokes up] I trusted you with her life!
+
+1253 Customer Support: Mrs. Thompson, I'm not blaming you at all, you were—you've always been an excellent pet parent. Would you like to schedule a meeting to review Whiskers' complete medical history? [gently] Sometimes that helps with closure.
+
+Character 1: [coldly] Closure? I want answers, not closure, and I want my $485 refunded immediately. [more intensely] My husband thinks we should file a complaint with the veterinary board, license number VT-78234, isn't that yours? [pauses] This is negligence, plain and simple.
+
+1254 Customer Support: I understand your frustration, and you have every right to file a complaint if you feel it's necessary. However, I'd really appreciate the chance to review everything with you first—perhaps Thursday at 2 PM? We could also discuss the refund then.
+
+Character 1: [exhausted] Thursday... fine, but I'm bringing my husband and we're recording everything. [firmly] And I want copies of all her records from January onward, every single note you wrote. [sighs heavily] She deserved better than this, Dr. Henderson.
+
+1255 Customer Support: She absolutely did deserve the best care, and I'm sorry we fell short. I'll have Michelle prepare all records from January 1st through present, about 47 pages total. Everything will be ready for Thursday's meeting.
+
+Character 1: [skeptically] Forty-seven pages? For six months of visits? [accusingly] Are you sure nothing's missing from her file, because last time you forgot to log her weight at the March 15th appointment, remember that?
+
+1256 Customer Support: You're right, we did have that documentation issue in March, but it was corrected the same week. [more confidently] I personally reviewed her complete file this morning, including lab results from Quest Diagnostics, reference number QD-889234. [gently] Everything is there.
+
+Character 1: [sadly] I just... I keep thinking if I'd taken her to Emergency Pet Care on Route 9 instead of trusting your diagnosis. [voice breaking] My daughter Emily is devastated, she picked Whiskers from the shelter herself when she was just twelve weeks old.
+
+1257 Customer Support: Mrs. Thompson, second-guessing won't bring Whiskers back, though I—I understand the impulse completely. Emily must be heartbroken. Would it help if I wrote her a letter about what a special cat Whiskers was?
+
+Character 1: [surprised] You'd do that? Even though I'm—even though I'm probably going to leave terrible reviews on every site? [quieter] She was special, wasn't she, always purring during examinations, never scratched anyone despite those awful ear drops.
+
+1258 Customer Support: [warmly] She was one of my favorite patients, truly—so gentle and trusting. And Mrs. Thompson, regardless of reviews or complaints, I genuinely want to understand what happened. [firmly] That's what matters most to me right now.
+
+Character 1: [resignedly] Thursday at 2 PM then, your office at 2847 Oak Boulevard, conference room B like last time? [sighs] I'll try to be... less emotional, but I can't promise anything. [quietly] This just hurts so much, you know?
+
+1259 Customer Support: Conference room B, yes, and please don't worry about being emotional—you lost a family member. [more gently] I'll block out extra time, until 3:30 PM at least. We'll go through everything together, I promise you that, Mrs. Thompson.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 9d029744 | Role: Customer Support
+
+1260 Customer Support: Thank you for calling QuickShip Delivery, this is Rachel speaking. [more quickly] How can I help you today?
+
+Character 1: [frustrated] Yeah, hi, I've been waiting at home all day for a package that supposedly requires a signature. [sighs heavily] Nobody showed up, but somehow—somehow—I have a "delivery attempted" notice.
+
+1261 Customer Support: [apologetic] Oh, I'm so sorry to hear that, let me pull up your tracking information right away. Can I get your tracking number, please?
+
+Character 1: [impatiently] It's, uh, 7-7-4-3... [pause] wait, no that's wrong. [more irritated] Hold on, it's 7-7-8-3-2-1-5-4-9-0.
+
+1262 Customer Support: [professionally] Perfect, I see it here—one moment while I check the driver's notes. [more briskly] Okay, so it shows the driver arrived at 2:47 PM and, um, no answer at the door.
+
+Character 1: [loudly] That's impossible! [incredulous] I was literally sitting in my living room, ten feet from the door, watching TV with the volume down specifically so I wouldn't miss them!
+
+1263 Customer Support: I completely understand your frustration, sir. Sometimes drivers are on tight schedules and don't wait as long as they should. [reassuring] Let me see what options we have for redelivery.
+
+Character 1: [sarcastically] Oh great, more waiting around. [sighs] Can't you just, I don't know, tell them to leave it without a signature? [hopefully] It's just a phone case, not the crown jewels.
+
+1264 Customer Support: [regretfully] Unfortunately, the sender specifically requested signature confirmation, so we can't override that. But I can schedule a specific two-hour window tomorrow, or—or you could pick it up at our facility tonight before eight.
+
+Character 1: [groans] The facility is forty minutes away in traffic. [resigned] Fine, what time windows do you have tomorrow? [more firmly] And please make sure the driver actually rings the doorbell this time.
+
+1265 Customer Support: Absolutely, I'm adding a note right now—"must ring doorbell and wait minimum sixty seconds." For tomorrow, we have eight to ten AM, ten to twelve, or two to four PM available.
+
+Character 1: [decisively] Eight to ten works, I guess. [pause] Actually, wait—can you guarantee, like really guarantee, they'll show up in that window? [desperately] I can't take another day off work for nothing.
+
+1266 Customer Support: I'm marking this as priority delivery with supervisor oversight, so yes, I can personally ensure delivery within that window. You'll also get a text when the driver is thirty minutes away.
+
+Character 1: [relieved] Okay, that's... that's actually helpful, thank you. [curiously] Quick question though—why do they even need signatures for small packages? [chuckles dryly] Seems like it just makes everyone's life harder.
+
+1267 Customer Support: [sympathetically] Trust me, I hear you—it's usually for insurance purposes or seller preference. Is there anything else I can help you with regarding this delivery or any other packages?
+
+Character 1: [thoughtfully] Actually, yeah, one more thing. [more urgently] If they don't show up again tomorrow, what happens? Does it just get sent back or what?
+
+1268 Customer Support: After three attempts, packages typically go to our hold facility for five business days. But with the priority flag I've added, that won't happen—supervisors monitor these deliveries personally.
+
+Character 1: [skeptically] Right, supervisors monitoring. [sighs] Look, I appreciate your help, Rachel, really. [more sincerely] You've been way more helpful than the last person I talked to.
+
+1269 Customer Support: That's very kind of you to say, thank you. [briskly] You'll receive a confirmation email shortly with your delivery window and my direct extension if any issues arise. [professionally] Is there anything else today?
+
+Character 1: [tiredly] No, that's everything. [pause] Thanks again, and uh, fingers crossed for tomorrow morning. [chuckles] Maybe I'll set up camp by the door with coffee and a book.
+
+--- BASIC SCENARIOS ---
+
+1270 [Angry] [Fast] Oh come ON, the speed limit is forty-five, not—not twenty, for crying out loud!
+
+1271 [Sarcastic] Yeah, no, take your time, it's not like some of us have, um, actual places to be today. [Tsk]
+
+1272 [Disappointed] [Sigh] I should've just taken the back roads, I mean, this always happens on this stretch.
+
+1273 [Whisper] Please turn, please turn, please just—okay, they're not turning. [Groan]
+
+1274 [Happy] [Laugh] You know what, this is so ridiculous it's actually kinda funny at this point.
+
+1275 [Shout] The left lane is for PASSING, not for your Sunday cruise! [Angry]
+
+1276 [Sad] [Slow] I'm gonna lose this job if I'm late again, and it's not even—I left so early...
+
+1277 [Fast] [Disappointed] My boss literally said "don't be late" and here I am stuck behind grandpa going, what, fifteen miles an hour?
+
+1278 [Sarcastic] [Chuckle] Oh good, now they're slowing down even more, that's—that's exactly what I needed right now.
+
+1279 [Angry] I swear, if I miss my daughter's recital because of this—ugh, I can't even... [Groan]
+
+1280 [Whisper] [Tsk] Okay, deep breaths, it's just, um, it's just five more minutes, maybe ten, you're fine.
+
+1281 [Happy] [Fast] Oh thank god, there's a passing zone coming up in, like, half a mile!
+
+1282 [Slow] [Sigh] This is karma, isn't it, for all the times I've been the slow driver?
+
+1283 [Shout] [Angry] Are you SERIOUSLY braking on a straight road right now?!
+
+1284 [Disappointed] You know, I actually woke up early to avoid this exact—this exact situation, so... [Tsk]
+
+1285 [Sarcastic] [Slow] Wow, twenty-two in a fifty zone, we're really breaking speed records today, aren't we?
+
+1286 [Sad] [Whisper] Please don't let them notice I'm late, please don't let them—oh, who am I kidding?
+
+1287 [Fast] Is that—are they actually on their PHONE right now?! [Angry] [Shout] Unbelievable!
+
+1288 [Chuckle] I mean, honestly, at this rate I might as well just, um, call in sick or something. [Disappointed]
+
+1289 [Happy] [Laugh] [Fast] YES, finally, they're turning off, oh my god, freedom at last!
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1290 SCENARIO: Frustrated about a confusing app update, then finding a feature they love
+
+==================================================
+
+[frustrated]
+
+Ugh, so you know that banking app I use? They did this massive update and I cannot— I literally cannot figure out where anything is anymore. Like, why do they have to change everything that actually works?
+
+[annoyed]
+
+I was just trying to transfer money to my savings, which I do like every week, and now there's all these weird tabs and the buttons are in completely different places. I spent like twenty minutes just trying to find my account balance. My account balance! That should not be hard to find.
+
+[exasperated]
+
+And there's all these new features I don't want, like some budgeting thing that keeps sending me notifications like "You spent $12 on coffee this week!" Yeah, I know, I was there when I bought it. [groan] I just want to move my money around without a whole lecture about my spending habits.
+
+[more frustrated]
+
+I was about to just delete the whole app and go back to using the website, because this is just— this is ridiculous, like why fix something that isn't broken, you know?
+
+[surprised] [curious]
+
+Wait, hold on. What is this thing? There's like this little... oh, it's showing me all my recurring payments in one place. Huh.
+
+[impressed] [warming up]
+
+Actually, this is kind of... this is actually really useful. I can see everything that comes out automatically, and I can cancel stuff right from here? Oh wow, I've been paying for that streaming service I never use for like six months. [chuckle] 
+
+[pleased]
+
+Okay, maybe this update isn't completely terrible.
+
+============================================================
+
+ITEM 1291 - MONOLOGUE SELFTALK (228 words)
+
+Source: c9fef8b5
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1291 SCENARIO: attempting to fold a fitted sheet
+
+==================================================
+
+[muttering]
+
+Okay, so, um, how hard can this be, right? It's just a— it's just a sheet. I mean, people do this all the time, it's not like, uh, it's not like rocket science or whatever.
+
+[slightly uncertain]
+
+So I've got the, um, the corners here, and I think— I think you're supposed to put the corners together? Like, corner to corner, and then, uh— [sigh] wait, which corners though?
+
+[getting frustrated]
+
+Okay, no, that's not— that's not right. Now it's all bunched up and weird and it looks like a, um, like a fabric burrito or something. [nervous laugh] This is, uh, this is not how fitted sheets are supposed to look.
+
+[determined]
+
+Let me just— let me start over. There's gotta be a system here, right? Like, elastic corner goes with elastic corner, and then you, um, you fold it in half, and then—
+
+[deflated]
+
+[groan] It's doing that weird inside-out thing again. You know what? You know what, maybe this is just— maybe this is just how fitted sheets live now. In a, uh, in a vaguely rectangular blob shape.
+
+[resigned but amused]
+
+I'm just gonna shove it in the closet and pretend it's, um, pretend it's folded. Close enough, right? [weak laugh] Martha Stewart would probably cry, but, uh, Martha Stewart's not doing my laundry, so...
+
+============================================================
+
+ITEM 1292 - MONOLOGUE SELFTALK (209 words)
+
+Source: 9931f3e8
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1292 SCENARIO: discovering their favorite mug has a chip in it
+
+==================================================
+
+[muttering]
+
+Oh, come on. Come on, really? I just— I literally just grabbed it and there's, uh, there's a chip right here on the— on the handle. My favorite mug. Of course it's my favorite mug.
+
+[slightly dismayed]
+
+When did this even happen? I mean, I wash this thing like every day, I'm super careful with it, and now there's just this, um, this little chunk missing right where I— right where I put my thumb. [sigh] Perfect.
+
+[thinking out loud]
+
+Okay, so, um, is it still safe to drink from? Like, it's not— it's not that big of a chip, right? It's just, uh, just a tiny piece, but I don't know if there are, um, if there are little ceramic bits that could— that could come off or something.
+
+[slightly wistful]
+
+I've had this mug for like three years. It's the perfect size, perfect weight, and the handle fits my hand just— just right, you know? [tsk] Why does this always happen to the good stuff?
+
+[resigned]
+
+I guess I could still use it. I mean, it's not like it's gonna kill me or anything. It's just, um— it's just not the same anymore, is it?
+
+
+============================================================
+
+ITEM 1293 - MONOLOGUE SELFTALK (220 words)
+
+Source: 9b8c0321
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1293 SCENARIO: attempting to hang a picture straight
+
+==================================================
+
+[muttering]
+
+Okay, so I just need to, um— I just need to hang this one little picture. How hard can it be, right? I've got the nail, I've got the, uh, the hammer, and I've got— [sigh] I've got absolutely no idea what I'm doing.
+
+[slightly more confident]
+
+But it's fine, it's— it's just one nail. I mean, people do this all the time, so, um, so I can figure this out. Let me just eyeball it here and— okay, that looks about right? Maybe a little to the left, or, uh, or maybe—
+
+[frustrated]
+
+No, wait, that's— that's definitely crooked. Like, really crooked. How did I— how did I mess that up already? I literally just held it up for two seconds and somehow it's, um, it's like completely sideways now.
+
+[determined]
+
+Okay okay okay, let me try this again. So if I hold it here, and then I mark where the, uh, where the nail should go— but what if the string thing is longer than I think? Or shorter? I should probably measure this, shouldn't I?
+
+[deflated]
+
+Or I could just, um, I could just lean it against the wall on that little table thing. That's, uh— that's basically the same as hanging it, right? [laugh] Right. Problem solved.
+
+
+============================================================
+
+ITEM 1294 - MONOLOGUE SELFTALK (225 words)
+
+Source: 9c020630
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1294 SCENARIO: waiting for someone to finish using the printer
+
+==================================================
+
+[muttering]
+
+Okay, so, um, how long has this been— how long has this been going? Like, I just need to print one thing, just one, uh, one page and— [sigh] I mean, what are they even printing that takes this long?
+
+[slightly impatient]
+
+It's been like, what, five minutes? Ten minutes? I don't— I don't actually know, I wasn't, um, I wasn't really keeping track but it feels like— it feels like forever. Maybe I should just— maybe I should just come back later?
+
+[second-guessing]
+
+But then I'll forget. I'll totally forget and then tomorrow I'll be like, oh crap, I never— I never printed that thing. And it's due, um, it's due soon-ish, so I really should just— I should just wait it out, right?
+
+[resigned]
+
+Okay, yeah, I'm waiting. I'm just gonna— I'm just gonna stand here and, uh, and wait like a normal person. [hmm] Maybe they're printing like a whole book or something. A novel. War and Peace. [snort]
+
+[perking up]
+
+Oh wait, is that— did it just stop? It stopped making noise, so maybe— oh no, no, it's going again. False alarm. [exhale] Cool, more waiting.
+
+[trailing off]
+
+I wonder if there's another printer on the, um, on the third floor? But that's so far and I'm already here, so...
+
+
+============================================================
+
+ITEM 1295 - MONOLOGUE SELFTALK (189 words)
+
+Source: 9c950bbd
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1295 SCENARIO: waiting for their order number to be called
+
+==================================================
+
+[muttering]
+
+Okay so they said, um, they said fifteen to twenty minutes, and that was— when was that? Like, maybe ten minutes ago? So I should, uh, I should probably have a few more minutes here.
+
+[slightly impatient]
+
+Order forty-three... forty-four... they just called forty-four. So I'm, um, I'm forty-seven, which means— [sigh] which means I've got, what, three more people ahead of me?
+
+[uncertain]
+
+Unless they don't— do they always call them in order? Because sometimes I feel like they, uh, they skip around or something. Like maybe forty-six takes longer so they'll just— they'll just call forty-seven first, right?
+
+[fidgety]
+
+I should probably just, um, just stay close to the counter. But not too close because then I look, like, I look way too eager. [nervous laugh] Just casually lurking by the, uh, by the pickup area like a normal person.
+
+[brightening slightly]
+
+Oh, forty-five! Okay so, um, so we're making progress here. Just two more and then I can— then I can finally eat this sandwich and get back to, uh, to pretending to be productive.
+
+
+============================================================
+
+ITEM 1296 - MONOLOGUE SELFTALK (195 words)
+
+Source: a2155483
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1296 SCENARIO: discovering they grabbed the wrong coffee order
+
+==================================================
+
+[confused]
+
+Wait, this is— this isn't my coffee. I ordered a, um, a medium latte and this is like, uh— [sip] this is definitely not a latte. This tastes like, um, like vanilla? And way too sweet.
+
+[muttering to self]
+
+Okay so I grabbed the wrong— I totally grabbed someone else's order. Great. [sigh] I mean, I wasn't really paying attention, I was just, uh, I was looking at my phone and when they called out "medium" I just— I just went for it.
+
+[slightly sheepish]
+
+Should I go back? I should probably go back, right? But like, what if they already made another one for whoever— for whoever actually ordered this? Then there's gonna be two of these, um, these vanilla whatever drinks just sitting there.
+
+[hesitant]
+
+Plus I already, uh, I already took a sip. [grimace] Which is kind of gross when you think about it. I mean, not gross gross, but, um, you know what I mean.
+
+[resigned]
+
+Maybe I'll just— maybe I'll just drink this one. It's not terrible, it's just... really sweet. [another sip] Yeah, okay, I can work with this.
+
+
+============================================================
+
+ITEM 1297 - MONOLOGUE SELFTALK (198 words)
+
+Source: a4a667c1
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1297 SCENARIO: trying to remember the Wi-Fi password
+
+==================================================
+
+[muttering]
+
+Okay, so I need the, um— I need the Wi-Fi password. It's gotta be here somewhere, right? Like, it's probably just, uh, it's probably something obvious that I'm— that I'm totally blanking on.
+
+[slightly exasperated]
+
+Was it, um, was it the address? Like the street number plus— no, that's not— that's not it. [sigh] Maybe it's the dog's name? But which dog, we've had like three different— okay, that's not helping.
+
+[hopeful]
+
+Oh! Oh wait, it might be on the router. Let me just— [grunt] why is this thing tucked behind so much— so much stuff? There's like seventeen cables back here and I can't— I can't see anything.
+
+[squinting tone]
+
+Okay there's definitely a sticker but it's, uh, it's completely faded. Of course it is. Because that would be too easy, wouldn't it? [tsk] The one time I actually need to read the fine print and it's basically invisible.
+
+[resigned but amused]
+
+You know what, I'm just gonna text my roommate. Like, this is— this is exactly why we have each other, right? To remember the stuff that the other person inevitably forgets. [laugh] Modern problems, modern solutions.
+
+
+============================================================
+
+ITEM 1298 - MONOLOGUE SELFTALK (207 words)
+
+Source: a55bf130
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1298 SCENARIO: debating whether to take leftover food home
+
+==================================================
+
+[contemplative]
+
+Okay, so, um, there's like half this sandwich left, and I'm— I'm pretty full, but it's a really good sandwich, you know? Like, I don't want to just— I mean, it seems wasteful to just leave it here, right? But then again, am I actually gonna eat it later, or is it just gonna sit in my fridge and, uh, and get all sad and soggy?
+
+[slightly indecisive]
+
+I could ask for a box. That's— that's normal, right? People do that. But it's just, um, it's just half a sandwich, not like a whole meal or whatever. [sigh] I don't know, maybe that's weird? Like, "excuse me, can I get a to-go container for my, uh, for my sandwich remnants?"
+
+[muttering]
+
+But I paid twelve dollars for this thing, so— I mean, that's like six dollars just sitting there. Six dollars! That's, um, that's a coffee. That's a really good coffee, actually.
+
+[resigned but practical]
+
+Okay, you know what? I'm doing it. I'm taking the sandwich home. Future me will probably thank current me, or, uh, or future me will find mystery sandwich in the fridge and be confused, but— [laugh] but that's future me's problem, right?
+
+
+============================================================
+
+ITEM 1299 - MONOLOGUE SELFTALK (210 words)
+
+Source: a61a9c7a
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1299 SCENARIO: debating whether to go back for the thing they forgot
+
+==================================================
+
+[muttering]
+
+Okay, so I'm, um, I'm already like ten minutes away and I just— [sigh] I just realized I forgot my, uh, my phone charger. Which is, you know, it's not the end of the world, but— but I'm gonna be there all day and my battery's already at like thirty percent.
+
+[slightly annoyed]
+
+I mean, do I really need it? I could probably just, um, just deal with a dead phone for a few hours. People survived without phones for, like, thousands of years, right? But then again, what if someone— what if there's an emergency or something?
+
+[waffling]
+
+It's only ten minutes back, maybe fifteen with traffic. So that's, what, half an hour total? Ugh, but I'm already running a little late and— and I hate being that person who shows up all flustered and apologizing.
+
+[decisive, then wavering]
+
+No, you know what, I'm just— I'm just gonna go back. It's fine. Better safe than sorry. Unless— [hmm] unless I can just borrow someone's charger there? But what if they have different phones?
+
+[resigned]
+
+Okay, okay, I'm turning around. This is happening. [exhale] At least I'll have a fully charged phone all day, so there's that.
+
+
+============================================================
+
+ITEM 1300 - MONOLOGUE SELFTALK (193 words)
+
+Source: a9f60980
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1300 SCENARIO: attempting to catch a fly in their apartment
+
+==================================================
+
+[muttering]
+
+Okay, so there's, um— there's definitely a fly in here somewhere. I can hear it, like, buzzing around, but I can't— where is it? It was just, uh, it was just by the window, like, two seconds ago.
+
+[slightly annoyed]
+
+Right, so now it's gonna, um, it's gonna hide until I sit down and then it'll just— [sigh] it'll just start dive-bombing my head. That's, uh, that's how this works, right?
+
+[determined]
+
+Okay, let me just— I need something to, um, to catch it with. Magazine? No, that's gonna make a mess. What about, uh— oh, there it is! It's on the, um, on the lamp.
+
+[whispering intensely]
+
+Don't move, don't move, just— okay, I'm gonna use this cup, and then I'll, uh, I'll slide some paper under it, and— [tsk] and it flew away. Of course it did.
+
+[resigned]
+
+You know what? Maybe I just, um— maybe I just open the window and let it figure itself out. I mean, it probably wants to leave more than I want it to— oh wait, there it goes. [laugh] Problem solved, I guess.
+
+
+============================================================
+
+ITEM 1301 - MONOLOGUE SELFTALK (265 words)
+
+Source: ac1e6020
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1301 SCENARIO: realizing they're out of coffee
+
+==================================================
+
+[drowsy]
+
+Okay, so, um, coffee time. Just gonna— just gonna make my usual morning, uh, my usual morning cup and then I can, like, actually function like a human being. [yawn] Where's the, um— where's the coffee?
+
+[slightly more alert]
+
+Hm. That's... that's weird. I could've sworn there was, like, at least half a bag left? Maybe it's, um, maybe it's behind the— no, that's just the sugar. And the, uh, the tea that I never drink but keep buying for some reason.
+
+[realization dawning]
+
+Oh. Oh no. No no no, this is— this is not happening right now. I'm out. I'm actually out of coffee. On a Monday. [groan] Of course it's a Monday, because why would I run out of coffee on, like, a Saturday when I could actually go to the store without wanting to, um, to crawl back into bed?
+
+[slightly frantic]
+
+Okay, think think think. Do I have any of those instant packets? The ones that taste like, uh, like sadness and regret but technically contain caffeine? Let me just— [tsk] no, I used the last one during that, um, that late night last week when I was—
+
+[resigned but problem-solving]
+
+Right. So. Options. I can either go to the store looking like I got hit by a truck, or I can, um, I can just accept that today is gonna be one of those days where I move really, really slowly until I find caffeine somewhere. [sigh] Maybe the corner place is open? They're usually— yeah, okay, pants first, then coffee mission.
+
+
+============================================================
+
+ITEM 1302 - MONOLOGUE SELFTALK (188 words)
+
+Source: ac571279
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1302 SCENARIO: discovering the product they wanted is out of stock
+
+==================================================
+
+[muttering]
+
+Okay, so, um, where is it— where's the, uh, the oat milk? I swear it's usually right here with all the other— [sigh] maybe I'm looking in the wrong spot.
+
+[slightly annoyed]
+
+No, no, this is definitely where it, um, where it goes. There's the almond milk, there's the soy milk, and then there should be— but there's just this, uh, this empty space where the— [tsk] great.
+
+[drawn out, disappointed]
+
+Ohhh, they're out. Of course they're out. The one thing I actually, um, I actually came here for and it's just— gone.
+
+[conversational, working through it]
+
+Okay, so, um, what are my options here? I could try the other brand, but that one's like— it's like three dollars more and it tastes kind of, uh, kind of weird? Or I could just, I mean, I could just get regular milk but—
+
+[resigned, slightly amused]
+
+You know what, I'll just— I'll just check back tomorrow. It's not like it's the end of the world, right? [laugh] I can survive one day without my fancy oat milk.
+
+
+============================================================
+
+ITEM 1303 - MONOLOGUE SELFTALK (211 words)
+
+Source: ad193658
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1303 SCENARIO: waiting for the waiter to notice them
+
+==================================================
+
+[muttering]
+
+Okay, so, um, I've been sitting here for like— what, ten minutes? Fifteen? And I haven't even, uh, I haven't even gotten water yet. Which is, I mean, that's fine, but I'm just— I'm getting kind of thirsty here.
+
+[slightly louder, then catching themselves]
+
+Should I just— [clears throat] should I try to make eye contact or something? I don't want to be that person who's like waving around and being all— all demanding, but also I just, um, I just want to order some food, you know?
+
+[contemplative]
+
+Maybe he's busy. He's probably busy, right? I mean, there's other tables and— oh, wait, he's going to that table over there. Okay, so after that table maybe he'll— maybe he'll come over here? Or should I, uh, should I try to catch him when he walks by?
+
+[hesitant]
+
+I could just sort of, like, lean forward a little bit? Make myself more visible? Is that weird? That feels weird. [hmm] But I'm really hungry and I just— I just want to look at the menu.
+
+[resigned but hopeful]
+
+Okay, I'll just, um, I'll just wait another minute or two. He'll notice eventually, right? Right. People notice things. That's how this works.
+
+
+============================================================
+
+ITEM 1304 - MONOLOGUE SELFTALK (194 words)
+
+Source: ad2c3d3b
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1304 SCENARIO: noticing a typo after sending an important email
+
+==================================================
+
+[muttering]
+
+Okay, so that's— that's sent. Great. Um, hopefully Sarah can get back to me about the, uh, the budget thing by— [pause] wait. Wait wait wait.
+
+[slightly panicked]
+
+Did I just— did I just write "form" instead of "from"? Oh no. Oh no no no. Let me just, um, let me just check my sent folder real quick because I swear I— [groan] yeah. Yeah, I did.
+
+[flat]
+
+"I look forward to hearing form you." Form. F-O-R-M. Like a— like a document. [sigh] This is, um, this is exactly the impression I wanted to make with the new client. Super professional. Really, uh, really on top of things.
+
+[faster, working through it]
+
+Okay but maybe— maybe she won't notice? I mean, people make typos all the time, right? It's not like I wrote something completely insane, it's just one letter. One tiny little— 
+
+[resigned]
+
+But it's right there at the end. Like, the very last thing she's gonna read is "form you" instead of "from you." [exhale] Cool. Just, um, just gonna pretend this never happened and hope for the best, I guess.
+
+
+============================================================
+
+ITEM 1305 - MONOLOGUE SELFTALK (192 words)
+
+Source: b4d20dc7
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1305 SCENARIO: trying to figure out how to politely leave a conversation
+
+==================================================
+
+[muttering under breath]
+
+Okay, so, um, so she's been talking for like— for like fifteen minutes about her, uh, her cousin's wedding drama, and I— I mean, I don't even know her cousin, right? But she keeps going and I'm just, um, I'm just nodding and—
+
+[slightly uncomfortable]
+
+How do you— how do you even get out of this without being, like, totally rude? I can't just be like "okay cool, bye" because that's— that's awful, right? But I also can't stand here for another, um, another twenty minutes talking about centerpieces and—
+
+[thinking out loud]
+
+Maybe I could— I could check my phone? Like, pretend I got a text or something? But that's so obvious, everyone knows that trick. [sigh] Or I could, um, I could say I need to use the bathroom, but then I'd have to actually go and—
+
+[resigned]
+
+Wait, she's asking about my weekend plans now, so maybe— maybe I can just, like, naturally wrap this up? "Oh yeah, speaking of plans, I should probably..." [trailing off] Yeah, that could work. That's not terrible, right?
+
+
+============================================================
+
+ITEM 1306 - MONOLOGUE SELFTALK (215 words)
+
+Source: b5b3bc8c
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1306 SCENARIO: trying to figure out what that weird noise in their car is
+
+==================================================
+
+[muttering to self]
+
+Okay, so, um, what is that— what is that noise? It's like a, uh, like a clicking? Or maybe more of a, um, a ticking? I don't know, but it's definitely— it's definitely not normal.
+
+[slightly concerned]
+
+It started when I, uh, when I turned left back there, I think? Or was it— no wait, maybe it was when I hit that pothole. [sigh] God, there are so many potholes on this street, it could've been any of them.
+
+[thinking out loud]
+
+Okay, so if it's the, um, the wheels, then it's probably— what do they call it— CV joint? Is that a thing? I feel like my dad mentioned that once, but I was, uh, I was probably not paying attention because car stuff is just—
+
+[faster, slightly panicked]
+
+Wait wait wait, it's not the brakes, is it? Because if it's the brakes, that's like, um, that's actually dangerous. I should— I should probably pull over if it's the brakes, right?
+
+[calmer, resigned]
+
+You know what, it's probably just— it's probably just something stuck in the tire. Like a rock or, um, or some debris. [exhale] I'll check it when I get home. It's fine. Everything's fine.
+
+
+============================================================
+
+ITEM 1307 - MONOLOGUE SELFTALK (189 words)
+
+Source: b7d0414e
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1307 SCENARIO: waiting for someone who's running late
+
+==================================================
+
+[checking the time, slightly impatient]
+
+Okay, so, um, they said they'd be here at, what, two-thirty? And it's now— it's now two forty-five, so that's, uh, that's fifteen minutes. Which isn't, like, terrible, but still. I mean, I got here on time, so—
+
+[muttering]
+
+Maybe I should text them? But I don't want to be, um, I don't want to be that person who's like, constantly checking up on— you know what I mean? Like, traffic happens, right? Or maybe they're, uh, maybe they're just running behind.
+
+[slightly defensive]
+
+I mean, I'm not mad or anything, it's just— okay, I'm a little annoyed because I, um, I specifically left early to get here and now I'm just, like, standing here looking— [sigh] looking like I don't have anything better to do.
+
+[brightening slightly]
+
+Oh wait, is that— no, that's not them. That's just some random person with the same, uh, same jacket or whatever. [laugh] Great, now I'm like a detective trying to spot—
+
+[resigned, checking phone again]
+
+Okay, five more minutes and then I'll text. That's, um, that's reasonable, right?
+
+
+============================================================
+
+ITEM 1308 - MONOLOGUE SELFTALK (186 words)
+
+Source: b99dcbe2
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1308 SCENARIO: debating whether to ask for a receipt
+
+==================================================
+
+[muttering]
+
+Okay, so, um, do I need a receipt for this? I mean, it's just— it's just coffee, right? But, uh, but maybe I should get one anyway, like, in case— in case what, though?
+
+[slightly uncertain]
+
+I don't know, maybe, um, maybe I need it for my budget thing? That spreadsheet I was gonna— I was gonna start tracking my expenses, but then I never actually— [sigh] I never actually do that stuff.
+
+[more decisive]
+
+But the line's moving and she's already, uh, she's already processing the next person and I'm just standing here like— like an idiot. Do I go back? That's weird, right? Going back for a receipt?
+
+[resigned]
+
+It's three-fifty. Three-fifty for a latte. I'm not gonna, um, I'm not gonna return a latte. [laugh] What am I gonna do, claim it's defective? "Excuse me, this coffee is too coffee-ey"?
+
+[trailing off]
+
+I mean, I could just— I could just ask next time. Make it a habit or whatever. Yeah. Next time I'll just... I'll remember to ask.
+
+[quieter]
+
+Probably won't remember, though.
+
+============================================================
+
+ITEM 1309 - MONOLOGUE (257 words)
+
+Source: 053e35de
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1309 SCENARIO: Mad about a wrong food delivery, then the correct order arrives at the door
+
+==================================================
+
+[frustrated]
+
+Okay so I ordered Thai food like two hours ago, right? And I'm starving, I've been working all day and I just wanted my usual pad thai with shrimp, extra spicy, you know? And this guy shows up with— with Chinese food. Like completely wrong restaurant, wrong everything.
+
+[annoyed]
+
+And he's just standing there like "this is your order" and I'm like no, no it's not, I didn't order sweet and sour pork, I hate sweet and sour pork. But he's insisting it's mine because the address matches and I'm just— [sigh] I was so hungry I almost considered just keeping it.
+
+[building frustration]
+
+So I call the Thai place and they're like "oh sorry, we'll send the right order" but now I have to wait another hour probably, and I'm just— I was already hangry before this, you know? Like why is this so complicated, it's just food delivery, people do this like thousands of times a day and—
+
+[surprised]
+
+Wait, hold on. Someone's at my door right now, that was fast— 
+
+[pleased] [slightly embarrassed]
+
+Oh my god, it's not just my pad thai, they brought like— they brought me free spring rolls and this mango sticky rice thing as an apology. And there's a note that says "sorry for the mix-up, dinner's on us next time."
+
+[warm] [chuckling]
+
+Okay, you know what? I feel bad for getting so worked up now. This is actually really sweet of them.
+
+
+============================================================
+
+ITEM 1310 - MONOLOGUE (263 words)
+
+Source: 054b51e7
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1310 SCENARIO: Mad about a rude email, then getting a sincere apology follow-up
+
+==================================================
+
+[frustrated]
+
+Oh my God, you will not believe the email I got from Jessica this morning. Like, I send her a completely reasonable request about the budget changes, right? And she sends back this like— this super snippy response about how I "should have been more thorough in my initial proposal."
+
+[annoyed] [indignant]
+
+Like, excuse me? I was thorough! The parameters changed after I submitted it, which she would know if she actually read her emails instead of just— [scoff] I don't know, whatever she does all day.
+
+[heated]
+
+And then she has the nerve to CC my manager on it! Like what is this, middle school? I'm sitting there reading it like, are you seriously trying to make me look incompetent right now?
+
+[agitated]
+
+I was drafting this whole response, like really letting her have it, you know? I had this whole thing about professional communication and— oh, wait, she's... she's emailing me again.
+
+[surprised] [softer]
+
+Oh. Wow, okay, this is... this is actually a really nice apology. She says she was having a terrible morning and took it out on me, which was completely unfair.
+
+[guilt creeping in]
+
+And she's asking if we can hop on a call to go over everything properly. She even said she's going to email my manager to clarify that the changes weren't my fault.
+
+[sheepish] [half laugh]
+
+Well. Now I feel like kind of a jerk for wanting to send that nasty email back. Good thing I didn't hit send yet, right?
+
+
+============================================================
+
+ITEM 1311 - MONOLOGUE (240 words)
+
+Source: 05ae71d6
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1311 SCENARIO: Mad about a broken gym machine, then finding a better one open
+
+==================================================
+
+[frustrated]
+
+Oh my god, so I get to the gym today, right? And I'm like mentally prepared for leg day, I've got my playlist ready, I'm feeling good. I go straight to the squat rack— the good one, you know, the one that's not all wobbly— and there's just this massive "OUT OF ORDER" sign taped to it. [groan] Like, seriously?
+
+[annoyed]
+
+And of course there's no other squat racks free, so I'm just standing there like an idiot with my water bottle, trying to figure out what to do. I was so— I was so ready for this workout, and now I have to completely change my whole routine because they can't maintain their equipment properly.
+
+[irritated]
+
+So I'm walking around looking for alternatives, getting more pissed off by the minute, and I'm thinking like maybe I'll just do some dumbbell stuff instead, but that's not really what I wanted to— 
+
+[surprised] [brightening]
+
+Oh wait, actually— there's someone leaving the other squat rack right now. The one by the windows? I didn't even see it was free because there was this huge guy standing in front of it.
+
+[pleased] [realizing]
+
+Actually, this one's way better. The lighting's nicer and there's like actual ventilation over here. [chuckle] Maybe that broken machine was like, a blessing in disguise or whatever. Sometimes things just work out, you know?
+
+
+============================================================
+
+ITEM 1312 - MONOLOGUE (271 words)
+
+Source: 0725d8c3
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1312 SCENARIO: Calmly recounting advice they got from the internet, then fact-checking it while talking, then finding it was completely wrong and they've been following it, spiraling into internet advice regret
+
+==================================================
+
+[casual] [conversational]
+
+So I've been doing this whole new skincare thing, right? Found this amazing routine on Reddit where you're supposed to wash your face with, like, straight lemon juice and baking soda. I know it sounds weird, but the post had like three thousand upvotes and everyone was raving about how it cleared up their skin overnight.
+
+[matter-of-fact]
+
+I've been doing it for two weeks now and honestly, my face has been feeling a little... tight? But the internet said that's normal, you know, it means it's working. Getting all the toxins out or whatever.
+
+[slight concern]
+
+Actually, wait, let me just double-check something real quick. [pause] I'm looking up "lemon juice baking soda face wash" and... huh. That's weird. The first result is saying— oh. Oh no.
+
+[growing alarm]
+
+It says here that lemon juice is super acidic and baking soda is super basic and mixing them can literally— [sharp exhale] —can literally burn your skin? Like, chemical burn your face off?
+
+[panic building]
+
+What do you mean "severe irritation and scarring"? [nervous laugh] I've been doing this for two weeks! My face isn't tight because it's working, it's tight because I'm— [groan] —because I'm slowly dissolving my skin!
+
+[spiraling] [frantic]
+
+Oh my god, I'm gonna be scarred forever! I trusted Reddit with my face! With my FACE! [whimper] Why would three thousand people upvote skin destruction? What is wrong with the internet? What is wrong with me?!
+
+
+============================================================
+
+ITEM 1313 - MONOLOGUE (251 words)
+
+Source: 073d7cc6
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1313 SCENARIO: Frustrated about a difficult client, then gets positive feedback forwarded from that same client
+
+==================================================
+
+[frustrated]
+
+Oh my God, you have no idea what kind of day I've had. That client, the one for the Morrison account? She's been absolutely impossible. Like, we've been going back and forth for weeks on this campaign and she keeps— she keeps changing her mind about everything.
+
+[annoyed]
+
+Today she calls me and she's like "I don't think you understand our brand voice" and I'm like, lady, I've been working on your brand voice for three months! I know it better than you do at this point. [scoff] And then she starts questioning like every single creative decision we've made.
+
+[tired] [frustrated]
+
+I was literally about to just— I don't know, tell my boss we should drop the account or something because I can't, I can't deal with her anymore. She makes me feel like I'm terrible at my job, you know?
+
+[surprised]
+
+Wait, hold on— my boss is texting me. Let me just... um...
+
+[quieter] [confused]
+
+Oh. Oh wow. She says the client just called and said she's really impressed with how I handled her feedback today? And that she thinks I'm, um... "exceptionally professional and creative"?
+
+[half laugh] [slightly embarrassed]
+
+She wants to extend our contract for another six months because she loves working with me specifically. I... God, I feel like such an idiot for complaining about her. [small laugh] Maybe she wasn't being difficult, maybe she was just being thorough?
+
+
+============================================================
+
+ITEM 1314 - MONOLOGUE (257 words)
+
+Source: 07926540
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1314 SCENARIO: Casually describing an RSVP they sent, then checking the event details, then realizing they RSVP'd yes to the wrong event entirely, spiraling into calendar confusion
+
+==================================================
+
+[casual]
+
+Oh, so I finally RSVP'd to that thing Sarah invited me to. You know, the one she's been texting about? I was putting it off for like, weeks, but I figured I should probably respond before she thinks I'm totally flaky.
+
+[conversational]
+
+I just clicked "yes" this morning without really— well, I mean, I skimmed it. It's this weekend, right? Some kind of dinner party thing, seemed nice enough.
+
+[slightly concerned]
+
+Actually, let me just double-check the time so I know when to— [pause] Wait. Hold on.
+
+[confused]
+
+This says... "Join us for baby Oliver's first birthday celebration." Baby Oliver? [nervous laugh] Who the hell is Oliver? Sarah doesn't have a baby.
+
+[more confused] [worried]
+
+Oh god, oh no. This is— this isn't Sarah's event. This is... [groan] this is some random person's kid's birthday party. How did I even— whose contact list am I even on?
+
+[panicking]
+
+I RSVP'd yes to a complete stranger's baby's birthday! They're probably expecting me! They might have ordered food for me! [frantic] What if they ask me to bring a gift? I don't know this baby!
+
+[spiraling] [mortified]
+
+And now I have to figure out what I actually said yes to because my calendar is apparently a disaster and I can't tell one event from another and— [whimper] oh my god, what if I show up with wine to a one-year-old's party?
+
+
+============================================================
+
+ITEM 1315 - MONOLOGUE (277 words)
+
+Source: 08691dc0
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1315 SCENARIO: Casually mentioning a weird email they got, then reading it more carefully, then realizing it's a legitimate legal notice they ignored, spiraling into legal anxiety
+
+==================================================
+
+[casual]
+
+Oh, weird thing though — I got this random email today from some law firm. Like, totally out of nowhere. I almost deleted it because it looked like spam, you know? [light laugh] Who gets emails from lawyers on a Tuesday?
+
+[conversational]
+
+But I'm bored so I actually opened it up to see what kind of scam they're running. And it's got all this formal language about "failure to respond" and "final notice" and I'm like, okay, sure, whatever. [scoff] Very convincing, guys.
+
+[a bit confused]
+
+Wait, but... [pause] they have my full name. And my address. Like my actual address, not just the street but the apartment number too. That's... that's weirdly specific for a spam email, right?
+
+[growing concern]
+
+Hold on, let me read this again. [clears throat] "Regarding your failure to appear for jury duty on..." Oh. Oh no. [nervous laugh] This is— this says I missed jury duty. But I never got— I would have remembered getting a jury summons, right?
+
+[panic building]
+
+Wait, wait, wait. This is dated three weeks ago! [sharp intake] And it says "final notice" which means there were other notices and— [frantic] oh my god, what happens when you ignore jury duty? Don't they like, arrest you for that?
+
+[spiraling] [breathless]
+
+I'm gonna go to jail! Over mail I never got! They're gonna come to my work, aren't they? [whimper] Oh god, my boss is gonna see me get arrested because I can't manage my mail like a functioning adult!
+
+
+============================================================
+
+ITEM 1316 - MONOLOGUE (261 words)
+
+Source: 08872b85
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1316 SCENARIO: Mad about a spilled drink, then getting a free replacement and a gift card
+
+==================================================
+
+[frustrated]
+
+So I'm at that coffee place on Fifth Street this morning, right? And I order my usual — large iced coffee, oat milk, extra shot — and the barista hands it to me and I'm walking to grab a napkin and this guy just like, barrels into me. [scoff] Doesn't even look where he's going, just slams right into my arm.
+
+[angry]
+
+Coffee goes everywhere. All over my white shirt, all over the floor, and he just like— he mumbles "sorry" and keeps walking like it's nothing. And I'm standing there dripping wet, smelling like coffee, with this empty cup and I'm like, are you kidding me right now?
+
+[indignant]
+
+So I'm marching back to the counter all sticky and gross, ready to like, demand they make me a new one because this is not my fault, you know? I'm already rehearsing this whole speech about customer service and—
+
+[surprised] [softer]
+
+Oh wait, the manager's walking over to me. And she's like, "I saw what happened, I'm so sorry, let me make this right." Before I can even say anything she's like, already making me a new coffee.
+
+[amazed] [grateful]
+
+And then— get this — she hands me a twenty dollar gift card too. Just because. She's like, "For the inconvenience and your dry cleaning." 
+
+[warm] [slightly embarrassed]
+
+I went from wanting to like, file a complaint to feeling bad about being so worked up. [small laugh] Sometimes people actually do care, you know?
+
+
+============================================================
+
+ITEM 1317 - MONOLOGUE (256 words)
+
+Source: 096b1b43
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1317 SCENARIO: Casually talking about a noise complaint they almost filed, then hearing the noise again, then realizing it's coming from their own apartment, ending in self-complaint near-miss embarrassment
+
+==================================================
+
+[casual]
+
+So I, um, I almost filed a noise complaint yesterday. Which is— I mean, I'm not usually that person, you know? But there was this, uh, this really loud banging coming from upstairs, like every few minutes, and it was, um, it was driving me crazy.
+
+[a bit annoyed]
+
+It started around noon and just kept going, like— boom, boom, boom. And I'm trying to, uh, trying to work from home, right? So I'm like, okay, maybe they're moving furniture or something, but it's been, um, it's been going on for hours.
+
+[more irritated]
+
+I actually looked up the, uh, the building management number and everything. I was gonna call and be like, hey, can you please tell whoever lives in 4B to— to keep it down? Because this is, um, this is ridiculous, you know?
+
+[building frustration]
+
+And then— oh my god, and then I hear it again! Right now! Listen— [pause] there it is! Boom! It's like they're, um, they're dropping bowling balls or something up there, I swear to—
+
+[stopping short] [realization dawning]
+
+Wait. Wait, hang on. That sounded really... [nervous laugh] Oh no. Oh no, no, no.
+
+[mortified] [laughing at self]
+
+That's— that's my washing machine! It's been, um, it's been off balance this whole time! I almost— [groan] I almost filed a noise complaint against myself! What is wrong with me?
+
+
+============================================================
+
+ITEM 1318 - MONOLOGUE (255 words)
+
+Source: 0990d520
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1318 SCENARIO: Mad about a coworker getting credit, then the boss publicly acknowledges the real contributor
+
+==================================================
+
+[frustrated]
+
+Oh my god, I am so— I'm so mad right now. You know that presentation I've been working on for like two weeks? The one about the client retention strategy? Well guess who just got all the credit for it in the team meeting.
+
+[annoyed]
+
+Derek. Of course it's Derek. He literally just— he swooped in at the last minute, added like one slide, and suddenly it's "Derek's brilliant initiative" and "Derek's innovative approach." I'm sitting there like, are you kidding me right now?
+
+[bitter]
+
+And everyone's congratulating him, like patting him on the back, and I'm just— I'm just sitting there trying not to, to lose it completely. Like I did all the research, I came up with the whole framework, I— [sigh] I even stayed late three nights to get the data analysis right.
+
+[angry]
+
+I was gonna say something but then I chickened out because you know how it is, like if you speak up you're being "difficult" or whatever, and Derek's already the golden boy so—
+
+[surprised]
+
+Oh wait, my boss is emailing the whole team right now. Let me just— oh. Oh wow.
+
+[relieved] [slightly embarrassed]
+
+She's... she's calling out my work specifically. She says the research and strategic framework I developed was "exceptional" and that she wants to— um, she wants to discuss a promotion track with me next week.
+
+[warm] [half laugh]
+
+Well. I guess she was paying attention after all.
+
+
+============================================================
+
+ITEM 1319 - MONOLOGUE (264 words)
+
+Source: 09916dd3
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1319 SCENARIO: Upset about a bad grade on a paper, then rereads the feedback and realizes the professor gave helpful revision notes
+
+==================================================
+
+[frustrated]
+
+Ugh, I'm so annoyed right now. Professor Chen gave me a C minus on my sociology paper and I just— I worked so hard on that thing, like I spent weeks researching and writing and I thought it was actually pretty good, you know?
+
+[bitter]
+
+And there's just all this red ink everywhere, like the whole thing is just covered in his comments. I barely even looked at it because I was so upset about the grade, I just shoved it in my backpack and left.
+
+[dejected]
+
+I don't know, maybe I'm just not cut out for this class. Like everyone else seems to get it and I'm just— I'm struggling, and now this grade is gonna tank my GPA and—
+
+[pause] [curious]
+
+Wait, actually, let me... let me look at this again. I should probably actually read what he wrote instead of just, you know, being mad about it.
+
+[surprised] [hopeful]
+
+Oh. Oh wait, this isn't— this isn't him tearing it apart. He's like... he's actually giving me really specific suggestions? Like he says my thesis is strong but I need to reorganize my evidence, and he's telling me exactly how to do it.
+
+[relieved] [slightly embarrassed]
+
+And look, at the bottom he wrote that I can revise and resubmit for a better grade. God, I totally missed that before. [nervous laugh] I was so focused on that C minus that I didn't even— yeah, this is actually really helpful.
+
+
+============================================================
+
+ITEM 1320 - MONOLOGUE (237 words)
+
+Source: 09f2d43a
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1320 SCENARIO: Frustrated about a return getting rejected, then the manager overriding it
+
+==================================================
+
+[frustrated]
+
+So I went to return that sweater today, you know the one that— the sleeves were all weird and it just looked terrible on me? And the cashier was like "oh sorry, it's been over thirty days." Thirty days! Like, okay, but I literally bought it online and it took forever to get here, so of course I didn't try it on right away.
+
+[annoyed] 
+
+I'm like showing her the email, like look, here's when it actually arrived, and she's just— [scoff] she's just staring at me like I'm trying to scam them out of forty-five dollars or something.
+
+And there's this whole line behind me, so I'm getting all flustered and I can feel everyone just... waiting.
+
+[defeated]
+
+So she calls over this other guy and he's like "store policy is store policy" and I'm just like, fine, whatever. I'll just donate it, I guess. Forty-five bucks down the drain because their shipping is—
+
+[surprised]
+
+Oh wait, someone's coming over. Um, hold on, she's— 
+
+[hopeful] [slightly confused]
+
+Okay so apparently that was the manager? And she just overrode it and said they could take it back? Just like that.
+
+The cashier looked so annoyed. [small laugh] Like, why couldn't we have just started with that?
+
+[relieved] [grateful]
+
+Sometimes people surprise you, you know? I was ready to write this whole angry email.
+
+
+============================================================
+
+ITEM 1321 - MONOLOGUE (400 words)
+
+Source: 0a9a08da
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1321 SCENARIO: Lightheartedly mentioning a fitness class they signed up for, then checking the level, then realizing they signed up for advanced and they're definitely a beginner, ending in fitness humiliation anticipation
+
+==================================================
+
+[casual]
+
+So, um, I did something kind of— kind of good for myself today. I actually, uh, I signed up for a fitness class! I know, I know, like— me and exercise, right? But I figured, um, you know what I mean, new year and all that, might as well, uh, might as well try something.
+
+[conversational]
+
+It's this, um, this spinning class at that new place downtown? The one with the, uh, the fancy bikes and everything. I was like, okay, how hard can it be, right? You just— you just sit there and pedal. I mean, I ride my bike to work sometimes, so, um, so I should be fine.
+
+[slight concern]
+
+But then I'm, uh, I'm filling out the waiver thing and there's this— this little dropdown menu that says "experience level" and I'm like, oh, um, oh okay, let me just— let me just double-check what I, uh, what I signed up for exactly...
+
+[growing worry]
+
+And it says— [nervous laugh] it says "Advanced Power Cycling." Advanced! Like, um, like what does that even— I thought it was just, uh, just a regular class! The description is talking about, um, "high-intensity intervals" and "competitive training protocols" and I'm like— [gulp] oh no.
+
+[panicked realization]
+
+Oh my god, I'm gonna— I'm gonna die. Like literally, um, literally die in front of all these, uh, these super fit people who probably have, like, uh, like thighs of steel and I can barely— I can barely walk up two flights of stairs without, um, without getting winded!
+
+[spiraling]
+
+This is tomorrow morning! At six AM! I'm gonna show up in my, um, my old gym shorts that don't even— that don't even fit right anymore and everyone's gonna be in, like, uh, like professional cycling gear and I'm just gonna— [whimper] I'm just gonna collapse off the bike in the first five minutes!
+
+[full panic]
+
+Why didn't I— why didn't I read the description?! "Advanced!" It literally says "advanced" right there! I'm not advanced at anything! I'm like, um, I'm like beginner-minus! I'm gonna have to, uh, to crawl out of there! [groaning] Oh god, oh god, this is gonna be— this is gonna be so humiliating!
+
+
+============================================================
+
+ITEM 1322 - MONOLOGUE (272 words)
+
+Source: 0aa00ddc
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1322 SCENARIO: Casually talking about a DIY repair they did, then checking on it, then seeing it's failing and possibly causing more damage, spiraling into DIY overconfidence regret
+
+==================================================
+
+[casual]
+
+Oh, so I finally fixed that leaky faucet in the kitchen this morning. You know, the one that's been driving me crazy for like two weeks? Watched a YouTube video, got the parts from Home Depot, the whole thing.
+
+[pleased with self]
+
+And honestly? It went way smoother than I expected. Like, I was prepared for this to be a total disaster, but I actually knew what I was doing. Got the old cartridge out, popped the new one in, boom. Done in like twenty minutes.
+
+[conversational]
+
+I was feeling pretty good about myself, you know? Like maybe I should do more of this stuff instead of calling a plumber every time something goes wrong. Could save some serious money if I just— [pause] Oh, hold on, let me just check something real quick.
+
+[concern creeping in]
+
+Uh... that's weird. I'm hearing this... dripping sound from the kitchen. But that's— that's not possible, I literally just fixed it and it was bone dry when I—
+
+[realization dawning] [slight panic]
+
+Oh no. Oh no no no. It's not dripping, it's like... flowing. There's water everywhere. [groan] And it's— oh god, it's coming from behind the cabinet now too.
+
+[spiraling] [frantic]
+
+What did I do?! I broke something else, didn't I? This is gonna cost me like a thousand dollars to fix! I should have just called a professional from the beginning! [exasperated] Why do I always think I can just figure this stuff out?!
+
+
+============================================================
+
+ITEM 1323 - MONOLOGUE (238 words)
+
+Source: 0ae28452
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1323 SCENARIO: Excited about a game, then their team falls behind, then they make a comeback
+
+==================================================
+
+[excited]
+
+Dude, you should have seen me this morning, I was like— I was literally bouncing off the walls waiting for this game to start. Like I had my jersey on, my lucky socks, the whole thing. I've been looking forward to this matchup for weeks.
+
+[enthusiastic] 
+
+And the energy in the stadium was just, like, electric, you know? Everyone was so pumped, the chants were going, and I'm thinking okay, okay this is it, this is our year.
+
+[deflated] [frustrated]
+
+But then... [sigh] God, it was like watching a car crash in slow motion. We're down by fourteen at halftime, and I'm just sitting there like, are you kidding me right now? Like our defense was just— they looked lost out there.
+
+[dejected]
+
+I was honestly ready to leave, you know? Like why am I torturing myself watching this disaster? People around me are booing and I'm just... ugh, I felt sick to my stomach.
+
+[suddenly energized]
+
+But then— oh my God, wait, are you watching right now? Because Rodriguez just threw this insane touchdown pass and— [excited] holy shit, we just tied it up! 
+
+[ecstatic] [breathless]
+
+I can't even— the crowd is going absolutely nuts right now! Like I was literally about to give up on them and now I'm screaming! This is why I love this stupid team! [laugh]
+
+
+============================================================
+
+ITEM 1324 - MONOLOGUE (239 words)
+
+Source: 0b0616d9
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1324 SCENARIO: Matter-of-factly talking about a photo they're tagged in, then looking at it, then seeing something embarrassing in the background, spiraling into retroactive photo anxiety
+
+==================================================
+
+[casual]
+
+Oh yeah, Sarah posted some photos from last night. I'm tagged in a few of them, which is fine, you know? They turned out pretty decent actually.
+
+[matter-of-fact]
+
+I should probably check them before they get shared around too much though. You know how it is—sometimes the lighting is weird or I'm making some ridiculous face without realizing it.
+
+[conversational]
+
+Let me just... [scrolling] okay, here we go. Oh, this one's not bad. We look good here, and this one from dinner is— wait.
+
+[pause] [confused]
+
+Wait, what is... [squinting] Oh no. Oh no no no.
+
+[growing mortified]
+
+Is that— [groan] that's my apartment in the background. You can see right through my sliding door and there's just... there's a mountain of laundry on my couch. Like, a literal mountain.
+
+[spiraling]
+
+And not just any laundry—you can see my bras just hanging there! My bright pink sports bra is like, front and center! [mortified laugh] Anyone who looks at this photo is gonna see my underwear situation!
+
+[panicking]
+
+How many people have already seen this? It's been up for six hours! Six hours of people seeing my—my personal laundry display! [whimper] I have to untag myself. I have to ask Sarah to take it down. Oh my god, my coworkers follow her!
+
+
+============================================================
+
+ITEM 1325 - MONOLOGUE (285 words)
+
+Source: 0bcd69d8
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1325 SCENARIO: Calmly describing a reservation they made, then checking the confirmation, then seeing they booked it for the wrong city entirely, spiraling into booking error panic
+
+==================================================
+
+[casual]
+
+So I, um, I made this dinner reservation today for our anniversary next week. You know that place, uh, Chez Laurent? The one with the, um, the really good lamb? Took me like twenty minutes to get through, but I— I finally got us a table for Saturday at eight.
+
+[pleased]
+
+I was pretty proud of myself, actually. Like, um, I remembered to ask for that corner booth we like, and I— I even put it in my calendar right away. Very, uh, very organized of me, you know?
+
+[matter-of-fact]
+
+So I'm just, um, double-checking the confirmation email now to make sure everything's— you know, make sure the time's right and... [pause] wait, um, what does this—
+
+[confused]
+
+Okay so it says, uh, it says "Boston location" at the top here. Boston location? I— I didn't know they had a— why would it say Boston when I'm— [nervous laugh] when I'm obviously calling the local one?
+
+[realization dawning]
+
+Oh no. Oh no, no, no. I— oh my god, I think I, um, I think I googled the restaurant and just called the first number that came up. Which was— [sharp exhale] which was apparently their Boston location, not the one here.
+
+[panicking]
+
+So now I have a reservation in the wrong city! For our anniversary! And it's next Saturday which means everywhere good is probably already booked and I— [frantic] oh my god, what if I can't— what am I gonna tell Sarah? That I'm an idiot who can't even book a— [groaning] this is a disaster!
+

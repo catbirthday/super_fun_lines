@@ -1,0 +1,257 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 1a9ff964_script | Role: Character 2 (B)
+
+Character 1: Hit 100k today.
+
+398 Character 2: Wait wait wait—what? You hit—oh my god, are you serious? That's like, that's absolutely huge! I mean, weren't you just at like 70k last month?
+
+Character 1: Yeah. It's been weird.
+
+399 Character 2: Weird? Babe, no no no, this is—this is incredible! Like, do you even realize how hard it is to get to 100k? Most people never even—[Laugh] sorry, I'm freaking out for you right now.
+
+Character 1: My phone won't stop buzzing. Had to turn off notifications.
+
+400 Character 2: Oh god, I bet it's like—it's probably going crazy, huh? All those comments and DMs and... wait, are brands reaching out yet? They gotta be sliding into your inbox by now.
+
+Character 1: Some. Mostly teeth whitening kits.
+
+401 Character 2: Of course, of course it's the teeth people first. [Chuckle] But like, okay, real talk though—how are you actually feeling about all this? Because you seem kinda... I dunno, subdued?
+
+Character 1: It doesn't feel real. Just numbers on a screen.
+
+402 Character 2: Mmm, yeah, I can see that. It's like—it's probably super overwhelming too, right? Like suddenly you've got this whole... audience, y'know? That's gotta be intense.
+
+Character 1: Everyone has opinions now. About everything I post.
+
+403 Character 2: Ugh, the comments section is—yeah, that's rough. People really think they just, like, own you once you hit a certain number, don't they? It's so weird how they get all... entitled.
+
+Character 1: Someone analyzed my coffee order yesterday. Three paragraph essay.
+
+404 Character 2: They—wait, THREE paragraphs? About coffee? [Groan] That's actually unhinged. Like what could they possibly have to say about—actually, no, I don't even wanna know.
+
+Character 1: Apparently my oat milk choice reveals deep psychological issues.
+
+405 Character 2: Oh my god, stop—that's so ridiculous it's almost funny. Almost. But seriously though, like, are you gonna keep going? Or are you thinking about... I dunno, taking a break maybe?
+
+Character 1: Can't really stop now. Rent's due.
+
+406 Character 2: Right, right, the algorithm's like—it's basically your boss now, huh? God, that's kinda terrifying actually. But also... you're really doing it, y'know? Like, you're actually making this work.
+
+Character 1: I guess. Still feels like I'm pretending.
+
+407 Character 2: Hey, no—listen to me. You're not pretending anything, okay? You built this whole thing yourself, like... [Sigh] I just really hope you can see how impressive that is. Even when it feels weird.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+408 SCENARIO: trying to decide between two checkout lines that look equally long
+
+==================================================
+
+[muttering]
+
+Okay, so, um— which line do I— they both look exactly the same, don't they? Like, literally the same number of people. This is, uh, this is always my luck.
+
+[slightly exasperated]
+
+Let me just— let me count real quick. One, two, three, four... and then one, two, three, four. [tsk] Great. Super helpful. Um, okay, but maybe— maybe I should look at what people are buying?
+
+[conspiratorial whisper]
+
+Oh, that lady has like a whole cart full of stuff, so that's gonna take forever, but then— but then this guy over here has, um, he's got one of those, uh, one of those big watermelons and those are always weird to scan, right?
+
+[indecisive]
+
+I mean, I could just— I could just pick one and stop overthinking this whole— this whole thing. It's not like it's gonna make or break my, um, my entire day or whatever.
+
+[resigned but lighter]
+
+You know what? Left line. I'm going left line because, uh, because that's where my feet are already pointing and I'm just gonna— I'm gonna commit to this decision. [exhale] There we go.
+
+--- CONVERSATION ---
+
+Script: 8143b73b | Role: Character 1 (A)
+
+409 Character 1: [frustrated growl] How does he keep doing this?! [getting louder] We had every exit covered, every single one! [slamming fist] Twenty officers, Martinez—twenty—and he just vanishes like smoke through our fingers again!
+
+Character 2: [bitter laugh] Don't remind me. [through gritted teeth] Three months of surveillance, thousands in resources, and for what? [voice breaking] My daughter asked if I'm bad at my job—what am I supposed to tell her?
+
+410 Character 1: [low and dangerous] This is the fourth time. [building rage] THE FOURTH TIME! [sharp exhale] He's making fools of us, playing games while bodies pile up, and we're just chasing shadows in circles.
+
+Character 2: [quietly seething] You saw that smile on the security footage? [voice rising] That smug, knowing smile before he disappeared? [shouting] He KNEW we were watching! Knew exactly where every camera was positioned!
+
+411 Character 1: [exhausted whisper] I haven't slept in forty-eight hours. [more desperately] Every time I close my eyes, I see those victims' faces. [cracking voice] Their families calling, begging for answers I don't have.
+
+Character 2: [explosive yell] ENOUGH! [steadying breath] I'm done playing by the book! [determined growl] Next time we get close, protocol goes out the window—I'll tackle him myself if I have to.
+
+412 Character 1: [hollow laugh] The chief's breathing down my neck. [sarcastically] "Best detective squad in the state," she says. [voice dropping] We couldn't catch a cold at this rate, let alone this psychopath.
+
+Character 2: [trembling with fury] He left another note. [pause] [disgusted] "Better luck next time, detectives." [roaring] BETTER LUCK?! This isn't a game! People are dying while he taunts us!
+
+413 Character 1: [weary tone] Remember when we thought the warehouse pattern meant something? [bitter chuckle] Six weeks analyzing locations, mapping routes. [defeated sigh] Turns out he was just leading us in circles for entertainment.
+
+Character 2: [quiet rage] My partner quit yesterday. [more intensely] Said the case was cursed, impossible. [exploding] But I won't quit! I'll catch him if it takes everything I have left!
+
+414 Character 1: [shaky whisper] What if he's right though? [louder, panicked] What if we're not smart enough? [desperate shout] He's always three steps ahead, like he knows our every move before we make it!
+
+Character 2: [cold fury] Don't you dare give up. [building volume] We've got DNA now, witness sketches, patterns emerging. [fierce determination] He'll slip up—they always do—and when he does, we'll be ready.
+
+415 Character 1: [manic laugh] Ready? [incredulous] We were "ready" at the subway station! [voice cracking] Had him cornered for thirty seconds before he vanished into thin air like some kind of ghost!
+
+Character 2: [through tears] Those three kids he killed last month... [shaking voice] Their parents call me daily. [screaming] DAILY! Asking why their babies' killer is still walking free while they plan funerals!
+
+416 Character 1: [barely controlled] The mayor wants our badges. [more angrily] Says we're incompetent, suggests bringing in federal help. [spitting words] As if the FBI could do better against someone who doesn't follow any patterns!
+
+Character 2: [hoarse whisper] You know what kills me? [rising pitch] He's probably watching the news right now, laughing. [bellowing] LAUGHING at our press conferences where we promise justice we can't deliver!
+
+417 Character 1: [defeated tone] My wife thinks I'm obsessed. [darker] Says I talk about him in my sleep, see him everywhere. [urgent whisper] But how can I stop when he's still out there hunting?
+
+Character 2: [raw emotion] Seven victims. [voice breaking] Seven families destroyed. [furious roar] And all we have are breadcrumbs he deliberately leaves, playing puppet master while we dance to his sick tune!
+
+418 Character 1: [quiet determination] Tomorrow we start fresh. [steadier] New approach, new tactics, everything changes. [rising conviction] He thinks we're predictable? Let's show him what desperate cops are capable of when pushed too far.
+
+Character 2: [grim laugh] You're right. [ice cold] No more rules, no more playing nice. [venomous whisper] Next time we meet, only one of us walks away—and it won't be him.
+
+--- CS ALPHANUMERIC ---
+
+Script: 8e597bbc | Role: Customer Support
+
+ Character 1: [frustrated] Look, I ordered a Samsung Galaxy S23 Ultra for $899 on your website yesterday—order number JX4729K. [voice rising] But what arrived this morning was some knock-off phone called "Samsnug Galaxy" [disgusted] in completely different packaging!
+
+419 Customer Support: D2: I do apologize for this issue, sir. Let me pull up your order right away. Could you please verify the email address associated with account number JX4729K?
+
+ Character 1: [impatiently] It's michaelr1982@gmail.com, and I've been a premium member since 2019! [sarcastically] You guys advertised "authentic electronics only" but this—this is just [groans] unbelievable fraud.
+
+420 Customer Support: D4: [apologetically] I see your account here, Mr. Richardson. [concerned] According to our system, the Galaxy S23 Ultra should have been shipped from warehouse facility 47B in Dallas. [pause] Can you check if the tracking number matches TRK-88291-QM?
+
+ Character 1: [loudly] Yes, the tracking matches but the product doesn't! [exasperated] The phone's box says "1200GB storage"—Samsung doesn't even make that! [more angrily] And the IMEI number 359881097654321 comes up as invalid when I checked it.
+
+421 Customer Support: D6: That's definitely concerning, and I completely understand your frustration. I'm escalating this to our fraud prevention team immediately. [firmly] Would you be able to send photos to complaints@retailer.com, reference case CF-2024-11923?
+
+ Character 1: [incredulous] Photos? I want my money back, not to play detective! [voice shaking] I paid through PayPal transaction ID PP8827364X specifically because [bitterly] I thought you were reputable—my shipping address is 4421 Oak Street, Apartment 12C, you have it all there!
+
+422 Customer Support: D8: Absolutely, we'll process a full refund within 24-48 hours. However, the photos will help us prevent this from happening to other customers. [softer] I'm also adding a $50 credit to your account for this terrible inconvenience.
+
+ Character 1: [slightly calmer] Well... okay, but this fake phone better not need returning to some address in China. [sighs heavily] My wife warned me about these deals that seem too good—[muttering] should've listened when she showed me those BBB complaints.
+
+423 Customer Support: D10: No, you won't need to ship internationally at all. We'll email you a prepaid UPS label to return it to our Nevada facility at 9001 Desert Way. Your refund confirmation RFD-445892-B should arrive within the hour, and again, I'm truly sorry about this.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: c4555baa | Role: Customer Support
+
+Character 1: [frustrated] Hi, yes, I've been trying to schedule an appointment with Dr. Martinez for three weeks now. [sighs heavily] Every time I call, [more irritated] I get told something different about availability.
+
+424 Customer Support: [briskly] I see, let me pull up your file here. [quickly] Name and date of birth please? I'll check what's been happening with your scheduling requests.
+
+Character 1: [exasperated] Sarah Coleman, April fifteenth, nineteen eighty-five. [groans] Look, I was told last Monday that someone would call me back [sarcastically] within twenty-four hours, and here we are.
+
+425 Customer Support: I do see the notes here, Ms. Coleman. [rapidly] It looks like there was a cancellation in the system that—well, it wasn't properly processed on our end.
+
+Character 1: [incredulous] A cancellation? [louder] Nobody canceled anything! [sighs] I specifically confirmed twice that I wanted the earliest available appointment, even if it meant taking time off work.
+
+426 Customer Support: I understand your frustration, truly. [more quickly] The next available slot with Dr. Martinez is... December fourteenth at two-thirty. Would that work for you?
+
+Character 1: [shocked] December? [voice rising] That's two months away! [desperately] My doctor said this was urgent—I can't wait until December for a consultation about these symptoms.
+
+427 Customer Support: Let me check for cancellations. Actually, wait—[more hopefully] if you're flexible, there's a seven AM slot next Tuesday that just opened up.
+
+Character 1: [relieved] Seven AM? Yes, [eagerly] absolutely, I'll take it. [worried] But please, can you guarantee this won't get mysteriously canceled again like—like whatever happened before?
+
+428 Customer Support: [reassuring] I'm booking it right now, confirming it in the system. You'll receive a text and email confirmation within five minutes. Is there anything else I can help you with today, Ms. Coleman?
+
+Character 1: [skeptical] Actually, yes—what happens if I show up and Dr. Martinez isn't there? [tiredly] Because at this point, [sighs] I wouldn't be surprised if something else goes wrong.
+
+429 Customer Support: Dr. Martinez will definitely be here Tuesday. She never misses her early morning slots—actually, she prefers them because it's quieter in the office.
+
+Character 1: [cautiously optimistic] Okay, good. [pause] Should I bring all my previous test results, or—[uncertainly] or did my doctor already send everything over electronically?
+
+430 Customer Support: Bring copies just in case. Our system shows we received some documents, but it's always better to have physical backups for the specialist to review.
+
+Character 1: [resigned] Fine, I'll print everything tonight. [wearily] Oh, and parking—[frustrated chuckle] please don't tell me the parking situation is still a nightmare there.
+
+431 Customer Support: Actually, before seven-thirty, parking is free in the structure. So your early appointment works out perfectly—[quickly] no hunting for spots, no paying meters.
+
+Character 1: [surprised] Well, that's the first good news I've heard. [more relaxed] Alright, so Tuesday, seven AM, bring my documents, [confirming] and park in the structure?
+
+432 Customer Support: Exactly right, third floor of the medical building. Check in at the specialist desk, not general reception—that's important, it saves you about ten minutes.
+
+Character 1: [grateful] Thank you for that tip. [sighs] I really hope this appointment actually happens—[quietly] I've been dealing with these issues for way too long already.
+
+433 Customer Support: It will happen, Ms. Coleman. I've put priority flags on your appointment, and you should get those confirmations any moment now. Have a great rest of your day.
+
+--- BASIC SCENARIOS ---
+
+434 [Slow] Good evening everyone, I'm so honored to be—wait, no, that's too formal. [Tsk] Let me try that again with, like, more energy.
+
+435 [Happy] Okay, this is it, you've got this! [Fast] Just remember to breathe, make eye contact, and don't forget the joke about the chicken!
+
+436 [Whisper] Why did I agree to do this? [Sigh] I mean, honestly, I could just call in sick tomorrow and nobody would even—no, stop it.
+
+437 [Angry] The statistics clearly show that we're—ugh, I sound like a robot! [Groan] Nobody wants to hear numbers for twenty minutes straight!
+
+438 [Sarcastic] Oh sure, let's open with a quote from Gandhi, because that's never been done before. [Chuckle] Really groundbreaking stuff there, genius.
+
+439 [Disappointed] I've been practicing for three weeks and I still can't get through the middle part without, um, completely blanking out. [Sigh]
+
+440 [Fast] [Happy] And that's when everything changed—boom! [Laugh] See, I told you this story would blow your minds, right?
+
+441 [Slow] In conclusion... [Tsk] No wait, that sounds like I'm wrapping up a high school essay or something.
+
+442 [Shout] Ladies and gentlemen! [Happy] Welcome to—actually is that too loud? I don't wanna, like, scare people right off the bat.
+
+443 [Sad] [Whisper] What if I just completely freeze up there and everyone's staring at me and I can't even remember my own name?
+
+444 [Fast] Um, so basically what I'm trying to say is—no, that's too wishy-washy. [Angry] Just get to the point already!
+
+445 [Chuckle] You know what, forget the notecards. [Happy] I'm just gonna wing it and see what happens, I mean, how bad could it really go?
+
+446 [Disappointed] This tie makes me look like I'm going to a funeral, doesn't it? [Sigh] Great, now I gotta figure out what else to wear.
+
+447 [Slow] [Sarcastic] Thank you sooo much for this incredible opportunity to speak about quarterly revenue projections. [Tsk] Thrilling stuff, truly.
+
+448 [Whisper] [Sad] Remember when you used to be good at this? When you could just, like, talk to people without your hands shaking?
+
+449 [Happy] Oh man, they're gonna love the part where I talk about the—wait, did I remember to print the handouts? [Groan] [Fast] Please tell me I printed them!
+
+450 [Angry] Stop saying "um" every five seconds! [Disappointed] It's literally the one thing the coach told you not to do, and here you are, um—dammit!
+
+451 [Slow] Before we begin, I'd like to acknowledge... [Chuckle] Nah, that sounds way too presidential for a sales presentation, doesn't it?
+
+452 [Shout] [Happy] Yes! Nailed that transition! [Laugh] Finally got from point A to point B without sounding like a complete disaster!
+
+453 [Sarcastic] [Fast] Sure, compare yourself to Steve Jobs, that's not pretentious at all—I mean, you're basically the same person, right? [Tsk]
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+454 SCENARIO: Frustrated about a parking garage, then remembers they parked on a different level
+
+==================================================
+
+[frustrated]
+
+Oh my god, don't even get me started on this stupid parking garage. I was walking around for like twenty minutes looking for my car, just— just wandering around like an idiot pressing the little button on my keys hoping to hear something beep.
+
+[annoyed]
+
+And of course it's like ninety degrees in there because their ventilation is garbage, so I'm sweating and getting more and more pissed off. I'm thinking maybe someone stole it? Like who steals a 2018 Honda Civic but, I don't know, maybe they do.
+
+[increasingly agitated]
+
+So I'm about to call the police, right? I've got my phone out and I'm like rehearsing what I'm gonna say— "Hi, um, I think my car got stolen from the Third Street garage," and I feel like such an idiot because who loses their car, you know?
+
+[embarrassed realization]
+
+But then I'm looking at my parking ticket and I— oh. Oh no. [nervous laugh] I'm on level two. My ticket says level four.
+
+[sheepish] [slightly amused]
+
+I parked on level four. I've been wandering around level two this entire time like a complete moron. Twenty minutes! In the wrong— in the completely wrong section of the garage.
+
+[laughing at self]
+
+So yeah, that's— that's how my day's going. I'm apparently losing my mind. [chuckle] At least my car wasn't actually stolen, so there's that.

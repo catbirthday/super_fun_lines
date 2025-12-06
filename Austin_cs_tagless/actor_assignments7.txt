@@ -1,0 +1,105 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 7855cb08_script | Role: Character 2 (B)
+
+Character 1: You keep changing the story about what happened at Jake's party.
+
+455 Character 2: I'm not—what? I'm not changing anything, I'm literally just telling you what I remember. Like, maybe we just saw it differently or something, I dunno.
+
+Character 1: You said you never told him about my breakup.
+
+456 Character 2: Because I didn't! I mean—okay, we talked about relationships in general, but I never specifically said you and Tyler broke up. That's not the same thing [scoff] and you know it.
+
+Character 1: That's not what you said last week.
+
+457 Character 2: Look look, I don't—I honestly don't remember every single conversation word for word, okay? You're acting like I'm deliberately trying to mess with you, which is kinda hurtful actually.
+
+Character 1: It's every time. Every story changes.
+
+458 Character 2: That's not—come on, that's not fair. Sometimes people just remember things differently. It doesn't mean I'm lying to you or whatever you're implying here. [frustrated laugh] I mean, your memory isn't perfect either.
+
+Character 1: Don't turn this around on me.
+
+459 Character 2: I'm not turning—ugh, see, this is what you do. I try to explain that maybe, just maybe, we both remember things our own way, and suddenly I'm the bad guy who's "turning things around."
+
+Character 1: You told me you left early. Now suddenly you stayed till midnight.
+
+460 Character 2: Okay okay, I said I left earli-ER, not early. There's a difference. And midnight was early considering everyone else stayed till like three. You're picking apart every little word I say.
+
+Character 1: Because they keep changing.
+
+461 Character 2: No, because you're looking for problems! [sigh] Like, I get that you're upset, but honestly? You're making me feel like I can't even talk about anything without you thinking I'm some kind of—I dunno, manipulator or something.
+
+Character 1: That's exactly what gaslighting is.
+
+462 Character 2: Oh my god, I'm not gaslighting you! We literally just remember it differently. That happens between people all the time—it's normal, it's human, it's not some conspiracy against you.
+
+Character 1: Sure. Whatever you need to tell yourself.
+
+463 Character 2: You know what? Fine. Fine fine. If you wanna believe I'm this terrible friend who's out to get you, then—I can't stop you. But I'm kinda disappointed that after everything, this is what you think of me.
+
+Character 1: I just want you to stick to one story.
+
+464 Character 2: And I want you to consider that maybe—just maybe—I'm not lying, and we both just have different memories of the same thing. But apparently that's too much to ask for.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+465 SCENARIO: trying to figure out the self-checkout machine
+
+==================================================
+
+[muttering]
+
+Okay, so I just— I just scan the thing, right? Like, um, how hard can this be? I've seen people do this a million times. Just, uh, just beep it over the little glass thing and—
+
+[slightly confused]
+
+Huh. Nothing happened. Maybe I need to, um, maybe I need to press something first? [hmm] There's like seventeen different buttons here, which is, uh, which is super helpful.
+
+[tentative]
+
+Oh wait, okay, it says "start" right there. Obviously. So, um, let me just— [beep sound] oh! There we go, it's, uh, it's doing something now. "Please scan your first item." Right, okay, I can— I can do that.
+
+[frustrated]
+
+And it's not— why is it not scanning? Am I doing this wrong? Maybe if I turn it around, or, um, or hold it closer to the— [beep] oh there it is! Okay cool, we're, uh, we're in business now.
+
+[deadpan]
+
+"Please place item in bagging area." Right. The bagging area. Which is, um, which is this thing here, I assume? Unless— wait, why is it yelling at me about unexpected items? I literally just put the thing where you told me to put the thing.
+
+--- CONVERSATION ---
+
+Script: fd7e274a | Role: Character 1 (A)
+
+466 Character 1: [bitter] Oh look who finally graced us with their presence. [sarcastically] Did Mom have to bribe you to leave your perfect apartment, or did you just come for the presents? [Scoff] I'm sure yours are already wrapped in gold foil.
+
+Character 2: [defensive] Nice to see you too, Sarah. [quieter] I drove four hours through a snowstorm to be here. [Sigh] But sure, make this about your imaginary grievances again—it's tradition at this point, isn't it?
+
+467 Character 1: [rising anger] Imaginary? [Harsh laugh] You got a car for graduation while I got a gift card! [faster] Dad flew to every one of your games but missed my valedictorian speech for your JV soccer tournament.
+
+Character 2: [exasperated] I didn't ask for any of that! [pleading tone] You think I enjoyed watching you storm off every holiday? [lower voice] Maybe if you stopped keeping score, you'd realize I never wanted to compete with you.
+
+468 Character 1: [mockingly sweet] Oh, poor golden child, [dripping sarcasm] burdened by all that unconditional love and support. [Bitter chuckle] Must be so hard having every door opened for you before you even knock on it.
+
+Character 2: [hurt] You know what's hard? [trembling] Having a sister who hates me for things I can't control. [more firmly] I've spent years walking on eggshells, downplaying achievements so you wouldn't feel worse about yourself.
+
+469 Character 1: [explosive] Feel worse about myself? [Gasp] I got into medical school on my own while you—[accusingly] you had Dad make calls to his golf buddies to land that consulting job you barely qualified for!
+
+Character 2: [coldly] That's a lie and you know it. [measured tone] I worked eighty-hour weeks as an intern. [building frustration] But you'd rather believe I'm some spoiled princess than admit maybe, just maybe, I earned something myself.
+
+Character 2: [softly] I remember you ripping those paintings down. [sadder] I remember crying because my big sister said my art was stupid. [whispered] Maybe they hung them up because you kept destroying everything I tried to share with you.
+
+Character 2: [gently] And you don't understand what it felt like being blamed for that smile. [steadier] Every birthday wish, every Christmas morning—[pause] I wished for a sister who'd actually like me, not just tolerate my existence.
+
+Character 2: [hopefully] Not pathetic at all. [warming up] I keep your medical school acceptance letter in my desk drawer. [tenderly] I look at it when imposter syndrome hits, reminding myself that brilliance runs in our family.
+
+Character 2: [firmly] Because you never gave me the chance. [emotional] Every conversation became a confrontation. [more urgently] I tried reaching out after Dad's heart attack, remember? You said I was only calling to play the devoted daughter.
+
+Character 2: [revealing] They called me because you were in surgery. [quietly painful] I sat in that waiting room for six hours, terrified I'd have to tell you something horrible when you came out. [breathless] You never asked.
+
+Character 2: [exhausted] Maybe we could try something radical. [tentative hope] Start over—not as the golden child and the middle child, but as [pause] sisters who are both pretty messed up from this whole dynamic. [gently] What do you think?
+
+--- BASIC SCENARIOS ---

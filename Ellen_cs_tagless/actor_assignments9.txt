@@ -1,0 +1,281 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: b2df7a97_script | Role: Character 2 (B)
+
+Character 1: So I won that poetry thing.
+
+688 Character 2: Wait wait wait—what? You won? Oh my god, are you serious? That's—that's incredible! I mean, I knew you were gonna do well but like, winning? [Gasp] That's huge!
+
+Character 1: Yeah. It was weird.
+
+689 Character 2: Weird? No no no, not weird—amazing! You literally just... okay, tell me everything. What was it like up there? Were you nervous or—actually, scratch that, you probably weren't even nervous, were you?
+
+Character 1: I threw up beforehand. Twice.
+
+690 Character 2: Oh babe, no—but you still went up? That's like, that's actually so brave though. I would've just gone home, honestly. What poem did you do?
+
+Character 1: The one about my dad's hands.
+
+691 Character 2: The—oh. Oh wow. That one always makes me kinda... [Sigh] yeah. That one's heavy. And they loved it, obviously. I mean, how could they not?
+
+Character 1: People cried.
+
+692 Character 2: Of course they did! Because you're—I mean, you have this way of just like, cutting right through all the BS, y'know? Straight to the real stuff. That's why you won.
+
+Character 1: I didn't think I'd care. But I did.
+
+693 Character 2: Um, yeah, because you're human? And like—okay, you've been writing for what, years now? And someone finally, finally saw what I've been telling you forever. That you're really, really good at this.
+
+Character 1: My mom doesn't know yet.
+
+694 Character 2: Are you gonna tell her? Wait—is this about the whole "poetry isn't a real job" thing she said? [Groan] Because honestly, winning a slam is like, that's legitimate. That's real.
+
+Character 1: Maybe. I don't know. It's complicated.
+
+695 Character 2: Yeah, no, I get it. Family stuff is always... but like, you won. You actually won! Can we at least celebrate a little? Please?
+
+Character 1: I guess. Nothing big though.
+
+696 Character 2: Okay okay, nothing big, but we're definitely getting drinks. And you're gonna read me the poem—no, actually, you don't have to if you don't wanna. But like, I'm buying, that's non-negotiable.
+
+Character 1: Fine. One drink.
+
+697 Character 2: One drink, sure, whatever you say. [Laugh] But seriously though, I'm like—I'm really proud of you, y'know? This is... this is your thing. You found your thing.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+698 SCENARIO: debating whether to text happy birthday or call
+
+==================================================
+
+[muttering]
+
+Okay, so it's, um— it's Sarah's birthday today and I should, uh, I should probably reach out. But do I text or do I call? I mean, texting is easier, right? Just a quick "happy birthday" with maybe, like, a little cake emoji or something.
+
+[thoughtful]
+
+But then again, calling is more, um, more personal? Like, it shows I actually, uh, I actually took the time to— to dial her number and have a real conversation. Which is nice. That's a nice thing to do.
+
+[slightly anxious]
+
+Except what if she's, like, what if she's busy? What if I call and she's in the middle of something and then I'm just— I'm just interrupting her birthday with my awkward phone voice. [nervous laugh] God, I hate my phone voice.
+
+[faster]
+
+Okay, but texting feels so— so impersonal, you know? Like I'm just checking her off a list. "Happy birthday Sarah, check, done." That's not— that's not very thoughtful.
+
+[decisive, then wavering]
+
+Calling. I should call. That's what friends do, they call each other on birthdays and have actual conversations about— 
+
+[trailing off, uncertain]
+
+Unless... unless everyone texts now and calling is weird?
+
+--- CONVERSATION ---
+
+Script: 47301987 | Role: Character 1 (A)
+
+699 Character 1: [overly cheerful] So, I've been reviewing your project proposal and [pause] I have some thoughts. [speeding up] Actually, quite a few thoughts—about the formatting, the font choice, even the margin width seems a bit off, don't you think?
+
+Character 2: [flat tone] The margins are standard one-inch. [quieter] I followed the company template exactly as specified. [forced pleasantness] But I'd be happy to hear your specific concerns about the actual content of the proposal itself.
+
+700 Character 1: [condescending] Well, before we get to content, [slower] let's talk about your color choices on slide seventeen. [sharp exhale] The blue is too blue, if you know what I mean? Maybe try a softer shade?
+
+Character 2: [measured breathing] That's the corporate brand blue. [more strained] The exact hex code from our style guide. [barely controlled] I can certainly change it if you'd prefer I violate our branding guidelines for this client presentation.
+
+701 Character 1: [defensive] No need to get snippy! [louder] I'm just trying to help you succeed here. [patronizing tone] Speaking of which, did you remember to run spell check? I always find at least three errors when I look.
+
+Character 2: [through gritted teeth] I ran spell check twice, plus Grammarly. [long exhale] Everything's been proofread by Sarah from communications too. [monotone] But please, feel free to point out any errors you've discovered during your thorough review.
+
+702 Character 1: [dismissive laugh] Sarah's great but she misses things. [rapid-fire delivery] Also, why didn't you CC me on the Tuesday email, the Wednesday follow-up, and that Thursday check-in? [accusatory] I need to be looped in on everything, remember?
+
+Character 2: [very quiet] You were CC'd on all three. [pause] [louder] They're in your inbox, marked as read. [bitter sweetness] Perhaps they got lost among your four hundred other unread emails from this week alone?
+
+703 Character 1: [flustered] Must be a glitch in my email then. [quickly changing subject] Anyway, back to page four—I'm thinking we need more buzzwords. [enthusiastic] Synergy, optimization, leverage! [demanding tone] Can you work those in by tomorrow morning?
+
+Character 2: [deep sigh] Tomorrow's Saturday. [sarcastic brightness] But sure, I'll squeeze "synergy" between "innovative solutions" and "paradigm shift." [under breath] I'm sure the client will love our meaningless corporate word salad instead of actual substance.
+
+704 Character 1: [oblivious] Perfect! [sing-song voice] Oh, and one more tiny thing—I noticed you used Arial instead of Calibri on the footnotes. [tsking sound] These details matter, you know. It shows attention to excellence.
+
+Character 2: [deadly calm] The footnotes are in eight-point Times New Roman, as legally required. [more firmly] But I understand your concern about excellence. [icy politeness] Should I also revise the punctuation to match your preferred style of random capitalization?
+
+705 Character 1: [nervous chuckle] There's that attitude again! [faster pace] Look, I stayed until nine last night reformatting your tables. [martyred tone] They were off by at least two pixels, maybe three. You're welcome, by the way.
+
+Character 2: [disbelief] Two pixels. [slower] You stayed three hours extra to adjust two pixels that no human eye could detect. [controlled rage] Meanwhile, the client's still waiting for the budget numbers you promised them last Monday.
+
+706 Character 1: [defensive shouting] The budget's complicated! [quieter] These things take time to perfect. [building up again] Unlike your proposal, which you slapped together in what, two weeks? [scoffing] Rush jobs always need my fixes.
+
+Character 2: [laughing bitterly] Two weeks of sixteen-hour days. [steadier] But yes, clearly I rushed it. [sarcastically sweet] Next time I'll take six months like your last project that got rejected in five minutes flat.
+
+707 Character 1: [wounded tone] That rejection wasn't about quality! [scrambling words] The client just didn't understand our vision. [getting higher pitched] But fine, do it your way. Just don't blame me when this falls apart tomorrow.
+
+Character 2: [exhausted] Tomorrow's presentation will go perfectly. [gathering strength] Because despite your pixel hunting and font obsessing, the actual content is solid. [firmly] I'll implement your margin changes tonight though. [muttered] All zero-point-zero-three inches of them.
+
+708 Character 1: [fake hurt] I detect sarcasm. [lecturing tone] You know, this kind of resistance to feedback won't help your performance review. [warning voice] Team players accept guidance gracefully, even about minor details like... everything I've mentioned.
+
+Character 2: [robotic cheerfulness] You're absolutely right. [more mechanically] I'll revise everything by tomorrow, including the invisible pixels and the legally required footnotes. [dropping act] Will there be anything else, or can I start my Friday night at eleven PM?
+
+--- CS ALPHANUMERIC ---
+
+Script: 4e3a1cec | Role: Customer Support
+
+Character 1: [hesitant] Hi, um, I'm calling about the net metering program? [clears throat] My account number is 7754-BX-2021, and I've been reading some, well... [nervously] concerning things online about changes to the policy.
+
+709 Customer Support: Good afternoon, Mrs. Johnson! Yes, I can definitely help clarify any concerns about net metering. Let me just pull up your account real quick—7754-BX-2021, perfect—and I see you're considering our solar installation package.
+
+Character 1: [worried] Right, but here's the thing—my neighbor at 4412 Oak Street said the utility company might stop paying us back at the same rate? [pause] [more anxiously] I mean, if I'm investing thirty-two thousand dollars, I need to know this actually saves money.
+
+710 Customer Support: [calmly] I completely understand your concerns. The current net metering rate in your area is still 1-to-1, meaning you get full retail credit. Plus, any system installed before December 31st gets grandfathered in for fifteen years!
+
+Character 1: [skeptical] Grandfathered, sure, but what happens after? [sighs heavily] My husband keeps saying—and he's an accountant—that the ROI calculations you guys sent assume rates that, um, [trailing off] might not be realistic long-term.
+
+711 Customer Support: That's actually a great question. After the grandfather period, yes, rates may adjust to about 75% of retail, but by then, your system will have paid for itself twice over according to our projections.
+
+Character 1: [frustrated] See, that's what I don't get though. [louder] Your document says "projected savings of $45,000" but then there's all this fine print about variable rates and [groans] time-of-use charges that weren't explained.
+
+712 Customer Support: You're absolutely right to dig into the details. [more patiently] The time-of-use rates actually work in your favor—solar produces most during peak hours, 2 to 7 PM, when electricity costs the most. Would you like me to run the specific numbers for your usage?
+
+Character 1: [hesitant] I guess, yeah... [pause] [more decisively] My average bill is $285 monthly, account shows 1,420 kilowatt hours usage. But what if the government just [worried again] eliminates these incentives entirely next year?
+
+713 Customer Support: Federal tax credits are locked in at 30% through 2032—that's law number 117-169. For your system, that's a guaranteed $9,600 credit. Plus, California's state rebate program adds another $2,000, making your actual cost around twenty thousand, not thirty-two.
+
+Character 1: [surprised] Oh! [more interested] Nobody mentioned the state rebate before. [quickly] But wait, I read on forum post ID-88234 that some people waited six months for permits and then [frustrated again] the utility company took forever to approve the interconnection.
+
+714 Customer Support: Permit delays were an issue last year, absolutely. But we've streamlined everything—average permit time is now twelve business days. [confidently] We handle all paperwork, and Pacific Electric's new fast-track process, code FT-2024, connects most systems within three weeks.
+
+Character 1: [considering] Okay, that's... better than I thought. [pause] [curiously] What about that production guarantee thing? Your salesperson, um, Marcus, mentioned something about 85% but didn't really [trails off] explain what happens if it produces less.
+
+715 Customer Support: Our production guarantee means if your system generates less than 85% of projected output—let's say 10,200 kilowatt hours annually for you—we pay you the difference. It's all monitored through app reference number SOL-MONITOR-4.2, totally transparent.
+
+Character 1: [thoughtfully] That does sound protective... [sighs] Look, I want to do this—climate change and all—but [anxiously] my zip code 94588 might have different rules than what you're telling me, right?
+
+716 Customer Support: Actually, 94588 is in one of the best zones for solar incentives. Alameda County has additional benefits—code section 24.15.3 waives all permit fees! Plus, your specific neighborhood has zero HOA restrictions on panel placement.
+
+Character 1: [relieved] No HOA issues, that's huge. [pause] [more determined] If I signed today, when would installation actually happen? And—important—can I still cancel if [nervously] something changes with these policies before you install?
+
+717 Customer Support: Installation would be scheduled for mid-January, weather permitting. [reassuringly] You have a full 21-day cancellation period after signing, no penalties. [more warmly] Plus, if any major policy changes occur before installation, we offer a full review and opt-out window.
+
+Character 1: [decisively] Alright, you know what? [exhales] Send me the contract to review—email on file ends in @gmail. [more cautiously] But I'm going to have my husband look at section 7-B about the warranty terms, because twenty-five years seems almost [doubtfully] too good to be true.
+
+718 Customer Support: Perfect, I'll send that right now with tracking number DOC-2024-7754! Section 7-B covers both equipment and labor—completely transferable if you sell. Take your time reviewing, and I'll follow up Thursday at 3 PM unless you call sooner with good news!
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 7c9ca2cc | Role: Customer Support
+
+719 Customer Support: Good afternoon, I see you've opened a dispute regarding order 78423. Can you briefly explain the issue—was it damaged, not as described, or perhaps never arrived at all?
+
+Character 1: [frustrated] Never arrived! I've been waiting three weeks now. [getting louder] The seller marked it as delivered but—look—my doorbell camera shows nothing, absolutely nothing that day.
+
+720 Customer Support: I understand your frustration completely. [more quickly] Let me pull up the tracking details and, um, the seller's response history. Ah, I see they haven't responded to your messages either.
+
+Character 1: [exasperated] Five messages! I sent five polite messages. [sarcastically] Then less polite ones, and now I'm just... [sighs heavily] They're clearly ghosting me after getting my money.
+
+721 Customer Support: Right, so here's what we'll do immediately. I'm escalating this to our resolution team and—good news—you're covered under buyer protection, so your refund should process within 48 hours.
+
+Character 1: [skeptically] Should process? [more firmly] I need something concrete here because, honestly, this seller has five stars but they're acting like a complete scammer right now.
+
+722 Customer Support: Actually, let me correct myself—will process, not should. [quickly] I'm initiating it right now and, between you and me, we're also investigating this seller for suspicious activity patterns.
+
+Character 1: [relieved] Oh thank god. [curiously] Wait, suspicious patterns? Are there other complaints because I felt crazy thinking a five-star seller would just... [trails off] steal from me?
+
+723 Customer Support: I can't discuss other cases but, um, let's say you're not alone. Your refund confirmation number is RFD-9981, and please keep that doorbell footage saved, just in case.
+
+Character 1: [gratefully] This is such a relief, honestly. [chuckles nervously] I was prepared to battle for hours—my friend said customer service would just give me the runaround. [sincerely] Thank you for actually helping.
+
+724 Customer Support: That's what we're here for, truly. Oh, one more thing—would you like us to remove that seller from your recommended list and, additionally, flag similar listings for extra scrutiny?
+
+Character 1: [eagerly] Yes, absolutely, block them from my universe please. [more seriously] And hey, what happens to my review? [concerned] Can I still warn other buyers about this experience?
+
+725 Customer Support: Your review stays up and actually carries more weight now. Since this is a verified dispute with evidence, it'll be marked as a confirmed buyer experience, not just an opinion.
+
+Character 1: [satisfied] Perfect, that's... that's exactly what should happen. [pause] [curiously] How long have you been dealing with these cases because you seem to really get it?
+
+726 Customer Support: Three years of angry buyers and sketchy sellers. Honestly, cases like yours where we can actually fix things—those make the job worthwhile, you know?
+
+Character 1: [appreciatively] Well, you've saved my faith in this platform. [jokingly] I was about to become one of those people who only shops in actual stores like it's 1995 again.
+
+727 Customer Support: Oh please don't abandon us for the mall! But genuinely, if you have any issues with the refund processing, my direct extension is 4421—ask for Marcus.
+
+Character 1: [surprised] Marcus! An actual name, not agent number whatever. [warmly] I'll definitely leave positive feedback about you specifically because this could've gone so differently.
+
+728 Customer Support: That's very kind, truly appreciated. Your refund should hit your account by Thursday and, um, we've added a 10% courtesy credit for the inconvenience—check your wallet.
+
+Character 1: [excitedly] Oh wow, I didn't expect that at all! [sighs contentedly] You know what, Marcus? You've turned my terrible day into a pretty decent one. [sincerely] Thanks for being human about this.
+
+--- BASIC SCENARIOS ---
+
+729 [Disappointed] I, uh, I really wish I could try your famous lasagna, but the dairy just—it doesn't agree with me anymore. [Sigh]
+
+730 [Fast] [Happy] Oh my gosh, you made a separate dish just for me? That's so thoughtful, I mean, you didn't have to go through all that trouble!
+
+731 [Whisper] Between you and me, I'm not actually allergic, I just... the texture of mushrooms makes me wanna gag, y'know? [Chuckle]
+
+732 [Angry] No, for the hundredth time, being vegetarian doesn't mean I just eat salad—there's like, so many other things! [Groan]
+
+733 [Slow] So basically, if it lived in the ocean at any point, I'm gonna have a really, really bad time. [Tsk]
+
+734 [Sarcastic] Yeah, I'm that person at the party now—gluten-free, sugar-free, fun-free, right? [Laugh] [Fast] But seriously, the bread will literally destroy me.
+
+735 Um, does the soup have, like—actually, never mind, I'll just stick with what's on my plate, it's fine.
+
+736 [Sad] [Slow] I used to love peanut butter cups more than anything, but now even being near them could send me to the hospital.
+
+737 [Shout] Wait, wait, WAIT—that has shellfish in it? [Fast] [Angry] I specifically said I'm allergic when I RSVP'd!
+
+738 [Happy] Honestly? Going plant-based was the best decision I ever—oh, is that bacon in the green beans? [Disappointed] [Sigh]
+
+739 [Whisper] [Fast] I'm kinda embarrassed to ask, but could you tell me what's in everything? My doctor just put me on this elimination diet thing.
+
+740 [Chuckle] You know what's funny? Everyone assumes it's for health reasons, but I just... meat started grossing me out one day, dunno why.
+
+741 [Slow] [Sad] The thing is—look, I know I'm being difficult, okay? But if I eat that, I'll be sick for literally three days straight.
+
+742 [Sarcastic] [Fast] Oh sure, let me just pick the cheese off—because that's definitely how severe lactose intolerance works! [Groan]
+
+743 Is there, um, any chance the dressing has eggs in it? 'Cause that's gonna be a whole—yeah, that's a problem. [Tsk]
+
+744 [Happy] [Laugh] Actually, I can eat everything here! First dinner party in forever where I don't have to explain my weird restrictions!
+
+745 [Angry] [Slow] I'm not trying to be trendy or whatever—celiac disease is an actual medical condition that literally damages my intestines.
+
+746 [Disappointed] The marinade has soy sauce? [Sigh] Of course it does—everything good always has soy sauce, and I'm basically allergic to joy.
+
+747 [Fast] [Whisper] Okay so don't make a big deal about it, but I haven't told anyone yet—I'm trying this whole keto thing?
+
+748 [Chuckle] My body decided to revolt against basically all nightshades last year, so no tomatoes, potatoes, peppers—yeah, I know, it's ridiculous. [Slow] I miss pizza so much.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+749 SCENARIO: Complaining about a broken elevator, then enjoys the exercise taking the stairs
+
+==================================================
+
+[annoyed]
+
+Oh my God, you're not going to believe the morning I had. So I get to work, right, and the elevator's just— it's completely broken. Like there's this little handwritten sign taped to it that just says "out of order" in like, I don't know, crayon or something.
+
+[frustrated]
+
+And of course I'm already running late because traffic was insane, and now I have to walk up seven flights of stairs in heels. Seven! I'm like, are you kidding me right now? [sigh] I was so mad, I was just stomping up there like an angry toddler.
+
+[irritated] [breathless]
+
+By the third floor I'm already like wheezing, thinking about how out of shape I am, how this is just gonna make me even more late, and my boss is probably gonna— you know how he gets about punctuality.
+
+[slower] [thoughtful]
+
+But then like... around floor five, I don't know, something weird happened. I started actually feeling kind of... good? Like my heart was pumping and I was actually awake for the first time in weeks.
+
+[surprised] [warming up]
+
+And when I got to the top I was like— wait, I feel amazing. Like energized and alert and my legs actually felt strong? When's the last time I felt my legs, you know what I mean? [small laugh]
+
+[happy] [slightly amazed]
+
+I think I'm gonna take the stairs more often. Who knew? Maybe that broken elevator was like... a blessing in disguise or whatever.

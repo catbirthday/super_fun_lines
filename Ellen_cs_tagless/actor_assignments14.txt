@@ -1,0 +1,261 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 2363613c_script | Role: Character 2 (B)
+
+Character 1: Got my scan results back yesterday.
+
+1033 Character 2: Oh my god—wait, and? What did they—I mean, I've been literally checking my phone every five seconds wondering if you'd heard anything yet.
+
+Character 1: It's gone. Or... in remission. Whatever they call it.
+
+1034 Character 2: Wait wait wait, are you—are you serious right now? Like, gone gone? Oh my god, I'm gonna— [Gasp] I'm literally about to cry in this coffee shop right now.
+
+Character 1: Yeah. Six months clear.
+
+1035 Character 2: Six months! That's—holy shit, that's incredible. How are you even, like, how are you so calm right now? I'd be screaming or something, I dunno.
+
+Character 1: Don't really know how to feel about it yet.
+
+1036 Character 2: No no, that's—that makes total sense actually. It's probably like, a lot to process, y'know? After everything you've been through this year, it's gotta be kinda surreal.
+
+Character 1: Keep waiting for them to call back. Say they made a mistake.
+
+1037 Character 2: Oh babe... but they didn't, right? Like, this is real. You did it. You literally— [Sigh] you beat this thing. That's not a mistake, that's you being incredible.
+
+Character 1: Just lucky, I guess.
+
+1038 Character 2: Okay, no—luck had nothing to do with it. I watched you go through hell, basically. All those treatments, the surgeries, and you just... kept going somehow.
+
+Character 1: Had to. No other choice.
+
+1039 Character 2: But you did, though. Some people don't—I mean, not that they're weak or anything, but like, you fought so hard. Every single day, even when you were basically living in that bathroom.
+
+Character 1: That was pretty rough.
+
+1040 Character 2: Pretty rough? You're—god, you're such an understater. [Chuckle] It was horrific and we both know it. Remember when you tried to convince me the hospital jello was "not that bad"?
+
+Character 1: Still think the green wasn't terrible.
+
+1041 Character 2: The green was absolutely terrible and you're—you're delusional. But honestly? I'm just so, so happy I get to argue with you about jello flavors for like, many more years now.
+
+Character 1: Yeah. Me too.
+
+1042 Character 2: Have you told your mom yet? She's gonna absolutely lose it—in the best way, obviously. Like, prepare for the biggest party of your life, basically.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1043 SCENARIO: realizing they missed a belt loop
+
+==================================================
+
+[muttering]
+
+Okay, so I'm, um— I'm looking in the mirror and something's just, like, off about this whole— this whole situation here. The belt looks weird, right? Like, it's doing this, uh, this weird twisty thing that belts shouldn't— shouldn't normally do.
+
+[puzzled]
+
+Wait, let me just— [sigh] oh. Oh, okay, I see what happened here. I missed a loop. I literally, um, I literally just walked right past one of the belt loops like it didn't exist. How do you even— how do you even do that?
+
+[slightly exasperated] 
+
+So now I have to, what, take the whole thing off and start over? Because I can't just— I mean, I could try to thread it back through, but that's gonna be all awkward and— [groan] no, that's not gonna work.
+
+[resigned but amused]
+
+This is, uh, this is exactly the kind of thing that happens when I'm rushing. I'm like, "belt, check," but it's not actually— it's not actually checked, is it? It's just, um, it's just belt-ish.
+
+[matter-of-fact]
+
+Alright, starting over. Take two of, uh, of basic adult skills.
+
+--- CONVERSATION ---
+
+Script: 8eb244e4 | Role: Character 1 (A)
+
+1044 Character 1: [dejected] So he texted me last night. [Bitter laugh] After two months of silence, he wants to "grab coffee and catch up." [voice cracking] Like we're old college buddies or something, not people who shared a bed for three years.
+
+Character 2: [sympathetically] Oh honey, that's rough. [more gently] Maybe he just needs closure? [Soft sigh] Though honestly, Mark and I were just talking about how weird exes can be with their timing—always popping up when you're trying to move forward.
+
+1045 Character 1: [sarcastically] Must be nice having Mark to analyze the mysteries of dating with. [Heavy exhale] I'm back to swiping through profiles of guys holding fish. [increasingly frustrated] Why are there so many fish? Is that supposed to be attractive somehow?
+
+Character 2: [guilty giggle] The fish thing is bizarre! [enthusiastically] But hey, at least you get to experience that excitement again—first dates, butterflies! [quieter] Mark and I just watch Netflix in sweatpants now. Sometimes I miss that new relationship energy, you know?
+
+1046 Character 1: [Scoff] Energy? [exhausted] I went on three first dates last week. [monotone] One guy talked about his mother's bunion surgery, another one cried about his ex, and the third asked if I wanted to join his "polyamorous journey."
+
+Character 2: [Shocked gasp] The bunion surgery? [louder] During dinner?! [consolingly] Look, I know the dating pool seems contaminated right now, but you'll find someone amazing. Remember how Mark and I met at that terrible work party? Magic happens in unexpected places.
+
+1047 Character 1: [wistfully] You two were nauseating from day one. [Chuckle] Dancing to no music in the parking lot like idiots. [voice breaking slightly] I thought James and I had that too, but apparently his coworker had it more.
+
+Character 2: [firmly] James is trash and we've established this. [Emphatic huff] Seriously though, being single has perks! [cheerfully] You can eat cereal for dinner without judgment, spread out in bed, and flirt with that cute barista guilt-free!
+
+1048 Character 1: [mockingly sweet] Oh yes, the freedom to eat Lucky Charms alone while binge-watching reality TV. [Groan] Living the dream. [mumbling] The barista is nineteen and calls me ma'am, by the way. That ship has sailed into the retirement home.
+
+Character 2: [Laughing] Stop being so dramatic! [reassuringly] Thirty-two is not elderly! [getting faster] Besides, Mark's friend David just asked about you again—he's sweet, has a real job, and I've never seen him holding a fish.
+
+1049 Character 1: [suspicious] The lawyer David? [more interested] With the rescue dog? [Pause] [hesitantly] I mean, he seemed nice at your barbecue, but I'm pretty sure I was wearing my "emotionally unavailable" face the entire time we talked.
+
+Character 2: [excited squeal] Yes, him! [eagerly] He thought you were mysterious and intriguing! [softer] Just think about it—no pressure. But maybe a double date would be less intimidating than meeting a stranger from an app?
+
+1050 Character 1: [nervously] Double dates are basically relationship performance art though. [Bitter chuckle] Watching you two be perfect while I try to remember how to be charming? [sighing] Though I suppose it beats explaining my Spotify wrapped was entirely breakup songs.
+
+Character 2: [gently teasing] We're not perfect—Mark leaves beard trimmings in the sink like he's marking territory. [Snort] But fine, what about just coffee with David? [encouraging whisper] Low stakes, broad daylight, easy escape route if needed.
+
+1051 Character 1: [resigned] God, why not? [sarcastically bright] Can't be worse than cryptocurrency guy or bunion boy. [Deep breath] But if this goes badly, you're buying wine and listening to me rant about dying alone with twelve cats.
+
+Character 2: [triumphant] Deal! [squealing] Oh this is exciting! [more seriously] I'll text him right now before you change your mind. And hey, twelve cats sounds kind of cozy actually—like a furry, purring blanket of unconditional love.
+
+1052 Character 1: [dryly] Spoken like someone who's never cleaned twelve litter boxes. [Growing warmer] But thanks for this. [quieter] Even if David turns out weird, it's nice knowing someone's rooting for my disaster of a love life.
+
+Character 2: [warmly] Always rooting for you, babe. [playful] Besides, your disasters make great stories! [Giggle] Remember when that guy showed up to the fancy restaurant in a tank top? Mark still randomly brings that up and dies laughing.
+
+1053 Character 1: [groaning loudly] The tank top said "Sun's Out, Guns Out" in glitter. [incredulous] In February! [Cackle] At least my catastrophes entertain the happily coupled masses. Maybe I should start a blog: "Dating After Dumping: A Cautionary Tale."
+
+Character 2: [enthusiastically] I'd read that religiously! [lovingly] But honestly, your story isn't cautionary—it's inspiring. [firm whisper] You're putting yourself out there despite the hurt. That takes guts. David's lucky I'm setting this up. [cheerful] Now, let's plan your outfit!
+
+--- CS ALPHANUMERIC ---
+
+Script: 78236d09 | Role: Customer Support
+
+Character 1: [drowsily] Hi, um... my fitness tracker says I walked 12,847 steps yesterday, but [yawns] I literally spent the entire day on my couch. [confused] My order number is FT-2847X-M92, can you help?
+
+1054 Customer Support: [professionally] Good afternoon! I can definitely look into that for you. Let me pull up your account—could you verify your email address? [more cheerfully] Sometimes the device needs recalibration, especially the Model X-500 series.
+
+Character 1: [sluggishly] It's, uh... sleepyuser42@email.com. [sighs heavily] The thing is, I haven't moved from my apartment at 482 Maple Street in three days. [more frustrated] How does lying down count as ten thousand steps?
+
+1055 Customer Support: I see your concern, and checking your device ID—XM5-9982-7A—it shows irregular patterns. Have you been wearing it while sleeping? [more technically] Sometimes REM movement can trigger false readings, especially with firmware version 3.2.1.
+
+Character 1: [groans] I mean, yeah, I wear it constantly because the manual said 24/7 tracking. [slower] But my resting heart rate shows 142 BPM while I'm literally... [yawns] napping. That can't be right?
+
+1056 Customer Support: That does sound unusual for resting metrics! Let me check—your last sync was at 3:47 PM yesterday. Have you tried resetting the device by holding the button for exactly 15 seconds?
+
+Character 1: [lethargically] Fifteen seconds feels like... forever when you're this tired. [mumbling] But okay, I tried it twice already today. [slightly annoyed] Still says I've burned 2,800 calories just from breathing, apparently.
+
+1057 Customer Support: I understand your frustration completely! [more determined] I'm sending a diagnostic code—DG447B—to your app now. [encouragingly] Can you enter that in settings, then wait about 90 seconds for the analysis?
+
+Character 1: [exhausted] Alright, typing it in now... D-G-4-4-7-B. [sighs] My app says "analyzing movement patterns" and oh—[surprised] now it's showing only 287 steps? [confused] That's like, bathroom trips only, which seems more accurate.
+
+1058 Customer Support: Perfect! That means the recalibration worked successfully. I'm also issuing a 20% credit—code TRACK20—for your next purchase. [warmly] Is there anything else about your Model X-500 I can help with today?
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: bf4ccbc1 | Role: Customer Support
+
+1059 Customer Support: Good afternoon, Pest Shield Services, this is Marcus speaking. How can I help you today? I see you're calling from—oh yes, the Johnson residence on Maple Street.
+
+Character 1: [frustrated] Yeah, hi, I need someone back out here immediately. [raising voice] Those ants you treated last week? They're everywhere now—kitchen counters, bathroom, [disgustedly] even found them in my cereal this morning!
+
+1060 Customer Support: [apologetically] Oh no, I'm terribly sorry to hear that, Mrs. Johnson. Our treatment comes with a thirty-day guarantee, so we'll absolutely send someone back. Let me just pull up your file here... when works best for you?
+
+Character 1: [impatiently] Today would be ideal, or tomorrow morning at the latest. [sighs heavily] My mother-in-law is visiting this weekend and she's already... particular about cleanliness. [sarcastically] Finding ants in her tea would really complete the experience.
+
+1061 Customer Support: I completely understand the urgency. Let me check our schedule—we have... actually, Tom can squeeze you in between three and five today. He's our senior technician, specializes in persistent ant colonies.
+
+Character 1: [relieved] Three to five works perfectly, thank God. [curiously] But why didn't the first treatment work? The guy seemed thorough, spent like an hour here, [quieter] though he did mention something about needing different bait.
+
+1062 Customer Support: Sometimes ants switch their food preferences seasonally—protein versus sugar. [more animated] Tom will bring our full arsenal this time, different gel baits, granules, the works. We'll identify the species and hit them with exactly what they're craving.
+
+Character 1: [skeptically] Right, well, I hope this Tom knows what he's doing. [firmly] Because I'm not paying for another visit after this one. [sighs] The guarantee covers everything, correct? No hidden fees or "special treatment" charges?
+
+1063 Customer Support: Absolutely no additional charges, it's all covered under your initial service warranty. Tom will also do a full perimeter check—sometimes we find new entry points that weren't visible before. Would you like him to call when he's on his way?
+
+Character 1: [decisively] Yes, definitely have him call first. [softer] And please, make sure he knows about the kitchen especially—that's where it's worst. [exasperated] I've already thrown out half my pantry trying to find where they're coming from.
+
+1064 Customer Support: [sympathetically] Oh, that's so frustrating, losing food on top of everything else. I'm making detailed notes for Tom right now—kitchen priority, check pantry area thoroughly. He'll also leave extra bait stations in problem zones, no charge.
+
+Character 1: [somewhat relieved] Good, that sounds more comprehensive than last time. [cautiously] The tech before just sprayed around and left some traps. [more firmly] I need this actually solved, not just... temporarily managed, you know?
+
+1065 Customer Support: Absolutely, and that's exactly why we're sending Tom. [enthusiastically] He's been with us twelve years, has this methodical approach—checks everything from foundation cracks to, even dishwasher connections. Really thorough guy.
+
+Character 1: [impressed] Twelve years, that's reassuring at least. [curiously] Should I do anything to prepare? Move furniture, clear counters? [quickly] I mean, I've already cleaned everything about five times trying to discourage them.
+
+1066 Customer Support: Just clear under the sink if you can, give Tom access to baseboards. Don't worry about deep cleaning—actually, leaving a few ants visible helps him track their trails. [quickly] Oh, and pet bowls should be picked up during treatment.
+
+Character 1: [acknowledging] Right, I'll grab the cat's dishes before he arrives. [sighs] This whole thing has been such a headache. [tiredly] I specifically asked the first guy if one treatment would be enough, and he assured me it would.
+
+1067 Customer Support: I'm really sorry you were given that impression. Sometimes it does take one visit, but persistent colonies, especially in spring—they can be tricky. I'm also adding a note for Tom to inspect neighboring units for source colonies.
+
+Character 1: [surprised] Wait, this could be coming from my neighbors? [groans] Great, just great. [resigned] Well, whatever it takes—just please make sure Tom is thorough about finding the actual source this time around.
+
+1068 Customer Support: [reassuringly] He definitely will, and if it is from neighboring property, we can coordinate treatment. I've scheduled you for three to five, Tom Rodriguez will call thirty minutes before arrival. Is this still the best number to reach you?
+
+Character 1: [confirmingly] Yes, this number's fine, I'll have my phone on me. [gratefully] Thanks for fitting me in today, I really appreciate it. [hopefully] Let's hope Tom can finally put an end to this ant invasion once and for all.
+
+--- BASIC SCENARIOS ---
+
+1069 [Disappointed] Oh, come on, I'm only—wait, is that really gray or is it just the light? [Tsk] I mean, I guess it was gonna happen eventually, but still.
+
+1070 [Happy] Finally! [Laugh] My sister's been going gray since twenty-five and she kept saying I was some kind of, like, genetic freak or something.
+
+1071 [Whisper] Nobody needs to know about this, right? [Fast] I'm just gonna pluck it real quick and we'll pretend it never happened.
+
+1072 [Angry] This is your fault! [Shout] You stress me out so much that I'm literally—look at this!
+
+1073 [Sarcastic] Oh great, just what I needed today. [Sigh] As if the wrinkles weren't enough of a reminder.
+
+1074 [Slow] You know what, I'm actually kinda... proud of it? [Chuckle] Like I've earned this little silver badge or something.
+
+1075 [Fast] [Disappointed] I don't have time for this—I've got that reunion next week and now I gotta book a hair appointment and everything.
+
+1076 [Sad] Mom had her first gray at my age too. [Slow] [Sigh] God, I miss being able to call her about stuff like this.
+
+1077 [Happy] [Shout] Babe, come look at this! I'm officially distinguished now!
+
+1078 [Whisper] [Fast] Okay so, um, hypothetically, if someone were to use their partner's hair dye without asking, would that be, like, a big deal?
+
+1079 [Angry] Twenty-eight. [Tsk] [Slow] I'm twenty-eight years old and my body's already giving up on me.
+
+1080 [Sarcastic] [Laugh] Well, at least now I can start lying about my age in the other direction, right?
+
+1081 [Disappointed] But I just started that new vitamin routine that was supposed to—ugh, what's even the point? [Groan]
+
+1082 [Happy] [Fast] Wait till Dad sees this—he always said I got Mom's genes and wouldn't go gray till fifty!
+
+1083 [Sad] [Whisper] I thought I'd have more time before... before I started looking like him, you know?
+
+1084 [Chuckle] Does this mean I get the senior discount at the movies now, or do I need, like, more than one?
+
+1085 [Angry] [Fast] No no no, this is not—I literally just got carded at the bar last week! [Groan] This makes no sense!
+
+1086 [Slow] [Sarcastic] Wow, nature's really subtle with the whole "you're not young anymore" message, isn't it?
+
+1087 [Disappointed] I was gonna—actually, you know what, forget the gym membership. [Tsk] [Sad] Apparently, I'm aging no matter what I do.
+
+1088 [Happy] [Slow] Honestly? Kinda makes me feel like a real adult for once, like I've finally, um, crossed some invisible threshold or whatever.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1089 SCENARIO: Upset about a condescending coworker, then hears from others they were just having a bad day
+
+==================================================
+
+[frustrated]
+
+Ugh, okay so you know Derek from accounting? He was being such a complete ass to me today during the budget meeting. Like, I'm trying to explain the quarterly projections and he just— he keeps interrupting me with this like, condescending tone.
+
+[annoyed]
+
+He's like "Well actually, Sarah, if you look at the data properly..." Like, excuse me? I've been doing this for three years, I know how to read a spreadsheet. [scoff] And then he's doing that thing where he's like explaining basic concepts to me like I'm five.
+
+[heated]
+
+I was so mad I could barely— I mean, I kept my cool but inside I'm just like, who does this guy think he is? Everyone else is just sitting there watching him mansplain my own presentation to me. God, I wanted to just—
+
+[surprised]
+
+Oh wait, Lisa's texting me... hold on, let me just— 
+
+[quieter] [confused]
+
+Oh. She says Derek's dad is in the hospital? Like, he got some really bad news this morning before the meeting started.
+
+[guilty] [softer]
+
+Oh no. That's... okay that actually explains a lot. [sigh] I mean, it doesn't make it okay but like— God, I feel kind of terrible now for being so angry at him. He was probably just completely stressed and not thinking straight.
+
+[warm] [slightly embarrassed]
+
+I should probably check on him tomorrow, shouldn't I?

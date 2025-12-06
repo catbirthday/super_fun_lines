@@ -1,0 +1,305 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: a6c89c29_script | Role: Character 2 (B)
+
+Character 1: Three months. That's how long it's been.
+
+1090 Character 2: I know, I know it's been a while, but like—come on, you know how crazy work's been. I literally haven't had time to breathe, and now you're mad because I needed a favor?
+
+Character 1: You always need a favor.
+
+1091 Character 2: That's not—okay, that's not true. I don't always need something. Sometimes I just... [sigh] look, I reached out, didn't I? Isn't that what matters?
+
+Character 1: You reached out because you needed my truck.
+
+1092 Character 2: Yeah, fine, I needed your truck, but I also wanted to see you! Those things aren't like, mutually exclusive. You're acting like I'm using you or something.
+
+Character 1: Aren't you?
+
+1093 Character 2: Wow. Okay. That's—that's really what you think of me? After everything? I mean, seriously, I've been your friend for eight years and suddenly I'm just some user because I'm bad at texting?
+
+Character 1: When's my birthday?
+
+1094 Character 2: Your birth—come on, that's not fair. You know I'm terrible with dates, I forget my own mom's birthday half the time. [frustrated laugh] That doesn't mean I don't care about you.
+
+Character 1: You missed it. Again.
+
+1095 Character 2: Look look, I get it, okay? I'm a shitty friend sometimes. But you're not exactly reaching out either, y'know? It's not all on me to maintain this whole thing.
+
+Character 1: I stopped trying.
+
+1096 Character 2: You stopped—okay, so you just gave up? Without even telling me there was a problem? That's kinda unfair, don't you think? I'm not a mind reader.
+
+Character 1: Check your call history. Count how many start with "hey, can you."
+
+1097 Character 2: I mean... fine, maybe recently it's been—but that's just because I've been drowning, honestly. And I thought friends were supposed to help each other out when things get rough. Guess I was wrong about that.
+
+Character 1: Help goes both ways.
+
+1098 Character 2: And I've helped you! Remember when you needed someone to watch your dog for two weeks? Or when I drove you to the airport at like 4am? I didn't—[scoff] I've been there for you too.
+
+Character 1: That was two years ago.
+
+1099 Character 2: Okay okay, so what, there's like a statute of limitations on friendship now? I'm sorry I haven't been great lately, I am, but you're basically telling me I'm worthless as a friend and that's... that hurts too, y'know?
+
+Script: 5397fa1c_script | Role: Character 2 (B)
+
+Character 1: Got my exam back today.
+
+1100 Character 2: Oh yeah? How'd it—wait, why do you look so weird right now? Like, you're either about to tell me you failed or you, like, aced it completely.
+
+Character 1: Perfect score.
+
+1101 Character 2: WHAT? No no no, wait—perfect? Like, actually perfect? Not just an A, but like... hundred percent perfect? [Gasp] Oh my god, which exam was this?
+
+Character 1: The one everyone fails. Organic chemistry.
+
+1102 Character 2: Stop it. Stop—you're joking. Nobody gets perfect on Morrison's orgo exam. He literally, he literally prides himself on that. I heard the average is like, what, sixty-something?
+
+Character 1: Fifty-eight percent average. Yeah.
+
+1103 Character 2: And you just—okay, okay, how are you being so calm about this? I'd be like, screaming right now. Actually, I kinda am screaming for you? This is huge!
+
+Character 1: It's just an exam.
+
+1104 Character 2: Just an—no. Nope. That's not "just" anything, that's like... you realize you probably made Morrison question his entire teaching philosophy, right? [Laugh] He's gonna make the next one impossible now.
+
+Character 1: Probably. My parents don't even know yet.
+
+1105 Character 2: Wait, you haven't—oh man, your mom's gonna absolutely lose it. In the best way. She's gonna tell literally everyone she knows. The mailman's gonna hear about this.
+
+Character 1: That's why I haven't told her.
+
+1106 Character 2: Okay but like... you worked so hard for this? Remember when you were basically living in the library? I was actually—I was getting worried about you, honestly.
+
+Character 1: It paid off, I guess.
+
+1107 Character 2: You guess? You—[Sigh] okay, you're doing that thing where you pretend stuff doesn't matter when it obviously does. Which is fine, but like, can we at least celebrate a little?
+
+Character 1: Sure. Want to get pizza?
+
+1108 Character 2: Pizza? That's—I mean yeah, obviously yes to pizza, but this is like, champagne-worthy? Or at least that fancy place downtown you never wanna go to?
+
+Character 1: Pizza's good. I'm buying though.
+
+1109 Character 2: Oh, big spender now! Okay okay, fine, pizza it is. But I'm gonna tell everyone there that you're a genius, just so you know. The whole restaurant's gonna know about this perfect score.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1110 SCENARIO: attempting to find the end of the packing tape
+
+==================================================
+
+[muttering]
+
+Okay, so I need to, um, I need to tape this box up, but where's the— where's the end of this tape? There's gotta be an end somewhere, right? Like, it doesn't just, um, it doesn't just go on forever.
+
+[slightly annoyed]
+
+I mean, I literally just used this yesterday and I— I thought I left a little tab or whatever, but now it's just, uh, it's just this smooth cylinder of, of tape. [tsk] Which is, um, which is great for my fingernails.
+
+[focused]
+
+Okay, let me just— if I run my finger around the edge here, maybe I can, uh— [hmm] nope. Nothing. Wait, wait, maybe if I use my nail and just, like, scrape along the— ow, okay, that's not— that's not gonna work.
+
+[brightening]
+
+Oh! What if I, um, what if I use the scissors? Just drag the point along until it catches on something? That's gotta— that's gotta work, right?
+
+[relieved]
+
+There we go! Got it. [exhale] Finally. I swear they make this stuff impossible to, uh, to find on purpose. Like some kind of, um, some kind of tape conspiracy or whatever. [laugh]
+
+--- CONVERSATION ---
+
+Script: 63b6cc61 | Role: Character 2 (B)
+
+Character 1: [frustrated growl] Three months! [louder] Three damn months chasing shadows and what do we have? [bitter laugh] A board full of red string leading to absolutely nothing but another corpse in the morgue.
+
+1111 Character 2: [quietly seething] Don't remind me. [explosive] Every lead, every witness, every piece of evidence just—vanishes! [voice cracking] Like we're chasing smoke while this psycho keeps playing games with us.
+
+Character 1: [manic energy] You know what? [ripping sound] Let's start fresh! [shouting] This board is cursed anyway! Watch me tear down every useless photo, every dead-end timeline, every lying witness statement right now!
+
+1112 Character 2: [dark chuckle] Yes! [increasingly unhinged] Burn it all! The forensics that led nowhere, the alibis that checked out, [screaming] the security footage that mysteriously corrupted! It's all garbage!
+
+Character 1: [panting heavily] Look at this! [sarcastic sing-song] "Suspect seen at 9:15 PM." [venomous] Except he was also magically across town at the same time according to twelve different cameras!
+
+1113 Character 2: [hollow laugh] My favorite part? [building rage] The DNA evidence that matches nobody in any database, anywhere, ever. [whispered fury] It's like our killer doesn't even exist in reality.
+
+Character 1: [exhausted groan] The captain's breathing down our necks. [mockingly high-pitched] "Any progress, detectives?" [normal voice, defeated] Progress? We're moving backwards at the speed of light into complete insanity here.
+
+1114 Character 2: [hysterical laughter] And the victims! [more controlled] No connection whatsoever—different ages, backgrounds, locations. [punch sound] The only pattern is that there IS no pattern! How's that for investigative brilliance?
+
+Character 1: [sudden realization] Wait. [slowly] What if that's exactly the point? [building excitement] What if the randomness, the impossible evidence, the contradictions—what if it's all intentional misdirection?
+
+1115 Character 2: [skeptical grunt] Great, so instead of incompetent, we're just [sarcastically cheerful] dancing puppets in some mastermind's show? [serious whisper] That's supposed to make me feel better about destroying six months of work?
+
+Character 1: [cold determination] No, listen. [faster] Every "mistake" we found, every impossibility—they required inside knowledge. [triumphant] Someone who knows our procedures, our blind spots, our investigation methods. Someone close.
+
+1116 Character 2: [long pause] You're saying... [disbelief] Are you seriously suggesting this is an inside job? [nervous laugh] That someone in the department is orchestrating this whole nightmare?
+
+Character 1: [grimly certain] Look at the board again. [commanding] Or what's left of it. Every breakthrough we almost had got leaked, every safe house compromised. [whispered accusation] That's not luck.
+
+1117 Character 2: [dawning horror] The Patterson witness. [shaky voice] She only told us her location. [stronger] Two hours later, she was dead. Nobody else knew where we stashed her.
+
+Character 1: [quietly intense] And the evidence that went missing from lockup? [building anger] The security logs that got corrupted? [shouting] The autopsy reports that got "accidentally" shredded? All internal access required!
+
+1118 Character 2: [defeated whisper] So we've been sabotaging ourselves this whole time. [bitter laugh] Fighting with both hands tied because the enemy's been [voice breaking] sitting next to us in briefings.
+
+Character 1: [energized] But they made a mistake! [rapid speech] Destroying evidence leaves traces too. [determined] Security badges, access logs, timestamp discrepancies—we just weren't looking at our own people before.
+
+1119 Character 2: [cautious hope] The rage room session actually helped then? [dry humor] Instead of career suicide, we just [thoughtfully] stripped away the camouflage by destroying their carefully crafted distractions?
+
+Character 1: [deadly serious] We tell no one. [firm] Not the captain, not our partners, nobody. [whispered urgency] We rebuild this board in secret and this time, we hunt from within.
+
+1120 Character 2: [resolved exhale] Agreed. [darkly amused] Let them think we've lost it, gone crazy from dead ends. [ice cold] Meanwhile, we'll be watching everyone who's been watching us fail.
+
+--- CS ALPHANUMERIC ---
+
+Script: ed1a06a7 | Role: Customer Support
+
+Character 1: [frustrated] My RoboVac 3000X keeps, uh, mapping my bathroom as the kitchen. [sighs heavily] It tried to vacuum around a toilet it thinks is a dining table! [bewildered] My account number is AC-78942-K if that helps somehow.
+
+1121 Customer Support: Thank you for contacting RoboVac support! I see your device serial number RV3X-889214 in our system. [reassuringly] This mapping confusion happens sometimes when—well—reflective surfaces like mirrors interfere with the sensors.
+
+Character 1: [exasperated] But there's no mirror in my bathroom! [groans] Yesterday it sent me a notification saying it cleaned 1,247 square feet, but [incredulous] my entire apartment is only 650!
+
+1122 Customer Support: Oh dear, that's quite the discrepancy. Could you please check if firmware version 4.2.1 is installed? You'll find it under Settings, then About, then scroll down to—actually, there should be eight digits there.
+
+Character 1: [muttering] Let me see... okay, it says version 4.1.9-beta. [confused] Wait, beta? [more loudly] Nobody told me I was testing experimental software on my floors!
+
+1123 Customer Support: Ah, the beta version, yes. That shouldn't have been pushed to consumer units. Let me escalate this to ticket number TK-20241108-5543, and we'll need to roll back your firmware immediately.
+
+Character 1: [sarcastically] Great, so my vacuum's having an identity crisis. [sighs] It also keeps trying to clean the same corner at 422 Maple Street—[suddenly louder] which isn't even my address! I live at 244!
+
+1124 Customer Support: That's... highly unusual. The GPS module might be experiencing interference. [more firmly] Please power cycle the unit by holding the home button for exactly 15 seconds, not 14, not 16.
+
+Character 1: [resigned] Fine, I'm doing it now. [pause] [hopefully] Oh wait, it's showing a new map! [disappointed] Never mind, it just labeled my bedroom as "Garage Bay 3" somehow.
+
+1125 Customer Support: [sympathetically] I'm terribly sorry about this experience. I'm authorizing a replacement unit, reference code RPL-99087-DELTA. Your new RoboVac should arrive within 3-5 business days to your registered address.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 956773ad | Role: Customer Support
+
+1126 Customer Support: Good morning, Daily Tribune customer service, how can I help you today? I see you're calling from the account registered to—oh, let me just pull that up for you.
+
+Character 1: [frustrated] Yeah, hi, I've been getting my paper late for three weeks now. [sighs heavily] Sometimes it doesn't even show up until noon, and I—look, I need it before work, [more firmly] that's why I subscribe.
+
+1127 Customer Support: [apologetically] Oh, I completely understand your frustration, sir. Let me check your delivery route right away—I'm seeing here that you're on Route 47, is that correct? We'll definitely get this sorted out.
+
+Character 1: [exasperated] Route 47, yes, and the carrier just... [pause] throws it anywhere. [louder] Yesterday it was in my bushes! [groans] I mean, who thinks that's acceptable delivery?
+
+1128 Customer Support: [sympathetically] That's absolutely not acceptable, you're right. I'm flagging this immediately for our delivery supervisor, and—actually, can you tell me, [quickly] has this been the same carrier each time?
+
+Character 1: [sarcastically] How would I know? They come at random times when I'm either asleep or at work already. [sighs] But the paper's always wet, torn, or [more angrily] completely missing.
+
+1129 Customer Support: [firmly] Right, I'm documenting all of this now. We can offer you a credit for the missed deliveries, and I'm scheduling a supervisor to personally monitor your delivery tomorrow morning, would that work?
+
+Character 1: [skeptically] Tomorrow? That's what they said last time I called. [pause] Nothing changed then, so... [frustrated laugh] why should I believe it'll be different now?
+
+1130 Customer Support: I see you've called before—oh my, twice last month. Listen, I'm escalating this directly to regional management, not just the local supervisor, [quickly] and putting a priority flag on your account.
+
+Character 1: [tiredly] Look, I just want my paper on my porch by 6 AM. [pleading] That's it, that's all I'm asking for, not in bushes, not at noon, [more firmly] just on time, on my porch.
+
+1131 Customer Support: Absolutely, that's the basic service you're paying for. I'm also adding a note that if tomorrow's delivery isn't perfect, we'll switch you to a different carrier immediately, [pause] no more chances.
+
+Character 1: [cautiously hopeful] Different carrier? You can actually do that? [sighs] Because honestly, I'm about ready to just cancel the whole thing and read online.
+
+1132 Customer Support: Yes, we have backup carriers specifically for situations like this. Plus, I'm issuing you a full month's credit right now—you'll see it on your next statement, that's our guarantee.
+
+Character 1: [surprised] A full month? Well, that's... [pause] that's actually something. [more calmly] Okay, so tomorrow morning, 6 AM, on my porch, or I get a new carrier?
+
+1133 Customer Support: [confidently] Exactly right, and I'm personally monitoring this ticket. [speaking briskly] You'll also get a follow-up call tomorrow afternoon to confirm everything went smoothly, is this the best number to reach you?
+
+Character 1: [relieved] Yes, this number's fine. [chuckles dryly] You know, you're the first person who actually seems to be doing something about this. [more warmly] I appreciate that.
+
+1134 Customer Support: That's what I'm here for, and honestly, three weeks of bad service is three weeks too many. I'm sending you a confirmation email right now with everything we discussed, including my direct extension.
+
+Character 1: [gratefully] Your direct extension? [impressed] Now that's service. [pause] Alright, I'll give it one more shot, but if tomorrow's paper isn't there...
+
+1135 Customer Support: It will be there, I promise you that. Six AM, on your porch, dry and intact, and if not, I'll personally ensure you get that carrier change immediately.
+
+Character 1: [cautiously optimistic] Okay, I'm holding you to that. [sighs] Thanks for actually listening and—well, [more sincerely] for actually doing something about it this time.
+
+--- BASIC SCENARIOS ---
+
+1136 [Slow] So, um, I know I'm usually the one who—look, this is really hard for me to say, but I think I need some help here. [Sigh]
+
+1137 [Fast] [Angry] I can't believe I'm even having to do this, okay, but everything's falling apart and I just—I can't handle it alone anymore!
+
+1138 [Whisper] Hey, could you maybe, like, not tell anyone about this? [Tsk] I've got a bit of a situation and I dunno who else to ask.
+
+1139 [Sarcastic] Oh great, here I am, the person who never needs anything from anybody, about to beg for—[Sigh] yeah, I need a favor.
+
+1140 [Happy] You know what, screw my pride, I'm just gonna say it—can you help me out? [Laugh] This is actually kinda liberating!
+
+1141 [Disappointed] I, uh, I really thought I could handle this myself, y'know? [Slow] Guess I was wrong about that.
+
+1142 [Sad] [Whisper] Mom always said I was too stubborn to ask for—well, here I am, asking.
+
+1143 [Fast] Okay so basically I've been trying to fix this thing for like three hours and it's just—can you please just come look at it? [Groan]
+
+1144 [Shout] Fine! You win! [Angry] I need help, alright? Are you happy now?
+
+1145 [Slow] This is, er, this is new territory for me, but would you mind if I—actually, could you possibly lend me some money? [Tsk]
+
+1146 [Chuckle] I literally cannot believe the words about to come out of my mouth right now. [Fast] I need help, there, I said it!
+
+1147 [Disappointed] [Sigh] Remember when I said I'd never need anyone's help with anything ever again? Yeah, about that...
+
+1148 [Sarcastic] [Slow] So apparently being independent and self-sufficient has its limits—who knew, right?
+
+1149 [Sad] I'm kinda drowning here and I just—[Whisper] I don't know what else to do anymore.
+
+1150 [Happy] [Fast] Wait, you actually wanna help me? Like, you're not gonna make fun of me for asking? [Laugh]
+
+1151 [Angry] Look, I wouldn't be here if I had literally any other option, but I don't, so—[Groan] can you help or not?
+
+1152 [Slow] You're probably gonna think less of me for this, but, um, I sort of need someone to talk to about—about everything. [Sigh]
+
+1153 [Whisper] [Fast] Before I lose my nerve, I gotta ask you something and please don't judge me, okay?
+
+1154 [Chuckle] [Sarcastic] Ten years of "I got this" and here I am, hat in hand, asking for—yeah, this is exactly as awkward as I imagined.
+
+1155 [Shout] I don't care anymore! [Happy] I need help and I'm not ashamed to—okay, maybe a little ashamed, but whatever! [Laugh]
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1156 SCENARIO: Calmly recounting a time they gave directions confidently, then thinking about it, then realizing they mixed up left and right, spiraling into direction-giving guilt
+
+==================================================
+
+[casual]
+
+So I'm walking to the coffee shop this morning, right? And this, um, this tourist couple stops me on the corner asking for directions to the museum. You know, the, uh, the big art museum downtown?
+
+[matter-of-fact]
+
+And I was like, oh yeah, super easy. You just go, um, you go straight down this street for like three blocks, then you make a left at the, uh, at the big intersection with the fountain. Then it's like, uh, maybe two more blocks and you'll see it on your right.
+
+[pleased with self]
+
+They were so grateful, you know? Like, um, like really appreciative. The woman even said I was, uh, I was super helpful and clear about it. Made me feel good, like I'm— I'm one of those useful local people who actually knows their neighborhood.
+
+[starting to doubt]
+
+But then I'm, um, I'm walking and I start thinking about it... Wait. Left at the fountain? That would take them to— that would take them toward the, uh, the industrial district, wouldn't it?
+
+[realization dawning]
+
+Oh no. Oh no, no, no. I told them left! It's— it's right at the fountain, not left! [groan] They're probably wandering around some, um, some warehouse area right now thinking I'm a complete idiot!
+
+[spiraling]
+
+I do this! I always, um, I always mix up left and right when I'm giving directions! Why do I— why do I even try to help people? I probably sent them like, uh, like twenty minutes in the wrong direction!
+
+[mortified]
+
+God, they were so nice too! They probably think all locals are just, um, just completely useless now because of me! [defeated sigh] I should never— I should never give directions to anyone ever again. I'm like, uh, like a walking GPS malfunction!

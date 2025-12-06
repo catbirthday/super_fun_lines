@@ -1,0 +1,281 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 5e730b52_script | Role: Character 2 (B)
+
+Character 1: So. Remember those photos I took last fall?
+
+713 Character 2: The ones with the—wait, the abandoned buildings? Those were so moody, I literally couldn't stop looking at them. Why, what about them?
+
+Character 1: They're in Urban Lens Magazine. The new issue.
+
+714 Character 2: Shut up shut up shut UP. Are you—[Gasp] oh my god, are you serious right now? That's like, that's one of the biggest photography magazines!
+
+Character 1: Page forty-seven. Full spread.
+
+715 Character 2: A full—okay I'm gonna cry. No really, I might actually cry because this is huge! How are you being so calm about this? I'd be like, screaming!
+
+Character 1: It's weird seeing them printed. They look different.
+
+716 Character 2: Different how? Like, bad different or just... I mean, obviously they picked them for a reason, right? They must've loved them.
+
+Character 1: I don't know. Just different. Bigger, I guess.
+
+717 Character 2: Okay but like—can we talk about how this is literally your dream? Remember when you were too scared to even submit? And now look! [Laugh] God, I'm so proud of you.
+
+Character 1: They want more. For next quarter's issue.
+
+718 Character 2: They want—wait wait wait, hold on. They already want MORE? That's not just getting published, that's like... that's a relationship! That's them saying you're gonna be, y'know, a regular!
+
+Character 1: Yeah. Industrial landscapes this time.
+
+719 Character 2: Industrial—oh that's so your vibe though! All that rust and decay and, um, what do you call it? Urban decay aesthetic? You must be freaking out inside, right?
+
+Character 1: My mom bought twelve copies.
+
+720 Character 2: Oh my god, of course she did! [Chuckle] That's—that's actually adorable though. Is she gonna like, hand them out to everyone? My mom would totally do that.
+
+Character 1: Already gave one to the mailman.
+
+721 Character 2: Stop, no she didn't! Actually wait, no, I can totally picture it. She's probably telling literally everyone, like "my child's a published photographer now," right?
+
+Character 1: Pretty much. It's embarrassing.
+
+722 Character 2: Okay but honestly? Let her have this. She's been watching you take pictures of random stuff since forever and now—now you're actually in a real magazine. That's... I mean, that's everything, y'know?
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+723 SCENARIO: discovering their favorite mug has a chip in it
+
+==================================================
+
+[muttering]
+
+Oh, come on. Come on, really? I just— I literally just grabbed it and there's, uh, there's a chip right here on the— on the handle. My favorite mug. Of course it's my favorite mug.
+
+[slightly dismayed]
+
+When did this even happen? I mean, I wash this thing like every day, I'm super careful with it, and now there's just this, um, this little chunk missing right where I— right where I put my thumb. [sigh] Perfect.
+
+[thinking out loud]
+
+Okay, so, um, is it still safe to drink from? Like, it's not— it's not that big of a chip, right? It's just, uh, just a tiny piece, but I don't know if there are, um, if there are little ceramic bits that could— that could come off or something.
+
+[slightly wistful]
+
+I've had this mug for like three years. It's the perfect size, perfect weight, and the handle fits my hand just— just right, you know? [tsk] Why does this always happen to the good stuff?
+
+[resigned]
+
+I guess I could still use it. I mean, it's not like it's gonna kill me or anything. It's just, um— it's just not the same anymore, is it?
+
+--- CONVERSATION ---
+
+Script: 8fde8a44 | Role: Character 1 (A)
+
+724 Character 1: [trembling] It's over, Mary. [Sobbing breath] The guns have stopped—can you hear it? [in disbelief] After four years of nothing but thunder and screaming, there's just... silence now. The war is finally done.
+
+Character 2: [whispering] I can't believe it. [Shaky exhale] All those boys we couldn't save, Thomas with his letters from home still unopened. [louder, breaking] What do we tell their mothers now? That it ended too late?
+
+725 Character 1: [bitter laugh] Too late. [quietly] Everything feels too late now, doesn't it? [voice cracking] Yesterday I held Private Collins' hand while he died, told him he'd see another Christmas. The armistice was just hours away.
+
+Character 2: [angrily] Hours! [Choking sob] We lost twelve men this morning alone—for what? [in a whisper] They knew it was coming at eleven o'clock. The generals knew and they still sent them over the top.
+
+726 Character 1: [exhausted tone] Look at my hands, they won't stop shaking. [more firmly] Four years of blood under these fingernails that won't wash clean. [Gasping breath] How do we just go home and pour tea like nothing happened?
+
+Character 2: [hollowly] Home. [nervous laugh] I don't even remember what my mother's kitchen smells like anymore. [growing desperate] All I know is carbolic acid, gangrene, and that sweet smell when the gas victims come in.
+
+727 Character 1: [sudden shout] Stop! [quieter, pleading] Please, I can't... [Deep breath] We saved some though, didn't we? Remember Lieutenant Morrison? He's walking now, going back to his farm in Yorkshire. That has to mean something.
+
+Character 2: [gently] Yes, we did save some. [voice strengthening] Maybe a thousand men between us who'll see their families again. [Shuddering sigh] But Mary, I keep seeing the faces of all the others haunting these tent walls.
+
+728 Character 1: [in frustration] The bells are ringing in the village. [more softly] Can you hear them celebrating? [bitterly] Dancing in the streets while we're still here, surrounded by boys who'll never dance again. It feels so wrong.
+
+Character 2: [firmly] They deserve to celebrate—God knows they've sacrificed enough. [voice dropping] But you're right, it feels strange. [Soft sob] My brother won't be coming back to join them. Passchendaele took him last year, remember?
+
+729 Character 1: [sympathetically] Oh Catherine, I'm so sorry. [steadier] I forgot about James for a moment. [in pain] This joy everyone else feels, it's like acid on an open wound when you've lost everything, isn't it?
+
+Character 2: [laughing through tears] Acid, yes—that's exactly it. [more controlled] The newspapers will call us heroes, angels of mercy. [Bitter chuckle] But angels shouldn't know how to tourniquets so fast, or recognize death's approach by smell alone.
+
+730 Character 1: [resigned whisper] We're not angels, just women who've seen too much. [growing stronger] Tomorrow they'll ship us home with medals probably. [Hollow laugh] As if a piece of metal could somehow make sense of all this madness.
+
+Character 2: [thoughtfully] Perhaps we're not meant to make sense of it. [voice breaking] Maybe we just carry it with us forever, like shrapnel too deep to remove. [more steadily] At least we'll carry it together—promise me that?
+
+731 Character 1: [warmly] Together, always. [Sniffling breath] We've held each other through the worst humanity can offer. [stronger] No armistice changes that bond. When the nightmares come, and they will, you can call me anytime.
+
+Character 2: [gratefully] The nightmares—God, they'll be awful won't they? [rapidly] Every time I close my eyes I see that boy from Birmingham. [Whimper] Eighteen years old, crying for his mother while his intestines spilled through my fingers.
+
+732 Character 1: [urgently] Catherine, look at me. [soothing tone] We did everything we could with what we had. [firmly] Those boys knew we fought for them harder than any general ever did. That's our truth to hold.
+
+Character 2: [quietly] You're right, I know you're right. [growing emotional] But Mary, what if I forget their faces? [Panicked breath] What if time makes them fade and all this suffering becomes meaningless, just another chapter in history books?
+
+733 Character 1: [fiercely] Then we don't let them fade. [softer] We tell their stories, we name their names. [with conviction] We make sure the world knows that peace came at the cost of beautiful young souls who deserved better.
+
+Character 2: [peacefully] Yes. [Deep exhale] We'll be their living memorial, won't we? [with determination] Every breath we take from now on is one they should have had. [trembling] So we'd better make them count, hadn't we, Mary?
+
+--- CS ALPHANUMERIC ---
+
+Script: 777bcc87 | Role: Customer Support
+
+Character 1: [sluggishly] Hi, I'm calling about... um... [yawns] the time-of-use thing on my bill? [confused] My account number is... wait, let me find it... 847-293-K4M.
+
+734 Customer Support: Good morning! Thank you for calling PowerGrid Energy! [cheerfully] I can definitely help you understand time-of-use rates today. Let me just pull up your account, 847-293-K4M, perfect!
+
+Character 1: [slowly] Yeah, so like... [sighs heavily] I don't really get why my bill at 1247 Maple Drive is so high? [mumbling] Something about peak hours or whatever...
+
+735 Customer Support: I completely understand your concern! So basically, electricity costs different amounts at different times—peak hours from 4 PM to 9 PM are twenty-eight cents per kilowatt-hour.
+
+Character 1: [groaning] Twenty-eight cents? [more tired] That's when I... uh... do everything though. [frustrated sigh] Cook dinner, watch TV, all that stuff after work, you know?
+
+736 Customer Support: I hear you, it's challenging! But here's the good news—off-peak rates are only twelve cents! [encouragingly] That's between 9 PM and 4 PM the next day, huge savings potential there!
+
+Character 1: [skeptically] So you're saying I should... what... [yawns loudly] do my laundry at midnight? [sarcastically] That sounds super convenient for apartment 3B.
+
+737 Customer Support: [chuckling softly] Not necessarily midnight! Many customers use programmable timers—your dishwasher, for instance. Even shifting one or two activities saves roughly fifteen to twenty percent monthly!
+
+Character 1: [slightly interested] Fifteen percent? [mumbling] That would be like... um... [slowly calculating] forty bucks on my usual two-sixty bill? [perking up slightly] Actually, that's not nothing.
+
+738 Customer Support: Exactly, you're getting it! Plus, weekends are all off-peak rates too. Would you like me to email the rate schedule to the address on file?
+
+Character 1: [hesitantly] I guess... yeah... [sighs] My email is... uh... slowpoke underscore 77 at webmail dot com. [more sluggishly] Different from what you have probably.
+
+739 Customer Support: No problem, updating that now! I'll also include our app download link—it shows real-time rates! The app code SAVE2024 gives you a five dollar credit too.
+
+Character 1: [surprised] An app? [groans softly] Great, another thing to figure out. [resignedly] But five dollars is five dollars, I suppose... fine, whatever, send it over.
+
+740 Customer Support: It's super user-friendly, I promise! The app actually sends notifications before peak hours start. Customers at addresses like yours typically save seventy-five dollars their first quarter!
+
+Character 1: [doubtfully] Seventy-five? [yawning] That seems... optimistic. [more slowly] But okay, I'll... I'll try it for a month, see what happens with the June billing cycle.
+
+741 Customer Support: That's a great approach! I'm noting on account K4M that you're enrolled in time-of-use education. You'll receive weekly tips too, starting this Friday, June 7th!
+
+Character 1: [reluctantly] Weekly tips... [sighs heavily] sure, why not. [mumbling] As long as they're not at like 6 AM or something ridiculous like that.
+
+742 Customer Support: [laughing gently] They arrive at noon, don't worry! [more professionally] Is there anything else about your 1247 Maple Drive service I can help with? Maybe our budget billing option?
+
+Character 1: [exhaustedly] Budget billing? [groans] No, no, that's... that's enough new information for today. [more firmly] Just the time thing, email, app, whatever, that's plenty.
+
+743 Customer Support: Absolutely, no problem at all! [warmly] You'll receive everything at slowpoke_77 within ten minutes. Thank you for calling PowerGrid Energy, and remember—off-peak is your friend!
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 1806d1f8 | Role: Customer Support
+
+Character 1: [exhausted] Hi, I need to schedule an appointment for my daughter Emma. [sighs heavily] She's had this cough for, um, almost a week now and [more urgently] it's getting worse at night.
+
+744 Customer Support: I understand your concern. Let me check our availability right away. What's Emma's date of birth and have you been seen here before?
+
+Character 1: [frustrated] January 15th, 2019, and yes, Dr. Martinez is her pediatrician. [pleading] Is there anything today? [sighs] I haven't slept in three nights listening to her cough.
+
+745 Customer Support: Oh, that sounds really difficult. Unfortunately, Dr. Martinez is fully booked today, but I do have a 3:45 PM slot with Dr. Chen tomorrow.
+
+Character 1: [disappointed] Tomorrow? [groans] I was really hoping for... wait, nothing sooner? [desperately] She's missing school and I'm missing work, and honestly, I'm getting worried.
+
+746 Customer Support: [reassuringly] Let me double-check for you. Actually, there's been a cancellation—Dr. Patel has a 2:30 opening this afternoon. Would that work?
+
+Character 1: [relieved] Yes! Oh my god, yes, we'll take it. [laughs nervously] Thank you so much. [more quietly] I was starting to panic a little bit there.
+
+747 Customer Support: [warmly] Perfect, I've got you scheduled. Now, has Emma had any fever, difficulty breathing, or is this cough accompanied by wheezing?
+
+Character 1: [thoughtfully] Fever came and went two days ago, um, around 101. [concerned] The cough is dry and barky, especially—[sighs]—especially when she lies down at bedtime.
+
+748 Customer Support: I've noted all of that for the doctor. Please arrive fifteen minutes early for paperwork, and bring her insurance card and any medications she's currently taking.
+
+Character 1: [gratefully] Will do, absolutely. [chuckles softly] She's only on her vitamins right now. [curiously] Should I, um, should I be doing anything specific before we come in?
+
+749 Customer Support: Keep her hydrated and comfortable. If the cough worsens significantly or she develops breathing difficulties, don't wait—go straight to the emergency room.
+
+Character 1: [worried] Oh god, okay, that's... that's good to know. [more calmly] But she's playing with her toys right now, so [relieved sigh] I think we're okay until 2:30.
+
+750 Customer Support: That's a good sign she's still active. You'll be in our West Wing, suite 203. Dr. Patel is wonderful with children, very patient.
+
+Character 1: [appreciatively] Thank you, that actually helps. [sighs] I'm a bit of a mess today—haven't even had coffee yet. [chuckles] Single parent life, you know?
+
+751 Customer Support: I completely understand, it's tough. We see lots of tired parents here. Is there anything else I can help you with today?
+
+Character 1: [thoughtfully] Actually, yes—parking. [frustrated] Last time the main lot was completely full and I had to circle forever. [hopefully] Is there another option?
+
+752 Customer Support: [helpfully] Oh yes, definitely use our north entrance instead. There's always spaces there, and it's actually closer to the West Wing anyway.
+
+Character 1: [relieved] Perfect, north entrance, got it. [gratefully] You've been incredibly helpful, really. [sighs] I feel so much better knowing she'll be seen today.
+
+753 Customer Support: That's what we're here for. So that's 2:30 PM with Dr. Patel, West Wing suite 203. We'll see you and Emma this afternoon!
+
+--- BASIC SCENARIOS ---
+
+754 [Disappointed] So basically, when I said "cancel everything," I meant just the morning stuff, not the—not the whole entire project. [Sigh] [Slow] That's three months of work down the drain.
+
+755 [Fast] Wait wait wait, you thought I was firing him? [Laugh] No, I said we should "inspire" him, not "fire" him—huge difference!
+
+756 [Angry] I specifically texted "DON'T send it yet" but apparently autocorrect changed it to "DO send it" and now our biggest client thinks we're idiots. [Groan]
+
+757 [Whisper] Between you and me, um, I kinda forgot to hit "reply all" so nobody else got the updated venue. [Tsk] [Disappointed] Two hundred people showed up at the wrong place.
+
+758 [Sarcastic] Oh great, so when I said I'd handle the Smith account, everyone just assumed I meant, like, ALL the Smith accounts? [Slow] There's literally twelve of them.
+
+759 [Happy] Actually, this is hilarious now—she thought I was proposing when I was just, uh, tying my shoe! [Chuckle] [Fast] The whole restaurant started clapping!
+
+760 [Sad] I dunno how to fix this—I mean, telling your mom she looked "tired" apparently translates to something way worse. [Sigh]
+
+761 [Shout] The email said THURSDAY! [Angry] But somehow everyone read it as Tuesday and I'm standing here with—with fifty pounds of potato salad and nobody to eat it!
+
+762 [Slow] Y'know, in my defense, "sure, whatever" isn't exactly enthusiastic consent to, um, to sell the house. [Disappointed] [Tsk] How was I supposed to know you were serious?
+
+763 [Fast] [Happy] Okay so this is actually kinda my fault—I texted him the wrong address but it worked out because that's where his ex lives and they're back together now! [Laugh]
+
+764 [Whisper] I thought when you winked, that meant you were joking about the—about firing the entire department. [Sad] [Slow] Apparently you just had something in your eye.
+
+765 [Sarcastic] Right, because "bring a dessert" obviously means bring seven hundred dollars worth of wedding cake. [Chuckle] My bad, totally misread that potluck invite.
+
+766 [Angry] [Fast] Look, when someone says they're "fine," they're usually not fine, but I took you at your word and went golfing and now—now you're furious! [Groan]
+
+767 [Disappointed] The translator app really let us down here—we ordered, like, uh, we ordered "a small coffee" and somehow got forty live chickens delivered. [Sigh]
+
+768 [Shout] [Happy] No no no, I said I LOVE your haircut, not that it looks like a "bad nut"—the phone connection was terrible! [Laugh]
+
+769 [Slow] [Sad] I honestly thought "space" meant, like, a weekend apart, not... not moving to Denver without telling me. [Sigh] That's on me for not clarifying, I guess.
+
+770 [Fast] [Angry] The decimal point was in the wrong place so instead of ordering ten units we ordered ten thousand and—and the warehouse is literally overflowing! [Tsk]
+
+771 [Whisper] So, er, turns out "surprise party" doesn't mean you're supposed to surprise the other planners too. [Disappointed] [Slow] We had three cakes and no decorations.
+
+772 [Sarcastic] [Fast] Yeah, using the acronym "SOB" in my presentation really went over well—I meant "Start of Business" but everyone thought I was calling the client names! [Chuckle]
+
+773 [Happy] She thought I hated the gift but I was actually crying because it was so perfect—my face just, uh, doesn't know how to do happy tears properly! [Laugh] [Slow] Took twenty minutes to convince her.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+774 SCENARIO: Mad about a canceled flight, then sees they got upgraded to first class on the rebooking
+
+==================================================
+
+[frustrated] [angry]
+
+Oh my God, don't even get me started on this day. My flight got canceled— not delayed, canceled— and I'm standing there at the gate like an idiot with my coffee, and they're like "weather delays" but it's perfectly sunny outside? 
+
+[indignant]
+
+So now I'm missing the whole first day of the conference, which I've been planning for like three months, and they put me on this red-eye tonight instead. Like thanks, now I get to be exhausted for the presentation I actually care about.
+
+[exasperated] 
+
+And the gate agent was so— [scoff] she was like "sorry for the inconvenience" in that voice where you know she's said it like fifty times already and just wants to go home. I get it, it's not her fault, but still.
+
+[annoyed]
+
+I'm just sitting here at the airport Starbucks feeling sorry for myself, and I haven't even told my boss yet that I'm gonna miss the— oh wait, I'm getting a text.
+
+[surprised]
+
+Um, okay this is from the airline... let me just— 
+
+[growing excitement]
+
+Oh. Oh wow. They upgraded me to first class on the new flight? Like, actual first class with the— with the lie-flat seats and everything?
+
+[delighted] [slightly embarrassed]
+
+Okay I feel like such a brat now for complaining. [laugh] This might actually be better than my original flight!

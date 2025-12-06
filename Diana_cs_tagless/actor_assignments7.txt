@@ -1,0 +1,281 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 47619637_script | Role: Character 2 (B)
+
+Character 1: So you told Marcus about my parents.
+
+584 Character 2: I—okay, yeah, I did, but I was literally losing my mind trying to help you and I didn't know what else to do. You were spiraling and I just—I needed advice from someone who actually knows you.
+
+Character 1: That wasn't your call to make.
+
+585 Character 2: Maybe not, but like—come on, you weren't talking to anyone else about it. You were just sitting on this huge thing and I could see it was eating you alive. I'm not saying I handled it perfectly, but I was trying to help.
+
+Character 1: By breaking my trust.
+
+586 Character 2: That's not—[frustrated laugh] okay, that's not fair. I didn't break your trust, I was trying to figure out how to support you better. Marcus has been through the same thing with his parents, y'know? I thought maybe he'd have some perspective that I didn't.
+
+Character 1: You could've asked me first.
+
+587 Character 2: Could I? Because every time I brought it up, you just—you shut down completely. And I get it, I do, but you can't expect me to just watch you struggle and not try to find ways to help. That's not how friendship works.
+
+Character 1: This isn't about friendship. This is about you deciding what I need.
+
+588 Character 2: No, no, no—that's not what this is. I wasn't deciding anything for you. I was literally just asking Marcus if he had any advice on how to be there for you. Like, that's it. [sigh] I didn't give him every detail or whatever you're imagining.
+
+Character 1: What exactly did you tell him?
+
+589 Character 2: Just that—that your parents were getting divorced and you were having a hard time with it. That's it. I didn't get into the messy stuff or the—y'know, the personal details you told me. I kept it super basic because I just needed to know how to help.
+
+Character 1: That's still too much.
+
+590 Character 2: Okay, fine, maybe—maybe it was. But honestly? You're acting like I gossiped about you for fun or something. I was scared for you. You weren't eating, you were barely sleeping, and I didn't—I didn't know what to do.
+
+Character 1: So you went behind my back.
+
+591 Character 2: I went to our mutual best friend who's been through the exact same thing. And yeah, okay, I should've asked you first, but you weren't exactly being reasonable about anything at that point. You were just—you were drowning and I was trying to throw you a life raft.
+
+Character 1: A life raft I didn't ask for.
+
+592 Character 2: Right, because drowning people are always super logical about accepting help. [scoff] Look, I'm sorry I didn't handle it the way you wanted, okay? But I'm not gonna apologize for caring about you or trying to find ways to support you when you clearly needed it.
+
+Character 1: You don't get to decide when I need help.
+
+593 Character 2: And you don't get to—to shut everyone out and then be mad when people who love you try to figure out how to be there for you anyway. That's not—I mean, come on, that's not realistic. I'm human, I make mistakes, but this wasn't me being malicious. This was me being worried about my best friend.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+594 SCENARIO: attempting to thread a needle
+
+==================================================
+
+[muttering]
+
+Okay, so I just need to, um— I just need to thread this needle and then I can, uh, I can fix this button. How hard can it be, right? I mean, people have been doing this for, like, literally thousands of years.
+
+[slightly strained]
+
+Alright, so I just— [exhale] I just need to get the thread through the, um, through the little hole. The eye. That's what it's called, the eye. Okay, so let me just— let me just line it up and—
+
+[frustrated]
+
+No, that's not— that's not going in. Maybe if I, uh, if I lick the thread? Does that help? I feel like my mom used to do that. Or maybe I'm thinking of, um, of stamps? [laugh] God, when's the last time I used a stamp?
+
+[concentrating]
+
+Focus. Okay. Let me just— let me just hold it up to the light and— oh, wait, I think I can see it better if I, um, if I squint a little? That seems backwards but—
+
+[triumphant]
+
+Oh! There we go! It went through! [sigh] Okay, cool, I'm not completely useless with my hands. I was starting to wonder there for a, uh, for a second.
+
+--- CONVERSATION ---
+
+Script: cc718c00 | Role: Character 1 (A)
+
+595 Character 1: [gruff] So, Tyler, your mother tells me you're still living in the city. [slower] Must be expensive with all those... [pause] [dismissively] fancy coffee shops and liberal types running around everywhere these days.
+
+Character 2: [cheerfully] Actually, Uncle Rick, I love it there. [getting lighter] My neighborhood's amazing—great restaurants, art galleries, and [pause] [warmly] I've made some wonderful friends who really accept me for who I am.
+
+596 Character 1: [suspicious tone] Accept you? [scoff] What's that supposed to mean? [increasingly agitated] In my day, we didn't need special acceptance groups—we just acted normal and got along fine without all this nonsense.
+
+Character 2: [steadily] Normal is relative, Uncle Rick. [breath] [more firmly] I'm dating someone actually—his name is Marcus. [quietly confident] We've been together two years, and Mom's already met him at Sunday dinners.
+
+597 Character 1: [sputtering] His? HIS? [louder] You're telling me you brought some man to your mother's house? [harsh whisper] What would your grandfather think if he were alive to see this disaster?
+
+Character 2: [calmly] Grandpa actually knew before he passed. [softer] He told me love is love, and [pause] [stronger voice] that being true to yourself takes more courage than hiding behind other people's expectations.
+
+598 Character 1: [bitterly] Don't you quote my father at me! [growling] He was from a different generation—he wouldn't understand all this [pause] [disgusted] modern confusion about what's right and what's completely backwards.
+
+Character 2: [measured tone] You're right, he was from a different generation. [gradually warmer] One that went through real hardship and learned [pause] [meaningfully] that judging others for who they love wastes precious time.
+
+599 Character 1: [defensively] I'm not judging, I'm just saying it's not natural! [frustrated grunt] [quieter] Look, Tyler, I worry about you—this lifestyle, it's [trailing off] difficult and people will always stare and whisper.
+
+Character 2: [gently] People stare at interracial couples too, Uncle Rick. [pause] [more intently] Remember when you dated Maria and everyone gossiped? [sympathetic] But you followed your heart anyway, didn't you?
+
+600 Character 1: [uncomfortably] That was completely different! [pause] [mumbling] Maria and I, we were... [sigh] [quietly] We loved each other despite what the neighbors said about mixing cultures.
+
+Character 2: [encouragingly soft] And that took courage, Uncle Rick. [gradually stronger] The same courage it takes me to hold Marcus's hand in public, [pause] [proudly] to not hide who I am anymore.
+
+601 Character 1: [long exhale] [reluctantly] Your boyfriend... Marcus... [hesitant] does he at least have a decent job? [grumbling] Not some artist or dancer or whatever stereotypes I'm supposed to expect here.
+
+Character 2: [amused] He's an aerospace engineer at Boeing, actually. [chuckle] [teasingly] Probably makes more than both of us combined—and yes, [warmly] he can throw a football and fixes his own car too.
+
+602 Character 1: [surprised grunt] [defensive] Well, good for him then. [pause] [awkwardly formal] And I suppose you expect me to shake his hand at Christmas if your mother invites him to family gatherings?
+
+Character 2: [hopefully] Only if you want to, Uncle Rick. [breath] [sincerely] But it would mean everything to me if you tried—[tenderly] you're still my uncle, and I love you.
+
+603 Character 1: [clearing throat] [stiffly] Well, don't get all emotional about it. [pause] [barely audible] Maybe I could meet him, just briefly— [quickly] but no public displays or whatever you kids do.
+
+Character 2: [brightening] That's all I'm asking for—just a chance. [soft laugh] [affectionately] You might actually like him; he's a Cowboys fan and [pause] makes a mean barbecue brisket every Fourth of July.
+
+604 Character 1: [perking up] Cowboys fan? [suspicious again] You're not just saying that to butter me up? [pause] [considering] I suppose someone who appreciates good football can't be [mumbled] completely terrible, even if...
+
+Character 2: [gratefully] Thank you, Uncle Rick, for trying. [pause] [lovingly firm] Family is family, right? [warmer] That's what you always taught me growing up—we stick together no matter what happens.
+
+--- CS ALPHANUMERIC ---
+
+Script: 264f43ef | Role: Customer Support
+
+Character 1: [angrily] Your driver just destroyed my entire garden fence at 4782 Maple Avenue! [voice shaking] The truck, plate number KLM-8923, literally—literally backed straight through it [shouting] without even looking!
+
+605 Customer Support: I understand you're upset, sir. Let me pull up your account—can you confirm your service number? We'll definitely look into this incident right away.
+
+Character 1: [frustrated] It's account 45B-7790, and I've been a customer for six years! [sarcastically] Six years of perfect payments, and this is what I get? [voice breaking] That fence cost me $3,200 last summer.
+
+606 Customer Support: Sir, our records show the service was completed at 7:43 AM this morning. Our drivers are trained professionals, and, well... sometimes pre-existing damage can appear worse after snow removal.
+
+Character 1: [outraged] Pre-existing damage? [laughs bitterly] I have security footage from camera C-4A showing your driver at exactly 7:41! [loudly] Should I send it to your supervisor at extension 2245?
+
+607 Customer Support: That won't be necessary—I mean, we can file a claim. You'll need form DR-66 and, um, three estimates from licensed contractors. The process usually takes 6-8 weeks.
+
+Character 1: [incredulous] Six to eight weeks?! [groans] My homeowner's association is already sending violation notices—letter dated January 15th! [desperately] I need someone out here today, not in February!
+
+608 Customer Support: I can escalate this to our damage department, reference number D-2024-8847. [reassuringly] However, they're... they're currently reviewing 47 other claims. [cautiously] Would a temporary credit of $50 help while we investigate?
+
+Character 1: [sarcastically] Fifty dollars for a three-thousand-dollar fence? [scoffs] That's insulting—my insurance deductible alone is $500! [demanding] I want to speak to Regional Manager Thompson, immediately!
+
+609 Customer Support: Mr. Thompson is, uh, in meetings until Thursday. But I can offer our expedited review for priority members—are you Silver level or Gold? Gold members get 72-hour resolution guarantees.
+
+Character 1: [bitterly] I'm Bronze level, obviously, because I only pay $189 monthly! [sighs heavily] Look, just send someone to 4782 Maple to see this mess. [pleading] My wife is absolutely livid about her roses.
+
+610 Customer Support: I'm scheduling Supervisor Jenkins for tomorrow between 8 AM and noon. He'll assess everything and, if our driver's at fault... we'll make it right, I promise.
+
+Character 1: [skeptically] Between eight and noon—so basically whenever? [frustrated] I work from home, but I have three Zoom calls starting at 9:30! [firmly] Can't you narrow that window down?
+
+611 Customer Support: The system only allows four-hour blocks, unfortunately. [helpfully] But Jenkins usually texts 30 minutes ahead—make sure number ending in 7749 is correct? He's very thorough with his assessments.
+
+Character 1: [resigned] Yes, that's my cell. [sighs] And what exactly should I tell my neighbors at 4784 and 4786? [sarcastically] Their property got damaged too when your truck jumped the curb.
+
+612 Customer Support: Multiple properties? Oh, that's... that changes things significantly. They'll each need to file separate claims using reference code M-PLT-2024. [nervously] This might go to corporate review.
+
+Character 1: [exhausted] Corporate review sounds like another three months of waiting. [groans] You know what, maybe I should just call Channel 7 News. [threatening] They love these David versus Goliath stories.
+
+613 Customer Support: [panicked] Sir, that's really not necessary! Let me connect you directly to our Regional Damage Specialist—extension 5590. [reassuringly] She has authority to approve immediate repairs up to $5,000.
+
+Character 1: [cautiously] Five thousand would cover the fence, but what about my landscaping? [calculating] The total damage is probably closer to $6,500. [firmly] And I want that driver off my route permanently—truck KLM-8923.
+
+614 Customer Support: [relieved] I'm transferring you now, and I've noted everything in ticket RT-44526. The specialist can authorize the full amount, and yes... driver reassignment is definitely possible. Thank you for your patience, Mr. Peterson.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: a80d092b | Role: Customer Support
+
+615 Customer Support: Mr. Johnson, I understand your concerns about the inspection report. However, I need you to understand that what we documented is, well, it's based on industry standards and visual evidence collected on-site.
+
+Character 1: [frustrated] Visual evidence? [scoffs] Your report says there's "extensive water damage" in my basement. [getting louder] I've lived here fifteen years—there's never been a drop of water down there, not even during the floods last spring!
+
+616 Customer Support: Sir, the staining patterns on the concrete indicate... Look, moisture meters don't lie. We recorded thirty-two percent humidity in the northeast corner, which significantly exceeds normal parameters for residential basements.
+
+Character 1: [incredulous] Thirty-two percent? [laughs bitterly] That meter must be broken because I just had a dehumidifier installed last month. [accusingly] Did your inspector even check if it was plugged in before making these wild accusations?
+
+617 Customer Support: Our equipment is calibrated monthly, sir, and yes, we noted the dehumidifier's presence. The issue is—how do I put this—the foundation cracks behind your storage shelves are allowing moisture ingress regardless.
+
+Character 1: [exasperated] What cracks? [more angrily] I moved those shelves myself yesterday after reading your report. [slowly] There's nothing there but solid concrete and maybe some old paint drips from the previous owner.
+
+618 Customer Support: The hairline fractures are documented in photos seventeen through twenty-three of your report appendix. They're subtle, I'll grant you that, but they're definitely structural concerns that need addressing.
+
+Character 1: [sarcastically] Oh, hairline fractures, how terrifying. [groans] Next you'll tell me the "severe electrical hazards" you mentioned are just my surge protectors. [demanding] How much is this inflated report going to cost my sale?
+
+619 Customer Support: Sir, exposed junction boxes and aluminum wiring aren't minor issues—they're fire hazards. We're talking about safety here, not just, um, not just cosmetic problems that can be painted over.
+
+Character 1: [quietly] Aluminum wiring has been in this house since 1972. [building anger] Suddenly it's a death trap? [shouts] The previous inspector five years ago didn't mention any of this nonsense!
+
+620 Customer Support: Building codes have evolved significantly since your last inspection, Mr. Johnson. What passed five years ago might not... Look, these aren't arbitrary rules we're inventing to sabotage your sale.
+
+Character 1: [bitterly] Feels pretty arbitrary to me. [mutters] The roof you called "near end of life" was replaced eight years ago. [challenging] Do you people even check homeowner records before writing these disaster novels?
+
+621 Customer Support: [briskly] We inspect what we see, not what paperwork claims. Those shingles show significant granular loss, curling edges, and—let me check here—three areas of active deterioration near the chimney flashing.
+
+Character 1: [desperately] That's just normal weathering! [pleading] Every roof in this neighborhood looks exactly the same after a few winters. [more quietly] You're going to tank my property value over completely normal wear and tear.
+
+622 Customer Support: I understand this is stressful, truly. But we have liability if we miss something significant. Would you prefer we schedule a reinspection with you present to go through each item together?
+
+Character 1: [resigned] A reinspection? [scoffs] So I can pay another three hundred dollars for you to find more imaginary problems? [sarcastically] Maybe next time you'll discover termites that don't exist or asbestos in my air.
+
+623 Customer Support: [quickly] Actually, sir, the reinspection would be complementary given your concerns. We want you to feel confident in our findings, not... not ambushed by them on selling day.
+
+Character 1: [suspiciously] Free? [pause] What's the catch here—you'll bring three inspectors instead of one? [sighs] Fine, but I'm recording everything this time, and I want explanations for every single mark you make.
+
+624 Customer Support: That's perfectly acceptable, Mr. Johnson. How's Thursday at nine? We'll bring the thermal imaging camera too, so you can actually see the temperature differentials we're concerned about.
+
+Character 1: [reluctantly] Thursday works. [mutters] But if you tell me my perfect furnace needs replacing... [more firmly] Just stick to real problems, not theoretical disasters that might happen in twenty years, agreed?
+
+--- BASIC SCENARIOS ---
+
+625 [Nervous] I keep thinking someone's gonna, like, tap me on the shoulder and say "Hey, we made a mistake hiring you." [Sigh]
+
+626 [Whisper] Everyone in this meeting sounds so smart and I'm just—I'm literally googling terms under the table right now. [Fast] Don't look at my screen.
+
+627 [Sarcastic] Oh sure, they definitely meant to promote me, not the other Sarah from accounting. [Tsk] [Disappointed] This has gotta be some kind of mix-up.
+
+628 [Angry] Why did I even open my mouth in there—god, I probably sounded like a complete idiot! [Groan]
+
+629 [Happy] Wait, my boss actually liked my presentation? [Laugh] I mean, I stayed up all night because I thought it was garbage!
+
+630 [Slow] Sometimes I just sit at my desk and wonder how long until they figure out I'm, um, basically winging it every single day.
+
+631 [Sad] My colleague has like fifteen years experience and here I am, pretending I know what a pivot table even—actually, I should probably learn that. [Sigh]
+
+632 [Fast] [Shout] I got the award! I got the—wait, are you sure this envelope has the right name on it?
+
+633 [Whisper] [Chuckle] I've been nodding along to acronyms all week that I, uh, honestly have zero clue what they mean.
+
+634 [Disappointed] They're all Ivy League and I'm just—I mean, my degree's from a state school nobody's heard of, so... [Tsk]
+
+635 [Sarcastic] [Fast] Yeah, because clearly I'm qualified to lead this project with my extensive experience of, oh wait, literally none.
+
+636 [Happy] You know what, maybe I'm not completely terrible at this job—I did fix that thing yesterday! [Laugh] [Fast] Okay, IT helped, but still!
+
+637 [Angry] [Slow] I can't keep comparing myself to—ugh, Jessica started the same day and she's already running meetings.
+
+638 [Sad] Do you ever feel like you're just... playing dress-up in your dad's suit, pretending to be a grown-up? [Sigh] [Whisper] Because I do.
+
+639 [Shout] Stop saying I deserve this promotion! [Disappointed] I literally just learned how to use the coffee machine last week!
+
+640 [Chuckle] My LinkedIn says "expert" but honestly I'm more like, um, "person who's really good at looking confident while panicking."
+
+641 [Fast] [Angry] I spent three hours on that email because I kept thinking—what if they realize I don't actually know what I'm talking about?
+
+642 [Slow] [Sarcastic] Oh great, another team lunch where I get to pretend I understand everyone's inside jokes about, er, whatever happened before I got here.
+
+643 [Whisper] Sometimes when my boss compliments me, I kinda wanna ask "Are you sure you're talking about me?" [Tsk] [Sad] But that'd be weird, right?
+
+644 [Happy] [Fast] My coworker just asked ME for advice—wait, they're asking me? [Laugh] I mean, sure, I'll totally help, but like, wow.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+645 SCENARIO: Complaining about a leak in their car, then it's just condensation from the AC
+
+==================================================
+
+[frustrated]
+
+Ugh, so my car is like— it's literally falling apart on me. There's this leak, like water just pooling on the passenger side floor, and I have no idea where it's coming from.
+
+[annoyed]
+
+I'm talking like, soaking wet. I put my bag down this morning and it's just— [groan] it's sitting in this puddle. My laptop bag! Like that's exactly what I need right now, you know?
+
+[worried]
+
+And of course this happens right when I'm already broke from rent being due. I'm thinking it's gonna be like the roof or the windshield seal or something expensive and— God, I can't afford a big repair right now.
+
+[frustrated]
+
+I've been driving around with towels on the floor like some kind of— I don't know, like my car's wearing a diaper or something. It's so embarrassing.
+
+[realizing] [quieter]
+
+Wait, actually... hold on. I'm thinking about this and— when did this start? Because I think it was like... right when it got hot and I started using the AC again?
+
+[dawning understanding] [slightly embarrassed]
+
+Oh my God. Oh my— [half laugh] I think it might just be condensation. From the air conditioning. That's like... that's totally normal, isn't it?
+
+[relieved] [laughing]
+
+I'm such an idiot! I've been freaking out about my car dying and it's just— it's just doing what cars do. [chuckle] Crisis averted, I guess.

@@ -1,0 +1,273 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 2f1ee74a_script | Role: Character 2 (B)
+
+Character 1: Three hours notice. Really?
+
+914 Character 2: I know, I know how it looks, but my mom literally fell down the stairs and I had to—I mean, what was I supposed to do? Just leave her there and come to dinner?
+
+Character 1: You could've texted sooner.
+
+915 Character 2: I was in the ER! They don't—you can't just have your phone out while they're doing X-rays and stuff. [Frustrated laugh] I texted you as soon as I could, honestly.
+
+Character 1: Right.
+
+916 Character 2: Okay, that—that tone isn't fair. You're acting like I wanted this to happen. Like I woke up and thought, "hey, y'know what would be fun? Ditching my friend for a medical emergency."
+
+Character 1: This was important to me.
+
+917 Character 2: And I get that, I do, but come on—my mom broke her wrist. That's kinda important too, don't you think? I'm not saying your thing wasn't important, but seriously.
+
+Character 1: I told everyone you'd be there. Made reservations for two.
+
+918 Character 2: Look look, I'm sorry about that part, okay? That sucks and I—[sigh] I feel bad about it. But you're making me feel like the worst friend ever when I literally had no choice here.
+
+Character 1: There's always a choice.
+
+919 Character 2: That's—wow, okay. So I should've just left my injured mother alone? Is that what you're saying? Because that's basically what you're saying right now.
+
+Character 1: Whatever.
+
+920 Character 2: No, not whatever. You're being—I mean, I'm trying to explain here and you're just... you're not even listening. I had an actual emergency, not some made-up excuse.
+
+Character 1: I waited forty minutes.
+
+921 Character 2: Because I couldn't—my phone died and I had to borrow the nurse's charger, and then I forgot your number because it's saved in my phone which was dead. I'm sorry you waited, but I dunno what else you want from me here. [Scoff]
+
+Character 1: An actual apology would be nice.
+
+922 Character 2: I've been—fine fine, I'm sorry I missed dinner. But honestly? I'm also kinda disappointed that you can't see past your own—that you're making this all about you when I went through something pretty scary today too.
+
+Character 1: So now I'm the bad friend.
+
+923 Character 2: That's not—ugh, I'm not saying that. I just... I thought you'd understand, y'know? Like, if the situation was reversed, I wouldn't be giving you the cold shoulder right now. I'd be asking if your mom was okay.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+924 SCENARIO: trying to decide which podcast to listen to
+
+==================================================
+
+[muttering]
+
+Okay, so, um, I need something to listen to while I— while I do the dishes. But what do I, uh— what do I actually want to hear right now? [sigh] I've got like fifty things in my queue and I can never, um, I can never decide.
+
+[slightly overwhelmed]
+
+There's that true crime one, but it's, uh, it's kind of heavy for a Tuesday morning, you know? And then there's the, um— the comedy one, but I'm like three episodes behind and I feel like I'm gonna be lost if I just jump in. [tsk] Why do I do this to myself?
+
+[brightening slightly]
+
+Oh, wait, what about that new one? The, uh, the food one that Sarah recommended? But is it— is it actually good or is it just, like, trendy right now? [hmm] I hate when I pick something and then it's boring and I'm stuck with, um, with dishes and boredom.
+
+[resigned but decisive]
+
+You know what, I'm just gonna— I'm just gonna hit shuffle on the comedy ones. Even if I'm behind, it's not like, uh, it's not like there's some complex plot I'm missing. [laugh] Problem solved. Sort of.
+
+--- CONVERSATION ---
+
+Script: 5a16e6fe | Role: Character 2 (B)
+
+Character 1: [defensively] I sold another painting last week, Mom. [quieter] That's three this month. [building excitement] The gallery owner says my work has "raw emotional depth" and wants to feature me in their next group show!
+
+925 Character 2: [dismissive] Three paintings? [scoffing] Your rent is two thousand dollars. [sharp tone] At this rate, you'll be homeless by Christmas while painting your "raw emotions" on cardboard boxes under the freeway overpass.
+
+Character 1: [hurt whisper] You've never understood art. [louder] It's not about immediate profit—it's about building a reputation, creating a body of work that matters. [pleading] Van Gogh only sold one painting in his lifetime!
+
+926 Character 2: [exasperated] Van Gogh died penniless and insane! [slower, emphatic] Is that your five-year plan? [bitter laugh] Your cousin Jennifer makes six figures in accounting—she just bought a house. A real house, with walls.
+
+Character 1: [angrily] Jennifer's dead inside! She hates her job, [trembling] takes anxiety medication just to get through Monday meetings. [softer] I wake up excited about my work. [firmly] Isn't happiness worth something to you?
+
+927 Character 2: [cold] Happiness doesn't pay for health insurance. [rising pitch] What happens when you get sick? [sarcastic tone] Will you paint the hospital a mural in exchange for emergency surgery? This is real life!
+
+Character 1: [desperately fast] I'm applying for grants, teaching workshops on weekends, [breath catching] even doing pet portraits for extra cash. [determined] I'm not just sitting around dreaming—I'm working harder than I ever did at that office job!
+
+928 Character 2: [incredulous shout] Pet portraits! [deflating] My child with a master's degree is drawing poodles for soccer moms. [weary sigh] Twenty thousand dollars in student loans for this. Your father would be spinning in his grave.
+
+Character 1: [voice breaking] Dad would have understood. [stronger] He always said to follow your passion. [accusatory] You're the one who crushed his dreams of opening that restaurant, [whispered] made him stay at the bank until he died.
+
+929 Character 2: [stunned silence] [shaky voice] That restaurant would have bankrupted us. [defensive growl] I saved this family from financial ruin. Someone had to be practical while he chased fantasies. [cracking] Just like you're doing now.
+
+Character 1: [gentle] Maybe you're right about Dad. [steadier] But I watched him fade away in that cubicle, Mom. [passionate whisper] I can't become that—another ghost shuffling through life, counting days until retirement.
+
+930 Character 2: [tired] You think I wanted this fight? [softer] Every mother wants her child to be happy. [voice hardening] But I also want you to eat, to have stability, [pleading] to not struggle like we did.
+
+Character 1: [thoughtfully slow] What if I compromise? [hopeful] I'll get a part-time job—something flexible. [eagerly] But I keep my studio, keep creating. [firm] Give me one year to make this work professionally. Just one year, Mom.
+
+931 Character 2: [skeptical] One year. [long sigh] And then what—another year? Another? [gentler] Baby, I've heard this before. You said the same thing two years ago when you quit Morrison & Associates.
+
+Character 1: [frustrated groan] This time is different! I have momentum, [quickly] real connections, actual buyers! [desperately sincere] The art world moves slowly, but it's moving for me. [quiet intensity] Can't you see I'm finally becoming something?
+
+932 Character 2: [resigned] I see you becoming thinner. [worried whisper] You've lost weight. [more firmly] When did you last see a dentist? Buy new clothes? [breaking] This bohemian lifestyle is eating you alive, sweetheart.
+
+Character 1: [defensive laugh] I'm not starving! [warmly] Actually, I've never felt more alive. [contemplative] Sure, things are tight, but I'm building something real here. [passionate] My art is finally authentic because I'm living it fully.
+
+933 Character 2: [bitter chuckle] Authentic poverty, how poetic. [sharper] Your grandmother escaped real poverty, worked factories to give us better lives. [emotional] And you're choosing to go backward? [bewildered] What would she think of this?
+
+Character 1: [quietly confident] She'd understand sacrifice for something you love. [building strength] Grandma always said the biggest risk was living someone else's life. [lovingly firm] I'm not abandoning stability, Mom—I'm just defining it differently than you do.
+
+934 Character 2: [long exhale] [defeated whisper] Six months. [clearer] You get six months, and I'll stop nagging. [wavering] But you check in weekly, and if you need help—[firmly] real help—you call me immediately. Deal?
+
+--- CS ALPHANUMERIC ---
+
+Script: ae3809d2 | Role: Customer Support
+
+Character 1: [agitated] Look, I came in three weeks ago—October 15th—for bloodwork at your 4420 Riverside location. [raising voice] My doctor still hasn't received anything, and [frustrated sigh] I need those results for my surgery clearance!
+
+935 Customer Support: I understand your frustration, sir. Let me pull up your information—could you please provide your patient ID number? It should start with MED, followed by eight digits.
+
+Character 1: [impatient] It's MED-48392761, and my name's Robert Chen, birth date 07-22-1975. [sarcastically] You guys told me five business days, [louder] but here we are, fifteen business days later!
+
+936 Customer Support: [typing tone] Thank you, Mr. Chen, I'm seeing your account here. Hmm, it shows the sample was collected but... there's a flag here about specimen transport on October 16th.
+
+Character 1: [incredulous] A flag? What kind of flag? [more angrily] I fasted for twelve hours, drove forty minutes in traffic, and [groans] now you're telling me there's some mysterious flag?
+
+937 Customer Support: It appears the courier batch—tracking number LAB7749-B—experienced a temperature deviation. Unfortunately, all samples in that batch, including yours, were deemed unusable for testing.
+
+Character 1: [shouting] Unusable?! Why didn't anyone call me? [exasperated] My surgery is scheduled for November 8th—that's in ten days! [desperately] Do you understand what this means for my medical timeline?
+
+938 Customer Support: I sincerely apologize, Mr. Chen—a notification should have been sent. I see we had your number as 555-0182, but is that still your current contact?
+
+Character 1: [frustrated laugh] No, that's my old number from two years ago! [irritated] It's 555-0194 now—I updated it at registration. [accusingly] Don't you people update your systems?
+
+939 Customer Support: I'm so sorry for this oversight. [reassuringly] Let me immediately schedule you for priority re-collection—we have openings tomorrow at 7:30 AM or 2:15 PM at our main facility.
+
+Character 1: [skeptical] Priority collection? [sarcastically] Like the priority handling my first sample got? [sighs heavily] Fine, book me for 7:30, but I need written confirmation this time.
+
+940 Customer Support: Absolutely, I'm booking you for 7:30 AM tomorrow, confirmation number PRI-2847-RC. I'll personally ensure this gets expedited processing—results within 48 hours. We'll also waive all fees.
+
+Character 1: [slightly calmer] Forty-eight hours, you promise? [still annoyed] Because if this gets messed up again, I'm filing complaints with [threateningly] the state medical board and your corporate office.
+
+941 Customer Support: [assuringly] You have my word, Mr. Chen—I'm flagging this as urgent surgical clearance. I'm also documenting everything in your file, case number INC-94472. Would you like my direct extension?
+
+Character 1: [grudgingly] Yeah, give me your extension. [tiredly] And email me—robert.chen@techmail.com—all these confirmation numbers. [warning tone] I'm documenting everything on my end too.
+
+942 Customer Support: My extension is 3847, ask for Sarah Martinez. I'm sending the email now with all details—confirmations, case number, and my supervisor's contact information as backup.
+
+Character 1: [slightly appeased] Alright, Sarah, I'll be there at 7:30 sharp. [firmly] But this better work—I can't postpone surgery because of [frustrated] your lab's incompetence.
+
+943 Customer Support: [understanding] I completely understand your position, Mr. Chen. I've set three system alerts to track your sample personally, and Dr. Harrison will receive results directly within 48 hours.
+
+Character 1: [resigned sigh] Fine, I guess that's all I can do now. [matter-of-factly] Just... please make sure someone actually [emphasis] watches the temperature this time, okay?
+
+944 Customer Support: Absolutely, Mr. Chen—your sample will be hand-delivered with priority courier service. Again, I'm truly sorry for this inconvenience, and thank you for giving us another chance to make this right.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: aa1a2eb0 | Role: Customer Support
+
+Character 1: [frustrated] My apartment's been freezing for three days straight. [louder] The thermostat says 52 degrees! [groans] I've been sleeping in my winter coat, and I'm just... this is unacceptable.
+
+945 Customer Support: Oh wow, 52 degrees is definitely not okay. I'll need to check our maintenance log real quick—um, what's your apartment number? We'll get someone up there today.
+
+Character 1: [exasperated] 4B, like I told you yesterday when I called. [sighs heavily] Nobody came then either. [sarcastically] My fingers are literally turning blue while we're having this conversation.
+
+946 Customer Support: I don't see any record of—wait, here it is. Look, the boiler's been acting up, but our tech should've already... let me make some calls right now.
+
+Character 1: [angrily] The boiler's been "acting up" since October! [more desperately] I pay fifteen hundred a month for this place. [quieter] Can't you just... fix it properly for once?
+
+947 Customer Support: I hear you, I really do. The repair crew's actually on-site today—they're in building C right now. [more confidently] I'll redirect them to your unit within the hour.
+
+Character 1: [skeptically] Within the hour, like yesterday's "within the hour"? [chuckles bitterly] I've heard this song before. [firmly] I need something in writing this time, some guarantee.
+
+948 Customer Support: I'm texting you a work order confirmation right... now. Should be hitting your phone any second. And hey, I'll personally follow up if they're not there by noon.
+
+Character 1: [slightly calmer] Okay, I got it—work order 5847. [sighs] But if nobody shows up... [more forcefully] I'm calling the housing department and withholding rent, I swear.
+
+949 Customer Support: No need for that—seriously! I'm literally walking to building B myself right now to check. You have my direct number, right? Text me if they're even five minutes late.
+
+Character 1: [doubtfully] You're actually coming here yourself? [pause] [surprised] That's... different. [more hopefully] Maybe something will actually happen this time then.
+
+950 Customer Support: Already in your lobby—took the stairs. [quickly] The tech's van just pulled up outside too. Told you I'd handle this personally today.
+
+Character 1: [relieved] I can hear footsteps in the hallway now. [gratefully] Thank god, finally. [more quietly] Sorry for getting so heated earlier, I'm just... frozen and frustrated.
+
+951 Customer Support: Hey, three days without heat in December? I'd be furious too. The tech should knock any second—tall guy, name's Marcus.
+
+Character 1: [excited] He's here, he's actually here! [louder] And he's got actual tools, not just excuses. [sighs with relief] This better be the permanent fix though.
+
+952 Customer Support: Marcus is our best—he'll sort it out. He's replacing the valve, not just patching it. [more casually] Should have heat within twenty minutes, thirty tops.
+
+Character 1: [hopefully] Twenty minutes sounds like heaven right now. [chuckles] I might actually take off this coat tonight. [more seriously] You'll make sure this doesn't happen again, right?
+
+953 Customer Support: Already scheduled monthly boiler maintenance going forward. [speaking rapidly] Plus, I'm putting your unit on priority status in our system. Next time—if there is one—we respond immediately.
+
+Character 1: [appreciatively] The heat's actually kicking in—I can hear the radiator! [emotionally] It's like... Christmas morning or something. [laughs] Sixty-eight degrees and climbing!
+
+954 Customer Support: [pleased] That's what I like to hear! I'll check back tomorrow morning just to be sure. [warmly] Stay warm, and again, really sorry about the wait.
+
+--- BASIC SCENARIOS ---
+
+955 [Whisper] Why did I think this was a good idea? [Nervous laugh] I'm literally under three blankets and I still feel, like, completely exposed right now.
+
+956 [Fast] Okay no no no, don't go in the basement—nobody ever listens when I say don't go in the basement! [Groan]
+
+957 [Sarcastic] Oh sure, let's split up, that always works out great in these situations. [Tsk]
+
+958 [Slow] I'm just gonna, um, pause this for a sec and check that the door is—yeah, definitely locked. [Sigh]
+
+959 [Happy] Wait, the dog survived! [Laugh] Thank god, I was about to turn this whole thing off if something happened to him!
+
+960 [Shout] Behind you! [Fast] She's right there, she's right—oh my god, how do you not hear that?!
+
+961 [Disappointed] This is supposed to be the scariest movie of the year? [Chuckle] I mean, it's kinda predictable when you really think about it.
+
+962 [Whisper] Did my house just make that noise or was that the movie? [Slow] I honestly can't tell anymore and that's, uh, that's not great.
+
+963 [Angry] Are you kidding me with this jump scare? [Tsk] [Sarcastic] Real original, guys, a cat jumping out of nowhere.
+
+964 [Sad] This part always gets me—she just wanted to, like, protect her family, y'know? [Sigh] It's actually really tragic when you think about—
+
+965 [Fast] Nope nope nope, I'm fast-forwarding through this bit, I remember what happens and I just—I can't. [Nervous laugh]
+
+966 [Slow] The music is getting all quiet which means something's definitely about to— [Shout] JESUS! [Groan] Every single time!
+
+967 [Happy] Oh thank god, comic relief character! [Chuckle] I needed someone to, like, break the tension before I literally threw my laptop across the room.
+
+968 [Disappointed] Twenty minutes left and they still haven't explained why the ghost is—wait, that's it? [Tsk] That's the big reveal?
+
+969 [Sarcastic] Yeah, investigating the weird noise alone at 3 AM, brilliant move there, chief. [Slow] This is basically natural selection at this point.
+
+970 [Whisper] I'm gonna regret this when I try to sleep later, aren't I? [Sigh] [Fast] Whatever, I'm already this far in, might as well finish it.
+
+971 [Angry] Stop doing stupid things! [Groan] Like, you literally just saw your friend die and you're gonna—ugh, I can't with these people!
+
+972 [Sad] Actually, this reminds me of that nightmare I used to have as a kid where—no, y'know what, I'm not gonna think about that right now. [Nervous laugh]
+
+973 [Chuckle] My heart rate according to my watch is, um, let's just say concerning. [Disappointed] Probably shouldn't have had that coffee earlier, huh?
+
+974 [Slow] And of course my neighbor chooses right now to, like, walk around upstairs. [Whisper] [Sarcastic] Perfect timing, really adds to the whole atmosphere I've got going here.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+975 SCENARIO: Offhandedly recounting a compliment they gave, then thinking about how it landed, then realizing it could've sounded backhanded, spiraling into compliment-gone-wrong anxiety
+
+==================================================
+
+[casual]
+
+So I saw Emma at the coffee shop today, and, um, she had this new haircut? And I was like, "Oh wow, you look so much better with short hair!" Because, you know, like, it really did suit her face shape and everything.
+
+[conversational]
+
+But then she just kind of went, um, "Oh... thanks?" And gave me this weird look? Like, I don't know, maybe she was just— she was probably just surprised or whatever. I mean, it was a compliment, right?
+
+[slight uncertainty]
+
+I was just being nice, you know? Like, the short hair really does look good on her. Way better than that, um, that long stringy thing she had going on before. Which I didn't say, obviously, I'm not— I'm not mean.
+
+[pause, realization starting]
+
+Wait. Oh no. Wait, hang on. I said she looks "so much better"... which means— oh god, which means I basically told her she looked bad before?
+
+[growing anxiety]
+
+Oh my god, I literally— I literally told Emma she used to look terrible! That's what— that's what "so much better" means! She probably thinks I've been, um, judging her hair this whole time!
+
+[spiraling]
+
+[groan] No wonder she looked at me like that! I'm such an idiot! She's gonna tell everyone I'm— I'm like some backhanded compliment monster! I can never show my face at that coffee shop again!

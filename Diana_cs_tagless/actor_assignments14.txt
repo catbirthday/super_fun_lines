@@ -1,0 +1,285 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: fa2dd9b0_script | Role: Character 2 (B)
+
+Character 1: My mom called me about my anxiety medication.
+
+1134 Character 2: Oh god. Oh no no no. I—okay, I can explain. I was having coffee with her and she was worried about you and I just—I accidentally mentioned it without thinking.
+
+Character 1: Accidentally.
+
+1135 Character 2: I know how that sounds! I know, okay? But we were talking about stress and work and she was saying how concerned she was and it just... slipped out. [groan] I'm literally the worst friend ever.
+
+Character 1: That was private medical information.
+
+1136 Character 2: You're right. You're completely right and I—there's no excuse. I broke your trust and that's... that's not okay. I shouldn't have said anything no matter what.
+
+Character 1: I specifically asked you not to tell my family.
+
+1137 Character 2: I know you did. And I—honestly, I've been feeling sick about it since it happened. Like, the second the words left my mouth I wanted to take them back. I tried to kinda backtrack but she'd already heard and—that doesn't matter. I messed up.
+
+Character 1: Do you tell other people my business too?
+
+1138 Character 2: No! No, absolutely not. This was—I swear this was a one-time stupid mistake. [nervous laugh] I mean, not that that makes it better. But I don't go around sharing your stuff, I promise.
+
+Character 1: How am I supposed to believe that?
+
+1139 Character 2: That's... that's fair. I don't—I guess you can't right now, can you? Um, all I can say is that I've never done this before and I'll never, ever do it again. Your mom just caught me off guard and I wasn't thinking.
+
+Character 1: She's been texting me nonstop. Articles about natural remedies.
+
+1140 Character 2: Oh jesus. That's—ugh, I'm so sorry. Do you want me to talk to her? Like, I could tell her I was wrong or—actually no, that's probably a terrible idea. I just wanna fix this somehow.
+
+Character 1: You can't fix it. It's done.
+
+1141 Character 2: Yeah. Yeah, you're right. [sigh] I just... I hate that I did this to you. You trusted me with something personal and I—I completely blew it. I understand if you don't wanna talk to me for a while.
+
+Character 1: I needed you to be the one person who just knew without making it weird.
+
+1142 Character 2: I know. And I made it weird with literally the worst possible person—your mom. That's... god, I'm such an idiot. You needed that safe space and I just—I ruined it. I'm really, really sorry.
+
+Character 1: I don't know what to do with you right now.
+
+1143 Character 2: That's okay. Take—take whatever time you need, alright? I'm gonna... I'm gonna be here when you're ready. And I promise—like really promise—nothing like this will ever happen again. I learned my lesson, believe me.
+
+Script: 836c123d_script | Role: Character 2 (B)
+
+Character 1: Three weeks. No calls, no texts.
+
+1144 Character 2: I know, I know, okay? I've been—look, I've been going through some stuff and I just... I didn't wanna drag you into it. That's not me being a bad friend, that's me trying to protect you from my mess.
+
+Character 1: By disappearing?
+
+1145 Character 2: It wasn't—I didn't disappear, I just needed space. And honestly? You're kinda proving why I didn't reach out. Like, I'm barely keeping it together and now I gotta defend myself for not being social enough? [scoff] That's exactly what I was trying to avoid.
+
+Character 1: I thought something happened to you.
+
+1146 Character 2: Well I'm—I'm sorry you worried, but I posted on Instagram like, last week. You knew I was alive. I just wasn't ready to talk to anyone and that's... that's allowed, y'know?
+
+Character 1: Not even a heads up. Nothing.
+
+1147 Character 2: What was I supposed to say? "Hey, I'm too depressed to function but don't worry about it"? That's—come on, that's not how it works. Sometimes you can't explain what's going on until you're through it. [sigh] I'm still not through it, honestly.
+
+Character 1: So I'm just supposed to wait around.
+
+1148 Character 2: No, that's not—ugh, you're twisting everything I say. Look look, I get that you're hurt, okay? But I literally couldn't handle talking to anyone. It wasn't personal, it wasn't about you.
+
+Character 1: Felt pretty personal.
+
+1149 Character 2: Yeah well, imagine how it feels knowing your best friend is mad at you for having depression. Like—I'm sorry I couldn't perform friendship correctly while my brain was basically attacking me. Really sorry about that inconvenience.
+
+Character 1: Don't do that.
+
+1150 Character 2: Do what? Point out that you're making my mental health about you? Because that's—that's kinda what's happening here. [frustrated laugh] I needed help, not another person to disappoint.
+
+Character 1: You didn't even try to let me help.
+
+1151 Character 2: Because I couldn't! I couldn't even shower some days, you think I had the energy to explain what was wrong? I'm barely explaining it now and you're already—whatever, you're already upset with me anyway.
+
+Character 1: I would've understood.
+
+1152 Character 2: Would you though? Because right now it seems like you don't. You're acting like I chose this, like I wanted to push everyone away. Nobody—nobody wants to feel like this, trust me.
+
+Character 1: Just needed to know you were okay.
+
+1153 Character 2: I'm not okay. I'm really not. But I'm trying, and I thought—I dunno, I thought when I finally did reach out, you'd be glad to hear from me, not... this. Guess I waited too long.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1154 SCENARIO: deciding whether an email sounds too passive aggressive
+
+==================================================
+
+[muttering]
+
+Okay, so I need to, um— I need to send this email, but does this sound... I don't know, does this sound weird? "I hope this finds you well." That's— that's normal, right?
+
+[slightly uncertain]
+
+Actually, wait, let me— let me read this again. "As per our previous conversation..." Hmm. [tsk] That sounds, um, that sounds kind of snotty? Like, "as per"— who says "as per"? I mean, I do, apparently, but—
+
+[faster, second-guessing]
+
+Maybe I should just say "like we talked about" instead? But that's too casual for, uh, for Janet from accounting. She's very— she's very proper. Very, um, very email-formal.
+
+[drawn out, conflicted]
+
+But "I wanted to follow up" sounds like I'm being pushy, right? Like, aggressive? I don't want to be that person who's like, constantly— constantly poking people about stuff.
+
+[resigned, quieter]
+
+You know what? I'm overthinking this. It's just— it's just an email about the quarterly reports. Janet's not gonna, um, she's not gonna psychoanalyze my word choices. [exhale] Probably.
+
+[decisive but still uncertain]
+
+Okay, I'm just— I'm just gonna send it. It's fine. It's, uh, it's professional. That's... that's what matters, right?
+
+--- CONVERSATION ---
+
+Script: 3badda5d | Role: Character 1 (A)
+
+1155 Character 1: [gruff] Oh. You're Rachel's kid. [clearing throat] She said you'd be here but I thought— [trailing off] Look, I'm just grabbing my jacket, alright? Your mom and I have reservations at seven.
+
+Character 2: [cheerfully] Are you Mom's special friend? [faster] She talks about you all the time when she thinks I'm not listening! [giggling] She says you're grumpy but that you have a "good heart underneath."
+
+1156 Character 1: [defensive] Grumpy? [short laugh] That's rich. [mumbling] I prefer realistic. Kid, life isn't all rainbows and— [pause] Whatever. Where'd your mother go anyway? We're going to be late.
+
+Character 2: [curious whisper] Do you have kids too? [normal volume] Mom showed me a picture on your phone once. [cautiously] There was a girl who looked my age. Does she like unicorns? I love unicorns!
+
+1157 Character 1: [strained] That's my daughter, Emma. [quieter] She lives with her mother now. [bitter chuckle] And no, she's more into soccer these days. [sigh] Unicorns are apparently too babyish for twelve-year-olds.
+
+Character 2: [sympathetic] That sounds lonely. [brightening up] Maybe she could come play sometime! [excited squeal] We could do soccer AND unicorns! [softer] My dad doesn't visit much either, so I get it.
+
+1158 Character 1: [uncomfortable grunt] It's complicated, alright? [gentler] Emma has her own schedule with— [sharp exhale] Look, you seem nice, but this isn't really something I discuss with... [pause] How old are you anyway?
+
+Character 2: [proudly] Eight and three quarters! [mysterious whisper] Almost nine. [regular voice] Mom says you fix cars. [hopefully] Could you teach me? Dad promised he would but then he moved to California instead.
+
+1159 Character 1: [surprised] You want to learn about cars? [warming slightly] Well, that's... different. [thoughtful hum] Most kids your age just want screens. [clearer] Maybe I could show you something simple, like checking oil.
+
+Character 2: [squealing] Really?! [bouncing excitement] That would be so cool! [earnest] I promise I'll listen super carefully and won't touch anything without permission! [whispered confession] Mom says I'm good at following directions when I actually want to.
+
+1160 Character 1: [amused snort] When you actually want to, huh? [more serious] Sounds familiar. Emma was the same way. [nostalgic sigh] Fine, Saturday morning, but only if your mom agrees. And wear old clothes.
+
+Character 2: [victorious shout] YES! [calming down] I mean, thank you Mr... [uncertain] Um, what should I call you? [quickly] Mom just calls you Dave but that feels weird since you're a grown-up.
+
+1161 Character 1: [awkward pause] Dave's fine, kid. [muttering] Mr. Peterson is my father. [louder, resigned] Or my ex-father-in-law, technically. [dry laugh] Just Dave. Keep it simple, less complicated that way, trust me.
+
+Character 2: [thoughtfully slow] Dave it is then. [perking up] Oh! Mom's coming downstairs! [stage whisper] She changed outfits three times for you. [giggle] She only does that when she really, really likes someone.
+
+1162 Character 1: [embarrassed cough] That's... [softer] that's nice to know. [nervous chuckle] Don't tell her you told me that though, alright? [more firmly] Sometimes adults like to keep certain things to themselves, understand?
+
+Character 2: [conspiratorial whisper] Your secret's safe! [normal voice] I'm good at secrets. [proudly] Like how I never told Mom about the time I saw you practicing your smile in the car mirror before coming inside!
+
+1163 Character 1: [mortified] You saw that?! [defeated groan] Christ, I mean— crud. [flustered] That was just... I was checking if I had food in my teeth, obviously. [mumbling quickly] Very important dental hygiene stuff.
+
+Character 2: [teasing sing-song] Sure it was! [sweetly] Don't worry, you have a nice smile. [matter-of-fact] When you actually use it. [hopeful] Maybe you could practice it more? Mom likes happy people.
+
+1164 Character 1: [long exhale] You're something else, you know that? [gentler tone] Reminds me of Emma at that age. [quiet admission] Always calling me out on my nonsense. [regular volume] Fine, I'll work on the smiling thing.
+
+Character 2: [delighted] Good! [seriously] Because Mom deserves someone nice. [bright whisper] And I think maybe you could be nice. [louder, excited] Plus if you teach me about cars, you're definitely staying on my good list!
+
+--- CS ALPHANUMERIC ---
+
+Script: 3a7c3eba | Role: Customer Support
+
+Character 1: [frustrated] Yeah, hi, I need to speak to someone about damage to my appliances. [sighs heavily] Last night's power surge fried my—my refrigerator, microwave, and [getting angrier] probably my computer too. Account number is, uh, 847-B-2319.
+
+1165 Customer Support: I'm sorry to hear about the damage, sir. Let me pull up your account—847-B-2319, correct? I see you're at 4521 Oakwood Drive, and yes, we did have an outage in your area between 11:30 PM and 2:15 AM.
+
+Character 1: [sarcastically] Oh, you had an outage? That's nice to know NOW. [loudly] My Samsung fridge cost me $2,800! [exasperated] And nobody—nobody warned us about potential surges when the power came back on.
+
+1166 Customer Support: I understand your frustration, Mr. Henderson. According to our records, an automated message was sent at 10:47 PM to all affected customers. [hesitant] Did you perhaps not receive notification code MSG-78294-X on your registered phone?
+
+Character 1: [incredulous] A text at almost 11 at night? [scoffs] My phone was charging in the bedroom—I was already asleep! [more firmly] Look, I've been a customer since 2008, never missed a payment, and THIS is how you treat loyalty?
+
+1167 Customer Support: [reassuring] Your loyalty is absolutely valued, sir, and I want to help resolve this. [measured tone] For surge-related claims, you'll need to file form SC-1147 within 30 days. I can email that to you right now, or would you prefer receiving it by mail?
+
+Character 1: [bitter laugh] Oh great, forms and bureaucracy. [irritated] Email it, fine—it's jhenderson at gmail. [sighs] But what are the chances you'll actually pay for any of this damage? Give me a straight answer here.
+
+1168 Customer Support: [carefully] Each claim is evaluated individually based on the circumstances. Between us though, if you have receipts and the items were less than 5 years old... The review process typically takes 10-15 business days after we receive your completed documentation.
+
+Character 1: [groaning] Ten to fifteen BUSINESS days while I have no refrigerator? [desperately] Do you people offer any temporary assistance or—or rental units? [plaintively] My kids' insulin needs to stay cold, this isn't just about convenience!
+
+1169 Customer Support: [concerned] Oh, that's a medical necessity situation. [urgently] Let me transfer you immediately to our Priority Services at extension 4412. They can expedite everything and possibly provide same-day temporary equipment—please hold while I connect you directly to supervisor Martinez.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 0178ee6f | Role: Customer Support
+
+1170 Customer Support: Hello, thanks for contacting ParkEZ support! I see you're reaching out about a meter issue. Could you tell me what's happening—are you having trouble starting your session?
+
+Character 1: [frustrated] The meter won't accept my license plate! [groans] I've typed it in like five times already, and it keeps saying "invalid entry." [sarcastically] Really convenient when I'm already twenty minutes late.
+
+1171 Customer Support: [apologetically] Oh, I understand how frustrating that must be. Let me pull up your account real quick—what's the meter number you're trying to use? We'll get this sorted out right away.
+
+Character 1: [impatiently] It's meter 4782 on Pine Street. [sighs heavily] Look, I've used this app a hundred times before, never had this problem. [more urgently] Can you just... manually start it or something?
+
+1172 Customer Support: I'm checking meter 4782 now, and—hmm—it looks like there might be a sync issue. Sometimes the meter needs a hard reset. Have you tried entering your plate without any spaces or dashes?
+
+Character 1: [exasperated] Of course I tried that! [louder] With spaces, without spaces, all caps, no caps. [groans] My meeting started ten minutes ago, and I'm still standing here like an idiot arguing with a machine.
+
+1173 Customer Support: I completely understand your urgency, really. Here's what I can do—I'm manually activating a two-hour session for you right now. You should see the confirmation in about... fifteen seconds.
+
+Character 1: [skeptically] Wait, you can actually do that? [pause] [relieved] Oh my god, yes, I see it coming through! [gratefully] Thank you, seriously, you just saved my job interview.
+
+1174 Customer Support: Job interview—oh wow, good luck with that! [chuckles softly] I've also added a credit to your account for the inconvenience. Is there anything else I can help you with before you run?
+
+Character 1: [hurriedly] No, that's perfect, I gotta go! [more calmly] But seriously, thank you for not making me go through some ridiculous troubleshooting checklist. [appreciatively] You're the first helpful support person I've talked to all week!
+
+--- BASIC SCENARIOS ---
+
+1175 [Soft] Hey, um, I know we don't know each other, but are you—are you okay? [Sad] Do you need someone to just, like, sit here with you?
+
+1176 [Fast] I've got tissues in my bag somewhere, hold on, let me just— [Chuckle] I'm basically a walking pharmacy, my mom always said I overpack.
+
+1177 [Whisper] You don't have to talk about it if you don't wanna, okay? [Sigh] Sometimes it just helps to not be alone.
+
+1178 [Happy] My therapist says crying is, like, literally the body's way of healing itself, so you're actually doing great right now! [Laugh]
+
+1179 [Slow] Whatever happened, it's gonna— [Tsk] I mean, I know everyone says that, but things really do get easier.
+
+1180 [Disappointed] God, people can be so cruel sometimes, can't they? [Sad] I'm sorry you're going through this, whatever it is.
+
+1181 [Sarcastic] Well, this bench has definitely seen worse days than yours, trust me. [Chuckle] I once saw a guy propose here and get rejected, so...
+
+1182 [Angry] Hey, did someone hurt you? [Fast] 'Cause I will absolutely go have words with them right now if you need me to.
+
+1183 [Sad] I remember crying in public once and this stranger bought me coffee, so, um— [Soft] Can I get you something from that café over there?
+
+1184 [Shout] You know what? [Happy] Screw whoever made you feel this way—you deserve so much better than this!
+
+1185 [Whisper] It's okay to just let it all out, honestly. [Sigh] [Slow] I'm not going anywhere unless you want me to.
+
+1186 [Fast] Oh god, I'm being weird, aren't I? [Laugh] I just saw you and I couldn't just walk by without—sorry, I'll leave if you want.
+
+1187 [Disappointed] The world kinda sucks right now, doesn't it? [Tsk] But hey, at least we've got, um, nice weather today?
+
+1188 [Slow] You're being really brave, you know? [Sad] Most people would've just gone home, but you're here, dealing with it.
+
+1189 [Sarcastic] I mean, if it helps, my day's been absolute garbage too. [Groan] We can form a little pity party right here.
+
+1190 [Happy] Actually, there's this breathing technique that's supposed to— [Fast] Wait, sorry, you probably don't want advice right now, never mind.
+
+1191 [Angry] [Shout] Nobody should have to feel this alone! [Soft] Look, I'm a complete stranger but I actually give a damn, okay?
+
+1192 [Whisper] Do you want me to call someone for you? [Sad] Like, a friend or family member who could—I dunno, just thinking out loud.
+
+1193 [Chuckle] This is gonna sound stupid, but my grandma always said tears water the flowers of tomorrow or something. [Sigh] She was better at this stuff than me.
+
+1194 [Slow] Hey, I gotta catch my train soon, but— [Disappointed] I really hope things get better for you, like, genuinely.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1195 SCENARIO: Lightly joking about a tab they've had open forever, then checking what it is, then realizing it was something urgent they meant to do, ending in procrastination guilt
+
+==================================================
+
+[casual]
+
+Oh my god, you know what's, um, what's embarrassing? I have this tab that's been open on my laptop for like— like three weeks now? Maybe more? [light laugh] I don't even, uh, I don't even remember what it is anymore, but I just— I just keep it there, you know? Like it's become part of the, um, the landscape at this point.
+
+[conversational]
+
+It's like having a, uh, a weird digital pet or something. I see it every day and I'm like "oh hey, mystery tab, how's it going?" [chuckle] But I never actually, um, never actually click on it because what if it's something really boring? Like what if it's just— I don't know, like a, uh, a recipe for banana bread that I'll never make?
+
+[slightly curious]
+
+But okay, you know what? I'm— I'm gonna look right now. I'm curious. Let me just— [pause] let me just click on this thing and see what, um, what past me thought was so important that I—
+
+[realization dawning]
+
+Oh. Oh no. Wait, this is— [sharp exhale] this is the, uh, the registration form. For the conference. The one that was— oh god, when was the deadline? Let me just—
+
+[panic building]
+
+It was yesterday! The deadline was yesterday! I've been staring at this stupid tab for three weeks and it was the— the one thing I actually needed to do! [groan] I'm such an idiot! How do I— how do I even function as a human being?
+
+[spiraling] [frustrated laugh]
+
+Three weeks! I could have done it any day for three weeks and instead I just— I just let it sit there like some kind of, of digital decoration! [defeated] I'm never gonna get into this conference now. This is— this is peak me right here.

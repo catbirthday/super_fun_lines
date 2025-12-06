@@ -1,0 +1,599 @@
+ACTOR LINE ASSIGNMENTS - 102 ITEMS (~2223 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  315 words ( 14.2%)
+
+  monologues_selftalk :  201 words (  9.0%)
+
+  conversation        :  370 words ( 16.6%)
+
+  cs_alpha            :  396 words ( 17.8%)
+
+  cs_noalpha          :  284 words ( 12.8%)
+
+  basic_scenarios     :  420 words ( 18.9%)
+
+  monologues          :  237 words ( 10.7%)
+
+  TOTAL               : 2223 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (49 words)
+
+Script: 8178a66b_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Nice hole in my jacket.
+
+1 Character 2: What? Wait, what hole? I didn't—okay, hold on, where? I literally just gave it back to you like an hour ago and it was fine.
+
+Character 1: Right sleeve. Near the elbow.
+
+2 Character 2: I'm looking at—oh. Oh shit. But that's—that's barely even noticeable! I swear I didn't know that was there. When did that even happen?
+
+Character 1: You didn't know. Of course.
+
+3 Character 2: Don't do that. Don't be like that. I'm not lying to you, I genuinely [scoff] didn't see it. If I had, I would've told you, obviously.
+
+Character 1: Would you?
+
+4 Character 2: Yes! God, yes, I would've. What, you think I'm just gonna—gonna damage your stuff and pretend nothing happened? That's not who I am and you know it.
+
+Character 1: It's a two hundred dollar jacket.
+
+5 Character 2: Okay okay, I get that it's expensive, but you're acting like I took scissors to it or something. It's a tiny tear that I didn't even notice [frustrated laugh] which means it probably happened doing normal stuff.
+
+Character 1: Normal stuff.
+
+6 Character 2: Yeah, normal—look, you said I could borrow it for the weekend. You didn't say "don't wear it anywhere" or "be super careful" or whatever. I wore it like a normal jacket.
+
+Character 1: Common sense would be nice.
+
+7 Character 2: That's—wow, okay. That's really unfair. I was careful with it! I didn't, like, go mountain climbing in it or anything. Sometimes shit just happens, y'know?
+
+Character 1: Right. Shit just happens to my things.
+
+8 Character 2: Not just your—[groan] come on, don't make it sound like I'm always breaking your stuff. This is literally the first time anything's ever happened, and I'm sorry, okay? I am. But I also didn't do it on purpose.
+
+Character 1: You could've at least looked it over before returning it.
+
+9 Character 2: I mean—yeah, fine, maybe I should've inspected every inch of it, but honestly? I didn't think I needed to. It's not like I knew anything happened to it.
+
+Character 1: That's the problem.
+
+10 Character 2: Look look, I'll—I'll pay to fix it or whatever, alright? But can you maybe stop acting like I'm some horrible person who doesn't care about your things? Because that's kinda what this feels like right now.
+
+Script: 51284787_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So when were you planning to tell me?
+
+11 Character 2: I—okay, I know how this looks. I was gonna tell you, I swear, but everything happened so fast and I just—I didn't know how to bring it up, y'know?
+
+Character 1: You're moving across the country.
+
+12 Character 2: I know, I know! God, I'm—I'm literally the worst friend ever. The job offer came like two weeks ago and I kept trying to find the right time to tell you but then—[nervous laugh] there's never really a right time for this kinda thing, is there?
+
+Character 1: Two weeks.
+
+13 Character 2: Yeah. Two whole weeks of me being a complete coward. I just—every time I saw you I'd think "okay, tell them now" but then you'd be having a good day or a bad day and I'd just... chicken out.
+
+Character 1: I had to find out from Instagram.
+
+14 Character 2: Oh god, the apartment photos—I didn't even think—I'm so sorry. That's literally the worst way to find out and I just, I posted without thinking because my mom kept asking for pictures and I—[groan] I'm such an idiot.
+
+Character 1: Yeah. You are.
+
+15 Character 2: I deserve that. I do. I just—I didn't wanna say goodbye, y'know? Like we've been friends for what, eight years? And I kept thinking if I didn't tell you then maybe it wouldn't be real yet.
+
+Character 1: That's not how reality works.
+
+16 Character 2: I know, I know, it's stupid. But you're—you're basically my best friend and the thought of telling you I'm leaving was just... terrifying. Which is no excuse, I get that.
+
+Character 1: When do you leave?
+
+17 Character 2: Um, next Friday actually. Which is—yeah, I know, that's basically no time at all and I should've told you weeks ago. Months ago, honestly, when I first started applying for jobs out there.
+
+Character 1: Next Friday. Great.
+
+18 Character 2: Wait wait wait—please don't shut me out. I know I messed up, like really badly, but we still have a week and I wanna—I need to spend it with you. [quieter] If you'll let me.
+
+Character 1: I don't know if I can do this right now.
+
+19 Character 2: That's—that's fair. I get it. But can we at least—I dunno, get coffee tomorrow? Or whenever you're ready? I just really don't wanna leave things like this between us.
+
+Character 1: Maybe. I need to think.
+
+20 Character 2: Yeah, of course. Take all the time you need. I just—I'm really, really sorry. You deserved so much better than finding out like that. I was scared of losing you and I ended up—[sigh] I ended up hurting you anyway.
+
+Script: b236e828_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So. I got selected for that TV interview.
+
+21 Character 2: Wait wait wait—what? The one you applied for like, months ago? Oh my god, that's—that's huge! When did you find out?
+
+Character 1: This morning. They want me there Thursday.
+
+22 Character 2: Thursday? Like, this Thursday? That's—okay that's really soon. Are you freaking out? I'd be totally freaking out right now, honestly.
+
+Character 1: I don't do TV.
+
+23 Character 2: No no no, but you're gonna be amazing! You're like—you're literally the most articulate person I know. Even when you're being all... [Laugh] you know, quiet and mysterious.
+
+Character 1: What if I freeze? On live television.
+
+24 Character 2: It's not—wait, is it live? I thought these things were usually pre-recorded or whatever. Either way, you won't freeze. You're way too prepared for that.
+
+Character 1: It's live. Regional morning show. Thousands of people watching.
+
+25 Character 2: Okay so maybe don't think about the thousands of—actually, you know what? Just pretend you're talking to me. Like we're having coffee or something, right?
+
+Character 1: You interrupt me constantly.
+
+26 Character 2: [Gasp] I do not—okay fine, maybe I do. But that's because I get excited! Look, the point is, you've got interesting things to say. That's why they picked you.
+
+Character 1: They probably picked twenty people. I'm just filler.
+
+27 Character 2: Oh come on, that's—no. They don't just randomly select people for TV. They saw something in your application that made them go "yes, this person, we need them." That's kinda incredible, actually.
+
+Character 1: I already bought a new shirt. Navy blue.
+
+28 Character 2: See? See, you're already—wait, navy blue? That's perfect for TV! Very professional, very... trustworthy or whatever. [Chuckle] God, you're gonna look so good.
+
+Character 1: What if they ask something I don't know?
+
+29 Character 2: Then you do that thing where you pause and—you know how you get all thoughtful? That actually comes across as like, really wise. Just be yourself, basically. The quiet confidence thing totally works.
+
+Character 1: Maybe I should cancel.
+
+30 Character 2: Absolutely not—no way. This is too good to pass up. Plus I already told my mom, so... you're kinda committed now. She's gonna watch and everything.
+
+Script: 87627689_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You went ahead without me.
+
+31 Character 2: I—okay, yeah, I did, but I tried calling you like five times. Your phone was off or dead or something, and we were gonna lose the whole opportunity if I didn't just—y'know, make the call.
+
+Character 1: Could've waited.
+
+32 Character 2: Could've waited? Seriously? They gave us until noon to decide, and it was already eleven-thirty. I'm not gonna [scoff] throw away something we've been working on for months just because you didn't charge your phone.
+
+Character 1: That's not the point.
+
+33 Character 2: Then what—what is the point? Because from where I'm standing, I made the best decision I could with the time we had. And honestly? I think you would've done the exact same thing.
+
+Character 1: We were supposed to do this together.
+
+34 Character 2: And we were! We are! I mean—look look, I get that you're pissed, okay? But I literally had no other option. What was I supposed to do, let everything fall apart because I couldn't reach you for two hours?
+
+Character 1: Two hours. That's all you gave me.
+
+35 Character 2: That's all they gave us! God, you're acting like I—like I planned this or something. [frustrated laugh] I was freaking out trying to get hold of you. Ask Jamie, ask anyone who was there.
+
+Character 1: Did you even try to negotiate for more time?
+
+36 Character 2: Of course I—yes, okay? Yes. They said noon, final offer, take it or leave it. And I'm sorry, but I wasn't gonna leave it. Not after everything we put into this.
+
+Character 1: Everything we put in. Not just you.
+
+37 Character 2: That's not—I never said it was just me. Come on, don't twist my words. You know that's not what I meant. But somebody had to make the decision, and you weren't there.
+
+Character 1: Because my mom was in the hospital.
+
+38 Character 2: What? I didn't—[pause] you didn't tell me that. How was I supposed to know that? All I knew was that you weren't answering, and I had like twenty minutes to decide our entire future.
+
+Character 1: Right. Our future. That you decided alone.
+
+39 Character 2: Okay okay, fine. You wanna be mad, be mad. But I'm not gonna apologize for doing what I thought was right. Maybe—maybe I should've waited, I dunno, but in the moment? I did what made sense.
+
+Character 1: Guess we have different ideas about what makes sense.
+
+40 Character 2: Yeah. [quieter] I guess we do. Look, I'm—I'm sorry about your mom, I really am. But you can't blame me for not knowing something you didn't tell me.
+
+Script: 08f78da0_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: You told Marcus it was my idea.
+
+41 Character 2: Oh god, okay—wait, let me explain. It wasn't—I didn't mean for it to come out like that. He was grilling me about the budget thing and I just—I kinda froze up, you know?
+
+Character 1: You froze up and blamed me.
+
+42 Character 2: No no no, that's not—[groan] okay yeah, it sounds bad when you say it like that. But I wasn't trying to blame you, I swear. I was trying to explain that we both worked on it and then he just... assumed things.
+
+Character 1: Right.
+
+43 Character 2: I know you're mad. You have every right to be mad. I should've—I should've corrected him immediately but I was so scared of getting fired and I just... I panicked. Like completely panicked.
+
+Character 1: So you let me take the fall instead.
+
+44 Character 2: That's—god, when you put it like that. I'm literally the worst friend ever, aren't I? [nervous laugh] I mean, I already went back to Marcus this morning to tell him the truth. Before you even got in.
+
+Character 1: You did?
+
+45 Character 2: Yeah, I—I couldn't sleep at all last night. Kept thinking about how I totally threw you under the bus and I just... I had to fix it. I told him everything. That it was actually my idea, that you tried to warn me about the risks, all of it.
+
+Character 1: What did he say?
+
+46 Character 2: He was, um... he wasn't happy. Obviously. But honestly? I don't even care if he fires me at this point. I just—I couldn't let you take the heat for my stupid mistake, y'know?
+
+Character 1: You might actually get fired?
+
+47 Character 2: Maybe? Probably? I dunno, he said he needs to—to "reassess my judgment" or whatever. [sigh] But that's not your problem. I'm just... I'm so sorry. Like genuinely, deeply sorry.
+
+Character 1: You really went to him this morning?
+
+48 Character 2: First thing. Like literally sat outside his office for forty-five minutes waiting for him to get in. I know it doesn't—it doesn't erase what I did yesterday, but I had to at least try to make it right.
+
+Character 1: I didn't know you did that.
+
+49 Character 2: Yeah, well, I mean—I wasn't gonna tell you initially 'cause I didn't wanna seem like I was trying to get credit for fixing my own mess? But then I realized that's stupid and you deserve to know that I'm trying—I'm really trying to fix this.
+
+Character 1: Thanks for telling him the truth. That took guts.
+
+50 Character 2: It's literally the least I could do. And I mean that. I'm gonna—I'm gonna work on the whole freezing under pressure thing, I promise. You deserve a friend who has your back, not one who... does what I did.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (59 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (56 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (75 words)
+
+============================================================
+
+============================================================
+
+ITEMS 41-50 - EMPATHETIC PARTIAL (76 words)
+
+============================================================
+
+============================================================
+
+ITEMS 52-61 - CONVERSATION (370 words)
+
+Script: d6bbf759
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+51 Character 1: [exhausted] I've already explained three times that visiting hours ended at eight. [slower, firm] Your mother is stable and sleeping peacefully right now. [Deep sigh] Please, you need to let her rest—she's been through two procedures today.
+
+Character 2: [sharp, accusatory] Don't you dare tell me when I can see my own mother! [voice rising] She's been waiting for her pain medication for over an hour. [Scoff] What kind of nurse just ignores a patient in pain like that?
+
+52 Character 1: [defensive, strained] I have seven other patients tonight, two on ventilators. [quieter] Your mother received medication forty minutes ago—it's documented. [more firmly] If you'd actually listened instead of yelling, you'd know she rated her pain at two out of ten.
+
+Character 2: [incredulous] Two out of ten? [louder] She was practically crying when I called her! [demanding tone] I want to speak to your supervisor immediately. This is completely unacceptable care, and I'm documenting everything for our lawyer.
+
+53 Character 1: [flat, resigned] The charge nurse is handling a code blue right now. [Bitter laugh] But sure, I'll add your complaint to my list. [mumbling] Right after I check on the patient who's actually dying down the hall.
+
+Character 2: [venomous] How dare you minimize my mother's suffering! [trembling with rage] Just because someone else is sicker doesn't mean she deserves neglect. [Hiss] Maybe if you weren't so burned out, you'd remember why you became a nurse.
+
+54 Character 1: [voice cracking] Twenty-two years I've been doing this job. [quieter, hollow] Twenty-two years of families thinking they know better than medical professionals. [Shaky breath] Your mother is getting excellent care, whether you choose to see it or not.
+
+Character 2: [mocking] Oh, poor you, having to actually do your job! [fast, aggressive] My mother worked as a teacher for thirty years without complaining. [sneering] Maybe you should find a different career if caring for people is too hard.
+
+55 Character 1: [cold, measured] I held three people's hands as they died this week. [voice breaking slightly] Yesterday, a nineteen-year-old. [steadier, louder] So forgive me if I'm not devastated that your mother's ice chips aren't cold enough for your liking.
+
+Character 2: [stunned pause, then softer] I didn't... [defensive again] Look, I'm just scared, okay? [voice wavering] She's never been this sick before, and nobody tells me anything. I feel completely helpless watching her lie there.
+
+56 Character 1: [gentler, tired] I understand you're frightened. [more patiently] But attacking the staff won't help your mother heal faster. [Soft sigh] She's genuinely doing well—her vitals are stable, and she should be home by Thursday if she continues improving.
+
+Character 2: [apologetic but stubborn] Maybe I overreacted about the medication. [firmer] But you have to understand, she's all I have left. [pleading] Can't you just let me sit with her for five more minutes? Please?
+
+57 Character 1: [considering, weary] Five minutes. [more sternly] But if she wakes up agitated, you leave immediately. [warning tone] She needs uninterrupted sleep for her body to heal properly. The rules exist for medical reasons, not to punish families.
+
+Character 2: [grateful] Thank you, really. [sheepishly] I'm sorry for threatening lawyers earlier—that was uncalled for. [more sincerely] You're right that I don't know everything. I just hate feeling so powerless when someone I love is suffering.
+
+58 Character 1: [professional but warmer] We all cope differently with stress. [matter-of-fact] Your mother mentioned you're a bit of a warrior when it comes to protecting family. [Slight chuckle] She actually warned us you might be... intense.
+
+Character 2: [surprised laugh] She said that? [fondly] Of course she did—probably while apologizing for me. [more seriously] She's always been the diplomat while I'm the fighter. Guess I should try channeling more of her patience right now.
+
+59 Character 1: [encouraging] That would help everyone, including her. [instructive tone] Tomorrow's day shift starts at seven—Dr. Martinez does rounds at eight-thirty. [helpfully] If you're here then, you can ask all your questions directly and get detailed answers.
+
+Character 2: [appreciative] I'll be here with coffee and a better attitude. [hesitant] Should I bring some for the nursing staff too? [quickly] Not as a bribe, just... maybe as an apology for being such a nightmare tonight?
+
+60 Character 1: [surprised, softer] That's... actually very thoughtful. [lighter tone] The day shift would definitely appreciate it—they're coffee addicts. [Tired laugh] Just skip the decaf; we can spot that betrayal from a mile away around here.
+
+Character 2: [relieved chuckle] Noted—full caffeine only. [sincere] Thank you for your patience with me tonight. [quietly] And for taking care of her, even when family members like me make your job harder than it needs to be.
+
+============================================================
+
+ITEMS 62-71 - CS ALPHANUMERIC (396 words)
+
+Script: c713e50a
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [confused] So I've been trying to figure out, um, how much I can put into my retirement thing for 2024? [hesitant] My friend Jerry said it's like $6,500 or maybe $7,500, but [trails off] I honestly can't remember if that's right.
+
+61 Customer Support: Well, the contribution limits depend on several factors. For 2024, the basic 401(k) contribution limit is $23,000, not $6,500. However, if you're talking about an IRA, that would be $7,000 for most people.
+
+Character 1: [surprised] Wait, twenty-three thousand? [laughs nervously] That's way more than I thought! My account number is, uh, let me see... R4589-something. [frustrated] Sorry, I can't find the rest of it right now.
+
+62 Customer Support: That's alright, we can look that up differently. Just to clarify though, are you asking about your employer's 401(k) plan, or do you have an Individual Retirement Account with us?
+
+Character 1: [uncertain] I think it's the one through my work at 1247 Maple Drive—that's where I work, not where I live. [chuckles] Sometimes I get those mixed up! [more confidently] My boss said something about matching up to 6%.
+
+63 Customer Support: Ah, so you're referring to your workplace 401(k) plan. The $23,000 limit I mentioned is correct for that. [encouragingly] Plus, if you're 50 or older, you can contribute an additional $7,500 as a catch-up contribution.
+
+Character 1: [excited] Oh, I just turned 52 last month on the 14th! [calculating out loud] So that means I could do, what, thirty thousand and... [groans] math was never my strong suit. Is that $30,500 total then?
+
+64 Customer Support: [confirmingly] Exactly right—$30,500 total for 2024! That's the maximum you can contribute from your salary. Your employer's matching contributions don't count toward that limit, so that 6% match is extra money on top.
+
+Character 1: [overwhelmed] Wow, okay, but like, I definitely can't afford to put in that much. [thoughtfully] Maybe I could do $400 a month? [sighs] Or is it better to do it per paycheck, like code it as B12 or something on my form?
+
+65 Customer Support: Contributing $400 monthly would give you $4,800 annually, which is a great start! Most employers deduct per paycheck though. If you're paid bi-weekly, that would be about $185 per paycheck to reach your $400 monthly goal.
+
+Character 1: [confused again] Bi-weekly means twice a month, right? [quickly] Or wait, is that semi-monthly? [frustrated laugh] These terms always confuse me—my employee ID is EMP78234, if that helps you see my pay schedule somehow.
+
+66 Customer Support: Bi-weekly means every two weeks, so 26 paychecks per year. Semi-monthly would be twice a month, or 24 paychecks. I can check your pay frequency, but you'd need to verify that employee ID with your HR department first.
+
+Character 1: [relieved] Oh good, I get paid on the 15th and 30th, so that's the semi one then. [calculating] So for $4,800 a year, divided by 24... [sighs heavily] that's $200 per paycheck, right? That seems doable.
+
+67 Customer Support: [approvingly] Perfect math—exactly $200 per paycheck! [encouragingly] That's a solid contribution amount that won't overwhelm your budget. Remember, this reduces your taxable income too, [more enthusiastically] so your actual take-home pay won't decrease by the full $200.
+
+Character 1: [interested] Really? How does that work exactly? [skeptically] My friend at 445 Pine Street, sorry, random detail, but she said she barely noticed when she increased her contribution to 8%. [hopefully] Is that true?
+
+68 Customer Support: Traditional 401(k) contributions are pre-tax, meaning they lower your taxable income. [illustrating] If you're in the 22% tax bracket, a $200 contribution might only reduce your take-home by about $156. So yes, the impact is less than the actual contribution amount.
+
+Character 1: [amazed] That's actually pretty cool! [thinking aloud] So if I wanted to max out that catch-up thing eventually, with the $30,500 limit, [chuckles] I'd need to contribute what, like $1,270 per paycheck? [overwhelmed] That's basically my mortgage payment at 2890 Oak Lane!
+
+69 Customer Support: Yes, $1,270.83 per paycheck to be exact—that's quite substantial! Most people work up to higher contributions gradually over time. As you get raises or pay off debts, you can increase your percentage slowly.
+
+Character 1: [decisively] Okay, let's start with the $200 per paycheck then. [nervously] Do I need to fill out form 401K-CHG-2024 or something? [laughs] I'm just making up form names, but there's always so many forms with weird codes!
+
+70 Customer Support: The form names can be confusing! You'll typically need to log into your employer's benefits portal or contact HR directly. They'll have the correct change form, and most companies now let you adjust contributions online—no paper forms needed!
+
+============================================================
+
+ITEMS 72-81 - CS NO-ALPHANUMERIC (284 words)
+
+Script: ea1359dd
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+71 Customer Support: Good afternoon, this is Mike from Precision Home Inspections returning your call. [clearing throat] I understand you have some concerns about the inspection report we completed yesterday?
+
+Character 1: [frustrated] Concerns? That's putting it mildly! [voice rising] Your report says there's extensive mold in the attic, but—but you never even went up there. [accusingly] How exactly did you inspect it from the ground?
+
+72 Customer Support: Sir, I assure you I did access the attic through the pull-down stairs. The moisture readings were off the charts, and there were visible——dark stains on several rafters.
+
+Character 1: [sarcastically] Oh really? Because the seller just sent me photos from this morning. [slower, emphatic] Pristine. White. Rafters. [exasperated sigh] Not a single stain anywhere, Mike.
+
+73 Customer Support: [quickly, nervously] Well, sometimes these issues aren't visible in photos, especially if—if taken with flash. Mold can hide behind insulation, and my thermal camera picked up significant temperature variations.
+
+Character 1: [incredulous] Your thermal camera? [laughs bitterly] The seller's inspector came by an hour ago with actual lab results. [pause] [firmly] Zero mold spores, Mike. Zero.
+
+74 Customer Support: I understand your frustration, truly. Perhaps we should schedule a reinspection—no charge obviously—and I can bring my moisture meter documentation from yesterday's visit.
+
+Character 1: [exhausted] This is costing me the house! [voice breaking slightly] They think I'm trying to negotiate in bad faith. [angrier] Do you know what your sloppy work has done to my credibility?
+
+75 Customer Support: Sir, I've been doing this for fifteen years, and I stand by my findings. However, if there's been an error, we need to—to rectify this immediately. Can we meet at the property this afternoon?
+
+Character 1: [resigned] Fine. Three o'clock. [threateningly quiet] But you better bring every piece of equipment you own. [deep breath] And Mike? Your company's insurance better be up to date.
+
+76 Customer Support: I'll be there with my full kit and all yesterday's readings documented. We'll get to the bottom of this, I promise you that.
+
+Character 1: [skeptically] You promise? [short laugh] Like you promised a thorough inspection? [pause] Just—just make sure you actually climb into the attic this time.
+
+77 Customer Support: [slightly offended] Mr. Davidson, I did access that attic, and I have the photos to—Let's review everything together at three, shall we?
+
+Character 1: [tiredly] Yeah, we shall. [muttering] Though at this point, I'm wondering if I should bring my own inspector to watch you work.
+
+78 Customer Support: That's absolutely your right, and honestly, I'd welcome a second opinion. Professional oversight never hurt anyone, especially when there's this much confusion.
+
+Character 1: [surprised] Oh. Well. [slowly] That's actually... reasonable of you. [suspiciously] You're not planning to suddenly find different results, are you?
+
+79 Customer Support: [earnestly] Sir, I report what I see, nothing more, nothing less. If I made an error—which I doubt—but if I did, I'll own it completely.
+
+Character 1: [sighs heavily] Alright, Mike. Three o'clock then. [warning tone] But if this kills my deal, we're going to have a very different conversation about liability.
+
+80 Customer Support: Understood completely. I'll also bring contact information for remediation specialists, just in case my findings are confirmed and you need quick action for the sellers.
+
+Character 1: [grudgingly] Fine. And Mike? [pause] [quietly] I really hope you're wrong about that mold. [defeated] I really love this house.
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (18 words)
+
+============================================================
+
+81 [Disappointed] So we're, uh, we're technically still married but like—honestly, we haven't lived together in eight months. [Sigh]
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (26 words)
+
+============================================================
+
+82 [Sarcastic] Oh sure, let me just explain this in a way that makes sense because it totally does. [Tsk] [Fast] We're exclusive except when we're not.
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (19 words)
+
+============================================================
+
+83 [Happy] Actually, you know what? Being in this weird limbo thing is kinda working for us right now! [Chuckle]
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (19 words)
+
+============================================================
+
+84 [Whisper] I still have their Netflix password and they haven't changed it, so... [Slow] that's gotta mean something, right?
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (19 words)
+
+============================================================
+
+85 [Angry] [Shout] No, we're NOT back together—we're just, I dunno, figuring things out while living in the same apartment!
+
+============================================================
+
+ITEM 86 - BASIC SCENARIO (23 words)
+
+============================================================
+
+86 [Sad] My therapist says I should—actually, never mind what she says. [Sigh] [Slow] I'm basically holding onto something that probably isn't there anymore.
+
+============================================================
+
+ITEM 87 - BASIC SCENARIO (27 words)
+
+============================================================
+
+87 [Fast] Okay so basically we broke up but then we didn't but then we did but now we text every day? [Laugh] [Happy] It's insane, I know!
+
+============================================================
+
+ITEM 88 - BASIC SCENARIO (18 words)
+
+============================================================
+
+88 [Disappointed] Their mom still calls me her daughter-in-law which is, um, which is really awkward considering everything. [Tsk]
+
+============================================================
+
+ITEM 89 - BASIC SCENARIO (19 words)
+
+============================================================
+
+89 [Sarcastic] [Slow] We're in what I like to call a "quantum relationship"—simultaneously together and apart until someone observes us.
+
+============================================================
+
+ITEM 90 - BASIC SCENARIO (20 words)
+
+============================================================
+
+90 [Whisper] Between you and me, I think we're both just too scared to actually end it for real. [Sad] [Sigh]
+
+============================================================
+
+ITEM 91 - BASIC SCENARIO (22 words)
+
+============================================================
+
+91 [Happy] [Fast] Wait wait wait, did I mention the part where we adopted a dog together last week? [Laugh] After breaking up!
+
+============================================================
+
+ITEM 92 - BASIC SCENARIO (22 words)
+
+============================================================
+
+92 [Angry] I mean, they literally introduced me as their "friend" at that party, so—[Groan] I honestly don't know what we are anymore.
+
+============================================================
+
+ITEM 93 - BASIC SCENARIO (16 words)
+
+============================================================
+
+93 [Slow] Sometimes I wonder if we're just, er, comfortable with being miserable together, y'know? [Disappointed] [Sigh]
+
+============================================================
+
+ITEM 94 - BASIC SCENARIO (16 words)
+
+============================================================
+
+94 [Shout] [Angry] We're taking a break—not like a Ross and Rachel break—an actual, mature, adult break!
+
+============================================================
+
+ITEM 95 - BASIC SCENARIO (25 words)
+
+============================================================
+
+95 [Chuckle] My relationship status on Facebook has been "It's Complicated" for so long that people stopped asking. [Sarcastic] Really living up to the cliché here.
+
+============================================================
+
+ITEM 96 - BASIC SCENARIO (18 words)
+
+============================================================
+
+96 [Fast] [Happy] Honestly though? The whole undefined thing means zero pressure and I'm kinda loving it right now!
+
+============================================================
+
+ITEM 97 - BASIC SCENARIO (25 words)
+
+============================================================
+
+97 [Sad] We still say "I love you" but it's more like, um, like how you'd say it to an old friend. [Slow] Different than before.
+
+============================================================
+
+ITEM 98 - BASIC SCENARIO (18 words)
+
+============================================================
+
+98 [Whisper] [Disappointed] I found out they're on dating apps but... we never actually said we were exclusive, so.
+
+============================================================
+
+ITEM 99 - BASIC SCENARIO (24 words)
+
+============================================================
+
+99 [Sarcastic] Sure, I'll explain it—got three hours and a flowchart? [Tsk] [Fast] Because that's what it's gonna take to make sense of this mess.
+
+============================================================
+
+ITEM 100 - BASIC SCENARIO (26 words)
+
+============================================================
+
+100 [Groan] Every time I try to define what we are, we just end up, uh, making out instead of talking. [Laugh] [Happy] Maybe that's our answer?

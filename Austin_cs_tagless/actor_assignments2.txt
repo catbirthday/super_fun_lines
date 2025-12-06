@@ -1,0 +1,495 @@
+ACTOR LINE ASSIGNMENTS - 73 ITEMS (~2210 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  362 words ( 16.4%)
+
+  monologues_selftalk :  195 words (  8.8%)
+
+  conversation        :  384 words ( 17.4%)
+
+  cs_alpha            :  329 words ( 14.9%)
+
+  cs_noalpha          :  340 words ( 15.4%)
+
+  basic_scenarios     :  357 words ( 16.2%)
+
+  monologues          :  243 words ( 11.0%)
+
+  TOTAL               : 2210 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (75 words)
+
+Script: b622889d_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Three days. You read my messages three days ago.
+
+101 Character 2: I know, I know, I'm literally the worst friend ever. I saw them and I was gonna reply—I swear I was gonna reply right away but then my phone died and I just... I dunno, I got distracted?
+
+Character 1: You got distracted.
+
+102 Character 2: No no no, that came out wrong. Not distracted like—like you weren't important or anything. [nervous laugh] I mean, you are important! Super important. I just, um, I've been really overwhelmed with work stuff and I kept thinking I'd write back when I had time to give you a proper response, y'know?
+
+Character 1: It said "are you free tonight." How much time did you need?
+
+103 Character 2: Okay that's—that's fair. That's completely fair. I don't... I don't have a good excuse for that one. I basically just suck at texting lately and I—wait, that's not an excuse either. God, I'm really bad at this.
+
+Character 1: Yeah.
+
+104 Character 2: I've been doing this to everyone, honestly. Not just you—though that doesn't make it better! [groan] It probably makes it worse actually. I open messages and then I panic about responding and then suddenly it's been days and I'm too embarrassed to reply.
+
+Character 1: So you just... don't? That's your solution?
+
+105 Character 2: No! I mean, apparently yes, but—but it's not on purpose! It's like this weird anxiety thing where the longer I wait, the harder it gets to respond, and then I'm stuck in this horrible loop of feeling guilty but also paralyzed? Does that make sense?
+
+Character 1: Not really.
+
+106 Character 2: Yeah, I guess it doesn't. Um, the thing is—okay, you needed me and I wasn't there. That's what matters, right? Like, whatever weird brain stuff I've got going on doesn't change that I left you hanging when you reached out.
+
+Character 1: I had tickets to that concert you wanted to see. They're gone now.
+
+107 Character 2: Oh my god. Oh my god, are you—are you serious? [quieter] The one we talked about for months? I... wow. I really, really messed up. Like even more than I thought. I'm so sorry.
+
+Character 1: Whatever. It's done.
+
+108 Character 2: No, wait wait wait, it's not—I mean yeah, the concert's done, but I don't want us to be done. You're literally one of my favorite people and I've been such a crappy friend lately. Can I—can I make it up to you? Please?
+
+Character 1: How?
+
+109 Character 2: I dunno yet but I'll—I'll figure something out. Something good, I promise. And I'm gonna... I'm gonna actually work on the whole texting thing. Like, properly work on it. Maybe set reminders or something? That sounds stupid but I gotta do something different, right?
+
+Character 1: Just... reply next time. That's all I wanted.
+
+110 Character 2: I will. I absolutely will. And I'm—I'm really sorry about the concert. And for making you feel ignored. That's not... you don't deserve that. Nobody does, but especially not you. [sigh] I know I keep saying sorry but I really mean it.
+
+Script: f5a9ff82_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: You did it again.
+
+111 Character 2: Did what? I literally—what are you even talking about? You're gonna have to be more specific because I have no idea what I supposedly did this time.
+
+Character 1: You showed up at my work. After I specifically said I needed space.
+
+112 Character 2: Okay okay, wait—that's not fair. You said you needed space from hanging out, not that I couldn't grab coffee from literally the only decent place near my apartment. [scoff] I wasn't there to see you.
+
+Character 1: Right. Pure coincidence.
+
+113 Character 2: It actually was! I mean—yeah, I knew you worked today, but I still gotta live my life, y'know? I can't just avoid every place you might be. That's not reasonable.
+
+Character 1: You ordered and sat there for an hour.
+
+114 Character 2: Because I was working on my laptop! God, you're acting like I—like I planned some big scheme to mess with you. I was just... I dunno, I thought maybe we could talk for a second if you had a break.
+
+Character 1: That's exactly the problem.
+
+115 Character 2: What, that I wanted to fix things? That I actually care about this friendship? [frustrated laugh] Sorry for being such a terrible person, I guess.
+
+Character 1: You don't get it. You never do.
+
+116 Character 2: Then explain it to me! Because honestly, I'm trying here, but you're being so—you're not giving me anything. How am I supposed to know what's wrong if you won't actually talk to me?
+
+Character 1: I set boundaries. You ignore them. Every single time.
+
+117 Character 2: That's—that's such an exaggeration. I don't ignore them, I just... sometimes I think you're being kinda extreme about stuff, and maybe—maybe I push a little, but it's because I care, not because I'm trying to disrespect you.
+
+Character 1: Pushing is disrespecting.
+
+118 Character 2: Okay but like—come on, everyone does that sometimes. You've definitely pushed me on things before. Remember when I said I didn't wanna talk about Tyler and you kept—[sigh] whatever, that's different apparently.
+
+Character 1: Because you were hurting yourself. This is different.
+
+119 Character 2: Is it though? Is it really? Because from where I'm standing, it feels like you just... you decide when boundaries matter and when they don't. And I'm supposed to just magically know the difference.
+
+Character 1: If you can't see the difference, I don't know what to tell you.
+
+120 Character 2: Yeah, well—fine. Fine fine. Maybe I don't see it. But at least I'm trying to understand instead of just... shutting down and acting all superior about it. That's gotta count for something, right?
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (287 words)
+
+============================================================
+
+============================================================
+
+ITEMS 22-22 - CONVERSATION (34 words)
+
+Script: a2dc1637
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+121 Character 1: [whispered] Look at them up there. [voice breaking] My little Emily's actually remembering all her lines. [sniffling] I thought she'd freeze like in the living room rehearsals, but she's absolutely glowing under those lights.
+
+Character 2: [choked up] I know, right? [steadier] Jake practiced that sword fight scene a hundred times in our garage. [laughing through tears] He accidentally broke two lamps, but watching him nail it now makes everything worth it completely.
+
+Character 3: [trembling] They've been inseparable since kindergarten, planning this moment. [more composed] Remember when they made us sit through their backyard Shakespeare? [soft chuckle] Five years old, making up half the words, but so utterly serious about it.
+
+Character 4: [nostalgic tone] Those cardboard crowns and bedsheet capes! [getting emotional] Now look—real costumes, actual staging, a packed auditorium. [proud whisper] Sometimes I can't believe these confident kids on stage are the same babies we used to rock to sleep.
+
+Character 5: [urgently] Quick, get your phone out—the balcony scene's coming up! [excited whisper] Emily told me they've been practicing this part extra. [voice cracking] She wanted it perfect because she knew we'd all be watching together tonight.
+
+Character 6: [shaky breath] Already recording, been filming since curtain rise. [more firmly] My wife's gonna kill me for missing this—stupid business trip. [emotional] But she'll forgive me when she sees Jake delivering these lines like a real professional actor.
+
+Character 7: [hushed awe] The way the spotlight catches her face during this monologue. [voice wavering] She looks so grown up, so capable. [barely audible] Where did my pig-tailed girl who needed help tying her shoes disappear to?
+
+Character 8: [thick voice] They grow up when we're not looking, between soccer practices and homework battles. [clearer] One day they need us for everything. [falling to whisper] Next thing, they're commanding a stage, making hundreds of people feel something profound.
+
+Character 9: [suddenly urgent] Oh god, here comes Jake's big emotional scene. [nervous laugh] He made me practice being the dying friend twenty times yesterday. [proudly] Kid made me actually tear up in our kitchen with his performance.
+
+Character 10: [breathless] He's absolutely nailing every word, every gesture! [amazed] That's not our goofy boy who puts ketchup on everything. [gentle sob] That's an artist up there, making everyone in this room believe his character's grief completely.
+
+Character 11: [strained whisper] Emily just looked right at us during her bow. [louder, emotional] Did you see that little wave she snuck in? [laughing and crying] She promised she wouldn't do that, said it wasn't professional enough.
+
+Character 12: [warmly] Jake did the same thing, that little rascal! [voice breaking] They planned it, I bet—synchronized parent acknowledgment. [through tears] These kids know exactly how to destroy us emotionally in the best possible way, don't they?
+
+Character 13: [quietly intense] We should do dinner together after, all four of us plus the kids. [more animated] Celebrate properly at that Italian place they love. [gentle] Let them tell us every backstage story while they're still buzzing with adrenaline.
+
+Character 14: [enthusiastically] Perfect idea, yes, absolutely! [calming down] They deserve the full star treatment tonight—flowers, fancy dessert, embarrassing parental speeches. [affectionate laugh] We'll mortify them with our pride, but they secretly love the attention and fuss we make.
+
+Character 15: [reflective tone] You know what amazes me most about all this? [building emotion] How they support each other up there, little touches and encouraging looks. [proud] They're not just castmates; they're genuinely making each other better, braver performers.
+
+Character 16: [agreeing softly] Their friendship shaped who they've become as people. [stronger] From playground adventures to this stage—they've pushed each other forward. [emotional whisper] We're lucky our kids found each other, found this bond that challenges and nurtures them.
+
+Character 17: [suddenly bright] Standing ovation time—come on, get up! [laughing joyfully] My legs are shaky but who cares? [shouting over applause] That's our babies taking their final bow up there, soaking in this perfect moment they've earned!
+
+Character 18: [yelling happily] Emily! Jake! You were absolutely incredible! [voice cracking with pride] Can you hear us over all this cheering? [more quietly] Probably not, but I'll keep shouting anyway because I can't contain this feeling!
+
+Character 19: [breathlessly] My face hurts from smiling, eyes burn from crying. [giddy laugh] Haven't felt this emotional since their first day of school. [tenderly] These milestone moments just grab your heart and squeeze until you can't breathe properly.
+
+Character 20: [contentedly] Same here, completely wrecked in the best way possible. [peaceful tone] Tomorrow they'll be regular kids again, leaving socks everywhere, arguing about video games. [wistful whisper] But tonight, just for tonight, they're absolute stars.
+
+============================================================
+
+ITEMS 23-32 - CONVERSATION (350 words)
+
+Script: 5213d28b
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+122 Character 1: [trembling voice] We made it... [Sobbing] After all those nights sleeping in ditches, hiding from patrols. [whispered] My feet are bleeding but we're here—we're actually here on the other side of that cursed fence.
+
+Character 2: [choked up] I can't stop shaking. [more quietly] Remember when Amara fell behind near the river? [Breaking down] I thought we'd lost her forever, but here she is, sleeping in my arms, finally safe from everything.
+
+123 Character 1: [hoarse whisper] The guards at the checkpoint, they just [Gasping breath] waved us through. [building intensity] No guns pointed, no shouting—just a simple nod and suddenly we weren't criminals anymore, we were people again, human beings.
+
+Character 2: [exhausted] Three months of walking. [slower] My mother's shoes fell apart after two weeks, but she kept going. [Shuddering breath] Even when the fever hit, she kept moving forward, knowing this moment would come eventually.
+
+124 Character 1: [urgent whisper] Don't look back now. [steadier] If I turn around, I'll see the smoke still rising from our village. [Quiet sob] Everything we built, generations of memories—gone, but at least we have our lives still.
+
+Character 2: [bitter laugh] They said we'd never make it through the mountains. [getting louder] "Too dangerous," they warned, "too cold." [triumphant] But hunger and hope are stronger than any blizzard, stronger than any wall they could build.
+
+125 Character 1: [barely audible] My brother's watch stopped working yesterday. [more clearly] Funny how it kept time through everything—the raids, the long marches. [Soft chuckle] Now that we're free, time doesn't matter the same way anymore, does it?
+
+Character 2: [shaking] I keep expecting someone to grab my shoulder. [faster] To drag us back, say it was all a mistake. [Deep breath] But those aid workers keep smiling, offering blankets like we deserve warmth and kindness.
+
+126 Character 1: [wonderment] Listen—do you hear that? [excited whisper] Children playing, actually playing without fear. [voice breaking] When did we last hear laughter that wasn't followed by sirens or screaming or the sound of running feet?
+
+Character 2: [thick with tears] We can stop running now. [Ragged exhale] These papers in my hand, they're not forgeries or bribes. [stronger] They're real documents that say we belong here, that we have the right to exist.
+
+127 Character 1: [fierce whisper] Every blister was worth this. [wavering] Every night we went hungry, every close call with border guards. [Crying] My daughter will go to school here—a real school with books and windows that aren't shattered.
+
+Character 2: [disbelief] They're giving us food without asking questions. [quieter] No interrogations about our politics, our religion. [Nervous laugh] The woman just handed me bread like it was the most normal thing in the entire world.
+
+128 Character 1: [strained] My legs won't stop trembling. [more softly] Not from exhaustion this time, but from relief so deep it hurts. [Whimpering] We actually survived when so many others didn't even get the chance to try.
+
+Character 2: [hollow voice] I promised grandmother I'd send word when we arrived. [breaking] But there's no one left to receive it. [Bitter sob] The whole neighborhood is gone—scattered like seeds in a hurricane, blown to different corners.
+
+129 Character 1: [suddenly urgent] Quick, help me memorize this moment. [steadying] The way the sun feels without fear attached to it. [gentle] How freedom tastes—like dust and tears and something impossibly sweet I can't name yet.
+
+Character 2: [raw emotion] They have hospitals here. [louder] Real doctors who won't turn us away for being the wrong ethnicity. [Shaky exhale] Maybe they can finally look at this cough that's been rattling in my chest since autumn.
+
+130 Character 1: [quiet awe] That flag flying above us—it's not theirs. [building strength] It doesn't mean oppression or midnight raids. [Weeping] It means protection, possibility, a chance to become something more than just survivors running in the dark.
+
+Character 2: [exhausted whisper] I want to collapse right here. [more firmly] Just fall onto this free soil and sleep for days. [Soft laugh] But first, we need to register, get food, find somewhere warm for the children tonight.
+
+131 Character 1: [overwhelmed] Everyone said the world had forgotten us. [angrier] That nobody cared about our suffering, our struggle. [voice softening] But look—volunteers everywhere, reaching out hands, proving that humanity isn't completely lost after all.
+
+Character 2: [peaceful] Tomorrow we'll wake up without running. [Quiet sob] We'll make plans that go beyond the next hiding spot. [stronger] Our children will learn new words—not "checkpoint" or "curfew," but "home" and "future" and "safe."
+
+============================================================
+
+ITEMS 33-42 - CS ALPHANUMERIC (329 words)
+
+Script: a1fd3275
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [frustrated] I've been trying to set up this mesh network for three hours, and node B47X keeps showing offline. [groans] I followed the manual exactly—plugged it in at 192.168.1.45, but [desperately] nothing's working!
+
+132 Customer Support: I understand your frustration, sir. Let me pull up your account—can you verify your customer ID? We'll get this sorted out quickly, I promise.
+
+Character 1: [hurried] Yeah, it's, uh, CS-8974-MN2. [sighs heavily] The main router's at 192.168.1.1, and I've got nodes A12Z and C33P working fine, but [increasingly agitated] this B47X is just... dead.
+
+133 Customer Support: Perfect, I see your account now, Mr. Henderson. [thoughtfully] When you say node B47X is offline, are you seeing error code E-204 or [slower] is it showing no status at all?
+
+Character 1: [confused] It's blinking orange twice, then pausing for like... five seconds? [more uncertainly] The app shows error H-317, not E-204. [exasperated] Should I just return this thing to 2847 Commerce Drive?
+
+134 Customer Support: No, no need for returns yet! Error H-317 actually means there's interference on channel 11. [instructively] Can you check if node B47X is within 30 feet of your microwave or, um, any Bluetooth speakers?
+
+Character 1: [surprised] Oh! Yeah, it's literally sitting on top of my Sonos speaker. [embarrassed chuckle] But the manual said minimum distance was only 12 inches, [defensively] page 47, section 3B.
+
+135 Customer Support: [gently correcting] That's for other mesh nodes, not Bluetooth devices. [helpfully] Try moving B47X to position 192.168.1.52 instead—at least 6 feet away. Then hold the reset button for exactly 8 seconds.
+
+Character 1: [skeptical] Alright, moving it now... holding the button... one, two, three... [gasps] Wait, it's flashing blue! [excitedly] The app says "Node B47X initializing, firmware 3.2.1 detected."
+
+136 Customer Support: [pleased] Excellent! Now it should auto-configure within 90 seconds. You'll see it appear as device MAC address 4C:77:B2:91:X4:7B. Once it's solid white, your mesh coverage should extend perfectly to zone 3.
+
+Character 1: [relieved] There it goes—solid white! [gratefully] Man, I feel so stupid about the speaker thing. [curiously] Why doesn't the setup wizard, you know, mention this interference issue?
+
+137 Customer Support: You're not stupid at all—happens to about 40% of our setups. We're updating the wizard in version 4.0, releasing March 15th. Is node B47X showing full bars now at position 52?
+
+Character 1: [checking] Yeah, full bars, 867 Mbps connection speed. [impressed] Way better than the 230 Mbps I was getting before! [hesitantly] Should I, uh, move the other nodes too, or leave A12Z where it is?
+
+138 Customer Support: Let me check your heat map... Node A12Z at position 192.168.1.38 looks perfect. But C33P might benefit from moving 3 feet northwest—that would eliminate the dead zone near coordinate G7.
+
+Character 1: [writing down] Northwest from C33P, got it. [thoughtfully] Hey, while I have you, my nephew at apartment 4B wants to share my network—[uncertainly] can I extend coverage through the wall using node D55Q?
+
+139 Customer Support: [cautiously] Mesh nodes can penetrate walls, but apartment 4B would need its own account for legal reasons. However, you could set up guest network SSID "Henderson_Guest" with a 24-hour rotating password starting with GH789.
+
+Character 1: [understanding] Ah, makes sense, liability and all that. [appreciatively] You've been super helpful—what's your support ID? [sincerely] I want to leave a stellar review, seriously.
+
+140 Customer Support: That's very kind! I'm tech support agent TS-1147-Rebecca. [professionally] Before you go, can you confirm all three nodes now show green in your app's topology view? [attentively] Just want to ensure everything's stable.
+
+Character 1: [checking carefully] A12Z green, B47X green, C33P... yep, all green! [satisfied] Upload speeds testing at 940 Mbps, download 925. [laughs] Better than my old setup by like, 400 percent!
+
+141 Customer Support: Perfect! Your ticket number is TK-20240115-8974 for reference. Enjoy your upgraded network, Mr. Henderson, and don't hesitate to call back if you need anything else!
+
+============================================================
+
+ITEMS 43-52 - CS NO-ALPHANUMERIC (340 words)
+
+Script: c4fe00f3
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+142 Customer Support: Good morning, this is Sarah from SolarBright Solutions. [quickly] I'm calling regarding your installation scheduled for—um—last Tuesday. Unfortunately, we've encountered some delays with the permitting process.
+
+Character 1: [frustrated] Wait, what? [louder] This is the third delay this month! [sighs heavily] I already took time off work, rearranged everything—my whole week was planned around this.
+
+143 Customer Support: I completely understand your frustration, Mr. Johnson. [more quickly] The city inspector flagged an issue with the electrical panel documentation, so we need to—well—resubmit everything. Should only be another week or two.
+
+Character 1: [incredulous] Another week or two? [sarcastically] That's what you said last time, and the time before that. [exasperated] Do you people even know what you're doing over there?
+
+144 Customer Support: [defensively] Sir, I assure you we're doing everything possible to expedite this. Our team is working directly with the permit office daily—sometimes twice daily. These municipal delays are beyond our control.
+
+Character 1: [bitterly] Beyond your control. [groans] That's convenient, isn't it? [demanding] I want to speak to someone who can actually give me a real date, not just excuses.
+
+145 Customer Support: Of course, I can transfer you to my supervisor, but—um—let me first offer you something. [more enthusiastically] We'd like to provide a $500 credit for the inconvenience. Would that help make this situation better?
+
+Character 1: [skeptically] Five hundred dollars? [laughs bitterly] I've been waiting two months already! [firmly] My electricity bills are through the roof while your panels sit in some warehouse somewhere.
+
+146 Customer Support: Actually, Mr. Johnson, your panels are already at our local facility, ready to go. [more confidently] Once we get the green light—which should be by Friday—we can install within 48 hours. I promise you're our top priority.
+
+Character 1: [tiredly] You know what, Sarah? [sighs deeply] Fine, but I want that promise in writing—the Friday deadline, the installation within 48 hours, all of it. [resigned] And that credit better show up on my account.
+
+Character 1: [cautiously] Also, what happens if Friday comes and goes with no permit? [more forcefully] Because I'm starting to think I should just cancel this whole thing and go with your competitor.
+
+147 Customer Support: No, no, please don't do that, Mr. Johnson. If we miss Friday, I'll personally—um—escalate this to our regional manager. We'll increase the credit to $750 and guarantee a weekend installation.
+
+Character 1: [considering] Weekend installation means overtime rates for your crews, doesn't it? [suspiciously] You're really going to eat that cost? [chuckles dryly] Something tells me Friday's deadline isn't as uncertain as you're making it sound.
+
+148 Customer Support: Well, I—we have strong indications from the permit office that— Look, between you and me, we're 90% sure it'll be approved Thursday. I just can't officially promise that yet.
+
+Character 1: [irritated] So you've been stringing me along with maybes when you knew it was almost certain? [loudly] This is exactly the kind of runaround that drives customers crazy! [groans] Unbelievable.
+
+149 Customer Support: I'm sorry, I should have been more transparent. [quickly] Company policy prevents us from making guarantees until permits are in hand, but—yes—Thursday looks very likely. I understand why you're upset.
+
+Character 1: [firmly] Alright, here's what's going to happen. [deliberately] You're going to email me right now—while I'm on the phone—confirming everything we discussed. [more sternly] The dates, the credits, everything.
+
+150 Customer Support: Absolutely, I'm typing it up right now. [briskly] Installation by Sunday at the latest, $750 credit, and—um—I'll include my direct line so you can bypass the call center. Does that work for you?
+
+Character 1: [grudgingly] Yeah, that'll do. [sighs] But Sarah, if this falls through again, I'm not just canceling—I'm leaving reviews everywhere. [warningly] Your company can't keep treating customers like this.
+
+151 Customer Support: I completely understand, and you have every right to feel that way. The email's sent—please confirm you received it. Thank you for your patience, Mr. Johnson, we'll make this right.
+
+============================================================
+
+ITEM 152 - BASIC SCENARIO (24 words)
+
+============================================================
+
+152 [Happy] Look, I know it sounds kinda scary, but that's exactly why you should—I mean, when else are you gonna get this chance? [Laugh]
+
+============================================================
+
+ITEM 153 - BASIC SCENARIO (22 words)
+
+============================================================
+
+153 [Whisper] Between you and me, I was terrified the first time too, but then it was like... [Fast] everything just clicked, y'know?
+
+============================================================
+
+ITEM 154 - BASIC SCENARIO (15 words)
+
+============================================================
+
+154 [Sarcastic] Oh sure, just keep doing the same boring stuff forever—that sounds super fulfilling. [Tsk]
+
+============================================================
+
+ITEM 155 - BASIC SCENARIO (21 words)
+
+============================================================
+
+155 What if I told you that, um, literally everyone who's tried this has said it changed their perspective on—on everything, basically?
+
+============================================================
+
+ITEM 156 - BASIC SCENARIO (14 words)
+
+============================================================
+
+156 [Disappointed] [Slow] I guess I just thought you'd be more... adventurous than this, honestly.
+
+============================================================
+
+ITEM 157 - BASIC SCENARIO (19 words)
+
+============================================================
+
+157 [Shout] This is your chance to finally break out of that rut you're always complaining about! [Happy] Come on!
+
+============================================================
+
+ITEM 158 - BASIC SCENARIO (23 words)
+
+============================================================
+
+158 [Fast] Okay so here's the thing—it's only twenty minutes, it's completely safe, and if you hate it we can just—we'll leave immediately, alright?
+
+============================================================
+
+ITEM 159 - BASIC SCENARIO (20 words)
+
+============================================================
+
+159 [Sad] I really wanted us to, uh, to share this experience together, but I guess if you're not interested... [Sigh]
+
+============================================================
+
+ITEM 160 - BASIC SCENARIO (14 words)
+
+============================================================
+
+160 Remember when you made me try sushi and I was all weird about it?
+
+============================================================
+
+ITEM 161 - BASIC SCENARIO (13 words)
+
+============================================================
+
+161 [Angry] Stop making excuses—you're just, you're scared and you won't admit it! [Groan]
+
+============================================================
+
+ITEM 162 - BASIC SCENARIO (17 words)
+
+============================================================
+
+162 [Chuckle] The instructor is actually really cute, so there's that, I mean—not that it matters, but y'know...
+
+============================================================
+
+ITEM 163 - BASIC SCENARIO (12 words)
+
+============================================================
+
+163 [Slow] [Disappointed] Fine, I'll just... I'll go by myself then, I guess.
+
+============================================================
+
+ITEM 164 - BASIC SCENARIO (15 words)
+
+============================================================
+
+164 You're literally the one who said you wanted to be more spontaneous this year, right?
+
+============================================================
+
+ITEM 165 - BASIC SCENARIO (19 words)
+
+============================================================
+
+165 [Happy] Trust me, your Instagram is gonna look so good after this—wait, that came out wrong, but seriously! [Laugh]
+
+============================================================
+
+ITEM 166 - BASIC SCENARIO (23 words)
+
+============================================================
+
+166 [Sarcastic] Yeah, because sitting on your couch watching Netflix for the fifth weekend in a row is working out great for you. [Tsk]
+
+============================================================
+
+ITEM 167 - BASIC SCENARIO (19 words)
+
+============================================================
+
+167 [Whisper] I already kinda signed us both up, so... [Fast] please don't be mad but the deposit was non-refundable!
+
+============================================================
+
+ITEM 168 - BASIC SCENARIO (17 words)
+
+============================================================
+
+168 [Sad] [Sigh] It's just—I dunno, I thought you'd at least consider it before shooting it down completely.
+
+============================================================
+
+ITEM 169 - BASIC SCENARIO (16 words)
+
+============================================================
+
+169 What's the absolute worst thing that could happen—like really, actually think about it for a second?
+
+============================================================
+
+ITEM 170 - BASIC SCENARIO (13 words)
+
+============================================================
+
+170 [Angry] [Shout] Would you just stop overthinking everything for once in your life?!
+
+============================================================
+
+ITEM 171 - BASIC SCENARIO (21 words)
+
+============================================================
+
+171 [Slow] Sometimes the best things in life are the ones that, um, that terrify you a little bit first, y'know? [Chuckle]

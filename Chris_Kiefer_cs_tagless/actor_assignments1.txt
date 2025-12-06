@@ -1,0 +1,527 @@
+ACTOR LINE ASSIGNMENTS - 87 ITEMS (~1976 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  275 words ( 13.9%)
+
+  monologues_selftalk :  220 words ( 11.1%)
+
+  conversation        :  335 words ( 17.0%)
+
+  cs_alpha            :  188 words (  9.5%)
+
+  cs_noalpha          :  329 words ( 16.6%)
+
+  basic_scenarios     :  330 words ( 16.7%)
+
+  monologues          :  299 words ( 15.1%)
+
+  TOTAL               : 1976 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (63 words)
+
+Script: 428a8286_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You gave Jake my number.
+
+1 Character 2: I—okay, yes, but before you freak out, he's literally the nicest guy. He works at my office and he's been asking about you for weeks, super respectfully. I thought—I mean, I really thought you'd like him.
+
+Character 1: That wasn't your call to make.
+
+2 Character 2: Look look, I know, but you keep saying you wanna meet someone and then you never actually—you never put yourself out there. And Jake's genuinely [sigh] a good person. I wouldn't have done it if I didn't trust him completely.
+
+Character 1: My number is private.
+
+3 Character 2: Okay okay, I get that, but it's not like I gave it to some random creep. This is someone I've known for two years who—honestly, who treats everyone with respect. I was trying to help.
+
+Character 1: I didn't ask for help.
+
+4 Character 2: No, you didn't. But you also—I mean, come on, you've been complaining about being single for months and then when I actually try to do something about it, you act like I committed some huge betrayal.
+
+Character 1: Because you did.
+
+5 Character 2: That's—that's really dramatic. I gave one trustworthy guy your number. One. [scoff] I'm not out here posting it on Craigslist or something. I used my judgment and yeah, maybe I shoulda asked first, but calling it betrayal is kinda harsh.
+
+Character 1: Is it? You went behind my back.
+
+6 Character 2: I didn't go behind—ugh, okay fine, technically yes, but I was gonna tell you! I just wanted him to text you first so it'd be like, I dunno, a nice surprise? Which sounds dumb now but at the time it seemed romantic.
+
+Character 1: It's not romantic. It's invasive.
+
+7 Character 2: And I'm sorry it feels that way, I am, but you're acting like I don't know you at all. Like I haven't been your best friend for eight years. I know what you like in a guy and Jake is literally—he's exactly your type.
+
+Character 1: That's not the point.
+
+8 Character 2: Then what is the point? Because I'm trying to understand why you're this mad when—[frustrated laugh] when honestly, you seemed pretty happy when you told me about his texts yesterday. Before you found out I gave him your number, you were all excited.
+
+Character 1: And then I found out you were involved.
+
+9 Character 2: Right, and suddenly he's what, contaminated? Come on. You liked him until you found out I helped make it happen. That's—that's kinda messed up actually. Like you'd rather stay single than admit I did something good.
+
+Character 1: You violated my privacy. That's not "something good."
+
+10 Character 2: Fine. Fine fine. I violated your privacy with good intentions and a trustworthy person who you actually like. I'm not gonna apologize for trying to—y'know what, whatever. Be mad. Block his number. I was trying to help but clearly that was stupid of me.
+
+Script: 7758121a_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Three hours. I waited three hours.
+
+11 Character 2: Oh my god, oh my god—I'm so sorry. I completely—I had it in my calendar, I swear I did, but then my mom called about this thing with my brother and I just... I totally spaced. That's not an excuse, I know.
+
+Character 1: I missed the interview.
+
+12 Character 2: Wait, what? The interview was—oh no. No no no, that was today? I thought—I thought it was next week? [groan] God, I'm such an idiot. I can't believe I did this to you.
+
+Character 1: You knew it was today.
+
+13 Character 2: I did. I did know, you're right. I just—everything's been so crazy lately and I've been trying to juggle like seventeen different things and I—that doesn't matter. None of that matters because I promised you I'd be there.
+
+Character 1: I had to take two buses in the rain.
+
+14 Character 2: Shit. It was raining? Of course it was raining. Because I couldn't just—I couldn't just forget on a nice day, right? [nervous laugh] Sorry, that's not funny. I'm gonna make this up to you, I swear.
+
+Character 1: How exactly?
+
+15 Character 2: I'll call them! The company, I mean. I'll call and explain it was my fault—wait, no, that's stupid, they won't care. Um, maybe I could—do they have other openings? Or I could reach out to my cousin, y'know, the one who works in HR somewhere?
+
+Character 1: Your cousin works at a grocery store.
+
+16 Character 2: Different cousin! I have—okay, yeah, she's actually between jobs right now but she used to know people. Look, I'm trying here. Just... please let me fix this somehow?
+
+Character 1: There's nothing to fix. It's done.
+
+17 Character 2: Don't say that. Please don't—I mean, I get it, you're mad and you have every right to be, but we've been friends for what, six years? Seven? This can't just be... done.
+
+Character 1: You've been flaking a lot lately.
+
+18 Character 2: I know. I know I have. It's been—honestly, I've been kinda falling apart since the breakup and I keep dropping the ball on everything. But that's my problem, not yours, and I shouldn't have—I shouldn't let it affect you like this. [sigh] I'm really, really sorry.
+
+Character 1: The breakup was four months ago.
+
+19 Character 2: Yeah, well, I'm not—I'm not handling it great, okay? But that's still not... you needed me and I wasn't there. And that's—that's not okay. I wanna be the friend you deserve, I really do.
+
+Character 1: I needed you today. Not some theoretical better version of you.
+
+20 Character 2: You're right. You're absolutely right. I don't—I don't have any more excuses. All I can say is I'm sorry and I'll do better. Actually do better, not just say it. If you'll give me another chance.
+
+Script: a08619ed_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Third time this month.
+
+21 Character 2: Oh my god, oh my god—I'm so sorry. I just—I totally spaced, and I know that's not an excuse but I've been so scattered lately and—wait, third time?
+
+Character 1: Coffee Tuesday. Movies last week. Today.
+
+22 Character 2: No no no, you're right, you're totally right. I'm—god, I'm the worst friend ever. I literally had it in my calendar and then I just—I don't know what happened, I got caught up with work stuff and [groan] that sounds so lame even saying it out loud.
+
+Character 1: I waited an hour.
+
+23 Character 2: An hour? You waited—oh my god, why didn't you call me? Actually no, that's—that's on me, not you. Of course you shouldn't have to call me to remind me of plans we already made. I'm so, so sorry.
+
+Character 1: This keeps happening.
+
+24 Character 2: I know, I know it does and I hate that I keep doing this to you. Like, genuinely, I don't mean to—I'm not trying to be flaky, I swear. My brain's just been like... everywhere except where it needs to be lately [nervous laugh] which isn't your problem, I know.
+
+Character 1: Am I that forgettable?
+
+25 Character 2: What? No! No no no, absolutely not. You're—you're literally one of my favorite people, I just—I'm really bad at managing my time and keeping track of things and that's completely on me, not you. Never you.
+
+Character 1: Doesn't feel that way.
+
+26 Character 2: I know. God, I know and I—I get why you'd think that. But honestly, it's not about you at all, I've been forgetting everything lately. My mom's birthday, my dentist appointment—I even missed a job interview last week. [sigh] I'm kinda falling apart, basically.
+
+Character 1: A job interview?
+
+27 Character 2: Yeah, um—the one I told you about? For that marketing position? I just... completely blanked. Woke up the next day and realized. But that's—we're not talking about me right now. I wanna make this right with you.
+
+Character 1: Maybe you need help.
+
+28 Character 2: Maybe I—yeah. Yeah, you're probably right. I've been thinking maybe I should like, I dunno, see someone or get one of those planner apps or something because clearly whatever I'm doing isn't working and I'm hurting people I care about.
+
+Character 1: I care about you too. That's why this sucks.
+
+29 Character 2: I know. And I—I really wanna do better. Like, actually do better, not just say it. Would you maybe wanna help me figure out a system or something? So I stop being such a disaster of a human being?
+
+Character 1: Yeah. Okay. But you're buying coffee for a month.
+
+30 Character 2: Deal. Absolutely deal. And um—thank you. For not just writing me off completely. I know I don't deserve—just, thank you. [quieter] I really am gonna try harder, I promise.
+
+Script: f09b17d5_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: I bought it.
+
+31 Character 2: Bought—wait, bought what? Oh my god, you didn't. Did you actually—did you get the car?
+
+Character 1: The '67 Mustang. Yeah.
+
+32 Character 2: Shut up shut up shut UP! Are you—I can't believe you actually did it! You've been talking about that car since, like, literally since we were kids. This is—[Gasp] this is huge!
+
+Character 1: It's sitting in my driveway.
+
+33 Character 2: Okay, so we're gonna need to—I mean, obviously I'm coming over right now. Like right now. Have you driven it yet? Please tell me you've driven it.
+
+Character 1: Twice around the block. That's it.
+
+34 Character 2: That's—that's it? You got your literal dream car and you drove it around the block? Twice? What are you even—why aren't you on the highway right now?
+
+Character 1: I don't know. It feels weird.
+
+35 Character 2: Weird like... good weird or like, oh-shit-what-did-I-do weird? Because honestly, dropping that kind of money would make me [Nervous laugh] kinda freak out too.
+
+Character 1: Like I'm gonna wake up and it'll be gone.
+
+36 Character 2: Oh babe, no no no, that's—okay, that's actually really normal. It's like, when something you've wanted forever finally happens, your brain just... doesn't know what to do with it, y'know?
+
+Character 1: My dad would've loved this.
+
+37 Character 2: Oh. Oh honey, yeah, he—he really would've. Remember how he used to take us to those car shows? And he'd always stop at the Mustangs and just... [Sigh] I bet he's proud of you right now.
+
+Character 1: Maybe that's why it feels weird.
+
+38 Character 2: Because you can't—you can't share it with him? God, that's... I mean, that makes total sense. It's like the happy and the sad are all mixed up together.
+
+Character 1: Yeah. Exactly that.
+
+39 Character 2: You know what though? I think—okay, this might sound dumb, but like, maybe take him for a drive anyway? In spirit or whatever. Play his music, go to that scenic route he liked?
+
+Character 1: The coast road. He always took the coast road.
+
+40 Character 2: See? That's—that's perfect. And hey, I'll come with if you want. Or not, totally up to you. But either way, that car isn't gonna disappear, okay? It's yours. You did this.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (84 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (66 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (62 words)
+
+============================================================
+
+============================================================
+
+ITEMS 42-51 - CONVERSATION (335 words)
+
+Script: 817a9ec9
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+41 Character 1: [high-pitched] Oh my god, did you feel that? [trembling] The plane just dropped like—like a stone! [Gasping breath] We're all going to die, aren't we? I knew I should've taken the train instead of flying today.
+
+Character 2: [flatly] It's just turbulence. [irritated sigh] Planes don't fall out of the sky from a little bumping. [more firmly] Could you please stop gripping my armrest? Your knuckles are literally turning white and it's making me uncomfortable.
+
+42 Character 1: [whimpering] Sorry, sorry, I just—[Sharp intake] WHAT WAS THAT? [frantically] The lights flickered! Do lights flicker before crashes? My cousin's friend's neighbor said that lights flickering means electrical failure and then we plummet!
+
+Character 2: [through gritted teeth] The lights flicker all the time. [Scoff] Your cousin's friend's neighbor isn't an aviation expert. [sarcastically] Maybe try breathing into that paper bag instead of hyperventilating into my personal space, yeah?
+
+43 Character 1: [shakily] I don't have a paper bag! [getting higher] Should I have brought one? [Nervous laugh] The safety card doesn't mention paper bags anywhere—I've read it seventeen times since boarding. Is seventeen unlucky?
+
+Character 2: [exasperated groan] Seventeen isn't unlucky, thirteen is—no, wait, [quickly] forget I said that. [more gently] Look, we're fine. I fly twice a week for work and turbulence is just air pockets, totally normal.
+
+44 Character 1: [desperately] You fly twice a week? [louder] How are you not terrified? [quivering whisper] Every bump feels like the wing's about to snap off. Can wings snap? They look so thin and bendy from here!
+
+Character 2: [monotone] Wings don't snap. [Sharp exhale] They're tested to bend way more than this. [increasingly annoyed] Will you stop narrating every disaster scenario? You're making my migraine worse and we still have three hours left.
+
+45 Character 1: [panicked squeak] THREE HOURS? [breathlessly] I thought we only had one more! [moaning] Oh no, oh no, I can't do three more hours of this death trap bouncing around like popcorn in a microwave!
+
+Character 2: [coldly] It's two hours and forty-seven minutes, actually. [Bitter laugh] But who's counting? [resigned] Fine, you know what? Let's play a game or something to distract you from your imminent fictional doom.
+
+46 Character 1: [hopefully] A game? [suspiciously] Like what kind of game? [faster] Not twenty questions about plane crashes, right? Because my mind's already playing that on repeat with extremely vivid graphics and sound effects!
+
+Character 2: [dryly] No, definitely not that. [speaking slowly] How about we count something boring? [Snort] Like... how many times the flight attendant walks by, or people getting up to use the bathroom. Riveting stuff.
+
+47 Character 1: [uncertainly] The bathroom? [horrified whisper] People use the bathroom during turbulence? [getting louder] What if they get thrown around in there? What if the door gets stuck and they're trapped when we crash?
+
+Character 2: [shouting] WE'RE NOT CRASHING! [quieter] Sorry, I just—[Heavy sigh] Listen, statistically you're more likely to die from a vending machine falling on you than in a plane crash. Feel better now?
+
+48 Character 1: [weakly] Vending machines? [confused] That's supposed to be comforting? [Hysterical giggle] Now I'm scared of vending machines AND planes! Thanks for doubling my anxiety! What's next, escalators are secretly plotting humanity's demise too?
+
+Character 2: [defeated tone] Actually, escalators injure thousands of people annually. [more quietly] But that's not the point. [firmly] The point is everything has risks, and flying is still the safest form of travel despite your death grip.
+
+49 Character 1: [softer] You're right, you're right. [shaky breath] I'm being ridiculous, aren't I? [Nervous chuckle] My therapist did say I catastrophize. Sorry for being such a nightmare seatmate on your business trip.
+
+Character 2: [sighing deeply] It's... fine. [more kindly] My sister's the same way actually. [gently] Here, want some gum? It helps with the ear pressure and gives you something to focus on besides impending doom.
+
+50 Character 1: [gratefully] That's really nice, thank you. [steadier] Mint or cinnamon? [Small laugh] See, I can have normal conversations when I'm not convinced we're plummeting! Though that bump just now made my heart skip seventeen beats.
+
+Character 2: [amused] Back to seventeen again? [warmly] It's mint, and look—[triumphantly] the seatbelt sign just turned off. We made it through the worst part. Only two and a half smooth hours to go now.
+
+============================================================
+
+ITEMS 52-56 - CS ALPHANUMERIC (188 words)
+
+Script: ab89c626
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [frustrated] Look, I have a confirmation right here—reservation number RX47B92K. [raising voice] I booked this three weeks ago for $45.99 a day, and now you're telling me [incredulous] it doesn't exist?
+
+51 Customer Support: Sir, I understand your frustration, but when I search RX47B92K in our system, nothing comes up. [calmly] Could you perhaps check if maybe, um, you booked with a different company? Sometimes customers confuse us with Enterprise or Hertz.
+
+Character 1: [angrily] Different company? Are you serious? [scoffs] I have the email right here from FastTrack Rentals at 4827 Airport Boulevard—that's YOU! [more forcefully] My credit card was already charged $367.92!
+
+52 Customer Support: Well, sir, I'm looking at every reservation for today, March 15th, and there's no booking under your name. Could you spell your last name again? Maybe it's under a different spelling or your corporate account?
+
+Character 1: [exasperated] Thompson—T-H-O-M-P-S-O-N. [slower, condescending] My member ID is FTR-8829304, Gold status since 2019. [groans] How can you lose an entire reservation?
+
+53 Customer Support: Okay, I see you in our system as a Gold member, but... the last reservation I show was in January, confirmation AZ66M10P. Sir, are you absolutely certain you received a confirmation email from us?
+
+Character 1: [shouting] YES! February 23rd at 2:47 PM, I got the email! [sarcastically] Should I forward it to nowhere@fasttrackdoesntcare.com? [desperately] I have a meeting in two hours at 1500 Commerce Street!
+
+54 Customer Support: [defensive] Sir, there's no need for that tone. [more calmly] Let me try searching by your credit card—the last four digits? Sometimes the system, well, it doesn't sync properly between online and our counter.
+
+Character 1: [irritated] 4-4-7-8, Visa ending in 4478. [mockingly] Maybe check your magic drawer where all the lost reservations go? [more angrily] This is absolutely unacceptable for a supposedly "premium" rental company!
+
+55 Customer Support: Oh wait—I think I... Sir, did you book for March 15th or May 15th? Because I'm seeing RX47B92K here but it's showing for May, not March. That would explain everything.
+
+============================================================
+
+ITEMS 57-66 - CS NO-ALPHANUMERIC (329 words)
+
+Script: 499d7966
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [frustrated] The heater's been broken for three weeks now, and I've sent—what—four emails already? [groans] My kids are sleeping in winter coats, [more angrily] and you keep saying "someone will come by soon."
+
+56 Customer Support: I understand your frustration completely, and I'm so sorry about the delay. Our maintenance team has been overwhelmed with, uh, emergency repairs, but I'll escalate this to priority status right now.
+
+Character 1: [sarcastically] Priority status? That's what you said last Tuesday! [sighs heavily] Look, I'm paying fifteen hundred a month for a place where—where I can see my breath indoors, [incredulous] how is this acceptable?
+
+57 Customer Support: You're absolutely right, this isn't acceptable at all. Let me check the system... okay, I see the work orders were never properly assigned. I'm personally scheduling someone for tomorrow morning, guaranteed.
+
+Character 1: [skeptical] Tomorrow morning, really? [chuckles bitterly] Because last time you "guaranteed" something, I waited all day and nobody—nobody even called to cancel. [exhausted] I had to miss work for nothing.
+
+58 Customer Support: I completely understand why you don't trust us right now. Here's what I'll do—I'm sending you the technician's direct number, and if they don't show by noon, I'll authorize a rent reduction.
+
+Character 1: [surprised] A rent reduction? [cautiously optimistic] Well, that's... that's the first real solution I've heard. [sighs] But what about the mold in the bathroom that I mentioned two months ago?
+
+59 Customer Support: The mold issue, yes, I see those reports here too. [professionally] Since we're already sending maintenance tomorrow, I'll—I'll make sure they assess both problems. One visit, both issues addressed, no more runaround.
+
+Character 1: [firmly] I need this in writing—all of it. [more insistently] The appointment time, the rent reduction terms, and... and a timeline for the mold remediation. [tired] I can't keep chasing you people anymore.
+
+60 Customer Support: Absolutely, I'm drafting the email right now as we speak. You'll have it within ten minutes with all details, my supervisor's signature, and our sincere apologies for this unacceptable situation.
+
+Character 1: [relieved] Finally, someone who actually listens. [sighs] You know, if this had happened weeks ago, we wouldn't be having this conversation. [curiously] Are you new here or something?
+
+61 Customer Support: Actually, I'm the regional manager filling in today. These complaints reached my desk this morning, and honestly, I'm not happy with how my team handled this.
+
+Character 1: [impressed] The regional manager? [laughs nervously] Well, that explains why things are suddenly moving. [hopefully] So this means tomorrow's appointment will actually, you know, happen?
+
+62 Customer Support: Not only will it happen, but I'll be there personally to ensure everything's done right. Eight AM sharp, both repairs, plus [more warmly] I'm bringing space heaters for tonight.
+
+Character 1: [grateful] Space heaters would be—that would be amazing, thank you. [emotionally] My kids have been so uncomfortable, and I just... [sighs] I just wanted someone to care.
+
+63 Customer Support: [sympathetically] As a parent myself, I completely understand that frustration. The heaters will arrive within two hours, and this won't happen again on my watch, I promise.
+
+Character 1: [cautiously] I appreciate all this, really, but—but what about long-term? [worried] I mean, these issues keep happening, and [frustrated] I'm tired of being the squeaky wheel.
+
+64 Customer Support: You're right to ask about long-term solutions. We're implementing a new maintenance response system, quarterly unit inspections, and a direct hotline to my office for urgent issues.
+
+Character 1: [surprised] A direct line? That's... actually really helpful. [more relaxed] Maybe I won't have to start looking for a new place after all. [sighs] Though I already called three landlords this week.
+
+65 Customer Support: Please don't make any decisions until after tomorrow's repairs. We value you as a tenant, and I think—no, I know—we can restore your confidence. See you at eight AM sharp.
+
+============================================================
+
+ITEM 66 - BASIC SCENARIO (21 words)
+
+============================================================
+
+66 [Angry] This is—oh come ON, not now, not TODAY of all days! [Groan] They're gonna be here in, what, twenty minutes?
+
+============================================================
+
+ITEM 67 - BASIC SCENARIO (17 words)
+
+============================================================
+
+67 [Fast] Okay okay okay, where's the plunger, where did I—it's gotta be around here somewhere, right? [Tsk]
+
+============================================================
+
+ITEM 68 - BASIC SCENARIO (23 words)
+
+============================================================
+
+68 [Sarcastic] Oh sure, yeah, this is exactly how I wanted to spend my afternoon. [Sigh] Just me and the toilet having a moment.
+
+============================================================
+
+ITEM 69 - BASIC SCENARIO (12 words)
+
+============================================================
+
+69 [Whisper] Please, please just go down, I'm literally begging you right now.
+
+============================================================
+
+ITEM 70 - BASIC SCENARIO (13 words)
+
+============================================================
+
+70 [Happy] Wait, I think it's actually—yes! [Laugh] Oh thank god, it's finally working!
+
+============================================================
+
+ITEM 71 - BASIC SCENARIO (17 words)
+
+============================================================
+
+71 [Disappointed] I, um, I really thought that would fix it, but it's still just... sitting there. [Sigh]
+
+============================================================
+
+ITEM 72 - BASIC SCENARIO (12 words)
+
+============================================================
+
+72 [Shout] Can someone grab me the—actually, never mind, I'll get it myself!
+
+============================================================
+
+ITEM 73 - BASIC SCENARIO (17 words)
+
+============================================================
+
+73 [Slow] You know what, maybe if I just, like, wait a few minutes it'll kinda resolve itself?
+
+============================================================
+
+ITEM 74 - BASIC SCENARIO (21 words)
+
+============================================================
+
+74 [Sad] This is so embarrassing, I mean, what am I gonna tell them when they need to use the bathroom? [Groan]
+
+============================================================
+
+ITEM 75 - BASIC SCENARIO (16 words)
+
+============================================================
+
+75 [Fast] [Angry] I don't have time for this, I really don't have—ugh, why is nothing working?!
+
+============================================================
+
+ITEM 76 - BASIC SCENARIO (18 words)
+
+============================================================
+
+76 [Chuckle] Honestly, this would be funny if it wasn't, you know, literally about to ruin my entire party.
+
+============================================================
+
+ITEM 77 - BASIC SCENARIO (14 words)
+
+============================================================
+
+77 [Whisper] [Slow] Just gonna try one more time, nice and easy, no sudden movements.
+
+============================================================
+
+ITEM 78 - BASIC SCENARIO (18 words)
+
+============================================================
+
+78 [Disappointed] The plumber said he can't get here until tomorrow, so that's, uh, that's not gonna help. [Tsk]
+
+============================================================
+
+ITEM 79 - BASIC SCENARIO (14 words)
+
+============================================================
+
+79 [Sarcastic] [Laugh] Great, now there's water on the floor too—this just keeps getting better!
+
+============================================================
+
+ITEM 80 - BASIC SCENARIO (16 words)
+
+============================================================
+
+80 [Happy] [Fast] My neighbor has a snake thingy, she said I can borrow it right now!
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (15 words)
+
+============================================================
+
+81 [Angry] [Shout] Who puts an entire roll of paper towels in here?! WHO DOES THAT?!
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (16 words)
+
+============================================================
+
+82 [Slow] [Sad] I guess we could just, um, put an out of order sign on it?
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (18 words)
+
+============================================================
+
+83 [Fast] Google says baking soda and vinegar, but like, do I even have time to—okay, worth a shot.
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (17 words)
+
+============================================================
+
+84 [Disappointed] [Sigh] Seven people coming over and one working bathroom—this is gonna be a disaster, isn't it?
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (15 words)
+
+============================================================
+
+85 [Happy] [Chuckle] You know what, forget it, we're just gonna laugh about this later, right?

@@ -1,0 +1,271 @@
+ACTOR LINE ASSIGNMENTS - 50 ITEMS (~1710 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1710 words (100.0%)
+
+  TOTAL                 :  1710 words
+
+============================================================
+
+============================================================
+
+ITEMS 211-220 - GENERAL TAGS (366 words)
+
+Script: _A_used_6564385a_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [nervous laugh] So, um, the check's here. [quickly] Should we split it, or... [trailing off] I mean, I invited you, so I'm happy to get it, but I don't want to be presumptuous about gender roles or anything.
+
+211 Character 2: [relieved exhale] Oh god, thank you for saying that. [warmly] Let's split it? [slight pause] I had the salmon and two glasses of wine, so mine's probably more. [softer] This was really nice, by the way.
+
+Character 1: [brightening] Yeah? [hopeful whisper] I was worried I talked too much about my cat. [regular volume] Five stories might have been excessive, but Mr. Whiskers is basically my roommate, so he comes up a lot in conversation.
+
+212 Character 2: [genuine laughter] Are you kidding? [enthusiastically] The one about him getting stuck in the Amazon box was hilarious! [quieter, shy] My building doesn't allow pets, so I live vicariously through other people's pet stories, honestly.
+
+Character 1: [surprised] Really? [mumbling quickly] Most people glaze over by story three. [clearer] Okay, so that's sixty-eight fifty total, plus tip... [nervous giggle] Math was never my strong suit. Should we just make it forty each?
+
+213 Character 2: [helpful tone] Forty each works perfectly. [rustling pause] [anxiously] So, um, did you drive here or...? I took the subway, which is just two blocks that way. [trailing off uncertainly] Unless you're going a different direction.
+
+Character 1: [too quickly] I walked actually! [steadying breath] It's such a nice night. [hopefully] Maybe we could walk together for a bit? Unless you need to get home—I'm not trying to be clingy or weird.
+
+214 Character 2: [soft smile in voice] I'd like that. [more confidently] The night air might help with my wine flush. [embarrassed laugh] I'm basically glowing like a tomato right now. Two glasses and I turn into a human stoplight.
+
+Character 1: [reassuring] You look great! [panicking] I mean, not that I'm staring or anything. [deep breath] Just, the red brings out your eyes? [groaning] Oh god, that sounded like a line. It wasn't supposed to be.
+
+215 Character 2: [giggling] It's okay, I'll take it. [playfully] Better than my ex who said I looked "fevered but in a sexy way." [more seriously] That should have been my first red flag, looking back on it now.
+
+Character 1: [incredulous] Fevered but sexy? [snorting laugh] What does that even mean? [gentler] Well, their loss, clearly. Here we are at the corner already. [hesitant pause] This is where you turn, right? For the subway?
+
+216 Character 2: [disappointed] Oh, yeah, right. [quickly] This was really fun though. [hopeful whisper] Maybe we could do it again sometime? I promise I'll only have one glass of wine next time. [nervous laugh] If there's a next time?
+
+Character 1: [eagerly] Yes! [catching themselves] I mean, yeah, that would be cool. [rambling faster] Should I text you? Or wait three days? I never know the rules anymore. [frustrated sigh] Dating apps didn't prepare me for this part.
+
+217 Character 2: [amused] Please don't wait three days. [firmly] That rule is stupid. [softer, shyer] Text me when you get home? Just so I know you made it safe. [quick addition] And maybe we can plan that second date.
+
+Character 1: [relieved laughter] Deal. I'll probably draft the text seventeen times. [self-deprecating] Fair warning: I overthink everything. [tender pause] So, um, is this the part where we hug? Handshake seems weird now, but I don't want to presume.
+
+218 Character 2: [chuckling warmly] Come here, overthinker. [affectionate tone] A hug is perfect. [pulling back sound] You smell really nice, by the way. Like vanilla and something else... [curious] Is that weird to say? Everything sounds weird on first dates.
+
+Character 1: [flustered] It's sandalwood! [babbling] My sister got me this cologne for Christmas. [quieter] I may have applied it three times before leaving. [embarrassed groan] Probably too much, right? I basically bathed in it from anxiety.
+
+219 Character 2: [reassuring] No, it's perfect. [lingering tone] Not overwhelming at all. [suddenly urgent] Oh god, my train! I can hear it coming. [rushing] Text me! Don't overthink it! Just say hi! [calling back] I had an amazing time!
+
+Character 1: [shouting after] I will! Get home safe! [to themselves, quieter] Okay, play it cool. [excited whisper] They want a second date! [normal voice] Wait, should I wave? They're already down the stairs. Stop being weird, just walk.
+
+220 Character 2: [breathless, to themselves] Made it! [giddy laugh] Oh my god, they were so cute when they were nervous. [dreamy sigh] That cologne really was nice. [determined] If they don't text tonight, I'm texting first. Screw the rules.
+
+============================================================
+
+ITEMS 221-230 - GENERAL TAGS (356 words)
+
+Script: d4c0b1db_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+221 Character 1: [trembling] I can't believe we're actually here. [voice breaking] Eighteen years just... gone. [Shaky breath] Remember when she couldn't even tie her shoes? Now she's boarding a plane to start her whole life without us.
+
+Character 2: [quivering whisper] Don't do this to me right now. [louder] I promised myself I'd be strong. [Choked sob] But seeing her with that boarding pass, looking so grown up and ready—God, when did she stop needing us?
+
+222 Character 1: [through tears] She still needs us! [defensive] She called three times yesterday about laundry detergent. [Soft whimper] But you're right, she doesn't need us the same way. She's ready to fly, and we have to let go.
+
+Character 2: [bitter laugh] Let go? [increasingly hysterical] How do you let go of the person who made you a parent? [Gasping breath] Every cell in my body wants to grab her, take her home, keep her safe forever.
+
+223 Character 1: [pleading tone] Look at her though—she's practically glowing with excitement. [more steadily] This is what we worked for, saved for, dreamed about. [cracking] Even if it feels like someone's ripping my heart out through my chest.
+
+Character 2: [nostalgic whisper] Remember her first day of kindergarten? [stronger] You said the exact same thing then. [Shuddering breath] But she came home that afternoon, and tomorrow... tomorrow she won't. Our house will be so quiet without her music.
+
+224 Character 1: [suddenly urgent] Should we give her more money? [panicked] Did we pack enough medicine? [Hiccupping sob] What if her roommate is horrible, or she gets sick, or—stop me, please, I'm spiraling into every worst case scenario.
+
+Character 2: [gentle but firm] She's brilliant, capable, and resourceful. [wavering] We raised her right. [Long exhale] Besides, she literally just rolled her eyes at us for crying—clearly she's got enough confidence for all three of us combined.
+
+225 Character 1: [mock offended] Did you see that eye roll? [more seriously] After everything we've done! [Watery laugh] Actually, that attitude will probably serve her well in those huge lecture halls. God, I'm going to miss her sass.
+
+Character 2: [thick with emotion] They're calling her boarding group. [barely audible] This is it. [Sniffling] Should we wave like maniacs or play it cool? Who am I kidding—I'm already crying too hard to see straight anyway.
+
+226 Character 1: [forced cheerfulness] Wave like maniacs, definitely! [dropping pretense] She expects nothing less from us. [Broken whisper] Oh God, she's walking away. She looks so small heading toward that gate, like she could just disappear.
+
+Character 2: [sudden panic] Wait, she's coming back! [relieved sob] Oh thank God, one more hug. [muffled against shoulder] Don't you ever forget how loved you are, baby girl. Call us when you land, and every day after.
+
+227 Character 1: [to spouse] She's really going now. [steadier] Look how she walks—confident, ready. [Pride breaking through] We did that. We raised that incredible human being who's about to conquer the world, even if we're falling apart.
+
+Character 2: [philosophical tone] You know what's strange? [more emotional] I'm devastated but also... proud? [Quiet sob] It's like my heart is simultaneously breaking and swelling. Is this what successful parenting feels like? Because it's absolutely brutal.
+
+228 Character 1: [exhausted] I need to sit down. [shaky] My legs won't work properly. [Deep breath] How are we supposed to just... walk out of this airport and drive home to a house that'll feel wrong without her?
+
+Character 2: [determined whisper] Together. [stronger] We'll do it together, like everything else. [voice catching] We'll ugly cry in the car, eat ice cream for dinner, and probably sleep in her room tonight. Don't judge me.
+
+229 Character 1: [tender] Judge you? [laughing through tears] I already planned to keep her door open so it feels like she might walk in. [Sighing] We're going to be those parents, aren't we? The completely ridiculous ones.
+
+Character 2: [with finality] The plane's pulling away from the gate. [breathless] She's really gone. [Controlled exhale] I know we'll see her at Thanksgiving, but right now that feels like a lifetime away from this moment.
+
+230 Character 1: [quietly firm] She's not gone. [building strength] She's beginning. [soft smile in voice] And somewhere above the clouds right now, our daughter is probably already making friends, because that's who she is—brave and open and ours.
+
+Character 2: [accepting] You're right. [peaceful but sad] Let's go home and start learning who we are again, beyond just her parents. [Shaking breath] But first, can we stop at her favorite coffee shop? I'm not ready to let go completely.
+
+============================================================
+
+ITEMS 231-240 - GENERAL TAGS (338 words)
+
+Script: _A_used_68c8f49e_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [competitive tone] Oh, you're going down tonight, Sarah. [faster] We've been practicing Settlers of Catan for weeks. [Sharp laugh] Tom even built a spreadsheet to track optimal resource combinations—tell them about your probability charts, honey.
+
+231 Character 2: [dismissively] Spreadsheets? [Snort] How adorable. [in a condescending voice] Mark and I don't need charts when we have pure instinct. We crushed three other couples last month at that tournament—what was it, babe, twelve wins straight?
+
+Character 1: [defensive] Those were probably casual players. [muttering] We're talking about real strategy here, not luck. [louder, pointed] Besides, didn't you lose to the Johnsons last week? I heard through the grapevine you rage-quit during Monopoly.
+
+232 Character 2: [Scoff] [icily] The Johnsons cheated, everyone knows that. [building intensity] And speaking of cheating, remember when Tom "accidentally" knocked over the board when he was losing at Risk? Very convenient timing, wasn't it?
+
+Character 1: [Gasp] [indignant] That was completely different! The table was wobbly! [quieter, threatening] You know what, let's just start playing and see who's crying into their wine glass by nine o'clock tonight, shall we?
+
+233 Character 2: [fake sweet voice] Oh honey, we don't drink and play. [smugly] It keeps our minds sharp—unlike some people who need liquid courage. [Giggle] Mark, set up the board while I grab our lucky dice.
+
+Character 1: [sarcastically] Lucky dice? [Bitter laugh] How scientific of you. [mumbling quickly] Tom's algorithm predicted a seventy-three percent win rate for us tonight based on past performance metrics and your tendency to make emotional trades.
+
+234 Character 2: [slowly, menacingly] Emotional trades? [voice rising] That's rich coming from someone who literally cried over losing Park Place. [Cackle] Mark still has the video on his phone—should we watch it during halftime?
+
+Character 1: [through gritted teeth] There is no halftime in Catan! [Exhale] See, this is exactly why we're going to destroy you. [whispered intensely] You don't even know basic board game etiquette, yet you call yourselves competitors.
+
+235 Character 2: [triumphantly] Etiquette won't save you when I block your longest road. [teasing] What's that face, Tom? [Chuckle] Already realizing your spreadsheet didn't account for psychological warfare? This is going to be easier than expected.
+
+Character 1: [nervously] We'll see who's laughing when we control all the wheat. [more confidently] Your weakness has always been resource management, Sarah. [Snicker] Remember Thanksgiving? You traded away three ore for one sheep—one sheep!
+
+236 Character 2: [angrily] That was strategic! [Hiss] I needed that sheep for the win! [calmer, calculated] Unlike your disaster at New Year's where you built roads to nowhere like some kind of deranged city planner.
+
+Character 1: [mock surprise] Oh, we're bringing up New Year's now? [gleefully] Fantastic! Should we discuss how Mark threw the robber at me? [louder] Or how you "accidentally" miscounted your victory points three times?
+
+237 Character 2: [Deep breath] [controlled fury] Those were honest mistakes. [sarcastically sweet] But hey, if you want to live in the past, that's fine. Mark and I prefer focusing on our current winning streak of seventeen games.
+
+Character 1: [skeptically] Seventeen? [Loud laugh] Playing against your parents doesn't count! [smugly] Real competitors play in sanctioned tournaments, which we've actually won, unlike certain people who only play in their living room.
+
+238 Character 2: [shouting] Sanctioned tournaments? [more quietly, venomous] You placed third out of four teams! [Scornful laugh] The fourth team was literal children! But sure, put that plastic trophy on your mantle, champion.
+
+Character 1: [wounded] Those kids were prodigies! [defensively faster] They'd been featured in Board Game Weekly! [Sigh] Whatever, just roll for first placement already. Tom's Excel macro says whoever goes first has the advantage tonight.
+
+239 Character 2: [mockingly] Excel macro! [Hysterical giggle] [in disbelief] You actually made an Excel macro for family game night? Mark, please tell me we're recording this. The internet needs to see this level of desperate.
+
+Character 1: [proudly] It's called preparation! [quieter, intense] Something you'd understand if you took this seriously. [building excitement] When we win tonight, we're posting it everywhere—Facebook, Instagram, your mom's book club group chat, everywhere!
+
+240 Character 2: [determined whisper] Game on. [normal volume] Mark, get the score pad. [dramatically] By the end of tonight, their precious spreadsheets will be nothing but deleted files of shame and regret. Let's teach them how real champions play.
+
+============================================================
+
+ITEMS 241-250 - GENERAL TAGS (317 words)
+
+Script: _A_used_1d2063c6_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [breathless] Did we just—did we actually pull it off? [Explosive laugh] Look at them sparkle! [getting louder] Twenty million dollars worth of diamonds in this bag, and the guards never even saw our faces!
+
+241 Character 2: [hysterical giggling] The way you slid under that laser! [higher pitch] I thought for sure we were done! [Cackling] But here we are, speeding away with enough ice to retire on our own island!
+
+Character 1: [in disbelief] When that alarm went off, my heart stopped. [quieter] But you just smiled and kept working the safe. [Snorting laugh] You're absolutely insane, you know that? We're both completely mad!
+
+242 Character 2: [manic energy] Mad? We're brilliant! [words speeding up] The decoy explosion, the smoke bombs, the zip line escape—it all worked! [Wheezing laugh] Their faces when they realize the museum's crown jewels are gone!
+
+Character 1: [trembling with excitement] I can't stop shaking! [louder] Is this real? [Gasping breath] Three years of planning, and now we're millionaires! My mother said I'd never amount to anything—look at me now!
+
+243 Character 2: [in a sing-song voice] We fooled them all! [more intensely] Every camera, every sensor, every single guard! [Giggling uncontrollably] The fake maintenance crew badges were genius! Even the manager shook our hands!
+
+Character 1: [whispered awe] Feel how heavy this bag is. [building volume] Each stone is perfect, flawless, priceless! [Shrieking laugh] We walked out the front door! The audacity of it makes me dizzy with joy!
+
+244 Character 2: [slow and deliberate] You know what the best part is? [quickening pace] They won't notice for three more days! [Howling] The replicas we left are so good, they'll be guarding fakes all weekend!
+
+Character 1: [nervously excited] My hands won't stop trembling—look! [more confidently] But who cares? We did it! [Chuckling darkly] All those nights in that warehouse, memorizing blueprints, it actually paid off!
+
+245 Character 2: [through gritted teeth] That close call with the motion detector though. [relief washing over] Thank god for your ballet training! [Burst of laughter] Who knew those childhood lessons would fund our retirement!
+
+Character 1: [mockingly formal] "Excuse me, sirs, you can't go in there!" [in normal voice] Remember the guard's face when you showed the forged work order? [Snickering] He actually apologized for the inconvenience!
+
+246 Character 2: [giddy whisper] Stop, stop, I can't breathe from laughing! [louder] My ribs hurt! [Coughing laugh] But seriously, we need to ditch this van soon. The adrenaline's making me see double!
+
+Character 1: [dramatically] Tonight, we're ghosts. Tomorrow, we're legends! [quieter intensity] By next week, we'll be sipping champagne in Monaco! [Victorious laugh] I already booked the flights under our new names!
+
+247 Character 2: [rapid-fire words] New names, new lives, new everything! [slowing down] Gerald and Patricia are officially dead. [Delighted squeal] I've always wanted to be someone else, and now we literally bought new identities!
+
+Character 1: [shaky voice] Is that a siren? [more calmly] No, just an ambulance. [Nervous giggle] I'm so paranoid right now! Every sound makes me jump, but I've never felt more alive than this moment!
+
+248 Character 2: [philosophical tone] You know what's funny? [building excitement] We stole from thieves—those diamonds were already stolen artifacts! [Cackling] We're like Robin Hood, except we're keeping everything for ourselves! Poetic justice!
+
+Character 1: [almost crying with joy] I can't believe this is happening. [steadying] We actually beat the system. [Triumphant shout] The impossible heist everyone said couldn't be done—we made it look easy!
+
+249 Character 2: [breathlessly fast] Turn here, here! The boat's waiting at the dock! [slower] Once we're international waters, we're untouchable. [Maniacal laughter] I might throw up from excitement, but I don't even care!
+
+Character 1: [softly amazed] Look at us—two nobodies who just pulled off history's greatest heist. [getting louder] They'll make movies about tonight! [Choking laugh] Though they'll never get the details right!
+
+250 Character 2: [exhausted but elated] My face hurts from smiling so hard. [renewed energy] Let's count them again when we're safe! [Final burst of laughter] Partners forever, yeah? We're unstoppable! Absolutely unstoppable!
+
+============================================================
+
+ITEMS 251-260 - GENERAL TAGS (333 words)
+
+Script: f8eb7794_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+251 Character 1: [nervous laughter] So my therapist says I have commitment issues. [voice cracking] I told her, "Lady, I've been doing stand-up for twelve years!" [quieter] Though I guess bombing every night doesn't really count as committing to success, does it?
+
+Character 2: [loud and drunk] Hey buddy, maybe try committing to being funny first! [cackling] My grandmother tells better jokes than this! [shouting] And she's been dead for five years!
+
+252 Character 1: [defensive] Oh great, another expert critic in the audience. [shakily] What, did you get your comedy degree from YouTube University? [bitter laugh] Let me guess, you're the guy who thinks yelling makes everything funnier, right?
+
+Character 2: [mockingly] At least I don't sweat through my shirt before the punchline! [snorting laugh] Look at you up there! [slower] You're shaking like a chihuahua in a thunderstorm!
+
+253 Character 1: [voice breaking] You know what? [increasingly panicked] You're right, I am sweating because—because this is hard! [almost crying] Standing up here while people like you just sit there judging, it's terrifying!
+
+Character 2: [sarcastically gentle] Aww, does baby need his bottle? [harsh laugh] This is comedy, not therapy! [getting louder] If you can't handle one drunk guy, maybe stick to open mics at the library!
+
+254 Character 1: [suddenly angry] Listen pal, I've been heckled by professionals! [trembling] You're just some Tuesday night nobody with liquid courage! [desperate chuckle] But sure, keep going—you're actually making me look good by comparison!
+
+Character 2: [amused] Oh, NOW he's got some fire! [slow clap sounds] Where was this energy five minutes ago? [taunting] Maybe I should heckle you more often, give your act some actual personality!
+
+255 Character 1: [defeated whisper] You know what the sad part is? [voice rising] Tomorrow you'll forget this whole thing, but I'll replay it in my head for weeks. [hollow laugh] That's the difference between us—this matters to me.
+
+Character 2: [quieter] Wait, are you actually about to cry up there? [uncomfortable chuckle] Dude, I was just—[trailing off] Man, this got weird real fast.
+
+256 Character 1: [regaining composure] No, no, please continue! [fake cheerful] You're doing great! [bitterly] In fact, why don't you come up here and take over? [sarcastic] I'm sure everyone would love your groundbreaking "dead grandmother" material!
+
+Character 2: [defensive now] Hey, I paid for my ticket! [less confident] I can say whatever I want! [mumbling] Besides, you comedians always say you feed off the crowd's energy, right?
+
+257 Character 1: [exhausted] Energy? [incredulous laugh] Brother, you're not giving energy, you're sucking it out like some kind of comedy vampire! [pleading] Just let me finish my set so we can both go home!
+
+Character 2: [stubborn] Fine, but only if you actually tell a joke! [grumbling] I've heard funeral eulogies with more laughs! [under breath] Twenty dollar cover for this...
+
+258 Character 1: [sudden confidence] Alright, here's a joke for you. [steadier] A heckler walks into a comedy club, ruins everyone's night, and wonders why he drinks alone. [pause] Oh wait, that's not a joke—that's your Tuesday!
+
+Character 2: [genuinely laughing] Okay, okay! [surprised] That was actually pretty good! [appreciative] See what happens when you stop whining and start swinging?
+
+259 Character 1: [relieved sigh] Ladies and gentlemen, we've just witnessed a miracle! [more energetic] The heckler likes something! [joking now] Quick, someone call the Vatican—we've got our third miracle for his sainthood!
+
+Character 2: [playing along] Don't push it, funny boy! [chuckling] I still think your first ten minutes were garbage! [lighter tone] But hey, at least you finished strong!
+
+260 Character 1: [warming up] You know what? [genuine] Thanks for the weirdest pep talk I've ever gotten. [laughing] Nothing builds confidence like being emotionally destroyed and then rebuilt by a drunk stranger!
+
+Character 2: [raising glass] To emotional destruction! [bellowing] And to comedians with actual balls! [softer] You're alright, kid. [friendly] Next round's on me if you survive the rest!

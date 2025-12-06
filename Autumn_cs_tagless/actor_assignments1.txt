@@ -1,0 +1,271 @@
+ACTOR LINE ASSIGNMENTS - 50 ITEMS (~1670 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1670 words (100.0%)
+
+  TOTAL                 :  1670 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - GENERAL TAGS (285 words)
+
+Script: _A_used_9b25b817_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [exhausted] The supplier called again today. [slower] We're three months behind now, and I just... [trailing off] I don't know how much longer I can keep juggling these payments while pretending everything's fine.
+
+1 Character 2: [firmly] We talked about this. [pause] My salary covers the mortgage and groceries, but [frustrated sigh] your business has been bleeding money for two years. When does it become unsustainable?
+
+Character 1: [defensive] Every business struggles at first! [pleading] Remember when Amazon lost money for years? [quieter] I just need six more months to turn this around, maybe eight at most.
+
+2 Character 2: [bitter laugh] Amazon? Really? [incredulous] You're comparing your craft supply shop to Amazon? [softer] Look, I believe in your dream, but our savings account is down to nothing.
+
+Character 1: [shakily] So what are you saying? [louder] That I should just give up? [Choking up] Throw away everything I've worked for because the numbers don't look good right now?
+
+3 Character 2: [measured tone] The numbers haven't looked good for twenty-four months. [more gently] I'm saying maybe it's time to consider a part-time job while you figure things out. [hesitant] Something stable.
+
+Character 1: [sarcastically] Oh perfect, yes. [building anger] Let me just abandon my customers, close the shop three days a week, and [Scoff] admit to everyone that I'm a complete failure. Great solution.
+
+4 Character 2: [hurt] That's not fair. [steadier] I've been working overtime for months to keep us afloat. [Shaky breath] My boss asked yesterday why I look so tired all the time.
+
+Character 1: [quietly] I know you're tired. [remorseful whisper] I see it every morning when you leave before dawn. [stronger] But this business is more than money—it's who I am now.
+
+5 Character 2: [tenderly] And who you are matters to me. [nervous laugh] But so does keeping our house. [urgent] The mortgage payment bounces next month if something doesn't change soon.
+
+Character 1: [desperate] What if I sell the car? [talking faster] Take the bus to the shop, put that money toward inventory? [hopeful] The holiday season could save everything if I stock up now.
+
+6 Character 2: [wearily] Your car is worth maybe three thousand. [Hollow laugh] That's one month of expenses, optimistically. [firmly] We need a real plan, not another band-aid on this situation.
+
+Character 1: [defeated whisper] I had seventy customers yesterday. [more animated] Seventy people who chose my shop over the big chains. [cracking] Doesn't that count for something in this equation?
+
+7 Character 2: [sympathetically] Of course it counts. [frustrated] But seventy customers spending five dollars each doesn't pay commercial rent. [Sigh] Love doesn't pay bills, and neither does community support alone.
+
+Character 1: [bitterly] Fine. [monotone] I'll call the temp agency tomorrow, get some mindless office job. [sarcastically cheerful] Maybe I can sell staples while my dream collects dust in storage somewhere.
+
+8 Character 2: [angrily] Stop being dramatic! [calmer] Nobody's asking you to quit forever. [reasonably] Just help me carry this weight for a few months while we restructure everything together.
+
+Character 1: [quietly sobbing] Together. Right. [Sniff] Except you're not there at 2 AM doing inventory, or [stronger] dealing with customers who believe in what I've built here.
+
+9 Character 2: [raised voice] Because I'm sleeping four hours before my actual job! [breaking] The job that keeps us fed! [whispered] Why can't you see I'm drowning too?
+
+Character 1: [long pause] You're right. [steadier] God, you're completely right. [exhausted laugh] I've been so focused on saving the business, I forgot about saving us. What do we do now?
+
+10 Character 2: [gently] Now we make spreadsheets. [chuckle] Real ones, not the fantasy projections. [lovingly firm] We set a deadline, and if the numbers don't work by then, we try something new. Together.
+
+============================================================
+
+ITEMS 11-20 - GENERAL TAGS (363 words)
+
+Script: 6c544a4a_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+11 Character 1: [exhausted] Look, Mrs. Henderson, I understand you want perfection, but [voice cracking] changing the entire floral arrangement three days before? [Deep sigh] That means sourcing new suppliers, new designs, everything starts from scratch at this point.
+
+Character 2: [shrill] This is MY special day! [faster] I don't care about your little logistics problems. [demanding tone] The peonies HAVE to be blush pink, not coral. How hard is that to understand? This shouldn't even be a discussion!
+
+12 Character 1: [strained patience] The coral peonies are already ordered and paid for. [quieter] To get blush pink now means a forty percent upcharge. [nervous laugh] Plus, honestly, they're almost identical in photographs—no one will even notice the difference.
+
+Character 2: [outraged gasp] Almost identical? [louder] ALMOST? [icy tone] Would you wear an "almost" white wedding dress? My Pinterest board specifically shows blush pink, and that's what I'm paying you to deliver, isn't it?
+
+13 Character 1: [defeated whisper] You're absolutely right, of course. [more firmly] But this last-minute change will push us over budget by at least two thousand dollars. [cautious] Perhaps we could compromise with some blush roses mixed in instead?
+
+Character 2: [dismissive] Roses are so basic, everyone does roses. [whining] I need something unique, something that screams elegance! [sharp exhale] My cousin had peonies last year, and hers were the exact perfect shade I'm asking for.
+
+14 Character 1: [barely controlled] Then maybe you should've hired her florist. [quick breath] Sorry, that was unprofessional. [steadier] What if we do white peonies with blush ribbon accents? It would achieve the color palette you're looking for.
+
+Character 2: [condescending laugh] Ribbon accents? [slower, patronizing] Sweetie, this is a luxury wedding, not a high school prom. [frustrated groan] I knew I should've gone with that vendor from the city. They understand quality.
+
+15 Character 1: [professional monotone] That vendor quoted you triple my price, if I recall correctly. [slightly warmer] Listen, I want to make this work. [pleading] But you have to meet me halfway here, or we'll both end up miserable.
+
+Character 2: [fake sweet] Oh honey, I'm already miserable dealing with this incompetence. [getting louder] But fine, FINE! [dramatic sigh] Show me exactly what these "almost identical" coral peonies look like in natural lighting, and maybe I'll consider them.
+
+16 Character 1: [relieved exhale] Thank you, yes, I have samples in my van. [hopeful] They're genuinely stunning, and with the right greenery— [trails off] Actually, let me just show you. Sometimes seeing is better than explaining, right?
+
+Character 2: [suspicious] They better be stunning for what I'm paying. [muttering] My mother warned me about cheaper vendors. [regular volume] And don't even think about skimping on the baby's breath. I want clouds of it everywhere.
+
+17 Character 1: [measured tone] Baby's breath is actually on backorder everywhere this season. [carefully] However, I can offer waxflower or astilbe as alternatives. [enthusiastic] They create that same ethereal, cloud-like effect you're going for, maybe even better actually!
+
+Character 2: [shrieking] Backorder? [accusatory] Why wasn't I informed about this earlier? [rapid-fire questions] What else haven't you told me? Are the centerpieces secure? The archway flowers? This is becoming an absolute nightmare!
+
+18 Character 1: [firm] Everything else is confirmed and ready. [softer] The baby's breath shortage just happened this week—it's affecting everyone. [reassuring] But honestly, waxflower photographs beautifully and lasts longer. Most modern weddings are actually choosing it over baby's breath.
+
+Character 2: [skeptical] Most modern weddings? [haughty laugh] I'm not having "most" weddings. [contemplative pause] Although... my wedding planner did mention waxflower last month. Fine, send me photos of both options by tonight.
+
+19 Character 1: [grateful sigh] Perfect, I'll email them within the hour. [business-like] Now, about the ceremony arch—you wanted cascading blooms, correct? [hesitant] Because with your budget adjustments, we might need to concentrate flowers on just one side instead.
+
+Character 2: [incredulous] One side? [mocking] What is this, a half-wedding? [stern] The arch needs to be completely covered, dripping with flowers. That's non-negotiable. Take it from somewhere else if you have to.
+
+20 Character 1: [weary] Alright, if we reduce the cocktail hour arrangements to simple bud vases, [calculating] I can reallocate those flowers to the arch. [warning tone] But that means less décor where guests will actually spend most of their time.
+
+Character 2: [triumphant] See? Was that so hard? [patronizing] You just needed the right motivation. [cheerfully threatening] Now, let's discuss those centerpieces again. I'm thinking we need them taller, much taller. Make sure they're absolutely breathtaking, understood?
+
+============================================================
+
+ITEMS 21-30 - GENERAL TAGS (335 words)
+
+Script: 817a9ec9_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+21 Character 1: [high-pitched] Oh my god, did you feel that? [trembling] The plane just dropped like—like a stone! [Gasping breath] We're all going to die, aren't we? I knew I should've taken the train instead of flying today.
+
+Character 2: [flatly] It's just turbulence. [irritated sigh] Planes don't fall out of the sky from a little bumping. [more firmly] Could you please stop gripping my armrest? Your knuckles are literally turning white and it's making me uncomfortable.
+
+22 Character 1: [whimpering] Sorry, sorry, I just—[Sharp intake] WHAT WAS THAT? [frantically] The lights flickered! Do lights flicker before crashes? My cousin's friend's neighbor said that lights flickering means electrical failure and then we plummet!
+
+Character 2: [through gritted teeth] The lights flicker all the time. [Scoff] Your cousin's friend's neighbor isn't an aviation expert. [sarcastically] Maybe try breathing into that paper bag instead of hyperventilating into my personal space, yeah?
+
+23 Character 1: [shakily] I don't have a paper bag! [getting higher] Should I have brought one? [Nervous laugh] The safety card doesn't mention paper bags anywhere—I've read it seventeen times since boarding. Is seventeen unlucky?
+
+Character 2: [exasperated groan] Seventeen isn't unlucky, thirteen is—no, wait, [quickly] forget I said that. [more gently] Look, we're fine. I fly twice a week for work and turbulence is just air pockets, totally normal.
+
+24 Character 1: [desperately] You fly twice a week? [louder] How are you not terrified? [quivering whisper] Every bump feels like the wing's about to snap off. Can wings snap? They look so thin and bendy from here!
+
+Character 2: [monotone] Wings don't snap. [Sharp exhale] They're tested to bend way more than this. [increasingly annoyed] Will you stop narrating every disaster scenario? You're making my migraine worse and we still have three hours left.
+
+25 Character 1: [panicked squeak] THREE HOURS? [breathlessly] I thought we only had one more! [moaning] Oh no, oh no, I can't do three more hours of this death trap bouncing around like popcorn in a microwave!
+
+Character 2: [coldly] It's two hours and forty-seven minutes, actually. [Bitter laugh] But who's counting? [resigned] Fine, you know what? Let's play a game or something to distract you from your imminent fictional doom.
+
+26 Character 1: [hopefully] A game? [suspiciously] Like what kind of game? [faster] Not twenty questions about plane crashes, right? Because my mind's already playing that on repeat with extremely vivid graphics and sound effects!
+
+Character 2: [dryly] No, definitely not that. [speaking slowly] How about we count something boring? [Snort] Like... how many times the flight attendant walks by, or people getting up to use the bathroom. Riveting stuff.
+
+27 Character 1: [uncertainly] The bathroom? [horrified whisper] People use the bathroom during turbulence? [getting louder] What if they get thrown around in there? What if the door gets stuck and they're trapped when we crash?
+
+Character 2: [shouting] WE'RE NOT CRASHING! [quieter] Sorry, I just—[Heavy sigh] Listen, statistically you're more likely to die from a vending machine falling on you than in a plane crash. Feel better now?
+
+28 Character 1: [weakly] Vending machines? [confused] That's supposed to be comforting? [Hysterical giggle] Now I'm scared of vending machines AND planes! Thanks for doubling my anxiety! What's next, escalators are secretly plotting humanity's demise too?
+
+Character 2: [defeated tone] Actually, escalators injure thousands of people annually. [more quietly] But that's not the point. [firmly] The point is everything has risks, and flying is still the safest form of travel despite your death grip.
+
+29 Character 1: [softer] You're right, you're right. [shaky breath] I'm being ridiculous, aren't I? [Nervous chuckle] My therapist did say I catastrophize. Sorry for being such a nightmare seatmate on your business trip.
+
+Character 2: [sighing deeply] It's... fine. [more kindly] My sister's the same way actually. [gently] Here, want some gum? It helps with the ear pressure and gives you something to focus on besides impending doom.
+
+30 Character 1: [gratefully] That's really nice, thank you. [steadier] Mint or cinnamon? [Small laugh] See, I can have normal conversations when I'm not convinced we're plummeting! Though that bump just now made my heart skip seventeen beats.
+
+Character 2: [amused] Back to seventeen again? [warmly] It's mint, and look—[triumphantly] the seatbelt sign just turned off. We made it through the worst part. Only two and a half smooth hours to go now.
+
+============================================================
+
+ITEMS 31-40 - GENERAL TAGS (336 words)
+
+Script: 0a4ee904_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+31 Character 1: [breathless] Oh my God, Sarah. [voice breaking] Look at it. That tiny blue marble floating in all that darkness—that's everything. [Shuddering breath] Every person who ever lived, every story ever told, it's all right there.
+
+Character 2: [trembling whisper] I can't... Michael, I literally can't process this. [louder, cracking] Twenty years of training and nothing prepared me for—[Soft sob] How are we so beautiful and so fragile at the same time?
+
+32 Character 1: [quiet awe] There's no borders from up here. [more emotionally] All those wars, all that hatred down there, and from here it's just... [long exhale] one perfect sphere. We're all neighbors on a cosmic speck.
+
+Character 2: [shakily] My daughter asked me to wave when I got here. [Choked laugh] I told her she wouldn't be able to see me, but now [slower] I understand—she just wanted to know I was looking back.
+
+33 Character 1: [urgent whisper] Do you see that storm system? [rising intensity] It's heading straight for the Philippines. Millions of people, and they look like [voice drops] nothing from here. How can something so devastating be so beautiful?
+
+Character 2: [steadier] The sunset line is moving across Europe right now. [with wonder] Cities are lighting up like—like neurons firing. [Breath catches] Humanity refusing to let the darkness win, every single night, forever.
+
+34 Character 1: [hoarse] I feel like I should apologize to it. [more firmly] For everything we've done, all the scars we've left. But also thank it—[voice weakening] for keeping us alive despite ourselves all this time.
+
+Character 2: [laughing through tears] Remember when we argued about that parking spot last month? [Sniffling] God, what idiots. [softer, amazed] We're floating above paradise and we argue about painted lines on asphalt.
+
+35 Character 1: [reverent tone] That thin blue line of atmosphere—that's it. [sharper] That tissue paper barrier between us and the void. [Shaky breath] Every breath anyone has ever taken came from that impossibly delicate shell.
+
+Character 2: [overwhelmed] My grandmother died thinking I was wasting my life up here. [stronger] But this is exactly where humanity needs to be—[cracking again] witnesses to our own incredible story. We're Earth's mirror.
+
+36 Character 1: [very quiet] I don't want to go back. [pleading tone] How do you return to normal life after this? [Bitter laugh] Traffic jams and tax forms after seeing the face of God?
+
+Character 2: [gently] We have to go back. [with purpose] That's the whole point, isn't it? To return as messengers, [wavering] to tell them what their home actually looks like when you can finally see it clearly.
+
+37 Character 1: [thick with emotion] Look—Australia's coming into view. [gasping] Five minutes ago it was midnight there, now it's dawn. [Soft wonder] Eight billion souls spinning through space, and most never know it.
+
+Character 2: [philosophical tone] You know what strikes me most? [building intensity] The silence. All that life, all that chaos and beauty, and from here it's just [whispered] perfectly, absolutely silent. Like a dream.
+
+38 Character 1: [suddenly urgent] Sarah, are you recording this? [calmer] I need my kids to see what I'm seeing. [voice straining] How do you even explain that countries are just stories we tell ourselves?
+
+Character 2: [firmly] The camera can't capture this, Michael. [more gently] It's not just the view—it's this feeling of being cosmically small and infinitely important at the same time. [Shuddering] It's spiritual vertigo.
+
+39 Character 1: [nostalgic] Remember Carl Sagan's pale blue dot speech? [getting emotional] I thought I understood it before, but I didn't, I couldn't. [Breaking] We're motes of dust, but we're motes of dust that learned to dream.
+
+Character 2: [through tears] The sunrise is hitting the Himalayas. [awestruck] The tallest mountains on Earth look like wrinkles. [Laughing and crying] Everything we think is permanent is just... temporary geology.
+
+40 Character 1: [exhausted whisper] I'm emotionally destroyed, Sarah. [slightly stronger] But also somehow more whole than I've ever been. [Soft sob] Is this what birth feels like? Seeing the universe properly for the first time?
+
+Character 2: [peaceful] Maybe this is why we had to leave Earth. [profound tone] To turn around and fall in love with it properly. [quieter] To finally understand what home means when you're homesick for an entire planet.
+
+============================================================
+
+ITEMS 41-50 - GENERAL TAGS (351 words)
+
+Script: 444df9e1_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+41 Character 1: [cheerfully] Oh my gosh, we're sitting together! [getting louder] What are the odds? [Giggle] I just finished telling Rebecca from accounting about my colonoscopy last week—the prep was brutal but wow, the things they found were fascinating!
+
+Character 2: [quietly] Mmm. [uncomfortable pause] That's... something. [clearing throat] I usually just read during flights, actually. Got this new thriller I've been meaning to start for weeks now. The reviews say it's supposed to be quite good.
+
+42 Character 1: [enthusiastically] Books are great but real life is so much better! [speeding up] Speaking of which, my divorce papers finally went through yesterday. [Heavy sigh] Gary kept the boat but I got the cats—all seven of them!
+
+Character 2: [strained politeness] Seven cats. [slower] That's certainly a lot of... responsibility. [mumbling] Excuse me, I'm just going to put my headphones on now if you don't mind. Long flight ahead and I didn't sleep well.
+
+43 Character 1: [Gasp] You have insomnia too? [whispering conspiratorially] I've been taking these amazing pills my therapist prescribed. [normal volume] Well, technically my neighbor's therapist, but potato po-tah-to, right? They make me super chatty though!
+
+Character 2: [firmly] That's illegal. [more quietly] And dangerous. [Nervous laugh] Look, I really need to focus on my work—quarterly reports are due tomorrow morning and I haven't even started the executive summary yet.
+
+44 Character 1: [in disbelief] Work on vacation? [Snort] Life's too short! [rambling quickly] Like my uncle Eugene always said before the incident with the fireworks—you only live once! Want to see pictures of my rash? It's shaped like Elvis!
+
+Character 2: [horrified] Absolutely not. [through gritted teeth] Please keep your medical conditions to yourself. [Exhale] I'm going to try to sleep now, so if you could maybe lower your voice or perhaps find another topic of conversation?
+
+45 Character 1: [hurt tone] Oh, I'm sorry. [defensively] I just thought we were bonding! [brightening up] My therapist says I have boundary issues but honestly, what are boundaries anyway? Just walls we build between souls yearning for connection!
+
+Character 2: [monotone] Boundaries are healthy. [more emphatically] Very healthy. [Cough] In fact, I'm establishing one right now by closing my eyes and pretending this conversation never happened. Wake me when we land in Denver.
+
+46 Character 1: [excitedly] Denver? [louder] I'm going to Denver too! [rapid words] My ex-mother-in-law lives there and I'm surprising her even though the restraining order says fifty feet but technically airplanes don't count right?
+
+Character 2: [alarmed] Restraining orders definitely count everywhere. [lower voice] Including airplanes. [Groan] How did I get myself into this situation? Should've just paid extra for business class like my wife suggested.
+
+47 Character 1: [wistfully] Wives are the best. [sadly] I miss having one. [perking up] Hey, is yours the jealous type? Because my last three were and boy, the stories I could tell about the surveillance equipment they installed!
+
+Character 2: [curtly] My marriage is private. [ice cold] Completely private. [Bitter laugh] Unlike apparently everything else on this flight. Can you please just... exist quietly for the remaining four hours? Please? I'm begging you here.
+
+48 Character 1: [in a whisper] Four hours is nothing! [regular volume] Once I was constipated for four days. [dramatically] Four. Whole. Days. The emergency room nurse said it was the worst case she'd seen since nineteen ninety-eight!
+
+Character 2: [desperately] Flight attendant! [louder] Flight attendant! [pleading] Is there any other seat available? Any seat at all? I'll sit in the bathroom if necessary. This is becoming a medical emergency of my own.
+
+49 Character 1: [sympathetically] Oh honey, are you having digestive issues too? [helpfully] I have a whole pharmacy in my purse! [rustling sounds] Lactose pills, fiber supplements, something my shaman gave me that's technically not FDA approved but—
+
+Character 2: [defeated whisper] This is hell. [normal volume] I'm in actual hell. [Hysterical laugh] Thirty thousand feet up and nowhere to run. My therapist is going to hear about this. My very private, confidential, professional therapist.
+
+50 Character 1: [brightly] You have a therapist too? [sing-song voice] We have so much in common! [earnestly] Mine says I'm making real progress with my chronic oversharing and my tendency to trauma dump on strangers!
+
+Character 2: [sarcastically] Really? [deadpan] Couldn't tell. [Deep breath] You know what? Tell me everything. Every single detail about your life. Maybe if you get it all out now, you'll be quiet for landing.

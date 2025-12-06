@@ -1,0 +1,342 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: ffbee8d9 | Role: Character 2 (B)
+
+Character 1: I finished it.
+
+87 Character 2: Wait wait wait—finished what? Oh my god, is this about the—the thing you've been working on?
+
+Character 1: The novel. Yeah.
+
+88 Character 2: Holy—okay, I'm literally gonna cry right now. You actually did it? Like, the whole thing? Beginning, middle, end, all of it?
+
+Character 1: Three hundred and twelve pages.
+
+89 Character 2: Three hundred and— [Gasp] that's like, that's a real book! An actual real book that you wrote with your own brain and everything!
+
+Character 1: It's just a first draft.
+
+90 Character 2: No no no, don't you dare do that thing where you—where you minimize it, okay? This is huge. Like, do you know how many people say they're gonna write a novel and then just... don't?
+
+Character 1: Most of them, probably.
+
+91 Character 2: Exactly! And you're not—you're not one of them anymore. You're like, officially a novelist now. How does it feel? Are you, I dunno, relieved? Excited?
+
+Character 1: Tired, mostly.
+
+92 Character 2: Oh babe, I bet. When did you—actually wait, when did you even finish? Was it last night? Is that why you look kinda [Chuckle] zombie-ish today?
+
+Character 1: Three AM. Couldn't sleep after.
+
+93 Character 2: Three in the—okay that's so dramatic and perfect though, right? Like, finishing your first novel in the middle of the night? That's literally how it happens in movies!
+
+Character 1: Now I have to edit it.
+
+94 Character 2: Well yeah, but—but that's tomorrow's problem, y'know? Today you just gotta, like, let yourself actually feel proud of this. Have you told anyone else yet?
+
+Character 1: Just you.
+
+95 Character 2: Just—oh. [Softer] Oh wow, okay, that's... I'm really honored actually. Like really, really honored. Can I—would it be weird if I asked what it's about?
+
+Character 1: It's complicated. Family stuff. Ghosts, but not really ghosts.
+
+96 Character 2: Not really ghosts? That sounds—honestly that sounds exactly like something you'd write. Mysterious and kinda dark but probably, like, secretly really emotional underneath, right?
+
+--- EMPATHETIC PARTIAL ---
+
+Script: 2f550f4b | Role: Character 1 (A)
+
+97 Character 1: You double-booked us.
+
+Character 2: I—wait, what? No, I didn't. I mean, I couldn't have. Let me check my—[groan] oh god. Okay, yeah, I see it now. But this wasn't on purpose!
+
+98 Character 1: I waited for an hour.
+
+Character 2: Look look, I know that sucks, and I'm sorry you waited, but it's not like I deliberately stood you up. My calendar app has been glitching all week and I—I genuinely thought we were meeting tomorrow.
+
+99 Character 1: You could've checked. Or called.
+
+Character 2: Okay okay, but you're acting like I'm the only one who's ever made a scheduling mistake. Remember when you forgot my birthday dinner? I didn't—I wasn't this cold about it.
+
+100 Character 1: That was different.
+
+Character 2: How? How is that different? Because honestly, it feels like you're just looking for a reason to be mad at me right now. [frustrated laugh] I messed up, fine, but come on.
+
+101 Character 1: I rearranged my entire day for this.
+
+Character 2: And I get that, I do, but like—I also rearranged my day! I'm literally at another commitment I made weeks ago that I can't just bail on. You think I wanted this to happen?
+
+102 Character 1: Whatever. It's fine.
+
+Character 2: No, don't—don't do that. Don't say it's fine when you're clearly pissed. I'd rather you just yell at me than do this whole ice queen thing, y'know?
+
+103 Character 1: What do you want me to say?
+
+Character 2: I dunno, maybe acknowledge that people make mistakes? That I'm not some—some terrible friend because I accidentally double-booked one time? [sigh] This is exhausting.
+
+104 Character 1: One time. Right.
+
+Character 2: Okay, fine fine, maybe I've done it before, but it's not like—I mean, I'm juggling a lot right now, and yeah, sometimes things slip through. That doesn't mean I don't care about our plans.
+
+105 Character 1: Clearly.
+
+Character 2: That's—wow. Y'know what? I was gonna offer to make it up to you, buy lunch next week or whatever, but if you're gonna be like this about an honest mistake...
+
+106 Character 1: Don't bother.
+
+Character 2: Fine. I won't. But just so we're clear—I am sorry I messed up the scheduling. I'm just not sorry enough for whatever level of groveling you apparently need from me right now.
+
+--- MONOLOGUE SELFTALK ---
+
+107 SCENARIO: debating whether to wave back at someone who might not be waving at them
+
+==================================================
+
+[uncertain]
+
+Oh. Oh wait, is that— are they waving at me? I think— I think they're waving. But, um, but they could be waving at, like, literally anyone behind me, right? [nervous laugh] There's probably, uh, there's probably someone right behind me.
+
+[muttering quickly]
+
+Okay, so do I wave back? Because if I wave and they're not— if they're not actually waving at me, then I'm just, um, I'm just some weirdo waving at nothing. Which is— which is not great.
+
+[slightly panicked]
+
+But if they ARE waving at me and I don't wave back, then I'm, uh, I'm rude. I'm the rude person who ignores people. [exhale] God, why is this— why is this so complicated?
+
+[thinking out loud]
+
+I mean, I could do like a half-wave? Like a, um, like a little tentative wave that could maybe pass as just, uh, just adjusting my hair or something if it goes wrong?
+
+[resigned]
+
+Okay, okay, I'm just— I'm just gonna do it. Quick little wave. [pause] There. Done. And they're... yeah, they're waving back. So we're good. We're, um, we're all good here.
+
+--- CONVERSATION ---
+
+Script: 162546f9 | Role: Character 1 (A)
+
+108 Character 1: [whining] I don't want broccoli! [louder] It looks like tiny trees and trees are yucky! [crossing arms sound] Why can't I just have cookies for dinner? [pleading] Pleeease mommy, just this one time, I promise I'll eat vegetables tomorrow!
+
+Character 2: [exhausted sigh] Sweetheart, you said that yesterday. [firmly] And the day before. [more sternly] You need to eat real food to grow big and strong. Look, I'll put cheese on it—you love cheese, remember?
+
+109 Character 1: [suspicious] Cheese won't make it better. [dramatically] The green is still there hiding underneath! [fake crying] My tummy says no thank you! [whispered confession] Maybe if you made it into dinosaur shapes? But probably not even then.
+
+Character 2: [forced cheerfulness] How about we make it a game? [encouraging tone] One bite for Superman, one for Batman! [desperately] I'll even let you watch cartoons while eating. Please, just three tiny bites—that's all I'm asking for tonight.
+
+110 Character 1: [negotiating] Only if I get ice cream after. [quickly] And not the healthy kind with fruit! [stubbornly] Real chocolate ice cream with sprinkles on top. [mumbling] And maybe then I'll think about possibly considering eating one microscopic piece.
+
+Character 2: [frustrated growl] No dessert until vegetables! [more controlled] That's the rule and you know it. [pleading now] Other kids eat their veggies without all this drama. Don't you want to be a big kid like cousin Emma?
+
+111 Character 1: [offended gasp] Emma is weird! [tattling voice] She eats salad for fun! [disgusted] That's not normal, mommy. [matter-of-factly] I think her taste buds might be broken or something. Mine work perfectly—that's why vegetables taste so terrible.
+
+Character 2: [laughing despite frustration] Your taste buds aren't special detectives. [sarcastically] They're just picky. [softer now] Remember when you hated pizza? Now you beg for it every Friday. Sometimes we need to try things multiple times.
+
+112 Character 1: [thoughtful humming] Pizza is different though. [excitedly] It has cheese and bread and yummy red sauce! [back to whining] Broccoli is just... green. [dramatically flopping] Nothing good has ever been green except maybe green lollipops!
+
+Character 2: [deep breath] What about green apples? [hopefully] You love those! And green grapes? [more animated] Green gummy bears are your favorite! See, green foods can be delicious when you give them a proper chance.
+
+113 Character 1: [considering] Those don't count! [defensively] They're fruit and candy, not vegetables. [brightening suddenly] Wait, if you blend the broccoli into a smoothie with lots of berries, [calculating] then technically I wouldn't taste it, right?
+
+Character 2: [surprised] That's... actually not terrible. [cautiously optimistic] We could try that tomorrow. [more firmly] But tonight, these are already cooked. Two bites of regular broccoli now, [negotiating tone] and tomorrow we'll make your special smoothie.
+
+114 Character 1: [heavy sigh] Fiiiiine. [dramatically] But I need ketchup. [demanding] Lots and lots of ketchup! [warning tone] And if I throw up, it's your fault and you have to clean it all by yourself, okay?
+
+Character 2: [wearily] Deal. [relieved exhale] Here comes the ketchup bottle. [muttering] Whatever works at this point. I'm choosing my battles here, and if ketchup on broccoli means nutrients in your body, [resigned] then so be it.
+
+115 Character 1: [chewing reluctantly] It's... [surprised] not the worst thing ever. [suspiciously] Did you do something different? [accusingly] You tricked me somehow! This tastes like... almost like real food that humans could eat without dying!
+
+Character 2: [victorious laugh] See? [warmly] I told you it wasn't poison! [encouragingly] That's my brave little eater right there. One more bite and you've kept your promise. Then we can read your favorite bedtime story.
+
+116 Character 1: [mouth full] Can we read two stories? [swallowing] Since I'm being so brave? [proudly] I bet no other kid in the whole world has ever eaten this much broccoli! [hopeful whisper] Maybe even three stories?
+
+Character 2: [chuckling softly] Don't push your luck, munchkin. [lovingly] Two stories is fair. [teasingly] But only if you finish that last piece without making your "I'm dying" face. You know, the one you're making right now!
+
+117 Character 1: [giggling] I'm not making a face! [protestingly] This is just how I look when I'm being the bravest. [triumphantly] There, all done! [sing-song voice] Now you have to keep your promise about stories and tomorrow's smoothie!
+
+Character 2: [proudly] I'm so proud of you! [grateful sigh] Yes, promises are promises. [tenderly] Come on, let's go pick out those two stories. [whispered relief] And maybe mommy will have a big glass of wine after you're asleep.
+
+--- CONVERSATION ---
+
+Script: 7041f460 | Role: Character 1 (A)
+
+118 Character 1: [tense] The seating chart needs to be finalized by tomorrow morning. [speaking rapidly] I've color-coded everyone by dietary restrictions, family dynamics, and [sharp exhale] conversation compatibility. [firmly] We cannot have Uncle Gerald near the bar or your college friends.
+
+Character 2: [lazily] Tomorrow? [long yawn] Can't we just let people sit wherever they vibe? [chuckling] I mean, watching Uncle Gerald try to flirt with my college friends [slower] might actually be the entertainment we didn't know we needed.
+
+119 Character 1: [high-pitched] Entertainment?! [gasping breath] This is my wedding, not some social experiment! [getting louder] The centerpieces alone cost three hundred dollars each, and I will not have chaos disrupting the ambiance I've spent months cultivating!
+
+Character 2: [calmly] Three hundred per table? [soft whistle] Girl, for that price, they better be singing show tunes. [more relaxed] Look, people are coming for you two, not the flowers. [mumbling] Though singing flowers would be pretty cool.
+
+120 Character 1: [through gritted teeth] The timeline says hair and makeup starts at six AM sharp. [urgent whisper] That means five-thirty arrival for prep. [snapping] I've already sent seventeen reminders to the group chat—did you even read them?
+
+Character 2: [drowsily] Six in the morning? [groaning] The sun doesn't even know it exists then. [perking up slightly] How about we compromise—I'll bring coffee and donuts, [trailing off] and we'll call showing up by seven a win?
+
+121 Character 1: [shrieking] Seven?! [choking sound] The photographer arrives at eight-fifteen! [frantically] We have exactly two hours and fifteen minutes for six people's complete transformations, [voice breaking] and you're suggesting we lose an entire hour?
+
+Character 2: [soothingly] Breathe, honey, breathe. [gentle laugh] You know what? I'll set fourteen alarms. [more cheerfully] Plus, your cousin does makeup professionally—she could probably contour us all in her sleep. Everything will work out perfectly.
+
+122 Character 1: [coldly] Speaking of perfection, the bachelorette party needs a detailed itinerary. [building intensity] I'm thinking wine tasting at two, spa at four, [loud] dinner at seven-thirty sharp! [controlling] Everyone must RSVP with their exact meal choices.
+
+Character 2: [playfully] Or—hear me out—we could just show up somewhere fun? [giggling] Maybe hit that karaoke place downtown, [voice dropping] grab some tacos from that truck you love? [warmly] Sometimes the best nights aren't planned, they just happen.
+
+123 Character 1: [exasperated sigh] "Just happen"? [incredulous] Do you know what "just happens" when things aren't planned? [voice rising] Disasters! Forgotten vendors! [practically screaming] Missing bridesmaids! The wrong flowers! Complete and utter chaos everywhere!
+
+Character 2: [quietly] Okay, you're spiraling now. [more firmly] Remember your engagement party? [chuckle] Your printer broke, the caterer was late, but everyone said it was the best party ever. [tenderly] Because you were actually relaxed and happy.
+
+124 Character 1: [defensively] That was different! [voice cracking] This is the actual wedding! [pleading] Two hundred people are watching, judging, taking photos that will exist forever! [whispered panic] What if something goes wrong and it's all anyone remembers?
+
+Character 2: [steadily] Hey, look at me. [soft and slow] What they'll remember is you marrying your best friend. [getting stronger] They'll remember your happy tears, your terrible dancing, [laughing] and how you both couldn't stop smiling all night long.
+
+125 Character 1: [wavering] You really think people won't care if the napkins don't match the invitations? [nervous laugh] I spent three weeks choosing between "ivory" and "cream." [more quietly] Sometimes I dream about color swatches attacking me at night.
+
+Character 2: [amused] Color swatch nightmares? [louder laugh] Girl, you need a vacation after this vacation! [reassuringly] Listen, I promise to handle three things perfectly—just pick them. [diplomatically] You can control-freak the rest all you want.
+
+126 Character 1: [hopefully] Really? You'd do that? [quick exhale] Okay, the processional timing, making sure Grandma takes her medication, and [firmly] keeping my mother away from the microphone during speeches. [lighter] Those are absolutely non-negotiable, life-or-death priorities.
+
+Character 2: [confidently] Done, done, and absolutely done. [mischievous tone] I'll guard that mic like it's the last piece of wedding cake. [more seriously] Your mom's karaoke days are officially over. [whispering] At least until the after-party.
+
+127 Character 1: [relieved sigh] Thank you. [becoming emotional] I know I'm being crazy, but this day has to be perfect. [voice softening] Not for Instagram or the guests, but [catching breath] because I've dreamed about this since I was seven.
+
+Character 2: [warmly] And it will be perfect. [gentle] Not because every detail is planned, but because you're marrying him. [sighing happily] Plus, with me as your maid of honor, [jokingly] at least the disaster stories will be hilarious.
+
+--- CS ALPHANUMERIC ---
+
+Script: de1ae717 | Role: Customer Support
+
+Character 1: [angrily] Mr. Henderson, I'm standing here at 4782 Maple Drive looking at extensive water damage [voice rising] that wasn't mentioned anywhere in your report! [frustrated grunt] The entire basement ceiling is basically, um, falling apart—how did you miss this?
+
+128 Customer Support: Ma'am, I inspected that property on October 15th, report number HI-2023-8847. My documentation clearly states that I had limited access to the basement due to, uh, stored items blocking the area. Did you not read page 17 of the inspection report?
+
+Character 1: [sarcastically] Oh, page 17, of course! [louder] Listen, I paid $650 for a comprehensive inspection, not excuses about boxes! [accusingly] The damage extends at least, what, twelve feet across—you couldn't see ANY of that?
+
+129 Customer Support: [irritated] Mrs. Rodriguez, I photographed everything visible during my three-hour inspection. The seller had stacked furniture and boxes up to the ceiling in that corner, specifically grid reference B-4 through B-7. I can't x-ray through people's belongings!
+
+Character 1: [incredulous] Three hours? [scoffs] My contractor says this damage is at least two years old, maybe three! [demanding] The staining pattern shows it's been leaking since before—way before—your October visit!
+
+130 Customer Support: Look, moisture readings in adjacent areas showed 11-12% on my meter, completely normal range. Without visible access or elevated readings, I... I followed standard protocol ASHI-2019 guidelines. Every inspection has limitations, which you acknowledged by signing!
+
+Character 1: [voice shaking] This is going to cost me over $18,000 to repair! [desperate] My insurance claim number INS-44291-TX won't even cover it because it's pre-existing! [pleading] Can't you at least admit you should've investigated further?
+
+131 Customer Support: I understand you're upset, and eighteen thousand is... that's significant. [carefully] However, my liability is capped at the inspection fee per our contract, section 9.2.A. Have you contacted the seller about disclosure obligations?
+
+Character 1: [bitterly] The seller claims they didn't know either—convenient, right? [exhausted] My lawyer says without your report flagging it, we can't prove anything. [quietly furious] You've basically destroyed my case, Mr. Henderson.
+
+132 Customer Support: Mrs. Rodriguez, I'll... I'll review my photos from that day again, check if anything was missed. Send me your contractor's report to inspector@hendersonhi.com, and perhaps we can, um, discuss a partial refund? Though I maintain I followed proper procedures.
+
+--- CS NO-ALPHANUMERIC (from alpha) ---
+
+Script: 6299f732 | Role: Character 1
+
+133 Character 1: [shouting] What do you mean my daughter has a broken arm?! [voice cracking] I dropped her off at 8:15 this morning perfectly fine, and now you're telling me she's at—at Memorial Hospital on 2847 Oak Street?!
+
+Customer Support: D2: [apologetically] Mrs. Henderson, I understand you're upset. [steadier] Emma fell from the playground equipment around 10:30 AM, and we immediately called 911. [softer] Your emergency contact, your mother I believe, is already with her.
+
+134 Character 1: [furiously] The playground equipment? [louder] Which one exactly, because I specifically filled out form 23-B stating she wasn't allowed on the climbing tower! [voice trembling] This is completely unacceptable!
+
+Customer Support: D4: [nervously] Actually, it was the—the smaller slide structure, not the tower. [more calmly] According to our incident report number INJ-4521, she was going down backwards when another child accidentally bumped into her.
+
+135 Character 1: [incredulous] Backwards?! [shouting] Where was the supervision? [sarcastically] Don't I pay $1,850 a month for you people to actually watch these kids?
+
+Customer Support: D6: [defensive] Ms. Rodriguez was supervising, she has—has over 12 years of experience. [more firmly] The ratio was 1 to 6, well within state regulations. [quieter] Sometimes accidents just happen despite our best efforts.
+
+136 Character 1: [voice breaking] Don't give me that! [more angrily] I want to see the security footage from cameras 3 and 4 in the playground area. [demanding] And I want copies of every single staff certification by tomorrow morning!
+
+Customer Support: D8: [hesitant] The footage can be reviewed but, um, you'll need to submit a formal request to our main office at 5500 Wilshire Boulevard. [more confidently] However, I can email you the incident documentation right now to your registered email.
+
+137 Character 1: [bitterly] Oh, how convenient, more paperwork! [louder] My four-year-old is in the hospital with a fractured radius, and you're worried about—about protocols? [scoffs] This is lawsuit material, you understand that?
+
+Customer Support: D10: [pleading] Mrs. Henderson, please, we're—we're devastated this happened. [more sincerely] Our insurance claim number is already filed as CLM-789-2024A. [gently] Right now though, shouldn't you be heading to the hospital to be with Emma?
+
+138 Character 1: [quieter] I'm already in my car, doing 75 on Interstate 405! [voice shaking] But don't think this conversation is over. [firmly] I want a meeting with the director Monday at 9 AM sharp!
+
+Customer Support: D12: [relieved] Of course, I'll—I'll schedule that with Director Johnson immediately. [more professionally] She'll be in our conference room B at that time. [warmly] Please give Emma our best wishes for a speedy recovery.
+
+139 Character 1: [sarcastically] Your best wishes? [louder] That's really helpful right now! [sighs heavily] Just have all the documentation ready, including Teacher Rodriguez's file and that other child's information.
+
+Customer Support: D14: [cautiously] We can't release other children's information due to privacy laws, but, um, everything else will be prepared. [more assertively] The full report, staff schedules from today, and our safety inspection records from last month.
+
+140 Character 1: [frustrated] Privacy laws! [groans] My baby is hurt and you're protecting the kid who caused this? [more controlled] Fine, but I want the parents contacted—room 4B, the Mitchell boy, right?
+
+Customer Support: D16: [uncomfortably] I—I can't confirm any names, Mrs. Henderson. [steadier] But all involved parties' parents have been notified per our policy 7.3.2. [sympathetically] I know this is incredibly difficult for you.
+
+141 Character 1: [exhausted] You have no idea. [voice cracking] She's four years old, she was so excited about show-and-tell today, brought her—her favorite stuffed unicorn. [sniffling] Now she's getting X-rays instead.
+
+Customer Support: D18: [gently] We actually saved her unicorn, it's—it's safe in her cubby number 27. [more warmly] Ms. Rodriguez said Emma was very brave when it happened. [reassuringly] She even helped calm down the other children who were scared.
+
+142 Character 1: [softer] She did? [sighs] That sounds like my Emma. [more firmly] Look, I'm pulling into the hospital now, parking garage level C-3. [determined] But this isn't over, not by a long shot.
+
+Customer Support: D20: [understanding] Absolutely, we'll discuss everything on Monday. [sincerely] The incident report will be in your inbox within the hour, case reference DC-20241108-EM. [quietly] Please take care, Mrs. Henderson, and—and give Emma a hug from all of us.
+
+--- BASIC SCENARIOS ---
+
+143 [Slow] So, um, just gonna keep looking at that poster on the wall—is that, is that a beach or mountains? [Fast] I honestly can't tell from here.
+
+144 [Happy] Hey, you know what, I'm actually doing pretty good—like, way better than last time! [Chuckle]
+
+145 [Whisper] Okay, okay, breathing in... and out... just like they—wait, am I supposed to squeeze this thing now? [Sigh]
+
+146 [Sarcastic] Oh sure, "just a little pinch," they said—more like a, uh, like a very aggressive mosquito, right? [Tsk]
+
+147 [Fast] Is it normal that I can kinda hear my heartbeat or is that just—no, that's probably fine, totally fine.
+
+148 [Sad] I really wanna help people, I do, but my arm is feeling so—I mean, it's worth it though. [Slow] Right?
+
+149 [Angry] Why did I look—I specifically told myself not to look at the needle and then I just—ugh! [Groan]
+
+150 [Disappointed] I thought I'd be, you know, braver about this whole thing by now. [Sigh] Guess not.
+
+151 [Slow] The nurse seems nice—she's got, um, really steady hands, which is... that's good, that's what you want. [Chuckle]
+
+152 Eight minutes, she said eight minutes, so that's basically—wait, has it only been two? [Fast] [Groan]
+
+153 [Happy] You know what, I'm literally saving lives here, so a little—a little wooziness is nothing! [Laugh]
+
+154 [Whisper] Don't think about the bag, don't think about the bag, don't think about—oh God, I'm thinking about the bag. [Tsk]
+
+155 [Shout] Wait, is it supposed to feel cold like that? [Fast] That's—that's a normal sensation, right?
+
+156 [Sarcastic] Sure, let's chat about the weather while there's a tube in my—yeah, lovely sunshine we're having! [Chuckle] [Sigh]
+
+157 I'm gonna get juice after this, right—they promised juice and, um, maybe those little cookies? [Happy] [Fast]
+
+158 [Slow] My mom always said I was brave for doing this, but honestly I just—I dunno if she'd still think that seeing me now. [Disappointed]
+
+159 [Angry] No, no, I'm fine, I just—I hate when people hover, y'know? [Fast] Seriously, I got this!
+
+160 [Whisper] If I just count ceiling tiles backwards from fifty, it'll be over before—forty-nine, forty-eight... [Slow]
+
+161 [Sad] I keep thinking about all the people who need this and—actually, that kinda helps? [Sigh] Sort of?
+
+162 [Happy] Almost done—wait, really, that's it? [Laugh] I basically psyched myself out over nothing!
+
+--- MONOLOGUE ---
+
+163 SCENARIO: Matter-of-factly talking about a shared document they edited, then checking the history, then seeing everyone can see their embarrassing edit history, spiraling into document transparency horror
+
+==================================================
+
+[matter-of-fact]
+
+So I, um, I finished editing that, uh, that quarterly report we've been working on. You know, the one with all the— all the budget projections? Yeah, I just, um, I cleaned up some of the formatting and added those, uh, those charts you mentioned.
+
+[casual]
+
+I was gonna, um, I was gonna send it back to everyone but then I thought, you know what, let me just— let me double-check what I changed first. So I, uh, I clicked on that little history thing, the, um, the version history tab, right?
+
+[slightly uncomfortable]
+
+And I'm scrolling through and I see all my edits and it's like, okay, fine, whatever, but then I notice— I notice it shows, um, it shows everything I typed. Like even the— even the stuff I deleted, you know? Which is, uh, which is weird but—
+
+[realization dawning]
+
+Wait. Wait, hang on. [nervous laugh] Oh no. Oh, um, oh god. It's showing— it's showing where I wrote "Dave is such an idiot" in the margins and then deleted it. And where I, um, I wrote "this budget is absolute garbage" and— [sharp exhale] and then changed it to "needs revision."
+
+[spiraling]
+
+Everyone can see this! Sarah, Dave, the, um, the whole executive team— they can all see where I called the CEO's presentation "mind-numbingly boring" before I— before I deleted it and wrote "comprehensive!" [groan] How long has this been— how long has everyone been able to see my, um, my uncensored thoughts about everything?
+
+[panicked]
+
+Oh my god, I've been, um, I've been editing documents for months thinking I was being so professional and— and diplomatic, but the whole time everyone could see me calling Janet's ideas "completely unhinged" and— [whimper] I'm never touching a shared document again. Never. I'm, um, I'm gonna have to quit. I have to quit my job because of Google Docs!
+

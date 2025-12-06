@@ -1,0 +1,559 @@
+ACTOR LINE ASSIGNMENTS - 92 ITEMS (~1821 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  291 words ( 16.0%)
+
+  monologues_selftalk :  214 words ( 11.8%)
+
+  conversation        :  343 words ( 18.8%)
+
+  cs_alpha            :  185 words ( 10.2%)
+
+  cs_noalpha          :  136 words (  7.5%)
+
+  basic_scenarios     :  362 words ( 19.9%)
+
+  monologues          :  290 words ( 15.9%)
+
+  TOTAL               : 1821 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (55 words)
+
+Script: bd1e69de_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You took her side.
+
+86 Character 2: I didn't—okay, wait, that's not what happened. I wasn't taking anyone's side, I was just trying to help. You guys were both upset and I thought—I dunno, I thought maybe I could fix things.
+
+Character 1: Without even asking me what happened.
+
+87 Character 2: Because I thought I knew! She told me the whole story and it sounded like—[sigh] look, it sounded pretty straightforward. Was I supposed to assume she was lying?
+
+Character 1: You were supposed to talk to me first.
+
+88 Character 2: Okay okay, but you weren't answering your phone! And she was like, crying, and I—what, I'm just gonna tell her to wait while I track you down? Come on.
+
+Character 1: So you just believed her.
+
+89 Character 2: I mean... yeah? She's my friend too, y'know? And honestly, the way she described it made sense. I'm not saying you're wrong, but like—I had to make a judgment call [frustrated laugh] and apparently I made the wrong one.
+
+Character 1: Apparently.
+
+90 Character 2: That's—wow, okay. You're really gonna be like this? I was trying to help. Maybe I messed up, fine, but I wasn't trying to hurt you or—or betray you or whatever you think this is.
+
+Character 1: You told her I was being unreasonable.
+
+91 Character 2: No no no, that's not—I said maybe you both needed space to cool off. That's different. You're twisting what I—[groan] this is exactly what I was trying to avoid.
+
+Character 1: By picking sides.
+
+92 Character 2: I wasn't picking—! Ugh, you know what? Fine. Maybe I should've waited to hear your version. But you're acting like I did this maliciously when I literally just wanted everyone to stop fighting.
+
+Character 1: Three years of friendship and you couldn't give me the benefit of the doubt.
+
+93 Character 2: That's not fair. That's really not fair. I've had your back so many times, and now—one time—I make a call without consulting you first and suddenly I'm the worst friend ever? Seriously?
+
+Character 1: You made me look like the bad guy.
+
+94 Character 2: I didn't mean to! God, I—look look, I'm sorry that's how it came across, okay? But I'm also kinda frustrated that you won't even consider that maybe I was in an impossible situation here. Like, what was the right move? Tell me.
+
+Character 1: Staying out of it. Or asking me.
+
+95 Character 2: Yeah, well... [scoff] hindsight's pretty convenient, isn't it? I'm sorry I'm not perfect. I'm sorry I tried to help and made things worse. But I'm not gonna apologize for caring about both of you.
+
+Script: 59f7670d_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: We need to talk about yesterday.
+
+96 Character 2: Oh god, okay—I know, I know what you're gonna say. I was being a total jerk about the movie thing, wasn't I? Like, I just kept going on and on about how the book was better and—ugh, I'm doing it again, aren't I?
+
+Character 1: You do this every time.
+
+97 Character 2: Wait, every time? That's—okay no, you're right. You're totally right. I do, don't I? [nervous laugh] It's just like, I get so caught up in wanting to explain my point that I don't even realize I'm—I'm basically steamrolling everyone else.
+
+Character 1: The restaurant. The directions. The movie. Today with Jake's story.
+
+98 Character 2: Oh my god, Jake's story—I literally corrected him about his own vacation. That's... that's actually insane. Like who does that? I just—I heard him say Prague was in Poland and my brain just went into autopilot mode, y'know?
+
+Character 1: It's exhausting.
+
+99 Character 2: I'm sorry. I'm really, really sorry. It's not—I don't think I'm better than everyone, I swear. My mom used to do this exact same thing and I hated it [groan] and now I'm literally turning into her.
+
+Character 1: I can't even share an opinion anymore.
+
+100 Character 2: That's not—no wait, that is true, isn't it? God, you must feel like you're walking on eggshells around me. Like you can't just... talk without me jumping in with some "well actually" bullshit. That's so messed up.
+
+Character 1: Yeah. It is.
+
+101 Character 2: I think maybe I just—okay this isn't an excuse, but like, growing up I always felt kinda stupid? And now when I know something, I just... I dunno, I wanna prove I'm not? But that's not fair to you. Or anyone.
+
+Character 1: You're not stupid. You're just annoying about being smart.
+
+102 Character 2: Ha, yeah that's—that's actually worse somehow. Um, look, I know saying sorry doesn't fix it, but I genuinely wanna work on this. Like, maybe you could... I dunno, give me a signal when I'm doing it? [nervous laugh]
+
+Character 1: I've been trying to. For months.
+
+103 Character 2: Oh. Oh shit, really? I just—I completely missed that, didn't I? God, I'm so sorry. You've been trying to tell me and I just kept... being me. That must've been so frustrating.
+
+Character 1: Can you just... try to catch yourself? Before I have to say something?
+
+104 Character 2: Yes. Yes, absolutely. I'm gonna—I'll literally bite my tongue if I have to. And if I slip up, which I probably will at first 'cause habits are hard—but just, just call me out immediately, okay? I promise I won't get defensive.
+
+Character 1: Okay. We'll see.
+
+105 Character 2: Thank you for—for telling me. I know that wasn't easy. And I know I've probably made you feel like your thoughts don't matter, but they do. They really, really do. I'm gonna do better, I promise.
+
+Script: 6c560bbc_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: I had to hear from Marcus that you're moving to Seattle.
+
+106 Character 2: Oh god, I—I was gonna tell you, I swear. It's just been so crazy lately and I kept waiting for the right time to—okay that sounds terrible when I say it out loud.
+
+Character 1: Three months. You've known for three months.
+
+107 Character 2: I know, I know, that's—that's way too long. I just kept chickening out because I knew you'd be upset and then the longer I waited the worse it got, y'know? Like I'd think about telling you and then [nervous laugh] I'd literally just panic.
+
+Character 1: So you told everyone else instead.
+
+108 Character 2: No no no, that's not—Marcus only knows because he saw the boxes when he came over. I didn't mean for him to find out before you, honestly. You're literally the person I wanted to tell most but also the person I was most scared to tell? If that makes sense?
+
+Character 1: It doesn't.
+
+109 Character 2: Right. Yeah, no, you're right. I'm—I'm really messing this up. [Sigh] Look, I've been terrified of this exact conversation because you mean so much to me and I didn't wanna—I couldn't handle the thought of you hating me.
+
+Character 1: So lying was better?
+
+110 Character 2: It wasn't lying! It was—okay, fine, omission is basically lying. You're right. I just kept telling myself I'd tell you tomorrow, and then tomorrow would come and I'd be like "oh but we're having such a good time, I don't wanna ruin it" and—god, I'm such a coward.
+
+Character 1: When do you leave?
+
+111 Character 2: Um, end of next month. But wait wait wait—I'm gonna visit all the time! Like, seriously, I already looked up flights and they're super cheap if you book in advance, and my new job is remote three days a week so I can basically work from here sometimes.
+
+Character 1: You took a new job too. Of course you did.
+
+112 Character 2: That's—that's actually why I'm moving. They offered me this insane position and I couldn't turn it down but—I shoulda talked to you about it. [Groan] You've always been the person I go to for big decisions and I completely shut you out of this one.
+
+Character 1: Yeah. You did.
+
+113 Character 2: I'm sorry. Like, genuinely, from the bottom of my heart sorry. I know those are just words and they probably don't mean much right now but—I dunno, I guess I was so scared of losing you that I ended up doing exactly the thing that would make me lose you anyway.
+
+Character 1: I wouldn't have tried to stop you.
+
+114 Character 2: I know. I know you wouldn't have, you're—you're literally the most supportive friend I've ever had. That's what makes this worse, honestly. You woulda been happy for me even though it meant me leaving and I just... I robbed us both of that, didn't I?
+
+Character 1: I need some time to process this.
+
+115 Character 2: Yeah, totally, of course. Take all the time you need. I just—can we maybe get coffee before I leave? Even if you're still mad? I promise I'll tell you everything, like every single detail about the job and the apartment and—everything. No more secrets, I swear.
+
+Script: 114d7a78_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Saw your Instagram story. All five of them.
+
+116 Character 2: Oh... oh no. Listen, I—I know how this looks, okay? I know I haven't texted you back and that's—that's really shitty of me, I get it.
+
+Character 1: Three days. My text has been sitting there for three days.
+
+117 Character 2: I know, I know! And I kept meaning to—like, I literally opened it so many times but then I'd get distracted or someone would call me or—[groan] that sounds so lame. I'm sorry, that's such a bad excuse.
+
+Character 1: But you had time to post about your lunch.
+
+118 Character 2: That's not—okay, yeah, I see how that looks really bad. It's just, posting is like... mindless? Y'know? But texting you back, I wanted to give you like a real response, not just some half-assed thing while I'm—wait, that's making it worse, isn't it?
+
+Character 1: So I'm too much effort. Got it.
+
+119 Character 2: No no no! That's not what I meant at all! You're not—god, I'm really messing this up. [nervous laugh] You're important to me, like really important, which is why I wanted to... to actually have the mental energy to respond properly? But then I just kept putting it off and—ugh, I'm the worst.
+
+Character 1: Yeah. You kind of are.
+
+120 Character 2: I deserve that. I really—I totally deserve that. Look, I've been doing this thing where I just... scroll mindlessly when I'm anxious? And posting stories is like, two taps, but actually having conversations feels... overwhelming sometimes? That's not an excuse though, I'm just trying to—to explain, I guess.
+
+Character 1: Every time. You do this every single time.
+
+121 Character 2: I know. Shit, I—I really do, don't I? It's like this stupid pattern and I keep saying I'll be better but then I just... don't. [sigh] I'm literally the worst friend, I don't even know why you put up with me honestly.
+
+Character 1: I'm starting to wonder that myself.
+
+122 Character 2: Wait, please don't—okay, I deserved that too. But seriously, I wanna fix this. Like, actually fix it, not just say I will and then go back to being a crappy friend who can't even text back.
+
+Character 1: How many times have you said that?
+
+123 Character 2: Too many. Way too many times, you're right. But maybe—maybe you could call me out? Like, immediately? When I do it? Because sometimes I don't even realize I'm—that's not your job though, is it? God, I'm asking you to manage my issues for me, that's so unfair.
+
+Character 1: I just want my friend back. The one who actually talks to me.
+
+124 Character 2: I'm still—I'm still here, I promise. I've just been really bad at showing it and that's... that's on me. Completely on me. Y'know what? I'm gonna text you back right now. Like literally right this second. And tomorrow. And the day after.
+
+Character 1: Don't make promises you can't keep.
+
+125 Character 2: No, you're—you're right. Okay. How about... I'll just try to be better? One day at a time? And if I don't text back within like, a day, you have full permission to spam me with those awful memes you love. [quieter] I really am sorry. I miss talking to you too.
+
+Script: 4e260ed1_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: I got the job.
+
+126 Character 2: Wait wait wait—the teaching one? The one at—oh my god, are you serious right now? That's amazing! I mean, I knew you'd get it but like, this is actually happening!
+
+Character 1: Yeah. Start in the fall.
+
+127 Character 2: Fall semester, that's—that's so soon! Okay okay, tell me everything. Like what grade are you gonna be teaching? Is it the school you really wanted or was it the other one?
+
+Character 1: The good one. Tenth grade English.
+
+128 Character 2: The good—[Laugh] of course you'd call it that. But no, seriously, that's literally perfect for you. You're gonna be so good with those kids, they have no idea what they're in for.
+
+Character 1: It's just teaching.
+
+129 Character 2: Um, excuse me? Just teaching? No no no, you've been talking about this for like—what, three years now? This is huge! Are you not, like, even a little bit excited?
+
+Character 1: I am. Just processing.
+
+130 Character 2: Oh. Oh okay, yeah that's—I get that. It's probably kinda overwhelming, right? Like you work so hard for something and then suddenly it's real and you're like... now what? [Softer] That makes total sense actually.
+
+Character 1: Exactly. Plus I have to move.
+
+131 Character 2: Right, the commute would be—wait, are you nervous about that? Moving? Because honestly, a fresh start might be exactly what you need, y'know?
+
+Character 1: Maybe. It's a lot.
+
+132 Character 2: Yeah but like—okay think about it this way. New apartment, new job, new everything. You can basically reinvent yourself if you want to. That's kinda exciting, no?
+
+Character 1: I don't want to reinvent myself. I just want to teach.
+
+133 Character 2: That's—[Chuckle] okay fair point. But still, you're gonna be amazing at this. Like, remember when you tutored my cousin? She literally went from failing to getting B's.
+
+Character 1: That was different.
+
+134 Character 2: How? How is it different? You're good at this stuff—explaining things, being patient, all of it. Those kids are so lucky to have you, seriously.
+
+Character 1: We'll see how it goes.
+
+135 Character 2: No, we won't "see"—we already know. You're gonna walk in there and just... be yourself, and that's gonna be more than enough. I'm really, really proud of you, y'know? This is everything you wanted.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (63 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (55 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (67 words)
+
+============================================================
+
+============================================================
+
+ITEMS 41-50 - EMPATHETIC PARTIAL (51 words)
+
+============================================================
+
+============================================================
+
+ITEMS 52-61 - CONVERSATION (343 words)
+
+Script: 275db5f6
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+136 Character 1: [trembling voice] Look at her up there, our baby girl. [Sniffling] She's speaking with such confidence, such grace—remember when she was terrified of presentations? [whispered] I can't believe this is real.
+
+Character 2: [choked up] Twenty years went by in a heartbeat. [steadying breath] She just quoted Maya Angelou like she was born to inspire people. [proudly] That's our daughter making everyone in this auditorium believe in themselves.
+
+137 Character 1: [through tears] Did you hear what she said about overcoming her learning disability? [voice breaking] She turned every single struggle into strength. [louder] I'm recording this but I can barely hold the phone steady right now!
+
+Character 2: [hushed awe] The way she thanked her third-grade teacher just now... [Deep exhale] Mrs. Patterson is crying in the front row. [warmly] Our girl remembers everyone who helped her along this incredible journey.
+
+138 Character 1: [excitedly] She's mentioning the science fair disaster! [Soft laugh] When her volcano exploded all over the judges, we thought her academic career was over. [getting quieter] Now she's headed to MIT on full scholarship.
+
+Character 2: [shaky whisper] Stop making me laugh while I'm crying! [more firmly] Look how the other parents are watching her, hanging on every word. [Quiet sob] She's not just our pride anymore—she belongs to the world.
+
+139 Character 1: [breathlessly] Her voice just cracked talking about her brother's support. [increasingly emotional] Even from across the country, he's watching the livestream. [Gasping] Oh God, she's looking right at us now with those beautiful eyes.
+
+Character 2: [gentle tone] Wave back, honey, she needs to see us. [voice rising] This moment, this exact second, is everything we ever dreamed of and more. [Sigh] I wish my mother could have lived to witness this.
+
+140 Character 1: [nostalgic whisper] She would have been the proudest grandmother alive. [stronger] Remember when we worried she'd never catch up academically? [Nervous laugh] Now she's giving advice to five hundred graduates about pursuing excellence.
+
+Character 2: [overwhelmed] Every sacrifice, every late night helping with homework, every tear we dried—it all led here. [slow and deliberate] She just used the phrase we taught her: "courage is fear walking forward." [Whimper] I'm completely undone.
+
+141 Character 1: [barely audible] The standing ovation is starting already. [building volume] Everyone's on their feet before she's even finished! [Loud sob] My heart might actually burst from this much pride in one human being!
+
+Character 2: [reverently] Listen to that applause thundering through the room. [quickening pace] She's trying not to cry but I can see her chin trembling from here. [passionate] That's my girl up there, changing lives with her words!
+
+142 Character 1: [fierce pride] She just mouthed "I love you" to us! [Shuddering breath] How did we create someone so magnificent, so capable of moving mountains? [softer] I'm going to need tissues for the rest of my life.
+
+Character 2: [in disbelief] The principal is wiping his eyes too. [gradually louder] Our daughter just made the toughest administrator in the district cry with her speech! [Gentle laugh] She got her way with words from you, sweetheart.
+
+143 Character 1: [defensive but loving] And her determination from you! [Snorting laugh] Oh no, she's doing the thing where she adjusts her cap when nervous. [tenderly] Some things never change, even when your baby becomes valedictorian.
+
+Character 2: [urgent whisper] Quick, she's walking back to her seat! [more intensely] Stand up, we need her to see how proud—oh wait, everyone's already standing! [Choking up] This applause might never end, and I'm okay with that.
+
+144 Character 1: [wobbly voice] Did you get photos of every second? [frantically] Please tell me the video is still recording because I was crying too hard to see half of it! [Breathing heavily] We'll watch this forever, won't we?
+
+Character 2: [soothingly] Every anniversary, every birthday, every time we need reminding that miracles exist. [firm conviction] That young woman just proved that greatness isn't given, it's earned. [whispered awe] And somehow, impossibly, she's ours to love.
+
+145 Character 1: [exhausted joy] My face hurts from smiling and crying simultaneously. [Shaky laugh] Is this what they mean by happy tears creating rivers? [contemplatively] I never knew pride could physically hurt this good inside your chest.
+
+Character 2: [profound calm] She's done it—transformed from our little girl into this force of nature. [voice swelling] Today she's valedictorian, but tomorrow? [Soft weeping] Tomorrow she changes the world, and we get front row seats.
+
+============================================================
+
+ITEMS 62-66 - CS ALPHANUMERIC (185 words)
+
+Script: ab7ae5ba
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [confused] Hi, yeah, I'm calling about my, uh, cloud thing? [sighs] It's not doing what it's supposed to do—the files, they're just... [trails off] not there when I need them on my other computer.
+
+146 Customer Support: Good afternoon, I'd be happy to help you with your sync issues. Could you please provide me your account email or customer ID number? That's the 8-digit code starting with CS.
+
+Character 1: [frustrated] Oh, right, um, let me see... [mumbling] I think it's something like CS4521... no wait, [louder] CS4523876? The email might be johnsmith82@something—I have like three emails, you know?
+
+147 Customer Support: I found account CS4523876 under johnsmith82@cloudmail.com. Now, when you say files aren't there, are they missing from folder A-1247 on your desktop, or not appearing on your laptop device ID LPT-9982X?
+
+Character 1: [exasperated] I don't know about any A-twelve-whatever! [groans] Look, I save my stuff in the blue folder icon thingy at 3:45 PM yesterday, [desperately] and then poof—nothing shows up on the other machine!
+
+148 Customer Support: I understand your frustration, sir. Our logs show your last sync from IP address 192.168.1.42 was interrupted at 3:47 PM. Have you checked if both devices are running client version 7.2.1 or higher?
+
+Character 1: [bewildered] Version seven point... what? [sarcastically] How am I supposed to know that? [sighs heavily] The computer just says "CloudSync" and there's a spinning circle that never, ever stops spinning—been going for like 2 hours now!
+
+149 Customer Support: [sympathetically] The endless spinning usually indicates a connection issue. Can you click Help, then About, and read me the version number? [encouragingly] Also, are you connected to network "Home_5G" or "Home_2.4G" on address 421 Maple Street?
+
+Character 1: [surprised] How did you—never mind, yes, Maple Street. [muttering] Okay, it says... version 6.8.3? [defensively] But I thought it updated itself automatically! My nephew said everything updates itself these days, that was the whole point!
+
+150 Customer Support: [gently] Ah, there's our problem—version 6.8.3 is outdated. You'll need to manually update to 7.2.1 by downloading patch KB2024-887. Once updated, your 47.3 GB of data should sync properly within 15-20 minutes, depending on your connection speed.
+
+============================================================
+
+ITEMS 67-71 - CS NO-ALPHANUMERIC (136 words)
+
+Script: a5f895a5
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+151 Customer Support: [briskly] Next customer, please! Hi there, how can I help you today? Returns are right here at this counter.
+
+Character 1: [exhausted] Yeah, I need to... um... return this bread maker. [sighs heavily] It's still in the box, never even opened it—bought it last week during that big sale.
+
+152 Customer Support: [quickly] Alright, let me pull up your receipt in the system. [more cautiously] I do see here that unopened appliances have a fifteen percent restocking fee. Will that be okay?
+
+Character 1: [confused] Wait, what? A restocking fee? [groans] Nobody mentioned that when I bought it. Why do I have to pay to return something I never even touched?
+
+153 Customer Support: I understand your frustration, really. The fee covers processing and inspection costs—it's printed on the receipt and posted at checkout, but I know it's easy to miss.
+
+Character 1: [irritated] This is ridiculous. I just... I bought it on impulse and realized I don't have counter space. [pleading] Can't you just waive it this once?
+
+154 Customer Support: Let me check with my manager real quick. Since you're a rewards member and it's unopened, maybe—just maybe—we can work something out for you.
+
+Character 1: [hopefully] Oh, thank God. [sighs] I've been standing in lines all day, my feet are killing me, and [desperately] I just want this nightmare shopping trip to end.
+
+155 Customer Support: Good news! My manager approved a one-time courtesy waiver, so you'll get the full refund. Just need your signature here and we're all set.
+
+Character 1: [relieved] You're a lifesaver, seriously. [gratefully] Thank you so much—I promise I'll read the fine print next time before I go crazy at sales.
+
+============================================================
+
+ITEM 156 - BASIC SCENARIO (22 words)
+
+============================================================
+
+156 [Sad] I literally just said that exact same thing five minutes ago, but, um, nobody even—it's like I wasn't even there. [Sigh]
+
+============================================================
+
+ITEM 157 - BASIC SCENARIO (22 words)
+
+============================================================
+
+157 [Angry] [Fast] Oh great, yeah, just talk right over me again, that's totally fine, I'll just sit here like furniture I guess.
+
+============================================================
+
+ITEM 158 - BASIC SCENARIO (17 words)
+
+============================================================
+
+158 [Whisper] Sometimes I wonder if I'm, like, actually a ghost and just don't know it yet. [Chuckle]
+
+============================================================
+
+ITEM 159 - BASIC SCENARIO (18 words)
+
+============================================================
+
+159 [Disappointed] [Slow] I used to be the one everyone turned to, you know? Now I'm just... background noise.
+
+============================================================
+
+ITEM 160 - BASIC SCENARIO (18 words)
+
+============================================================
+
+160 [Sarcastic] Wow, thanks for acknowledging my existence when you need someone to, uh, split the check with. [Tsk]
+
+============================================================
+
+ITEM 161 - BASIC SCENARIO (17 words)
+
+============================================================
+
+161 [Happy] Wait, you actually heard what I said? [Laugh] That's—that's honestly the highlight of my whole week!
+
+============================================================
+
+ITEM 162 - BASIC SCENARIO (19 words)
+
+============================================================
+
+162 [Sad] [Whisper] I could probably just leave right now and nobody would notice for, like, an hour at least.
+
+============================================================
+
+ITEM 163 - BASIC SCENARIO (13 words)
+
+============================================================
+
+163 [Angry] [Shout] HELLO? I'M LITERALLY RIGHT HERE! Can anybody—does anyone even see me?
+
+============================================================
+
+ITEM 164 - BASIC SCENARIO (20 words)
+
+============================================================
+
+164 [Disappointed] I keep trying to jump into the conversation but it's like there's this, um, invisible wall or something. [Groan]
+
+============================================================
+
+ITEM 165 - BASIC SCENARIO (23 words)
+
+============================================================
+
+165 [Fast] [Happy] Oh my god, someone finally asked my opinion about something, quick, I gotta say something smart before they forget I exist!
+
+============================================================
+
+ITEM 166 - BASIC SCENARIO (15 words)
+
+============================================================
+
+166 [Slow] [Sad] Maybe I'm just not interesting enough anymore, I dunno, maybe I never was.
+
+============================================================
+
+ITEM 167 - BASIC SCENARIO (17 words)
+
+============================================================
+
+167 [Sarcastic] [Chuckle] Sure, let's all make plans while I'm sitting right here—I totally love finding out secondhand.
+
+============================================================
+
+ITEM 168 - BASIC SCENARIO (18 words)
+
+============================================================
+
+168 [Whisper] [Disappointed] I've been raising my hand for like ten minutes but everyone just... looks right through me.
+
+============================================================
+
+ITEM 169 - BASIC SCENARIO (15 words)
+
+============================================================
+
+169 [Angry] You know what? I'm done trying to—actually, why do I even bother? [Tsk] [Sigh]
+
+============================================================
+
+ITEM 170 - BASIC SCENARIO (17 words)
+
+============================================================
+
+170 [Happy] [Fast] Someone laughed at my joke! Did you hear that? They actually heard me say something!
+
+============================================================
+
+ITEM 171 - BASIC SCENARIO (18 words)
+
+============================================================
+
+171 [Slow] It's kinda like being at your own funeral, except, uh, less people care that you're there. [Sad]
+
+============================================================
+
+ITEM 172 - BASIC SCENARIO (16 words)
+
+============================================================
+
+172 [Sarcastic] [Laugh] I should start charging admission for my amazing invisible woman act—it's apparently very convincing!
+
+============================================================
+
+ITEM 173 - BASIC SCENARIO (19 words)
+
+============================================================
+
+173 [Disappointed] [Slow] I used to fight for attention but honestly? I'm just... I'm too tired to keep trying anymore.
+
+============================================================
+
+ITEM 174 - BASIC SCENARIO (18 words)
+
+============================================================
+
+174 [Shout] [Angry] I EXIST! I have thoughts and feelings and—and why am I even yelling, nobody's listening anyway.
+
+============================================================
+
+ITEM 175 - BASIC SCENARIO (20 words)
+
+============================================================
+
+175 [Whisper] Maybe if I just, um, slowly fade into the wallpaper, it'll hurt less than pretending I belong here. [Sigh]

@@ -1,0 +1,303 @@
+ACTOR LINE ASSIGNMENTS - 55 ITEMS (~1872 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1872 words (100.0%)
+
+  TOTAL                 :  1872 words
+
+============================================================
+
+============================================================
+
+ITEMS 156-165 - GENERAL TAGS (337 words)
+
+Script: _A_used_0cbc0180_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [defensive] Look Mom, the Ferber method is backed by research. [speaking faster] We check on her every five minutes, then ten, then fifteen. [firmly] She's learning to self-soothe, and it's only been three nights so far.
+
+156 Character 2: [incredulous] Self-soothe? [rising pitch] She's a baby, not a yoga instructor! [accusatory tone] When you were little, I rocked you to sleep every single night. [softer] You turned out fine, didn't you?
+
+Character 1: [exhausted sigh] Mom, I haven't slept more than two hours straight in eight months. [pleading] The pediatrician recommended this. [more firmly] Besides, crying for a few minutes won't damage her emotionally—that's just outdated thinking from your generation.
+
+157 Character 2: [offended gasp] Outdated? [sharply] Loving your baby is outdated now? [trembling voice] I can hear my granddaughter crying through the monitor right now. How can you just sit there drinking coffee like nothing's happening?
+
+Character 1: [controlled frustration] It's been exactly four minutes, Mom. [checking watch nervously] One more minute and I go in. [defensive whisper] This is harder for me than her—she won't even remember this tomorrow morning.
+
+158 Character 2: [bitter laugh] Oh, she'll remember. [ominous tone] Maybe not consciously, but somewhere deep down she'll know. [getting louder] You're teaching her that when she needs you most, you won't come. Is that really the lesson?
+
+Character 1: [voice breaking] That's not fair and you know it! [steadying breath] I'm teaching her healthy sleep habits. [desperately] Do you think I enjoy this? My heart breaks every single time, but it's working—she slept six hours last night!
+
+159 Character 2: [sarcastic] Six whole hours, what a miracle. [gentler] Sweetheart, babies aren't meant to sleep through the night. [matter-of-fact] They need comfort, warmth, reassurance. [whispered] That's not spoiling them, it's called being a mother.
+
+Character 1: [near tears] You think I don't know that? [angry whisper] Every instinct screams at me to run in there! [voice cracking] But I'm drowning here, Mom. I need sleep to function, to work, to be a good parent.
+
+160 Character 2: [sympathetic sigh] I could come stay for a while. [hopeful] Help with the nights like I used to? [warm tone] Let me rock her while you rest—no crying, no timers, just grandmother's arms and lullabies.
+
+Character 1: [long pause] That's... that's really sweet, Mom. [conflicted] But what happens when you leave? [frustrated groan] We'd be right back where we started, except now she'd be even more confused about bedtime.
+
+161 Character 2: [hurt] So you'd rather have her cry than accept help? [disbelieving] When did parenting become so complicated? [nostalgic whisper] We just followed our hearts, trusted our instincts. Now everything needs an expert's approval.
+
+Character 1: [defensive shout] Because we know better now! [calming down] We have studies about SIDS, about attachment, about sleep cycles. [determined] I'm not just winging it like your generation did—I'm making informed decisions here.
+
+162 Character 2: [cold laugh] Informed decisions. [mockingly] Right. [serious tone] You know what I see? A exhausted mother fighting her own instincts because some book told her to. [gentle] That's not progress, honey.
+
+Character 1: [breaking down] Stop it, just stop! [sobbing] You think this is easy for me? [angry tears] Every night I question everything, wonder if I'm ruining her, but at least I'm trying something!
+
+163 Character 2: [immediately softening] Oh sweetheart, come here. [soothing murmur] I'm sorry, I didn't mean to— [gentle voice] You're doing your best, I know that. We just did things differently, that's all. Different doesn't mean wrong.
+
+Character 1: [sniffling] It's been five minutes. [determined exhale] I need to go check on her now. [steadier voice] Just a quick pat, reassuring words, then back out. Want to watch on the monitor with me?
+
+164 Character 2: [resigned sigh] If that's what you need. [supportive but sad] I'll be right here. [quiet admission] Maybe I don't understand these new methods, but I understand loving your baby. That part never changes.
+
+Character 1: [relieved whisper] Thanks Mom. [hopeful] Listen—she's already calming down. [amazed] Yesterday it took twenty minutes, today just seven. [trembling laugh] Maybe this really is working. God, I hope I'm doing the right thing.
+
+165 Character 2: [thoughtful pause] You know what? [warmer tone] Your father and I let you cry once—for exactly thirty seconds before caving. [soft chuckle] You survived that too. [reassuring] Trust yourself, sweetheart. That's all any of us can do.
+
+============================================================
+
+ITEMS 166-175 - GENERAL TAGS (356 words)
+
+Script: _A_used_b2082678_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [shaky voice] I can't believe this is it. [Sniffling] Look at them out there—they were just in tee-ball yesterday, weren't they? [quieter] Now Jake's heading to that travel team three states away next month.
+
+166 Character 2: [through tears] Don't remind me. [Deep breath] Emma got into that performing arts school, so no more spring sports for her. [wavering] Ten years of cheering from these bleachers, and suddenly it's just... over.
+
+Character 1: [nostalgic whisper] Remember when they couldn't even catch the ball? [Soft laugh] Jake used to pick dandelions in right field. [more emotionally] Now he's their star pitcher, and I'm watching him leave this all behind forever.
+
+167 Character 2: [bittersweet tone] Emma still has that first trophy on her dresser—the participation one where everyone won. [Choked up] She wouldn't trade it for anything. [slower] These kids grew up on this diamond together, and we grew up watching them.
+
+Character 1: [suddenly urgent] We should do something special! [calming down] Maybe get all the parents together for dinner after? [hopeful] Create one last memory before everyone scatters to different high schools and different lives—what do you think about Antonio's restaurant?
+
+168 Character 2: [brightening slightly] That's perfect, yes. [Sob escaping] God, look at me, I'm a mess. [laughing through tears] I promised myself I wouldn't cry until the car ride home, but here we are, third inning.
+
+Character 1: [defensive mumble] At least you're wearing waterproof mascara. [louder] I look like a raccoon! [Shuddering breath] Every time Jake looks over here and waves, I completely lose it again—my baby boy isn't a baby anymore.
+
+169 Character 2: [wistful] They're going to stay friends, right? [more desperately] Even with different schools? [steadying] I know kids drift apart, but these two have been inseparable since they were five—surely that counts for something in this world.
+
+Character 1: [firmly] Of course they will. [softer] True friendship survives anything. [Shaky exhale] Though I might need you to remind me of that when I'm sobbing into Jake's old uniforms while packing them away this weekend.
+
+170 Character 2: [broken voice] Don't even mention packing. [stronger] I've been avoiding the garage where all her gear is. [Whimper] Seven gloves, twelve bats, and enough memories to fill a hundred scrapbooks I'll never have time to make.
+
+Character 1: [surprised gasp] Oh my God, they're doing it! [excited shriek] The coach is putting them together for the last play! [crying harder] Jake's pitching to Emma one final time—I can't handle this beautiful moment right now.
+
+171 Character 2: [barely audible] This is it. [rising emotion] She's up to bat, he's winding up... [Breathless] Just like a thousand practices in your backyard, except this time we're saying goodbye to all of it forever.
+
+Character 1: [hushed awe] She hit it! [screaming] She actually hit his fastball! [more controlled] In ten years, she never could hit his heat, and today—today of all days—she connects perfectly. The universe has a sense of humor.
+
+172 Character 2: [laughing wildly] Look at them laughing at first base! [Snorting laugh] Even the ump is smiling. [tenderly] These are the moments I'm going to remember when I'm old and gray, not the wins or losses.
+
+Character 1: [contemplative] You know what's funny? [heavier] We spent so many games complaining about the early mornings, the weather, the drive. [regretful whisper] Now I'd give anything for just one more season of all those inconveniences together.
+
+173 Character 2: [agreeing sadly] The tournament weekends, the fundraising, those awful concession stand hot dogs. [Bitter laugh] I complained constantly. [cracking] But it was our life, our routine, our village, and tomorrow it's all just memories and photographs.
+
+Character 1: [determined tone] We'll still see each other, right? [nervously faster] Not just promise to stay in touch then drift apart? [pleading] Because losing Jake's childhood is hard enough without losing my bleacher buddy too—you've kept me sane.
+
+174 Character 2: [warm conviction] Are you kidding me? [Teary chuckle] You're stuck with me. [firmly] We'll graduate from little league moms to high school moms to empty nest friends—this is bigger than baseball now, so much bigger than baseball.
+
+Character 1: [relieved sigh] Good, because I already bought us matching shirts that say "Retired Little League Moms." [Giggling] They're hideous. [sincere whisper] We'll wear them to embarrass the kids when they come home from college to visit someday.
+
+175 Character 2: [through fresh tears] The game's ending. [Gulp] Everyone's lining up for high-fives. [strongest voice] You know what? We did good, mama. We raised amazing kids who love this game and each other—that's our real victory.
+
+============================================================
+
+ITEMS 176-185 - GENERAL TAGS (326 words)
+
+Script: _A_used_5d9187c1_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [shaking voice] We did everything right. [Choked sob] Every protocol, every compression, every— [voice breaking] She was only seven years old. How does a seven-year-old's heart just stop like that?
+
+176 Character 2: [barely audible] I keep seeing her mother's face. [trembling] The way she grabbed my sleeve, begging. [Sharp inhale] "Please save my baby, please save my baby"—those words won't stop echoing in my head.
+
+Character 1: [angry shout] Twenty-three minutes! [quieter] We worked on her for twenty-three minutes. [Bitter laugh] My hands are still cramping from the compressions. Why couldn't we bring her back? Why this time?
+
+177 Character 2: [hollow tone] Remember her backpack? [voice cracking] Pink unicorns and glitter everywhere. [Shuddering breath] She probably picked it out herself, so excited for school. Now it's just sitting in the corner of trauma bay.
+
+Character 1: [through tears] I lied to her. [more intensely] I told her everything would be okay while we were working. [Gasping breath] She looked right at me before— before she went unconscious. Trusted me completely.
+
+178 Character 2: [defensive] You didn't lie, you gave her hope! [softer] Sometimes that's all we can give. [Long exhale] God, her hands were so small. I could barely find a vein for the IV line.
+
+Character 1: [frustrated grunt] The attending keeps saying we followed procedure perfectly. [sarcastically] Oh great, wonderful! [voice dropping] A perfect failure. A textbook case of doing everything right and still losing someone's whole world.
+
+179 Character 2: [whispered] I called my daughter after. [steadier] Just needed to hear her voice, you know? [Soft sob] Told her I loved her three times before she got annoyed and hung up on me.
+
+Character 1: [exhausted tone] Sixteen years doing this job. [more firmly] You'd think it would get easier. [Bitter chuckle] But the kids— the kids always destroy you. Always. Every single time without fail.
+
+180 Character 2: [quivering] Her teacher was there. [stronger] Rode in the ambulance with her, held her hand the whole way. [voice fading] Said she was the brightest student, always helping others. Always kind.
+
+Character 1: [sudden outburst] Stop! [quieter] I can't hear about who she was. [strained whisper] It makes it too real. She needs to stay patient, case number, not— not a little girl who helped her classmates.
+
+181 Character 2: [gently] But she was real. [more insistent] Pretending otherwise doesn't honor what we tried to do for her. [Shaky breath] We fought for a person, not a case. That matters, even now.
+
+Character 1: [defeated] You're right. [sniffling] God, you're right. [Weak laugh] When did you become the wise one? Weren't you throwing up after your first pediatric code just last year?
+
+182 Character 2: [raw voice] That was different. That baby had a chance. [steadying] This one— [Heavy sigh] The moment she came in, something felt wrong. Her eyes were already somewhere else, somewhere we couldn't reach her.
+
+Character 1: [urgently] We should've pushed more epi. [desperately] Maybe tried the pediatric pads earlier? [voice crumbling] There has to be something we missed. There's always something. Always one more thing to try.
+
+183 Character 2: [firmly] Stop torturing yourself. [gentler] We both know that's not true. [Quiet sob] Sometimes children die, and it's not fair, and it's not our fault. It's just horrifically, unbearably real.
+
+Character 1: [broken whisper] I hate this job sometimes. [louder] Really, truly hate it. [Ragged breath] But tomorrow I'll be back, hoping the next one makes it. Praying the next child walks out alive.
+
+184 Character 2: [thoughtfully] Her parents thanked us. [disbelief creeping in] Can you imagine? [Soft crying] Their world just ended and they thanked us for trying. I've never felt more useless in my entire life.
+
+Character 1: [quietly fierce] We're not useless. [building intensity] We're the ones who show up when everyone else runs away. [Shuddering exhale] Even when it breaks us. Especially when it breaks us into pieces.
+
+185 Character 2: [weary] Come on. [more gently] Let's go get that drink you mentioned. [Steadier voice] We'll toast to her—to the little girl with the unicorn backpack who deserved so many more years than she got.
+
+============================================================
+
+ITEMS 186-190 - GENERAL TAGS (185 words)
+
+Script: 9af9d0b5_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+186 Character 1: [breathless] Professor Thompson, I know this looks bad but [voice cracking] my laptop crashed last night with everything on it. [frantically] The paper was done, I swear, but now it's just gone and I need more time!
+
+Character 2: [coldly] This is the third extension request this semester. [slower pace] I explicitly stated in the syllabus that technology issues are not valid excuses. [sharp exhale] You should have backed up your work like a responsible student would.
+
+187 Character 1: [pleading] I usually do back everything up but [getting higher] this one time I forgot because my roommate had an emergency! [desperate whisper] Please, I've been working on this for weeks, you can check my library login records!
+
+Character 2: [unmoved] Library attendance doesn't prove you were writing. [pause] [sternly] Every student claims their work was "almost done" when they need extensions. How convenient that disasters always strike the night before deadlines, wouldn't you agree?
+
+188 Character 1: [defensive shout] That's not fair! [quieter] I've never asked for extensions in your class before this semester. [trembling] My dad's been in the hospital and I'm barely keeping my head above water here, Professor.
+
+Character 2: [slightly softer] You should have come to me earlier about personal circumstances. [firm again] However, waiting until the due date to mention family emergencies seems rather strategic. [tired sigh] I've heard every excuse imaginable over twenty years.
+
+189 Character 1: [crying now] I didn't want to use my dad as an excuse because [sniffling] he raised me better than that! [more steadily] But between visiting him and keeping up with five classes, something had to give somewhere.
+
+Character 2: [uncomfortable pause] Show me your hospital visitor's pass. [businesslike] If you can provide documentation and a corrupted file from your laptop, [reluctantly] I might consider a forty-eight hour extension with a ten percent penalty.
+
+190 Character 1: [relieved gasp] Yes, yes I have the pass right here in my bag! [eagerly] And IT services said they could write a report about the hard drive failure. [hopefully] Could we maybe negotiate the penalty down to five percent?
+
+Character 2: [sharp laugh] You're hardly in a position to negotiate percentages. [measured tone] Ten percent is generous considering the circumstances. [with finality] Submit everything by Thursday at noon or receive a zero—that's my final offer.
+
+============================================================
+
+ITEMS 191-200 - GENERAL TAGS (344 words)
+
+Script: _A_used_4ff39e40_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [disbelief] Marcus? [voice cracking] They paired us for tomorrow's match? [slower] After everything we've survived together, side by side in this pit, they want us to— [bitter laugh] The crowd will love this spectacle of betrayal.
+
+191 Character 2: [hollow tone] I heard the announcement moments ago. [quieter] Five years, brother. [building rage] Five years we've watched each other's backs, and now they expect me to drive steel through yours for their entertainment!
+
+Character 1: [shouting] I won't do it! [more desperately] There has to be another way—we could refuse, both of us, stand together like we always have. What can they do, kill us both? [dark chuckle] At least we'd die as brothers.
+
+192 Character 2: [weary] You know what happens to gladiators who refuse. [harsher] They'll make an example—torture, starvation, then feed us to the lions anyway. [whispered] My daughter visits next week; I promised her I'd still be breathing.
+
+Character 1: [anguished cry] Don't speak of family! [trembling] My son thinks I'm a hero, not a murderer of friends. How do I explain that daddy killed uncle Marcus because rich men demanded blood for their feast?
+
+193 Character 2: [cold fury] Perhaps we give them blood then. [faster] Not ours—theirs. [growled whisper] When we enter that arena, we turn our swords on the emperor's box instead. Die as warriors, not as their puppets dancing on strings.
+
+Character 1: [hushed urgency] You're talking madness, Marcus. [steadier] The archers would cut us down before we reached the wall. [pleading] But what if we made it look real—fight, but miss the vital spots?
+
+194 Character 2: [sarcastic] Oh brilliant, we'll just pretend. [more bitterly] You think they're stupid? [rising pitch] The crowd bays for death—they know when blood isn't flowing freely enough. They'll demand a proper ending regardless.
+
+Character 1: [breaking voice] Remember our first fight together? [softer] Back to back against six men, you said we'd make it through anything. [angry shout] Was that all lies? Are we just meat now, nothing more than tomorrow's corpses?
+
+195 Character 2: [pained whisper] That was before I knew the price. [stronger] Before I understood that friendship is a luxury gladiators can't afford. [choking up] Tomorrow, one of us dies so the other's family might eat another month.
+
+Character 1: [desperately fast] What if we both wound each other—badly—too injured to continue? [hopeful] They'd have to stop the match, call it a draw. [trailing off] The crowd gets blood, we both survive to fight another day.
+
+196 Character 2: [tired laugh] You're grasping at dreams now, brother. [grimly] The emperor wants a victor tomorrow—he's betting against me apparently. [venomous] Three thousand gold pieces says you'll be standing over my corpse by noon.
+
+Character 1: [roaring] Then he's lost his gold! [quieter menace] Because if I must kill you, Marcus, I'll fall on my sword right after. [measured pace] Let him explain two dead champions to his precious mob.
+
+197 Character 2: [stunned silence] Don't you dare. [building fury] Don't you dare make me carry that burden—knowing you died because of me! [shouting] If anyone falls on their sword tomorrow, it's me, not you, understand?
+
+Character 1: [hysterical laughter] Listen to us! [more frantically] Fighting over who gets to die with honor while those bastards place bets on our blood! [gasping] We're already dead men, just arguing over the funeral arrangements.
+
+198 Character 2: [quietly resolved] Then we make it memorable. [steadier] Give them the greatest fight they've ever seen—honor our brotherhood one last time. [thick voice] When the killing blow comes, at least it's from someone who matters.
+
+Character 1: [wavering] I can't—Marcus, I can't look you in the eyes and— [sharp breath] Your wife, your daughter, they'll hate me forever. [anguished whisper] How do I live knowing I orphaned a child I've held in my arms?
+
+199 Character 2: [gently] They'll understand. [more firmly] I've already told them—if I fall to anyone, I'm glad it's you. [ragged breathing] Promise me you'll check on them, tell my daughter her father died bravely.
+
+Character 1: [sobbing anger] Stop talking like you've already lost! [determined growl] We're the best fighters in this whole cursed place. [rising conviction] Tomorrow, we show them what happens when they force brothers to bleed—we'll make them regret this choice.
+
+200 Character 2: [exhausted acceptance] Dawn comes either way, brother. [slower] Tonight we drink like free men, tomorrow we die as slaves. [final whisper] But between us, here and now, we're still family—that's what I'll remember when steel meets flesh.
+
+============================================================
+
+ITEMS 201-210 - GENERAL TAGS (324 words)
+
+Script: c284cc40_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+201 Character 1: [nervously] So, um, Mr. Henderson, I've been with the company three years now. [clearing throat] My responsibilities have tripled since I started, but [voice getting smaller] my salary hasn't changed at all since day one.
+
+Character 2: [dismissively] Three years, yes, I'm aware. [slower pace] But you know how tight budgets are these days. [Heavy sigh] Everyone's making sacrifices—why, I had to skip my second yacht purchase this quarter!
+
+202 Character 1: [incredulous] Your yacht? [voice rising] Sir, I can't afford to fix my car! [Bitter laugh] I take two buses here because the engine died last month and repairs cost more than I make.
+
+Character 2: [patronizing tone] Public transportation builds character! [cheerfully] When I was your age, I walked uphill both ways. [Chuckle] Of course, that was to my father's company, but the principle remains the same.
+
+203 Character 1: [desperately fast] I handle all your scheduling, correspondence, expense reports, client meetings—[sharp breath]—plus I trained three new hires last month alone! [pleading] Surely that's worth something more than minimum wage?
+
+Character 2: [in monotone] Minimum wage? [offended gasp] You make twelve cents above minimum! [indignantly] That's already quite generous for someone without an MBA. Do you even have an MBA? No? Well then.
+
+204 Character 1: [tired whisper] I have a bachelor's degree. [steadier] You told me experience would count more. [Hollow laugh] Five CEO assistants quit before me—I'm the only one who lasted past six months, remember?
+
+Character 2: [dismissive grunt] High turnover means more opportunity for you! [calculating tone] Think of all the experience you're gaining. [smugly] Some companies charge thousands for this kind of mentorship. You're getting it free!
+
+205 Character 1: [sarcastically sweet] Oh yes, learning how you take coffee is invaluable life experience. [normal voice] Sir, I sleep in my cousin's basement. [voice breaking] I eat ramen five nights a week. This isn't sustainable anymore.
+
+Character 2: [fake concern] Ramen's quite trendy now, very authentic! [brightly] Have you tried adding an egg? [trailing off] Makes it almost gourmet... Look, maybe we can revisit this next quarter.
+
+206 Character 1: [flatly] You said that last quarter. [louder] And the quarter before. [Frustrated sigh] At this rate, I'll be homeless before you approve a fifty-cent raise. Should I start looking elsewhere?
+
+Character 2: [panicked] Now, now, let's not be hasty! [wheeling tone] You're like family here! [nervous chuckle] How about this—I'll throw in a parking spot. The far one. Near the dumpsters.
+
+207 Character 1: [deadpan] The parking spot for the car I can't afford to fix? [dripping sarcasm] How generous. [firmly] I need twenty percent more, Mr. Henderson, or I walk. Today. Right now. Your choice.
+
+Character 2: [sputtering] Twenty perc—[choking sound] That's highway robbery! [whining] Do you know what that would do to my profit margins? I'd have to fly business class instead of first! The horror!
+
+208 Character 1: [calmly] Your last assistant embezzled thirty thousand before leaving. [matter-of-fact] I saved you twice that in vendor negotiations alone. [Soft snort] But sure, let's worry about your legroom on flights to Cabo.
+
+Character 2: [grumbling] Fine, fine! [begrudgingly slower] Three percent. [quickly] Final offer. And I'm throwing in casual Fridays. You can wear jeans! Designer jeans only, obviously. We have standards.
+
+209 Character 1: [laughing bitterly] Three percent is sixty cents an hour. [increasingly firm] I spend more on your daily latte order! [Deep breath] Fifteen percent, two weeks vacation, and actual health insurance. Non-negotiable.
+
+Character 2: [whimpering] You're killing me here! [dramatically slower] My children will starve! [regular speed] Well, their trust funds might decrease slightly. [Defeated sigh] Seven percent, one week vacation. Best I can do.
+
+210 Character 1: [quietly threatening] I have your password notebook. [sweetly] The one with your offshore accounts. [Casual hum] Fifteen percent sounds much more reasonable now, doesn't it? Unless you'd prefer I discuss this with the IRS?
+
+Character 2: [squeaking] That's—that's blackmail! [nervous laugh] But I admire the initiative! [rapidly giving up] Fifteen percent it is, effective immediately! [muttering] Should've hidden that book better. Welcome to middle management thinking!

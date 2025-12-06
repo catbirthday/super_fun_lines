@@ -1,0 +1,257 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 44405e24_script | Role: Character 2 (B)
+
+Character 1: I heard you told everyone what I make.
+
+976 Character 2: Oh god—okay, I know how this sounds but it wasn't—I didn't tell everyone, I swear. It was just Marcus and then he—wait wait, let me explain properly.
+
+Character 1: Marcus. And who else?
+
+977 Character 2: I mean... technically just him? But then I guess he told—look, we were at lunch and he was complaining about his raise and I just, I dunno, I mentioned yours without thinking [groan] and I immediately knew I shouldn't have.
+
+Character 1: Without thinking. Right.
+
+978 Character 2: No no no, that came out wrong. I mean—I was thinking, obviously, but not about—ugh, I'm making this worse. I just meant like, in the moment I forgot it was supposed to be private? Which is terrible, I know.
+
+Character 1: You forgot.
+
+979 Character 2: That's not—okay yeah, that sounds awful. I didn't forget forget, more like I just... got caught up in the conversation? Marcus was going on and on about being underpaid and I wanted to—I was trying to make him feel better and your number just kinda slipped out.
+
+Character 1: Now everyone thinks I'm overpaid.
+
+980 Character 2: What? No! That's not—nobody thinks that, I promise. If anything they're just, y'know, surprised? [nervous laugh] But not in a bad way! More like impressed, honestly.
+
+Character 1: Great. That's so much better.
+
+981 Character 2: Okay I'm—I'm really messing this up. Look, I know I betrayed your trust and that's... that's huge. Like, you specifically asked me not to tell anyone and I completely failed you as a friend.
+
+Character 1: Yeah. You did.
+
+982 Character 2: I wanna fix this so badly but I don't—I honestly don't know how? I can't untell them, obviously, but maybe I could... actually no, that's stupid. [sigh] God, I really screwed up your whole work situation, didn't I?
+
+Character 1: It's been pretty awkward, yeah.
+
+983 Character 2: I'm so, so sorry. Like genuinely—this is eating me up inside. You trusted me with something personal and I just... blabbed it. Because I can't keep my mouth shut apparently, which is—that's something I really need to work on.
+
+Character 1: You really do.
+
+984 Character 2: I know I know. My therapist literally—we talk about this all the time, the oversharing thing. It's like this compulsion where I just fill silences with whatever's in my head? But that's not an excuse, I'm not trying to make excuses.
+
+Character 1: I just... I needed you to keep that one thing private.
+
+985 Character 2: I know. And I—I completely understand if you can't trust me with stuff anymore. But I promise, like really truly promise, I'm gonna do better. This was a massive wake-up call for me. [quieter] I never wanna hurt you like this again.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+986 SCENARIO: waiting for nail polish to dry before doing anything
+
+==================================================
+
+[muttering]
+
+Okay, so, um, how long has it been? Like, five minutes? Maybe? I don't— I don't know, I wasn't really, uh, I wasn't really timing it or anything.
+
+[slightly impatient]
+
+God, this color is so pretty though. It's like, um, it's like that perfect coral-y pink that I— [sigh] but I can't do anything with my hands like this. I feel like, uh, like one of those mannequins or whatever.
+
+[contemplative]
+
+I should probably just, um, just sit here and wait, right? But I was gonna— I was gonna make that sandwich, and I need to, uh, to text Sarah back about tomorrow, and— [tsk] why didn't I think of this earlier?
+
+[slightly whiny]
+
+Maybe if I'm really, really careful I could just— no, no no no, that's how you get, um, that's how you get those little dent marks in the polish. I've done that before and it's so— it's so annoying.
+
+[resigned but chatty]
+
+Okay, so I'm just gonna sit here and, uh, and admire my nails, I guess. They do look good though. Very, um, very spring-y. [laugh] Is that a word? Spring-y?
+
+--- CONVERSATION ---
+
+Script: 87c6e7c9 | Role: Character 1 (A)
+
+987 Character 1: [shakily] Are those... are those the numbers from last night? [getting louder] The TV said seventeen, twenty-three, and... [Gasp] oh my God, check the fourth one again because I swear that looks exactly like our ticket!
+
+Character 2: [whispered disbelief] Wait, wait, slow down. [frantically] Seventeen—yes, twenty-three—YES! [Shriek] The fourth is thirty-one! We have thirty-one! My hands won't stop shaking, I can't even hold this paper steady anymore, this can't be real!
+
+988 Character 1: [screaming] WE'RE MILLIONAIRES! [choking up] Twenty-seven years of playing these same stupid numbers from my mom's birthday and our anniversary date! [Hysterical laugh] I told you! I told you not to let me change them last week!
+
+Character 2: [breathlessly fast] The jackpot was forty-seven million dollars! [stunned whisper] Forty. Seven. Million. [building excitement] Even split between us, that's more money than my entire family has seen in generations! Should we call someone? The police? Our moms?
+
+989 Character 1: [panicked] Don't call anyone yet! [whimpering] What if we're reading this wrong? [more controlled] Pull up the official website on your phone while I check the newspaper again because I need triple confirmation before my heart literally explodes from happiness.
+
+Character 2: [trembling voice] It's loading... it's loading... [explosive joy] THERE IT IS! [Sobbing laugh] Every single number matches perfectly! Look at my screen! Look at your ticket! Look at the newspaper! We actually did it! We won everything!
+
+990 Character 1: [quiet awe] Remember when we couldn't afford pizza last month? [growing louder] Now we can buy the entire pizza chain! [Cackling] We can buy ten pizza chains and name them all something ridiculous like "We-Won-The-Lottery Pizza Paradise"!
+
+Character 2: [through tears] My student loans are gone. [stronger] My car that breaks down every week—gone! [ecstatic shout] That studio apartment with the leaking ceiling and the weird smell? [Whoop] GONE FOREVER! I'm buying a house with seventeen bathrooms!
+
+991 Character 1: [hushed reverence] We need to sign the back immediately. [paranoid whisper] What if someone steals it? [urgently] Get a pen—no, get five pens in case they run out of ink! Take photos! Make copies! Put it in a safe!
+
+Character 2: [giggling uncontrollably] I can't stop laughing! [more seriously] My face actually hurts from smiling so hard. [erupting again] We're going to walk into that lottery office tomorrow like absolute royalty! [Squeal] Should we wear matching outfits? Crown ourselves?
+
+992 Character 1: [in disbelief] Five minutes ago I was worried about rent. [accelerating pace] Now I'm googling "how to buy a yacht" and "countries without taxes"! [Snorting laugh] My browser history went from clearance sales to private jet rentals instantly!
+
+Character 2: [yelling] Call in sick tomorrow! [commanding tone] Actually, call in rich! [Howling] Tell them you've contracted a severe case of millionaire fever and the only cure is permanent vacation! I'm texting my boss my resignation right now using only money emojis!
+
+993 Character 1: [suddenly worried] What if this is a dream? [frantic] Pinch me—harder! [relieved shout] Okay, it's real! But what if the ticket dissolves? What if there's another winner? What if the lottery commission says we're too excited to claim it?
+
+Character 2: [mock serious] You're right, we should practice being calm. [failing immediately] "Hello lottery office, we'd like to casually claim our—" [Explosive laughter] I CAN'T DO IT! We're rich! Filthy, stinking, beautifully, gorgeously, magnificently RICH!
+
+994 Character 1: [whispering intensely] The convenience store clerk who sold us this ticket. [getting emotional] That sweet old man always wished us luck. [joyful sob] We're going back there with the biggest tip he's ever seen in his entire life!
+
+Character 2: [rapidly] First purchase—champagne! [louder] Second purchase—more champagne! [shouting] Third purchase—a champagne fountain! Actually, forget that, let's buy the entire champagne company and rename it after us! [Shriek] We can do anything we want now!
+
+995 Character 1: [overwhelmed] My legs feel like jelly. [steadying] No, wait, they feel like golden jelly! [hysterical] Diamond-encrusted jelly! [Gasping breath] I need to sit down before I pass out from pure happiness because this feeling might actually kill me!
+
+Character 2: [sing-song voice] No more overtime! No more instant ramen! [crescendoing] No more checking bank balances before buying coffee! [Whooping] We can buy coffee shops! We can buy the coffee farms! We can buy Colombia if we wanted to!
+
+996 Character 1: [softly] Promise me something right now. [firm] Promise we won't let this change our friendship. [warming up] We've been broke together, now we'll be rich together, but [choked up] you're worth more than any lottery ticket ever printed.
+
+Character 2: [tender] Are you kidding me? [building energy] You're stuck with me forever now! [jubilant shout] We're going to be those eccentric millionaire best friends who buy matching mansions next door! [Crying laugh] This is our story! We won together! Everything together!
+
+--- CS ALPHANUMERIC ---
+
+Script: edeada81 | Role: Customer Support
+
+Character 1: [angrily] Your crew absolutely destroyed my fence at 4782 Maple Avenue yesterday! [raising voice] The whole north section is—is completely smashed, [groans] and there's sawdust everywhere covering my wife's prized roses.
+
+997 Customer Support: Sir, I understand you're upset about the damage. According to our work order WO-7734B, we only trimmed the oak tree on the south side, nowhere near any fence structure.
+
+Character 1: [sarcastically] Oh really? Then explain the massive branch, [louder] probably weighs 200 pounds, sitting right on my crushed fence panels! [scoffs] Your insurance better cover this, buddy.
+
+998 Customer Support: [defensive] Look, we have photos timestamped at 2:47 PM showing everything intact when we left. [more firmly] Maybe you should check with your neighbors—we weren't the only crew on Maple yesterday, [sighs] Thompson's Tree Care was three houses down.
+
+Character 1: [incredulous] Thompson's? Are you—are you seriously trying to blame someone else? [shouting] I have security footage from camera C-4 showing your truck, license plate KRT-8892, [accusingly] right there at 11:30 AM!
+
+999 Customer Support: [patiently] Sir, that truck was there for the scheduled service, yes. [explaining] But we completed everything by noon, and I personally did the final inspection. [more insistently] Did your camera catch anything after, um, after 12:15?
+
+Character 1: [frustrated] The camera conveniently stopped recording at 12:20—power outage, apparently. [bitterly] But my neighbor Helen saw your guys still working at almost 3 PM, [demanding tone] so don't lie to me about noon!
+
+1000 Customer Support: That's impossible because our entire crew was at the Johnson property on Route 66 by 1:30. I have GPS logs, fuel receipts from station 447-A, everything's documented in our system.
+
+Character 1: [mockingly] Oh, documentation! Well, document this—the damage estimate is $3,400 from Ace Fencing, invoice number AF-9021. [threatening] Either your insurance pays, or I'm calling my lawyer, [pauses] Steven Matthews from Matthews & Associates.
+
+1001 Customer Support: [resigned] Alright, file a claim with our insurance—policy number GLC-445579 with State Protection Group. [more cooperatively] Send photos, the estimate, everything to claims@stateprotection.com, but I'm telling you, we didn't cause this damage.
+
+Character 1: [skeptically] Yeah, sure, whatever helps you sleep at night. [irritated] You know what else? There's oil stains on my driveway now, [accusingly] right where your truck was parked all morning.
+
+1002 Customer Support: Sir, our trucks don't leak oil—they're all serviced monthly at Fleet Maintenance Plus. Look, I'll send our operations manager Tony out tomorrow morning, maybe 9 AM, to assess everything properly.
+
+Character 1: [grudgingly] Nine works, but he better not be late. [warning tone] And I want compensation for the roses too—my wife paid $45 each for those, [grumbles] twelve of them completely destroyed.
+
+1003 Customer Support: I understand the roses are important to your wife, really. Tony will document everything, take photos, measure the fence damage, and we'll figure out what actually happened here.
+
+Character 1: [slightly calmer] Fine, but I'm keeping my appointment with the lawyer at 2 PM regardless. [firmly] This is costing me time off work, [mutters] probably losing $500 in commission today alone.
+
+1004 Customer Support: That's your right, absolutely. [helpfully] When Tony comes, please have any documentation ready—receipts, photos, that security footage you mentioned, anything from before 12:20 would really help.
+
+Character 1: [suspicious] Why are you so focused on that timeline? [demanding] You guys did something after noon, didn't you? [louder] Just admit it and let's move on!
+
+1005 Customer Support: Sir, I'm focused on facts, not speculation. We've been in business 15 years with an A+ rating, license TRC-6678, we don't just destroy property and lie about it.
+
+Character 1: [sarcastically] Oh, fifteen years, how impressive! [bitterly] Well, in my 30 years at this house, I've never had damage like this, [sighs angrily] so somebody's lying here, and it isn't me.
+
+1006 Customer Support: [conciliatory] Look, let's just wait for Tony's assessment tomorrow before pointing fingers. He'll be there at 9 AM sharp, blue company truck, and we'll sort this out properly, one way or another.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: f02129c5 | Role: Customer Support
+
+Character 1: [struggling] Excuse me, I need to—[groans] these bags are killing me—I need to return this tablet. [exhausted] I bought it yesterday but the screen's already flickering, and I just... I really need my money back.
+
+1007 Customer Support: Sir, our policy clearly states exchanges only within thirty days, no refunds. You can swap it for the same model, that's it. Would you like me to process that exchange now?
+
+Character 1: [frustrated] But I don't want another one of these! [sighs heavily] The reviews online are terrible—I checked after buying—and honestly, [pleading] can't you make an exception? My arms are about to fall off here.
+
+1008 Customer Support: I understand your frustration, but policy is policy. [rapid-fire] We can't override the system for refunds, it's automated, locked, done. Let me grab you the replacement unit.
+
+Character 1: [desperate] Wait, wait, please! [groans] Look, the box is unopened except for testing it once. [more urgently] My kid needs a reliable tablet for school, not this—this lemon you're trying to push on me again!
+
+1009 Customer Support: Sir, we don't sell "lemons" here. That's a quality brand, thousands sold, minimal complaints. Perhaps you got a defective unit, which is exactly why we offer exchanges.
+
+Character 1: [sarcastically] Oh, minimal complaints? [louder] Then why does your display model have the same screen issue? [exhausted sigh] I checked it while waiting, and—seriously—my back is killing me, can I at least put these down?
+
+1010 Customer Support: The display models get heavy use, that's different. [brusquely] Look, I can offer store credit instead, but [firmly] that's me bending the rules already. Take it or leave it, sir.
+
+Character 1: [incredulous] Store credit? [groans] So I'm stuck shopping here again for another potentially broken... [defeated] Fine, whatever, store credit. But I'm writing corporate about this, and—[muttering] probably my chiropractor too.
+
+1011 Customer Support: [relieved] Excellent choice, sir. I'll process that immediately, print your credit voucher, and you're all set. Thank you for shopping with us, and have a wonderful day!
+
+--- BASIC SCENARIOS ---
+
+1012 [Sad] It's like—when I hear that piano part, I'm suddenly back at my grandmother's funeral, you know? [Sigh] Everything just comes flooding back.
+
+1013 [Happy] Oh my god, yes, that bass line literally makes me wanna dance every single time! [Laugh] I can't help it!
+
+1014 [Whisper] Sometimes I have to, um, turn it off because it's too much. [Slow] Too many memories wrapped up in those lyrics.
+
+1015 [Angry] People don't get it—they think it's just noise, but it's not! [Fast] It saved my life when nothing else could reach me!
+
+1016 [Sarcastic] Oh sure, I totally cry over a three-minute pop song for no reason whatsoever. [Tsk] [Disappointed] Nobody understands how deep this stuff goes.
+
+1017 [Slow] The violin just... holds this one note, right? [Happy] And suddenly I'm floating, like, completely weightless and free.
+
+1018 [Fast] Okay so basically when that drum kicks in—boom—instant goosebumps, every single time, I swear! [Chuckle]
+
+1019 [Disappointed] I used to love it, but now it's kinda—I dunno, it's ruined. [Sad] Can't separate it from what happened anymore.
+
+1020 [Shout] That guitar solo hits different at three AM! [Laugh] [Happy] Like, you wouldn't believe how alive it makes me feel!
+
+1021 [Sad] My dad would, um, he'd hum that melody while he cooked Sunday dinners. [Sigh] [Slow] Haven't been able to listen since he passed.
+
+1022 [Angry] [Fast] It's not "just a song"—it's literally the only thing that got me through the divorce, okay?
+
+1023 [Whisper] There's this tiny little harmony in the background that nobody else seems to notice. [Happy] But when I hear it, I just—everything makes sense.
+
+1024 [Sarcastic] Yeah, crying in my car to an eighties ballad is exactly how I planned my Tuesday. [Groan] [Disappointed] Why does it still get to me?
+
+1025 [Slow] You know how, like, certain chords can physically hurt? [Sad] That whole album is basically emotional torture for me.
+
+1026 [Happy] [Fast] Wait wait wait—you feel it too when the choir comes in?! I thought I was going crazy!
+
+1027 [Disappointed] I keep trying to recapture what I felt the first time I heard it, but it's—it's gone. [Tsk] Nothing hits the same anymore.
+
+1028 [Shout] [Angry] Stop telling me to "just skip it" if it makes me upset—sometimes I need to feel this!
+
+1029 [Chuckle] My therapist says it's "processing trauma through art" or whatever, but honestly? [Happy] I just think the saxophone sounds really, really good.
+
+1030 [Whisper] [Sad] Every time that voice cracks on the high note, I completely lose it—like, ugly crying, can't breathe lose it.
+
+1031 [Fast] The tempo changes right here and my heart literally—I mean literally—skips a beat! [Laugh] [Happy] It's the weirdest physical reaction but I love it!
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1032 SCENARIO: Annoyed about a bad seat at an event, then gets moved to a way better one
+
+==================================================
+
+[frustrated]
+
+Oh my God, okay, so I get to the theater tonight, right? And I'm like so excited because I finally got tickets to that show everyone's been talking about. But then I get there and my seat is like— it's literally behind this massive pillar. Like I can't see half the stage.
+
+[annoyed]
+
+And I'm just sitting there like, are you kidding me? I paid full price for this, you know? The usher comes by and I'm like, excuse me, this is— this is not what I expected when I bought a ticket. She just gives me this look like, sorry, that's your seat.
+
+[irritated] [sarcastic]
+
+So I'm thinking great, just great. I'm gonna spend two hours craning my neck around concrete just to catch glimpses of— I don't know, someone's elbow or whatever. This is exactly the kind of thing that happens to me, you know?
+
+[building frustration]
+
+I was about to just leave, honestly. Like cut my losses and— wait, hang on, someone's tapping my shoulder.
+
+[surprised]
+
+Oh. Oh wow. The manager came over and she's like, "We had a last-minute cancellation, would you like to move to the orchestra section?" 
+
+[amazed] [grateful]
+
+Dude. I went from like the worst seat in the house to third row center. Third row! [laugh] I could practically see the actors' expressions and everything. Sometimes things just... they work out, I guess.

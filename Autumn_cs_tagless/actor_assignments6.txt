@@ -1,0 +1,303 @@
+ACTOR LINE ASSIGNMENTS - 55 ITEMS (~1957 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1957 words (100.0%)
+
+  TOTAL                 :  1957 words
+
+============================================================
+
+============================================================
+
+ITEMS 261-270 - GENERAL TAGS (350 words)
+
+Script: _A_used_c7b48bbd_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [panicked] Wait, wait, wait—what's today's date? [voice rising] The fifteenth? [Sharp gasp] Oh my God, Sarah, we forgot Mom's birthday! It was yesterday! How could we forget? This is literally the worst thing ever!
+
+261 Character 2: [stunned silence] [Shaky breath] No, no, no, this can't be happening. [frantically] She didn't call us, did she? Maybe she forgot too? [nervous laugh] Who am I kidding, moms never forget their own birthdays!
+
+Character 1: [whimpering] I feel like the worst daughter in existence right now. [more desperately] Quick, check your phone—did she text anything passive-aggressive? [groaning] Something like "Don't worry about me" or "I'm fine"? Those are the death sentences!
+
+262 Character 2: [scrolling sounds implied through speech] [breathlessly] Three missed calls. [devastated whisper] Five texts. The last one just says "..." [Long exhale] That's it, we're disowned. Start looking for a new family because this one's done with us.
+
+Character 1: [determined] Okay, damage control mode—activated! [speaking rapidly] We say our phones died simultaneously, or there was a surprise party we're still planning, or— [deflating] Who am I kidding? She'll see right through every excuse we make!
+
+263 Character 2: [sarcastically] Oh sure, both our phones died at the exact same moment. [bitter laugh] She raised us, remember? [mumbling] The woman can detect lies from three states away. We need an actual miracle here, not amateur hour.
+
+Character 1: [suddenly hopeful] Wait, there's that twenty-four hour bakery downtown! [excited whisper] We could get a cake, flowers, pretend we planned a surprise for today instead! [pleading] Come on, it's better than showing up empty-handed tomorrow!
+
+264 Character 2: [skeptical] A day-late surprise party. [Hollow laugh] [perking up slightly] Although... Dad's terrible at keeping secrets. We could say we told him to throw her off? [warming to idea] He definitely would've spoiled it by now!
+
+Character 1: [relieved giggle] Yes! That's perfect! [getting louder] Dad ruins everything! [Sudden panic] But wait, what if she already talked to Dad? What if he told her he had no idea about any party?
+
+265 Character 2: [grimly] Then we're back to being homeless. [Sighing heavily] Let me call him first, brief him on the lie. [muttering quickly] If he loves us at all, he'll go along with this insane cover-up operation.
+
+Character 1: [whining] I can't believe we're thirty-something years old and still scared of disappointing Mom. [quieter] Remember when we forgot to feed her goldfish that one time? [traumatized whisper] She didn't speak to us for three whole days!
+
+266 Character 2: [defensive] That goldfish was ancient anyway! [Nervous giggle] [seriously] But you're right, this is so much worse. A birthday only comes once a year. [dread creeping in] She's probably already told Aunt Linda we forgot.
+
+Character 1: [horrified gasp] Not Aunt Linda! [anguished] She'll hold this over our heads forever! [mimicking voice, nasally] "Remember when the girls forgot their own mother's birthday?" [normal voice, defeated] Every Thanksgiving until we die, that's what we'll hear.
+
+267 Character 2: [resigned] At least we're suffering together. [Weak chuckle] [building energy] Come on, get your keys! We're going to need the fanciest cake money can buy. [firmly] And balloons. Mountains and mountains of guilt balloons.
+
+Character 1: [scrambling] Yes! And those chocolates she loves from that boutique place! [more frantically] The ones with the gold wrapper! [Desperate laugh] We'll bankrupt ourselves with apology gifts if that's what it takes to earn forgiveness!
+
+268 Character 2: [suddenly calm] You know what? [thoughtfully] After we fix this disaster, we're setting seventeen phone alarms for next year. [emphatically] Calendar notifications, sticky notes, skywriting if necessary. [mumbled] This trauma ends with us.
+
+Character 1: [agreeing enthusiastically] And we're starting her birthday month celebrations! [getting carried away] Every April is now Mom Month! [Manic giggle] Gifts all month long! Pre-birthday, birthday, post-birthday—she'll be so overwhelmed she'll beg us to forget!
+
+269 Character 2: [reality hitting] Okay, but first we actually have to survive this one. [Shuddering breath] [steadying] Dad's on board with the lie. [cautiously optimistic] He says Mom seemed sad but not murderous. There's still hope for redemption.
+
+Character 1: [melodramatically] This is it then—our quest for maternal forgiveness begins! [battle cry voice] To the bakery! [dropping to whisper] But seriously, if she disowns us, I'm keeping the good photo albums. You get the creepy baby pictures.
+
+270 Character 2: [laughing despite everything] Deal, but I want the recipe box. [Snorting laugh] [sincerely] Hey, at least we're terrible daughters together. [warmly] Now let's go save our inheritance and what's left of our dignity!
+
+============================================================
+
+ITEMS 271-280 - GENERAL TAGS (344 words)
+
+Script: 5b580163_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+271 Character 1: [panicked shout] The hull breach—it's in section seven! [breathing heavily] Water's coming in fast, we need to seal it now! [voice cracking] Get the emergency kit before we lose power to the whole compartment!
+
+Character 2: [trembling] I can't reach it—the locker's jammed! [more desperately] The pressure's building too fast. [Sharp gasp] Jesus, it's already at our knees! Try the manual override on the bulkhead door, we have seconds!
+
+272 Character 1: [strained grunt] It won't budge! [voice rising] The hydraulics must be damaged from the impact. [Choking cough] Help me with this valve—if we can redirect the ballast, maybe we can equalize the pressure somehow!
+
+Character 2: [in disbelief] Are you insane? That could flood the entire lower deck! [more firmly] No, we follow protocol—sound the collision alarm first. [Gasping breath] Then we evacuate through the escape trunk while we still can!
+
+273 Character 1: [hoarse whisper] The escape trunk's above the breach. [louder and frantic] Can't you hear that groaning? The metal's buckling! [Whimpering] We're trapped between the water and a sealed hatch—think of something else, quick!
+
+Character 2: [eerily calm] Okay, okay, remember your training. [quickening pace] Emergency blow—we surface the boat, release all ballast tanks simultaneously. [determined shout] I'll handle the controls, you manually open the high-pressure air valves, move!
+
+274 Character 1: [through gritted teeth] The console's shorting out—sparks everywhere! [defeated tone] Half the systems are already dead. [Bitter laugh] So much for state-of-the-art equipment. Wait—the auxiliary pump, is it still operational down here?
+
+Character 2: [urgently] Auxiliary pump's in the next compartment, but the hatch wheel's underwater now. [voice shaking] My hands are going numb from the cold. [Desperate cry] We need another way out—what about the maintenance shaft?
+
+275 Character 1: [weakly] Too narrow with the emergency gear on. [more resolved] Listen, one of us needs to dive under, open that hatch. [quiet determination] I'll do it—you keep trying the radio, maybe someone heard our last transmission.
+
+Character 2: [angrily] Don't be a hero, that's suicide in this temperature! [pleading whisper] We both make it out or neither of us does. [Sobbing breath] There's got to be—wait, the ventilation duct, it leads to engineering!
+
+276 Character 1: [exhausted] The duct's our only shot, but we'll have to swim to reach it now. [firmly] Drop everything that weighs you down. [Shuddering breath] On three, we go together—the water's rising faster, almost at our chests!
+
+Character 2: [teeth chattering] Can't feel my legs anymore. [in growing panic] The emergency lights just died—it's pitch black! [Terrified scream] Something just brushed against me! Is that debris or—God, the hull's splitting more!
+
+277 Character 1: [commanding tone] Focus on my voice, don't think about the dark! [reassuring] I've got your shoulder, we're moving together. [Coughing sputter] The duct should be two meters ahead—keep your hand on the wall, feel for it!
+
+Character 2: [barely audible] Found it—the grate's loose! [straining] Help me pull this thing off! [Triumphant gasp] It's open! You go first, I'll push you up, then you pull me through—hurry, water's at my neck!
+
+278 Character 1: [echoing from duct] I'm through—reaching back for you now! [desperately loud] Grab my hand! [more strained] You're heavier than—no, don't let go! Push with your legs against the wall, I've almost got you up here!
+
+Character 2: [gasping] Made it! [rapid breathing] Crawl forward, don't stop! [fierce whisper] I can hear the water filling the space behind us—this duct better lead somewhere, or we just trapped ourselves in a metal coffin!
+
+279 Character 1: [hopeful] There's light ahead—actual light! [voice breaking] It's the engineering bay access panel! [Nervous laugh] Twenty more meters of crawling and we're out—unless this section's flooded too, but I hear voices down there!
+
+Character 2: [relieved sob] Those are damage control teams! [shouting ahead] Hey! We're in here—two officers from compartment seven! [weakly] Don't close any hatches yet, we're coming through! Thank God, we actually might make it!
+
+280 Character 1: [dazed mumble] My ears won't stop ringing. [gradually steadier] That was too close—thirty more seconds and we'd have drowned. [Heavy exhale] The Captain's going to want answers about how we missed that initial breach warning.
+
+Character 2: [grimly quiet] Seven minutes—that's all it took for our compartment to flood completely. [in shock] Peterson and Kumar were on duty there an hour ago. [Shaky breath] We need to report this immediately—others might still be trapped below.
+
+============================================================
+
+ITEMS 281-285 - GENERAL TAGS (185 words)
+
+Script: 9a568624_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+281 Character 1: [warmly] Sweetheart, I've already started planning the Christmas Eve service schedule. [hopeful] The choir is doing something special this year, and I saved seats for the whole family. [softer] It would mean so much to have you there with us.
+
+Character 2: [hesitant] Mom, we talked about this. [steadier] I'm happy to come for dinner and help with decorations, but [pause] [gently] church isn't my thing anymore. Can't we just enjoy the family time without making it about religion?
+
+282 Character 1: [hurt] But it's Christmas! [pleading voice] How can you celebrate the birth of Christ without—without actually honoring Him? [Shaky breath] Your grandmother would be heartbroken if she knew you were skipping the most important part.
+
+Character 2: [frustrated sigh] See, this is exactly why holidays get complicated. [firmly] I'm not trying to dishonor anyone, Mom. [quieter] I just find meaning in the togetherness, the giving, the traditions that aren't specifically about prayer or worship.
+
+283 Character 1: [defensive] Those traditions came from faith! [accusatory] The tree, the gifts, the entire reason we gather—it's all rooted in God's love. [Soft whimper] How did I fail you so badly that you can't see that anymore?
+
+Character 2: [exasperated] You didn't fail me! [more calmly] Growing up and forming my own beliefs isn't a rejection of you. [tenderly] I love our family deeply, Mom. Can't that be enough without me pretending to believe something I don't?
+
+284 Character 1: [bitter laugh] Pretending? [wounded] Is that what you think I've been doing all these years—pretending? [trembling] My faith isn't some costume I put on for show. It's who I am, and it breaks my heart daily.
+
+Character 2: [apologetic tone] That's not what I meant. [carefully] Your faith is real and beautiful for you. [pause] [stronger] But forcing me into services feels like you're asking me to be dishonest about who I've become.
+
+285 Character 1: [resigned whisper] Fine. [building volume] Come for dinner, skip the service, break bread with us while rejecting everything that bread represents. [Hollow laugh] But don't expect me to pretend your absence doesn't leave a hole in our celebration.
+
+Character 2: [thoughtfully] What if we found middle ground? [enthusiastic] I'll come to the candlelight service—not to pray, but to support you and be present. [gentler] And maybe you can appreciate that my presence there is its own act of love?
+
+============================================================
+
+ITEMS 286-295 - GENERAL TAGS (375 words)
+
+Script: 3fe7551f_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+286 Character 1: [sweetly] Oh honey, that swaddle is much too loose! [getting faster] When you were a baby, we wrapped you tight as a burrito. [tsking sound] Here, let me show you the proper way—babies need to feel secure, like in the womb.
+
+Character 2: [exhausted] Mom, the pediatrician specifically said not to swaddle too tightly. [firmly] It's different now—there are new guidelines about hip dysplasia. [Deep sigh] I've got this under control, really, I've read all the latest research and recommendations.
+
+287 Character 1: [dismissively] Research changes every five minutes! [louder] I raised three children without any fancy studies, and you all turned out fine. [Soft chuckle] Besides, is he sleeping through the night yet? Mine always did by six weeks old.
+
+Character 2: [defensive whisper] He's only four weeks old, Mom. [more frustrated] Every baby is different—you can't compare them like that. [voice breaking] I haven't slept in days, and these constant suggestions aren't helping me feel any more confident here.
+
+288 Character 1: [hurt tone] I'm only trying to help, sweetheart. [quavering] When I see him crying like that, my heart breaks. [more insistently] A little rice cereal in his bottle would fill his tummy right up—works like magic, always has.
+
+Character 2: [shocked] Rice cereal at four weeks? [louder] Absolutely not! That's actually dangerous—his digestive system isn't ready for solids. [Exasperated groan] The AAP says six months minimum, and I'm following medical advice, not old wives' tales, Mom.
+
+289 Character 1: [indignant] Old wives' tales? [voice rising] These methods worked for generations of mothers before you! [Bitter laugh] But fine, let him cry himself hungry while you follow your internet doctors who've never even met your baby.
+
+Character 2: [near tears] They're not internet doctors—it's his actual pediatrician! [shaking voice] You're undermining everything I do, making me feel like a terrible mother. [Sniffling] Can't you see I'm trying my best here? This is really, really hard already.
+
+290 Character 1: [softer] Oh no, no, you're not terrible. [reassuring tone] You're just overwhelmed and overthinking everything, dear. [gentle but persistent] Maybe if you tried the baby on his tummy to sleep, like we used to do—he'd rest so much better.
+
+Character 2: [incredulous shout] On his tummy?! [quieter but firm] Mom, that's literally the opposite of safe sleep guidelines—back is best, always. [controlled anger] How many more outdated suggestions are you going to make? I need support, not constant contradiction.
+
+291 Character 1: [wounded] I stayed up countless nights with colicky babies, no help from anyone. [trembling] Your father worked nights, and I managed everything alone. [more emotionally] I just want to share my experience, pass down wisdom that actually worked.
+
+Character 2: [gentler] I know you did your best with what you knew then. [steadier voice] But things have changed—we know more about SIDS, allergies, development now. [Soft exhale] Can you please trust that I'm making informed decisions for my baby?
+
+292 Character 1: [reluctantly] Fine, but when you're exhausted and he won't stop fussing, remember Granny's tricks work. [muttering] That expensive white noise machine is nothing compared to a car ride. [hopeful] At least let me hold him my way?
+
+Character 2: [compromising tone] You can hold him, of course, just please support his head properly. [warming slightly] And yes, car rides do help sometimes—you're right about that. [Tired laugh] Though gas prices make that an expensive sleep solution these days.
+
+293 Character 1: [brightening] See? Grandma knows a thing or two! [eagerly] Now, about that diaper rash—cornstarch works wonders, much better than those chemical creams. [conspiratorial whisper] And a little whiskey on his gums when teething starts never hurt anyone.
+
+Character 2: [disbelief] Whiskey? On his gums? [stern voice] Mom, that's actually illegal now—it's considered child endangerment. [Heavy sigh] Please, please stop suggesting things that could literally get CPS called on me. Modern diaper cream works perfectly fine.
+
+294 Character 1: [offended gasp] Child endangerment! [defensive] For something every mother in my generation did? [sarcastically] I suppose next you'll tell me that fresh air is dangerous too. What's this world coming to when grandmothers can't share wisdom?
+
+Character 2: [pleading] Fresh air is great—I take him on walks daily. [slower pace] I'm not rejecting everything you say, Mom. [voice cracking] I just need you to respect that I'm his mother, and I get to make the final decisions here.
+
+295 Character 1: [resigned sigh] You're right, you're his mother. [quietly] I remember feeling this same frustration with your grandmother, actually. [thoughtful pause] She insisted on giving you honey for hiccups—drove me absolutely crazy back then. [Soft chuckle]
+
+Character 2: [relieved] Really? Grandma did that to you too? [lighter tone] Maybe this is just how it goes—each generation thinking they know best. [warmly] I do appreciate your help, Mom. [genuine] Just maybe check with me first before doing things?
+
+============================================================
+
+ITEMS 296-305 - GENERAL TAGS (388 words)
+
+Script: _A_used_fdaa39f5_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [sniffling] Can you believe they're already graduating kindergarten? [voice breaking] It feels like yesterday I was teaching her to tie her shoes, and now [shaky exhale] she's reading full sentences and making friends on her own.
+
+296 Character 2: [trembling whisper] I know exactly what you mean. [steadier] This morning, Jake insisted on packing his own backpack and said, [choking up] "Mom, I'm a big kid now." [soft sob] How did five years disappear so quickly?
+
+Character 1: [laughing through tears] Mine asked if she could walk to first grade by herself! [higher pitch] By herself! [quieter] I had to explain that six blocks is still too far, even for a kindergarten graduate with a fancy paper certificate.
+
+297 Character 2: [wistful tone] Remember orientation day? [increasingly emotional] Jake wouldn't let go of my leg, hiding behind me from everyone. [proud but weepy] Now look at him up there, singing with confidence, standing tall with all his little friends.
+
+Character 1: [bright but watery] The teachers deserve medals, honestly. [more seriously] Ms. Peterson turned my shy little wallflower into this brave girl who [cracking voice] volunteers to read aloud and shares her snacks without being asked anymore.
+
+298 Character 2: [hushed amazement] They've grown so much this year. [normal volume] Yesterday, Jake solved a math problem I was struggling to explain. [bewildered whisper] When did he get smarter than me? [nervous laugh] First grade is going to destroy me emotionally.
+
+Character 1: [dramatically] Stop it, you're making it worse! [snorting laugh] I already used up all the tissues I brought. [more controlled] My husband thinks I'm being ridiculous, but he teared up during the morning drop-off routine today too.
+
+299 Character 2: [defensive] We're not ridiculous at all! [softer] These are our babies taking their first real steps into the world. [increasingly firm] If we can't cry at kindergarten graduation, when can we cry? [gentle laugh] Besides, look around, everyone's emotional.
+
+Character 1: [nostalgic whisper] I still have her first day photo on my phone. [regular voice] That enormous backpack, those pristine shoes that got muddy within ten minutes. [voice rising with emotion] She looked so tiny next to that classroom door back then.
+
+300 Character 2: [philosophical tone] You know what gets me most? [pause, then sadly] They won't need us the same way anymore. [more hopeful] Sure, they'll need us differently, but [trailing off] those days of complete dependence are officially behind us now.
+
+Character 1: [suddenly urgent] Oh god, they're starting the slideshow! [panicking] Why do they always add that sentimental music? [breaking down] Look at their baby pictures compared to now, I can't handle this emotional manipulation right now, I really can't.
+
+301 Character 2: [thick with tears] That's Jake's first art project! [gasping] He was so proud of that handprint turkey. [more composed] He made me hang it on the fridge for three months. [wobbly voice] I still have it saved in his memory box.
+
+Character 1: [determined] We should be celebrating this milestone. [less certainly] They're thriving, they're happy, they're ready. [voice dropping] So why does my heart feel like it's being squeezed in a vice? [bitter laugh] Parenthood is just planned heartbreak, isn't it?
+
+302 Character 2: [comforting tone] Because loving them means letting them grow. [more firmly] Even when it hurts to watch them need us less. [philosophical whisper] My mom warned me about this feeling, but [shaky] you can't understand until you live it.
+
+Character 1: [sudden realization] Oh no, they're about to call them up for diplomas! [frantic whisper] Where's my camera? [more urgently] I can't see through these tears, everything's blurry! [calming slightly] Thank god my husband is recording, because I'm absolutely useless right now.
+
+303 Character 2: [through tears] Jake's name is next! [excited squeal] Look how proud he looks! [dropping to whisper] He practiced walking across that stage all week at home. [louder, emotional] That's my baby up there, my beautiful, growing-up-too-fast baby boy!
+
+Character 1: [post-cry exhaustion] I need a drink after this. [laughing weakly] Several drinks, actually. [more animated] Want to grab lunch and properly sob into our wine? [conspiratorial whisper] We can toast to surviving kindergarten and dreading the teenage years together.
+
+304 Character 2: [relieved laugh] God, yes please. [earnestly] I need to process this with someone who gets it. [teasing] My husband just pats my shoulder and says they have to grow up. [mock serious] Men don't understand the emotional complexity here.
+
+Character 1: [reflective] You know what though? [warming up] We did good. [with growing pride] Look at these incredible little humans we're raising. [steadier voice] They're kind, curious, brave—everything we hoped they'd be at this age and more.
+
+305 Character 2: [deeply content] You're absolutely right. [emotional again] Through all the tears and worry, they're exactly who they're supposed to be. [final whisper] We're doing okay at this mom thing. [brightening] Even if we're complete messes at their graduations.
+
+============================================================
+
+ITEMS 306-315 - GENERAL TAGS (315 words)
+
+Script: _A_used_f64e901c_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [shaking voice] There ain't no other way, Jake. [bitter] The bank's coming tomorrow with the sheriff, and I'd rather see it burn [choking up] than watch them vultures pick apart what Pa built with his bare hands.
+
+306 Character 2: [quiet resignation] I know it, Sam. [steadier] Twenty years we've worked this land, through drought and storms. [voice breaking] Ma's buried out back under that oak—can't let strangers trample over everything we've loved.
+
+Character 1: [harsh laugh] Remember when we thought we'd pass this place to our kids? [softer] Now look at us, holding torches like common outlaws. [determined growl] But they won't get the satisfaction of taking what's ours.
+
+307 Character 2: [nostalgic whisper] That front porch where Pa taught us to whittle, [louder] the barn we raised with the whole county helping. [Shuddering breath] Every board holds a memory that'll turn to ash tonight.
+
+Character 1: [urgently] We gotta do it now before I lose my nerve. [trembling] My hands are shaking something fierce, Jake. [more firmly] But watching them auction our home would kill what's left of my soul.
+
+308 Character 2: [hollow tone] The horses are already moved to Thompson's place. [increasingly agitated] Grabbed Ma's Bible and Pa's rifle—everything else stays. [Bitter chuckle] Let the bank inherit ashes and regret, nothing more.
+
+Character 1: [weeping openly] God forgive us for what we're about to do. [angry shout] But those bastards left us no choice! [quieter] They took everything else—our savings, our dignity, our future.
+
+309 Character 2: [steadying breath] Light the barn first, then the house. [mechanical] We'll watch from the ridge until it's done. [voice cracking] Then we ride west and never look back, brother.
+
+Character 1: [disbelieving] Can't believe it's really ending like this. [faster] All those years fighting weather, disease, raiders—survived everything except a banker's greed. [Hoarse whisper] This land was supposed to outlive us both.
+
+310 Character 2: [philosophical tone] Maybe it's better this way, Sam. [growing stronger] The homestead dies with us, on our terms, proud and defiant. [Dry laugh] Least we're choosing how our story ends.
+
+Character 1: [suddenly urgent] You hear that? [panicked] That's horses coming up the trail! [commanding] Light it now, Jake—throw the torch and let's ride before they get here!
+
+311 Character 2: [determined grunt] It's catching on the hay. [awestruck] Look how fast it spreads, like the wood's been waiting. [more quietly] Strange how something so terrible can look so beautiful against the night.
+
+Character 1: [yelling over flames] The roof's going up! [desperate] We should go, but I can't look away. [Sobbing] Twenty years of my life turning to smoke, and I can't even look away.
+
+312 Character 2: [distant voice] The heat's reaching us even up here. [melancholy] You can see it for miles, probably—our final message to the county. [stronger] We weren't beaten; we just refused to play their game.
+
+Character 1: [exhausted whisper] It's collapsing now, the whole frame. [more animated] Remember building that addition when Mary was born? [Ragged breath] Took us three months, and now it's gone in three minutes.
+
+313 Character 2: [grimly satisfied] Let them explain this to their bosses back East. [quieter] "The property you foreclosed on? [Mocking tone] Sorry, sir, but there ain't nothing left except scorched earth and stubborn ghosts."
+
+Character 1: [sudden realization] Jake, we're outlaws now, you know that? [nervous laugh] Arson's a hanging offense in this county. [resigned] But I'd rather swing than live knowing they won in the end.
+
+314 Character 2: [firmly] We did what we had to do. [emotional] Pa would understand—he always said a man's home is his castle. [Choked laugh] Well, we just chose to burn our castle down.
+
+Character 1: [growing distant] Time to ride, brother. [steadier] New Mexico, maybe California—somewhere they don't know our names. [wistful] Somewhere we can forget the sound of everything we loved turning to nothing.
+
+315 Character 2: [final whisper] Take one last look, Sam. [stronger] Remember it burning, not broken and sold. [Shaking voice] Now let's go, before the smoke in our eyes ain't from the fire anymore.

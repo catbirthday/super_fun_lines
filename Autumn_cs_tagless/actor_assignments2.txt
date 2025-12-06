@@ -1,0 +1,271 @@
+ACTOR LINE ASSIGNMENTS - 50 ITEMS (~1717 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1717 words (100.0%)
+
+  TOTAL                 :  1717 words
+
+============================================================
+
+============================================================
+
+ITEMS 51-60 - GENERAL TAGS (356 words)
+
+Script: 15aa62a5_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+51 Character 1: [nervously] I know this is awkward, but I really need help. [quieter] The landlord's threatening eviction, and my car just broke down. [Deep breath] Could we talk about a loan—maybe ten thousand to get me back on track?
+
+Character 2: [stern] Ten thousand dollars? [Pause] [coldly] We've been through this before, haven't we? You promised last time was the final request. [softer] Your mother and I work hard for our money—it doesn't simply materialize from thin air.
+
+52 Character 1: [defensively] This is different! [pleading tone] I have a real plan now—I'm interviewing for three positions next week. [more quietly] The economy's been brutal, Dad. [Shaky breath] I just need a bridge to get through this rough patch.
+
+Character 2: [skeptical tone] A bridge? [Bitter laugh] That's what you called it two years ago. [increasingly frustrated] We paid off your credit cards, covered your moving expenses, and funded that failed business venture. When does this end?
+
+53 Character 1: [hurt] You think I enjoy this? [voice cracking] Every time I call, I feel like a failure. [Choked sob] But what choice do I have—sleep in my broken car while I wait for these jobs?
+
+Character 2: [Heavy sigh] Don't be dramatic. [firm] Nobody's suggesting you sleep in your car. [gentler] But your mother thinks—and I agree—that constantly bailing you out isn't helping you learn to manage your own life.
+
+54 Character 1: [angrily] Learn to manage? [louder] I have two degrees and work sixty hours a week! [Frustrated grunt] The problem isn't effort—it's that rent takes seventy percent of my income. [bitterly] But you wouldn't understand that anymore.
+
+Character 2: [offended] Wouldn't understand? [Sharp laugh] [slower pace] I grew up with nothing—absolutely nothing—and built everything we have from scratch. [quieter] The difference is I never asked anyone for handouts, especially not repeatedly.
+
+55 Character 1: [desperately] Please, just this once more. [rapid words] I'll sign a contract, pay interest, whatever you want. [Shuddering breath] I can't lose my apartment—it's the only stable thing I have left. [whispered] I'm drowning here.
+
+Character 2: [Long pause] [resigned tone] Your mother's going to kill me for this. [firmly] Five thousand, not ten. [warning tone] This is absolutely the last time—I mean it. And I want monthly progress reports on your situation.
+
+56 Character 1: [relieved] Five thousand... [hesitant] that'll cover rent and the car repair, barely. [Nervous laugh] [hopefully] Could we maybe make it six? The insurance is also due, and I need groceries to survive until my first paycheck.
+
+Character 2: [exasperated] And there it is—the negotiation begins immediately. [Tired sigh] [sternly] This is exactly the pattern we need to break. Five thousand is generous. Budget better, eat rice and beans, whatever it takes.
+
+57 Character 1: [quietly] You're right, I'm sorry. [more steadily] Five thousand is incredibly generous, and I'm grateful. [determined tone] I promise you'll see changes this time. [Clearing throat] When can I pick up the check?
+
+Character 2: [businesslike] I'll transfer it tonight. [Pause] [seriously] But I want a written repayment plan by Friday, with realistic monthly installments. [softer] And maybe consider moving somewhere cheaper—your pride isn't worth bankruptcy.
+
+58 Character 1: [subdued] I've already started looking at studios outside the city. [sighing] The commute would be horrible, but you're right about the rent. [hopefully] Maybe once I land one of these jobs, things will finally stabilize.
+
+Character 2: [gentler tone] That's smart thinking. [Soft chuckle] [warmly] You know, despite everything, we do want you to succeed. [more firmly] But success means standing on your own feet, not leaning on ours forever.
+
+59 Character 1: [emotionally] I know, and I hate disappointing you both. [steadier] These past few years have been humbling in ways I never imagined. [Deep breath] [determinedly] But I'm going to make you proud again—just watch me.
+
+Character 2: [fondly] You're still our kid, struggles and all. [Pause] [seriously] But this really is the final bailout. [lighter tone] Your mother's already planning to change our bank passwords after this transfer goes through.
+
+60 Character 1: [Weak laugh] Fair enough. [sincerely] Thank you, Dad—for the money and for not completely giving up on me. [quietly] I know I've pushed your patience to its absolute limit. [stronger] This time will be different.
+
+Character 2: [skeptically] We'll see. [Long sigh] [resigned] Come to dinner Sunday—your mother misses you, even if she's furious about this loan. [warmly] And bring your repayment plan. We'll review it over dessert.
+
+============================================================
+
+ITEMS 61-70 - GENERAL TAGS (321 words)
+
+Script: 7cc89a40_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+61 Character 1: [nervously] I'm so, so sorry about what happened earlier. [voice cracking] My dog Bella, she's never done anything like that before, [rapid breathing] I swear she's usually such a sweetheart with other dogs at the park.
+
+Character 2: [coldly] Well, that "sweetheart" nearly traumatized my poor Duchess. [sharp intake] [more accusingly] Do you even realize how long it takes to rebuild a dog's confidence after an attack like that?
+
+62 Character 1: [defensive mumbling] It wasn't really an attack though. [pleading] She just got overexcited when Duchess had that tennis ball—[trails off quietly] maybe I should have seen the signs, but she's been doing so well lately.
+
+Character 2: [scoffing] Overexcited? [Bitter laugh] Your untrained beast charged across the entire park! [louder] Every regular here saw it happen, and frankly, we're all tired of newcomers who can't control their animals.
+
+63 Character 1: [shakily] We've been coming here for three weeks now. [Nervous giggle] [softer] I thought we were making friends, actually, and Bella passed her behavioral assessment just last month with flying colors.
+
+Character 2: [sarcastically sweet] Oh, three whole weeks? [Snort] How wonderful for you. [icy tone] Some of us have been maintaining the peaceful atmosphere here for years before you showed up.
+
+64 Character 1: [desperately] Look, I'll pay for Duchess's vet check if you want. [rushed words] Though she seemed fine, no broken skin or anything. [Shaky exhale] Can we please just move past this?
+
+Character 2: [indignant] Money doesn't fix emotional trauma! [slow and deliberate] My Duchess is a rescue who took two years to trust other dogs. [Hissing breath] Now she's hiding behind my legs, trembling.
+
+65 Character 1: [near tears] I understand, I really do—Bella's a rescue too. [quavering] She was used for breeding in a puppy mill. [whispered] Sometimes she just doesn't know how to play properly with others.
+
+Character 2: [dismissively] That's precisely why she needs professional training, not amateur hour at our dog park. [clipped words] [Heavy sigh] Perhaps you should consider the small dog area until she's actually ready.
+
+66 Character 1: [frustrated] The small dog area? [voice rising] Bella weighs sixty pounds! [more firmly] Besides, she's fine with most dogs—Duchess just happened to have her favorite type of ball.
+
+Character 2: [condescending] So now you're blaming my dog's toy? [Hollow laugh] [venomous whisper] This is exactly the kind of excuse-making that ruins dog parks for responsible owners like myself.
+
+67 Character 1: [suddenly angry] You know what? [steadier] Maybe if Duchess wasn't so possessive of toys, this wouldn't have happened. [Bitter chuckle] Isn't resource guarding also considered a behavioral issue by your standards?
+
+Character 2: [outraged gasp] How dare you! [shrill] Duchess was simply playing fetch with me when your monster came barreling over! [more controlled] The audacity to blame the victim here is absolutely astounding.
+
+68 Character 1: [exhausted] I'm not blaming anyone. [Long sigh] [quietly firm] But maybe we both need to watch our dogs better, because I saw Duchess growl at three other dogs before mine even arrived today.
+
+Character 2: [defensive stutter] That's—that's completely different! [haughtily] She was establishing boundaries, which is healthy dog communication. [Quick breath] Your dog clearly doesn't understand or respect those important social cues at all.
+
+69 Character 1: [resigned] Fine, you're right about everything. [flatly] We'll leave now and try the park across town instead. [Tired laugh] Maybe they'll be more understanding of dogs who are still learning there.
+
+Character 2: [triumphant] Finally, some sense! [softer, patronizing] Though I do hope you'll get proper training first. [Tongue click] The other park has children, you know—imagine if this happened with them.
+
+70 Character 1: [sarcastically bright] Oh, thanks for the concern! [dripping sweetness] Bella's actually wonderful with kids, certified therapy dog and everything. [sharp] But I guess that doesn't matter to the almighty dog park queen here.
+
+Character 2: [spluttering] Therapy dog? [Incredulous laugh] [building volume] Well perhaps she should stick to hospitals where the patients can't run away when she "gets overexcited" about their belongings!
+
+============================================================
+
+ITEMS 71-80 - GENERAL TAGS (318 words)
+
+Script: d8ba7e3a_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+71 Character 1: [cheerfully] Oh hello there, neighbor! [getting louder] I've been meaning to introduce myself since you moved in last week. [rapid speech] I'm Barbara from next door—been living here twenty-seven years! [curiously] Where did you move from?
+
+Character 2: [quietly] Hi. [pause] I'm from... around. [clearing throat] Just needed a change of scenery, you know how it is. [trailing off] Anyway, nice fence you have here—very sturdy looking, good height.
+
+72 Character 1: [excitedly] Oh yes, we had it installed after the Johnson incident! [whispered conspiratorially] You didn't hear about that? [normal volume] So what do you do for work? I noticed you leave at odd hours.
+
+Character 2: [stiffly] I work in... consulting. [nervous chuckle] Different time zones and all that. [more firmly] Pretty boring stuff really. [mumbling] Just spreadsheets and conference calls, nothing worth discussing over fences.
+
+73 Character 1: [persistent tone] Consulting! How interesting! [speeding up] My nephew does consulting too—maybe you know him? [hopeful] He works at that big firm downtown. [probing] What kind of clients do you work with exactly?
+
+Character 2: [uncomfortable laugh] Various companies, nothing specific. [defensive] Look, I really should get back inside. [softly] Got a call starting soon. [more hurried] Those time zones wait for no one, right?
+
+74 Character 1: [disappointed] Oh, of course! [brightening quickly] But wait—are you married? [gossipy whisper] I thought I saw someone through your kitchen window yesterday. [normally] My book club meets Thursdays if you're interested!
+
+Character 2: [sharp exhale] That was just... the TV probably. [flatly] I live alone. [forcing politeness] Book club sounds... nice, but I'm not much of a reader. [awkward pause] More of a documentary person.
+
+75 Character 1: [surprised] Documentaries! [slower, intrigued] About what exactly? [quick giggle] True crime? I love those murder shows! [enthusiastically] Did you see the one about that woman who disappeared from this very neighborhood?
+
+Character 2: [nervously] No, I hadn't heard. [stilted] I prefer nature documentaries actually. [dry laugh] Birds and... trees. [more firmly] Very calming after long work days. Nothing dramatic or mysterious about migration patterns.
+
+76 Character 1: [skeptically] Birds and trees, how peaceful. [probing again] You know, you look so familiar! [thoughtful humming] Have you ever lived here before? [faster] Maybe visited someone? My memory for faces is excellent!
+
+Character 2: [tense] Never been here before, no. [forced casual tone] Must have one of those common faces. [nervous laughter] People say that all the time. [quietly insistent] Really need to go now though.
+
+77 Character 1: [calling out] Oh wait! [sweetly] I'm having a barbecue Saturday! [coaxing tone] Everyone from the street will be there! [singsongy] You simply must come—we're all dying to meet you properly!
+
+Character 2: [hesitant] That's very kind but... [weakly] I might be traveling for work. [unconvincingly] Big project deadline coming up. [soft sigh] Rain check maybe? I'm not great at parties anyway.
+
+78 Character 1: [deflated] Oh, that's a shame. [perking up] But if plans change! [meaningfully slower] We always know when someone's home—thin walls in these houses! [bright laugh] The Johnsons learned that the hard way!
+
+Character 2: [uneasily] Right, the Johnson incident you mentioned. [strained politeness] Well, I'll keep the noise down. [hurried whisper] Really going now. [louder] Nice meeting you Barbara. Enjoy your afternoon.
+
+79 Character 1: [quickly interjecting] Just one more thing! [urgent curiosity] Do you need any recommendations? [rattling off] Plumbers, electricians, doctors? [slower, pointed] The police station is just five minutes away—very responsive, wonderful people!
+
+Character 2: [curtly] I'm all set, thanks. [defensive edge] Everything's perfectly fine. [forced smile in voice] Google's pretty helpful these days. [firmly] Goodbye Barbara. I'm sure we'll talk again... sometime.
+
+80 Character 1: [chirping] Oh definitely! [louder enthusiasm] I'm always around! [confiding tone] Work from home, you see—retired early! [cheerful shout] Welcome to the neighborhood! I'll bring cookies once you're settled!
+
+Character 2: [resigned sigh] Cookies. Great. [muttering] Can't wait. [falsely bright] Thanks so much, Barbara. [fading volume] See you around. Or through the fence. Or window apparently. [nervous chuckle] Bye now.
+
+============================================================
+
+ITEMS 81-90 - GENERAL TAGS (378 words)
+
+Script: 5c75b122_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+81 Character 1: [desperately] I've been texting you all morning—where were you? [voice breaking] I needed to talk about what happened with my mom. [faster, panicked] You know I can't handle these things alone, you're the only one who understands me.
+
+Character 2: [calmly] I was at my yoga class, remember? [measured tone] I told you last week I'd be unavailable Sunday mornings. [Deep breath] I'm sorry about your mom, but we can talk about it this afternoon when I'm free.
+
+82 Character 1: [accusingly] Yoga is more important than me? [Scoff] I thought best friends dropped everything for each other. [quieter, hurt] When you needed me during your breakup, I literally left work early every single day for two weeks straight.
+
+Character 2: [firmly] That was really generous of you. [slower pace] But I never asked you to leave work—you chose that. [Sigh] I appreciate your support, truly, but I need some time for myself too, and that's not negotiable anymore.
+
+83 Character 1: [pleading whisper] You're changing, becoming so distant and cold. [more frantically] What if I really needed you—like an actual emergency? [Bitter laugh] Would you still be stretching on your mat while I'm falling apart here all alone?
+
+Character 2: [steadily] In an actual emergency, of course I'd be there. [softer] But your mom being passive-aggressive isn't an emergency. [pause, then gently] It's a pattern we discuss weekly, and you already know exactly what I'd say about it anyway.
+
+84 Character 1: [sarcastically sweet] Oh, so now you're tired of hearing about my life? [Sharp exhale] Fine, I'll just bottle everything up inside. [building anger] Maybe I should find a friend who actually cares about maintaining our twelve-year friendship properly.
+
+Character 2: [exhausted] That's not what I'm saying at all. [more firmly] I care deeply about you and our friendship. [Controlled breath] But caring doesn't mean being available twenty-four seven or sacrificing my mental health for yours every single time.
+
+85 Character 1: [tearfully] Mental health? [incredulous] I'm toxic to your mental health now? [Shaky breath] After everything we've been through together, all those late-night calls, all those times I put you first—this is what I've become to you?
+
+Character 2: [compassionately] You're not toxic—our dynamic is. [thoughtfully slower] We've created this pattern where you panic and I rescue. [pause, then clearly] Neither of us can grow this way, and I think deep down you know that's true too.
+
+86 Character 1: [defensively fast] So what, you've been reading self-help books? [Hollow laugh] Going to therapy to talk about how needy I am? [wounded] I'm just trying to be a good friend the only way I know how—by being there.
+
+Character 2: [honestly] Yes, I have been going to therapy. [proudly] It's helped me understand why I feel drained and resentful sometimes. [Heavy sigh] I want our friendship to last, but it needs to evolve into something healthier for both of us.
+
+87 Character 1: [bitterly] Resentful. [long pause] That's a really beautiful word to hear from your best friend. [trembling] You resent me for needing you, for trusting you with my problems, for thinking you were my safe person in this world.
+
+Character 2: [gently insistent] I resent the expectation, not you. [more slowly] The assumption that I'll always drop everything, always say yes, always prioritize your needs. [warmly] You ARE important to me—that's exactly why I'm having this difficult conversation right now.
+
+88 Character 1: [quietly defeated] Maybe we should just take a break then. [Sniff] If I'm such a burden, such an energy vampire... [trailing off] I don't want to be someone you dread hearing from every time your phone rings anymore.
+
+Character 2: [urgently] That's not what I want at all! [steadying voice] I want to text without panic, to hang out without crisis management. [hopefully] Remember when we used to just watch movies and laugh? I miss that version of us so much.
+
+89 Character 1: [wistfully] We were different people back then, weren't we? [Soft chuckle] Before life got so complicated and heavy. [building emotion] But this is who I am now—someone with anxiety, with family drama, with actual real problems that won't disappear.
+
+Character 2: [tenderly] And I want to support you through those problems. [more firmly] But as your friend, not your therapist or emergency hotline. [Gentle exhale] What if we tried scheduling regular coffee dates? Creating space for both serious talks and fun too?
+
+90 Character 1: [uncertainly] Scheduling our friendship sounds so... corporate. [reluctant pause] But I guess if that's what you need... [Shaky breath] I'm terrified of losing you completely, so maybe trying something new is better than watching us slowly drift apart.
+
+Character 2: [relieved, warm] Thank you for hearing me—really hearing me. [optimistically] This isn't about losing each other; it's about finding a better way. [smiling in voice] How about we start with coffee Tuesday? No crisis talk allowed—just us being friends?
+
+============================================================
+
+ITEMS 91-100 - GENERAL TAGS (344 words)
+
+Script: 124163b3_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+91 Character 1: [breathless] Oh my God, oh my God, we're alive! [nervous giggle] Did he seriously just throw his coffee at the wall? [voice cracking] I thought we were getting fired for sure when the projector died mid-presentation.
+
+Character 2: [wheezing laugh] The way you just kept talking while smoke literally poured out! [higher pitched] "And as you can see on slide—" [snorting] There WAS no slide, Sarah! Just flames and his face turning purple!
+
+92 Character 1: [whispered panic] When he started screaming about incompetence, I literally forgot how to breathe. [louder] But then YOU— [cackling] you offered him a stress ball from your purse like that would fix everything!
+
+Character 2: [defensive squeak] I panicked! [slower] What else was I supposed to do when a grown man starts having a tantrum? [giggling uncontrollably] His assistant mouthed "run" at us through the glass door, remember?
+
+93 Character 1: [exhausted sigh] Twenty years. [flat tone] He said he'd been waiting twenty years for this presentation. [hysterical laugh] We gave him Comic Sans headers and a fire hazard instead. This is how careers die.
+
+Character 2: [shrieking] Comic Sans was YOUR choice! [accusatory] "It's approachable," you said! [dissolving into giggles] Nothing says quarterly revenue projections like the font of a middle school birthday invitation, apparently. We're so doomed.
+
+94 Character 1: [mock serious] At least we maintained eye contact during the meltdown. [voice shaking] Very professional of us. [burst of laughter] Even when he called us "disappointments to capitalism itself"—that was oddly poetic for pure rage.
+
+Character 2: [groaning] My favorite part? [sarcastic brightness] When he asked if we even went to college. [deadpan] Sir, I have two degrees and crippling debt to prove it. This disaster was highly educated, thank you!
+
+95 Character 1: [sudden realization] Wait, wait, did we even save the file? [panic rising] The backup is on my desktop but— [relieved exhale] Oh who cares, we're probably banned from the building anyway after today's performance.
+
+Character 2: [philosophical tone] You know what? [building confidence] We survived Jeremy Peterson, the client from hell. [triumphant] If we can live through that, we can survive anything. [quieter] Right after I update my resume tonight.
+
+96 Character 1: [disbelieving whisper] Did security actually escort us out? [normal volume] Or was that just a very aggressive goodbye? [confused giggle] The guard seemed sympathetic when he handed us our visitor badges back, so that's something.
+
+Character 2: [cheerful denial] I'm choosing to believe he was just walking us to the door! [dropping lower] Coincidentally. With his hand on his radio. [nervous laughter] While calling for backup. Totally normal client meeting behavior, really.
+
+97 Character 1: [rapid words] The conference room still smelled like burnt plastic when we left. [amazed] How is that even possible from one projector? [tired laugh] Maintenance is going to hate us forever, assuming we ever get back in.
+
+Character 2: [matter-of-fact] Honestly? [building energy] Best worst meeting of my entire career! [gleeful shout] We're legends now! The cautionary tale they'll tell interns about why you always check equipment beforehand. We're infamous!
+
+98 Character 1: [soft wonder] My hands finally stopped shaking. [steadier] Only took forty-five minutes and probable career suicide. [bitter laugh] Mom's going to love hearing about this at Thanksgiving. "How's work, sweetie?" "Well, funny story..."
+
+Character 2: [dramatic whisper] What if he calls corporate? [regular pitch] What if he already called them? [rising panic] Oh God, are our phones ringing? Check your phone! [pause] Actually don't, ignorance is bliss right now.
+
+99 Character 1: [resigned acceptance] Tomorrow's problem. [firm] Right now, we survived the Peterson apocalypse together. [warming up] That bonds us for life, you realize? [chuckle] We're disaster sisters now. There's no going back from this.
+
+Character 2: [solemn tone] If I get fired, you're my reference. [more playfully] "She stayed calm during actual fire." [snickering] "Maintained composure while client questioned our basic intelligence." These are marketable skills in this economy, right?
+
+100 Character 1: [suddenly urgent] Oh no, the parking meter! [frantic] We've been decomposing here for an hour! [groaning laugh] A parking ticket would be the perfect end to this nightmare. The universe's final little joke today.
+
+Character 2: [zen-like calm] Let it happen. [more intensely] After Peterson's meltdown, nothing can hurt us anymore. [breaking into giggles] We faced the dragon and lived! A parking ticket is just victory tax at this point!

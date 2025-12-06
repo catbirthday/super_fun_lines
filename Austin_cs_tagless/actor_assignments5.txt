@@ -1,0 +1,321 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 51908426_script | Role: Character 2 (B)
+
+Character 1: So. I hit my goal weight yesterday.
+
+326 Character 2: Wait wait wait—what? You hit your—oh my god, are you serious right now? That's like, that's incredible! How do you feel? Actually no, first—we're celebrating, right? We gotta celebrate!
+
+Character 1: It's just a number.
+
+327 Character 2: Okay no no no, don't you dare downplay this. You've been working on this for what—like eight months? Nine? I mean, I've literally watched you meal prep every Sunday and—[Laugh] remember when you couldn't even do one push-up?
+
+Character 1: That was embarrassing.
+
+328 Character 2: But now you can do like, what, fifty? Sixty? That's—that's not just a number, that's you being basically a different person. Do your old clothes even fit anymore?
+
+Character 1: Had to buy everything new. Twice, actually.
+
+329 Character 2: Twice! See, that's—I mean, that's kinda amazing though, right? Like going through sizes that fast? God, I bet people barely recognize you now. Actually wait—do they? Do people like, do double-takes?
+
+Character 1: My mom cried when she saw me at Christmas.
+
+330 Character 2: She—oh. [Softer] Oh wow. Happy tears though? Like proud mom tears? Because honestly, she should be so proud. I'm proud and I'm just—I'm just your friend who steals your protein bars.
+
+Character 1: You can stop stealing them. I'm done with the strict diet part.
+
+331 Character 2: Wait, so you're like—you're actually done done? The whole transformation thing is... complete? That's gotta feel weird, right? Like what do you even do now?
+
+Character 1: Maintenance, I guess. It's strange not having something to chase.
+
+332 Character 2: Okay that's—yeah, I can see that being kinda... empty? Like you've had this huge goal for so long and now it's just—[Sigh] now what, y'know? Are you gonna set a new goal or just... exist?
+
+Character 1: Might try rock climbing. Or boxing. Haven't decided.
+
+333 Character 2: Oh my god, yes! Boxing would be—you'd be so good at that! You've already got the discipline thing down and like, the stamina now? Honestly, you could probably kick anyone's ass already.
+
+Character 1: Doubt it. But the confidence is nice.
+
+334 Character 2: The confidence—okay, that's actually what I notice most? Like forget the weight thing, you just... you carry yourself differently now. You don't, um, you don't hide anymore, if that makes sense?
+
+Character 1: Yeah. I know what you mean.
+
+335 Character 2: Good. Because that's—that's the real transformation, isn't it? The weight was just... I dunno, the side effect? [Laugh] God, look at me getting all deep. But seriously though—I'm really, really proud of you.
+
+Script: 96585a80_script | Role: Character 2 (B)
+
+Character 1: So. I got the call yesterday.
+
+336 Character 2: Wait wait wait—the call? Like THE call? The one from the—oh my god, are you telling me what I think you're telling me right now?
+
+Character 1: Penguin wants it. Three book deal.
+
+337 Character 2: I'm sorry, THREE? Three books? [Gasp] Holy—okay I need to sit down. I'm literally gonna cry. This is everything you've been working for!
+
+Character 1: Yeah. It's... a lot.
+
+338 Character 2: A lot? Babe, this is like—this is huge! I mean, Penguin? That's not just any publisher, that's like... that's the dream, right? How are you so calm right now?
+
+Character 1: I don't think it's hit me yet.
+
+339 Character 2: Okay okay, that's—that's totally normal actually. When something this big happens, your brain kinda just... doesn't compute it, y'know? Like when I got engaged I was just staring at the ring for like, three days straight.
+
+Character 1: They want the first one by March.
+
+340 Character 2: March is—wait that's like, what, five months? Can you do that? I mean, obviously you can, you're literally [Laugh] getting published, but is that enough time?
+
+Character 1: The first one's basically done. Just needs editing.
+
+341 Character 2: Right right, the one about the—the lighthouse keeper? God, I still get chills thinking about that ending. So what about the other two? Do you have ideas or...?
+
+Character 1: Some notes. Nothing solid.
+
+342 Character 2: That's gotta be kinda terrifying though, right? Like signing up to write two whole books that don't even exist yet? I'd be freaking out honestly.
+
+Character 1: My agent says it's normal. Standard, even.
+
+343 Character 2: Your agent—oh my god you have an agent now! This is so legit I can't even—sorry, I'm being annoying aren't I? I'm just really, really proud of you.
+
+Character 1: You're not annoying. It's nice, actually.
+
+344 Character 2: Have you told your parents yet? Because your mom is gonna absolutely lose it—in like, the best way possible. She's been telling everyone about your writing for years. [Chuckle]
+
+Character 1: Tomorrow. Having dinner with them.
+
+345 Character 2: Aw, that's—that's perfect actually. They deserve to hear it in person. God, I'm just... I'm so happy for you. You did it. You actually did it, y'know?
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+346 SCENARIO: realizing they forgot to water their plants
+
+==================================================
+
+[muttering]
+
+Oh. Oh no. When did I— when did I last water the, um, the plants? Because they're looking a little, uh— they're looking a little sad over there, and I'm pretty sure it's been, like, what, three days? Four days?
+
+[slightly panicked]
+
+Wait, no, it's been longer than that, hasn't it? I watered them on, um, on Sunday, I think? Or was that— no, that was when I meant to water them, but then I got distracted by that whole thing with the, uh, with the laundry, and—
+
+[guilty]
+
+[sigh] Okay, so it's definitely been a week. At least a week. Poor little guys. I mean, they're not dead or anything, they're just— they're just looking droopy, which is, um, which is basically plant language for "hey, remember us?"
+
+[talking faster]
+
+Right, okay, so I need to— I need to get the watering can, and I should probably check the soil first, like, stick my finger down and see if it's actually dry or if I'm just, uh, just being paranoid about—
+
+[resigned but gentle]
+
+Who am I kidding, it's dry. [laugh] Sorry, plants. I'm, um, I'm not the most reliable plant parent, but we're figuring it out together, right?
+
+--- CONVERSATION ---
+
+Script: bd303b40 | Role: Character 1 (A)
+
+347 Character 1: [exhausted] Look, Mrs. Henderson, I've explained this three times already. [slower pace] Your son submitted his project two weeks late and plagiarized half of it. [firm] The C-minus is generous, considering I could have given him a zero.
+
+Character 2: [indignant] This is absolutely ridiculous! [voice rising] My Tyler would never plagiarize—he's been on the honor roll since kindergarten! [accusatory] You clearly have something against him because he's talented and you're just [pause] [venomously] jealous.
+
+348 Character 1: [bitter laugh] Jealous? Of a fifteen-year-old who copy-pasted Wikipedia? [wearily] I've been teaching for eighteen years, and I can spot plagiarism from across the room. [quieter] Your son's "brilliant insights" still had the hyperlink formatting attached.
+
+Character 2: [shrill] How dare you accuse my baby of cheating! [demanding tone] I want to see your supervisor immediately! [faster] My husband golfs with the superintendent, and we donate thousands to this school every single year! [threatening whisper] You'll regret this.
+
+349 Character 1: [monotone] Go ahead, call whoever you want. [heavy sigh] I have documentation, timestamps, and the original sources he copied from. [sarcastically sweet] But sure, let's waste everyone's time because you can't accept that little Tyler isn't perfect.
+
+Character 2: [fake laugh] You know what I think? [condescending] You're burned out and taking it out on successful students. [rapidly] Maybe if you made your lessons more engaging, Tyler wouldn't have to find better resources online to actually learn something!
+
+350 Character 1: [incredulous] Better resources? [voice cracking] He literally submitted an essay about World War One that mentioned smartphones! [exhausted whisper] I don't get paid enough for this. [louder] Your son needs to learn accountability, not excuses from mommy.
+
+Character 2: [gasping] Did you just call me "mommy" in that tone? [seething] I'll have you know I'm a senior partner at a law firm! [controlled rage] This conversation is being recorded, and I'm considering this harassment of both me and my child!
+
+351 Character 1: [dry chuckle] Record away, counselor. [steadier] In fact, I encourage it—the school board would love to hear you threatening staff. [resigned] Look, Tyler's a smart kid when he applies himself. [gentler] This could be a learning opportunity if you'd let it.
+
+Character 2: [dismissive] Don't you dare patronize me with your teacher psychology nonsense. [haughty tone] Tyler's already learned plenty—that some teachers are incompetent and biased. [sharp] We'll be transferring him to private school where excellence is actually recognized and rewarded properly.
+
+352 Character 1: [relieved laughter] Honestly? That might be best for everyone involved. [more animated] Their teachers get paid triple what I make, so they'll probably tolerate this better. [muttering] Good luck to them when Tyler submits his college essays written by ChatGPT.
+
+Character 2: [offended gasp] How unprofessional! [louder] I'm reporting every word of this conversation to the school board tonight! [triumphant] You've just proven you're unfit to teach anyone's children, especially gifted ones who challenge your limited worldview and outdated methods!
+
+353 Character 1: [flatly] Gifted at copy-paste, maybe. [snort] You know what? Change the grade yourself—I'm sure you know someone who can hack the system. [defeated] I've got thirty other parents to deal with, and at least some admit their kids make mistakes.
+
+Character 2: [victorious] Now you're finally seeing reason! [smugly] I knew you'd cave once you realized who you were dealing with. [businesslike] I expect to see an A on his report card by Monday, or my lawyer will be contacting the district.
+
+354 Character 1: [hollow laugh] I'm not changing anything, Mrs. Henderson. [firmly] I'm simply done arguing with someone who thinks wealth equals wisdom. [tired whisper] Your son's grade stands. [normal volume] Now please leave so I can eat my sad desk lunch in peace.
+
+Character 2: [sputtering] This isn't over! [shaking with anger] I'm going straight to the principal's office right now! [loud proclamation] By next week, you'll be teaching kindergarten in the worst school in the district! [hissing] Mark my words, you'll pay for this!
+
+355 Character 1: [amused] Kindergarteners would be refreshing, actually—at least they admit when they've done something wrong. [dryly] Plus, their parents usually bring cupcakes instead of lawsuits. [sighing deeply] Mrs. Henderson, the door is behind you. [firmly] Please use it immediately.
+
+Character 2: [furious] You're a disgrace to education! [getting louder] No wonder teachers complain about low pay—you don't deserve a penny more! [rapid-fire] Tyler's future won't be ruined by one bitter, washed-up educator who probably couldn't even get into college today!
+
+356 Character 1: [calmly] I have two master's degrees and published research, but sure. [exhausted laugh] You know what ruins kids' futures? [pointedly] Parents who shield them from every consequence and teach them that money solves everything. [quiet] Goodbye, Mrs. Henderson.
+
+Character 2: [parting shot] We'll see who says goodbye when you're unemployed! [dramatic] This school will rue the day they crossed the Henderson family! [storming out] Come on Tyler, we're leaving this pathetic excuse for an educational institution! [shouting] Today!
+
+--- CS ALPHANUMERIC ---
+
+Script: 773617b2 | Role: Customer Support
+
+Character 1: [distracted] Oh hi, yeah, I'm calling about my—hold on—[louder] my billing? [confused] I got charged like $47.99 yesterday but my plan should only be, um, what is it, $9.99 monthly?
+
+357 Customer Support: Good afternoon, I'd be happy to help you with that billing concern. [reassuring] Could you please provide me your account email or the membership ID that starts with ZEN?
+
+Character 1: [rushed] Sure, sure, it's jennifer dot—wait no—[correcting herself] jennifer underscore hayes at gmail. [sighs] Sorry, I'm driving and trying to merge onto Highway 101 right now.
+
+358 Customer Support: I see the account, Ms. Hayes, though I should mention [more firmly] it's not safe to handle account matters while driving. Your membership ID is ZEN-48392-M, showing an annual plan.
+
+Character 1: [surprised] Annual? [groans] No, no, I definitely clicked monthly when I signed up in, uh, was it March? [frustrated] The app kept crashing so maybe I clicked the wrong thing?
+
+359 Customer Support: Actually, I can see here you signed up on March 15th, 2024. [clarifying] The $47.99 charge is for your annual "Peaceful Mind Plus" subscription, which breaks down to about $4 per month.
+
+Character 1: [defensive] But I swear I never use the premium features! [exasperated] Just the basic sleep sounds and maybe—[trails off] oh wait, do the focus timers count as premium?
+
+360 Customer Support: Yes, the focus timers, advanced courses, and offline downloads are all premium features. You've actually logged 127 sessions since March, [gently] mostly using the "Deep Work Focus" programs.
+
+Character 1: [embarrassed laugh] Oh god, really? [quieter] That's... that's actually a lot, isn't it? [sighs heavily] Can I at least switch to monthly going forward, even if it costs more?
+
+361 Customer Support: Absolutely, I can help you switch after this billing cycle ends. That would be March 14th, 2025, and [more clearly] the monthly rate would be $12.99 starting then.
+
+Character 1: [calculating] So that's like, what, $155 a year instead of $47? [chuckles nervously] Maybe I should stick with annual. [decisively] Actually, you know what, just keep it as is.
+
+362 Customer Support: Perfect, I'll maintain your annual plan as active then. [helpfully] Would you like me to email you a receipt to your jennifer_hayes at gmail address for your records?
+
+Character 1: [distracted again] Yeah, that'd be great—[sudden panic] OH MY EXIT! [louder] Sorry, almost missed exit 42B! [calmer] Um, yes please, send that receipt thing.
+
+363 Customer Support: Receipt sent to your email just now. [concerned tone] Please drive safely, Ms. Hayes, and remember you can access billing details anytime in the app under Settings.
+
+Character 1: [relieved] Thanks so much, you've been super helpful. [guilty] Sorry for being such a mess, [laughs] maybe I need to use the meditation app more before making phone calls!
+
+364 Customer Support: That's what we're here for—both the app and the support! Your confirmation number for this call is CS-7789-B42. Is there anything else regarding your account today?
+
+Character 1: [thoughtful] Actually, wait, one more thing—[curious] my husband wants to join too. Can we get like a family plan or [hopefully] some kind of couple's discount on two accounts?
+
+365 Customer Support: We do offer a Family Plan for $69.99 annually! That covers up to 6 members, [informatively] each getting their own login with code FAM-2024-PEACE for 20% off the first year.
+
+Character 1: [excited] Oh perfect! [calculating out loud] So that's like, um, $56 for both of us for a year? [decided] Yeah, let's do that—[catches herself] oh but probably after I park, right?
+
+366 Customer Support: Yes, definitely after you park! I'll email you the family plan upgrade link now, and you can complete it anytime within 30 days to keep the discount active.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: d9e65f72 | Role: Customer Support
+
+367 Customer Support: Look, I understand you want the marble countertops, but that's—that's a fifteen thousand dollar change order. [sighs heavily] We discussed granite in the original contract, and switching now means ripping out what's already installed.
+
+Character 1: [defensive] But you said changes were possible! [voice rising] When we signed, you specifically mentioned we could make adjustments. [quickly] I didn't think it would cost more than the entire kitchen budget, this is absolutely insane.
+
+368 Customer Support: [apologetically] Changes are possible, yes, but marble is triple the cost of granite. Plus there's labor, disposal fees, and—well—the supplier needs three weeks minimum. I wish you'd mentioned this preference earlier.
+
+Character 1: [incredulous] Three weeks? [groans] The party is in four weeks! [desperately] Can't we just... I don't know, expedite it somehow? There has to be a way to make this work without breaking the bank.
+
+369 Customer Support: Rush orders add another twenty percent, that's just how it is. Look, if you want my honest opinion, the granite looks fantastic already. Why not stick with it and use the money elsewhere?
+
+Character 1: [dismissively] Because my mother-in-law specifically said granite looks cheap. [mutters] She's paying half, so... [more firmly] What about that quartz option you mentioned last month? Would that be faster?
+
+370 Customer Support: Quartz would be eight thousand for the change order, maybe ten days delivery. But here's the thing—we'd still need to tear out the granite, which honestly feels like throwing money away at this point.
+
+Character 1: [sarcastically] Oh great, so every option costs a fortune. [pause] What if we just did the island in marble? [hopefully] That would be less square footage, right? Maybe... five thousand?
+
+371 Customer Support: Island only would be about six thousand with labor. Actually, that's not a bad compromise—it creates a focal point. Your mother-in-law might even think it was intentional design contrast.
+
+Character 1: [relieved] Six thousand... I can probably swing that. [nervously] But can you absolutely guarantee it'll be done before the party? [more insistently] I need it in writing, because last time the backsplash was two weeks late.
+
+372 Customer Support: If you sign today, I'll personally oversee the installation. We can have it done in two and a half weeks, guaranteed. [more seriously] But I need the deposit by tomorrow morning, or we lose the supplier slot.
+
+Character 1: [hesitant] Tomorrow morning is... aggressive. [sighs] Can I at least see a sample first? [quickly] And what about matching the veining to the backsplash? That's included in the six thousand, right?
+
+373 Customer Support: Samples are in my truck, I'll grab them now. Veining match is included, yes, but—fair warning—perfect matching adds three days. Your call on whether that's worth it.
+
+Character 1: [exasperated] Of course it adds time! [mutters quickly] Everything in this project adds time or money. [decisively] Fine, forget the matching. Just make sure it doesn't clash horribly.
+
+374 Customer Support: I'll select complementary pieces from the same lot. [reassuring] Trust me, after fifteen years, I know what works. Your kitchen will look like a magazine spread, mother-in-law approved.
+
+Character 1: [skeptically] You haven't met my mother-in-law. [sighs deeply] But okay, let's do it—island only, six thousand. [more firmly] I want the guarantee in writing though, with penalties if you're late.
+
+375 Customer Support: [agreeable] Fair enough, I'll draft that up today. [quickly] Standard penalty is a hundred dollars per day late. But honestly, we've never missed a deadline when I'm supervising personally.
+
+Character 1: [relieved] Good, because I can't handle another disaster. [exhausted] This renovation has already cost double the original estimate. [quietly] Sometimes I wonder if we should've just moved instead.
+
+376 Customer Support: Every client says that halfway through. But trust me, when it's done, you'll love it. The island will be stunning—you made the right choice.
+
+Character 1: [resigned] I hope you're right. [pause] Send me the contract by five, and I'll—I'll get you the deposit. [firmly] But if this goes over six thousand, we're going to have a serious problem.
+
+--- BASIC SCENARIOS ---
+
+377 [Happy] The job offer was just—I mean, it literally doubled my salary overnight, you know? [Laugh] I couldn't say no to that!
+
+378 [Disappointed] Look, um, after the divorce I just... I needed to be somewhere that didn't remind me of her. [Sigh]
+
+379 [Fast] So basically my landlord raised the rent by like forty percent—forty percent!—and I was like, nope, I'm out. [Angry]
+
+380 [Whisper] Between you and me, I kinda had to leave after that whole, uh, incident with my ex's new boyfriend. [Tsk]
+
+381 [Sarcastic] Oh yeah, 'cause who doesn't wanna live somewhere with actual seasons instead of just "hot" and "slightly less hot"? [Chuckle]
+
+382 [Slow] My mom got sick and I—well, somebody had to move back to help out, right? [Sad] [Sigh]
+
+383 [Happy] [Fast] I literally threw a dart at a map and was like "that's it, that's where I'm going"—best decision ever!
+
+384 [Shout] The music scene here is insane! [Happy] Like, I've already met three producers who actually wanna work with me!
+
+385 [Disappointed] [Slow] I thought the startup was gonna be the next big thing, but, um... yeah, that didn't exactly pan out.
+
+386 [Angry] They laid off our entire department—no warning, nothing—so I said screw it and just left the state completely. [Groan]
+
+387 [Whisper] [Fast] Okay so don't tell anyone but I'm actually in witness protection and this isn't even my real name anymore.
+
+388 [Happy] I dunno, I just woke up one morning and thought "why not?" [Laugh] Sometimes you gotta shake things up, y'know?
+
+389 [Sarcastic] [Disappointed] Yeah, turns out "remote work forever" actually meant "remote until we change our minds," so here I am.
+
+390 [Sad] After Jamie died, I just—I couldn't stay in that house, that neighborhood, any of it. [Slow] Everything reminded me of them.
+
+391 [Fast] [Happy] My girlfriend got into med school here and obviously I'm gonna follow her—we're getting married next spring!
+
+392 [Angry] The crime was getting so bad I couldn't even walk my dog at night anymore. [Tsk] Enough was enough.
+
+393 [Chuckle] Honestly? [Sarcastic] I saw one too many Instagram posts about this place and figured, why not become a cliché?
+
+394 [Slow] [Disappointed] The company I'd been with for fifteen years just... vanished, basically, so I had to start over somewhere cheaper.
+
+395 [Shout] [Happy] Have you seen the mountains here?! I can literally ski to work if I want—okay not literally, but almost!
+
+396 [Whisper] I, um, I needed to get clean, and my dealer knew everywhere I'd go back home, so... [Sad] [Sigh] Fresh start, you know?
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+397 SCENARIO: Lightly joking about an air filter they haven't changed, then checking it, then seeing it's completely black and disgusting, spiraling into air quality neglect shame
+
+==================================================
+
+[casual]
+
+So I was, um, I was talking to my neighbor today and she's like, "Oh, when did you last change your air filter?" And I'm like, uh, you know what? I have no idea. [light laugh] I mean, it's probably— it's probably fine, right? Like, how dirty can it get?
+
+[conversational]
+
+But then I'm thinking about it and I'm like, okay, I should— I should probably just check it. You know, be a responsible adult and all that. So I go grab a flashlight and, um, I pop open the little panel thing.
+
+[stopping short]
+
+Oh. Oh no. [sharp exhale] Okay so, um— this thing is not— it's not just dirty. It's like, uh, it's completely black. Like, I can't even— I can't even see through it anymore.
+
+[growing concern]
+
+And I'm realizing I haven't changed this thing in— God, how long has it been? Six months? A year? I don't— I don't even remember buying filters. Ever. [nervous laugh]
+
+[spiraling]
+
+Wait, so I've just been— I've been breathing this, um, this disgusting air for— for who knows how long? My poor lungs! My— my houseplants! No wonder I've been, uh, been feeling like garbage lately.
+
+[exasperated] [horrified]
+
+I'm basically— I'm basically living in a, um, a pollution chamber of my own making! [groan] What kind of— what kind of adult am I? This is so gross! So, so gross!

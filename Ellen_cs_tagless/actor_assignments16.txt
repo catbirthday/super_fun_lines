@@ -1,0 +1,273 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 4b816434_script | Role: Character 2 (B)
+
+Character 1: Where's my grandmother's necklace?
+
+1157 Character 2: Okay, so—don't freak out, but I don't exactly know where it is right now. I mean, I had it at the party, and then—look, I'm still trying to figure out what happened.
+
+Character 1: You lost it.
+
+1158 Character 2: I didn't—okay, technically yes, but it wasn't like I was being careless with it. Someone bumped into me on the dance floor and my purse just [groan] completely dumped everywhere. I picked up everything I could find, but it was dark and—
+
+Character 1: That was the only thing I had from her.
+
+1159 Character 2: I know, I know that, okay? You think I don't feel terrible about this? But honestly, you're acting like I just threw it in the trash or something. It was an accident—a really, really unfortunate accident.
+
+Character 1: You shouldn't have worn it to a party.
+
+1160 Character 2: Um, excuse me? You said I could borrow it for the weekend. You didn't say "but don't actually wear it anywhere." That's—that's kinda the whole point of borrowing jewelry, isn't it?
+
+Character 1: Not to a crowded club.
+
+1161 Character 2: Oh, so now there's rules you didn't mention? Look look, I get that you're upset, but don't act like I'm some irresponsible person who doesn't care about your stuff. [scoff] I've been going back there every day looking for it.
+
+Character 1: Every day. Right.
+
+1162 Character 2: Yes, every day! What, you think I'm lying now? I literally called the venue three times, went through their entire lost and found twice—I'm doing everything I can here, and you're just... being really cold about this.
+
+Character 1: Because it's gone.
+
+1163 Character 2: It might not be—we don't know that for sure yet. And I'm gonna keep looking, obviously, but like... you're not even letting me properly apologize or—or anything. You're just shutting me down completely.
+
+Character 1: What's there to say? You lost something irreplaceable.
+
+1164 Character 2: Okay okay, fine. I lost it. [frustrated laugh] But you know what? Maybe—maybe you shouldn't have lent something that precious to anyone. I mean, if it was that important, why even risk it?
+
+Character 1: Because I trusted you with it.
+
+1165 Character 2: And I—that's not fair. That's really not fair. One accident doesn't erase like five years of friendship. I've literally never lost anything of yours before, ever. But sure, make me the villain here.
+
+Character 1: I just wanted it back.
+
+1166 Character 2: Yeah, well... me too. I wanted to give it back to you, believe it or not. And I'm still gonna try to find it, even though you're—whatever. [quieter] I know it meant a lot to you. It meant a lot that you trusted me with it, too.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1167 SCENARIO: discovering they grabbed the wrong coffee order
+
+==================================================
+
+[confused]
+
+Wait, this is— this isn't my coffee. I ordered a, um, a medium latte and this is like, uh— [sip] this is definitely not a latte. This tastes like, um, like vanilla? And way too sweet.
+
+[muttering to self]
+
+Okay so I grabbed the wrong— I totally grabbed someone else's order. Great. [sigh] I mean, I wasn't really paying attention, I was just, uh, I was looking at my phone and when they called out "medium" I just— I just went for it.
+
+[slightly sheepish]
+
+Should I go back? I should probably go back, right? But like, what if they already made another one for whoever— for whoever actually ordered this? Then there's gonna be two of these, um, these vanilla whatever drinks just sitting there.
+
+[hesitant]
+
+Plus I already, uh, I already took a sip. [grimace] Which is kind of gross when you think about it. I mean, not gross gross, but, um, you know what I mean.
+
+[resigned]
+
+Maybe I'll just— maybe I'll just drink this one. It's not terrible, it's just... really sweet. [another sip] Yeah, okay, I can work with this.
+
+--- CONVERSATION ---
+
+Script: 746f9166 | Role: Character 1 (A)
+
+1168 Character 1: [loud and excited] Mommy, that man has a really big belly! [giggles] Is there a baby in there like when you had my sister? [innocently] He looks like Santa but without the beard!
+
+Character 2: [mortified whisper] Sweetie, shh! [nervous laugh] We don't talk about people's bodies. [frantically] I'm so sorry sir, she's only five and still learning about—well, about keeping thoughts inside her head.
+
+1169 Character 1: [confused] But you said honesty is important! [matter-of-factly] And his nose has hair coming out. [thoughtfully slower] Grandpa has that too but he uses special scissors for it.
+
+Character 2: [strained voice] Oh my goodness. [sharp intake of breath] Let's talk about something else, honey. [desperately cheerful] Look at that nice dog over there! Isn't he cute? Should we go pet him instead?
+
+1170 Character 1: [dismissively] The dog is okay but this man is more interesting. [curiously] Why does his face turn red like that? [getting louder] Is he angry? You turn red when you're angry too!
+
+Character 2: [hushed panic] No no no, he's not angry, just— [awkward pause] Sir, we're leaving right now. [pleading tone] Come on sweetie, Daddy's waiting in the car with ice cream!
+
+1171 Character 1: [skeptically] There's no ice cream in the car, you're lying. [accusatory] You always lie when you're embarrassed! [brightly] Like when you farted at the grocery store and blamed it on me!
+
+Character 2: [voice cracking] That was—that's not—[defeated sigh] I cannot do this right now. [firmly] We are leaving immediately. [under breath] Ground me now, universe, just open up the earth.
+
+1172 Character 1: [sympathetically] Don't be sad, Mommy. [helpfully] The man is smiling now! [enthusiastically] See, he thinks I'm funny! Can I tell him about when you cried watching that cartoon movie?
+
+Character 2: [through gritted teeth] Absolutely not. [forced calm] We need to practice our inside thoughts. [slightly hysterical] Remember when we talked about filters? [weakly laughing] Your filter needs some serious maintenance, kiddo.
+
+1173 Character 1: [proudly] But my teacher says I'm observant! [dramatically] I notice everything! [whispered conspiracy] Like how you hide chocolate in your dresser drawer and eat it when we're sleeping.
+
+Character 2: [shocked gasp] How did you—never mind. [regaining composure] Sir, you've been very patient. [apologetically rambling] She's usually not this—actually no, she's exactly like this all the time unfortunately.
+
+1174 Character 1: [indignantly] Why is it unfortunate? [slower, thinking] You said I'm special and unique! [building excitement] Oh! Should I tell him about your special cream for your wrinkles? The expensive one?
+
+Character 2: [high-pitched panic] OKAY we're done here! [nervous laughter] Thank you for your understanding sir. [rapidly] She's going through a phase, a very long, very honest, very exhausting phase.
+
+1175 Character 1: [offended tone] It's not a phase! [firmly] I'm just good at noticing things. [brightening up] Like how that man's shirt has a stain that looks like a dinosaur! See it?
+
+Character 2: [exhausted whisper] Please, universe, I'm begging you. [more desperately] Make her stop. [resigned chuckle] I promise I'll never complain about anything ever again if we can just teleport home.
+
+1176 Character 1: [thoughtfully] Mommy, why are you being weird? [innocently questioning] The man is laughing! [delighted] He must like my observations! Should I tell him more things I noticed about him?
+
+Character 2: [firm but shaking] No more observations! [breathlessly] We're going to walk away now. [attempting dignity] Very slowly, very quietly, and without saying another single word about anyone's appearance.
+
+1177 Character 1: [whispering loudly] Okay, but can I just say one more thing? [eagerly] His shoes are really shiny! [appreciatively] Much shinier than Daddy's. Daddy's shoes look old and sad.
+
+Character 2: [defeated laughter] Of course they do. [wearily] Of course you noticed that too. [quietly grateful] Thank you sir, for not calling security. [trailing off] We'll just... go... forever... goodbye.
+
+--- CS ALPHANUMERIC ---
+
+Script: 3e266562 | Role: Customer Support
+
+Character 1: [frustrated] Look, I've been wearing these glasses for three days now, and I—I can't see anything properly. [groans] My prescription was supposed to be minus 2.75 in the left eye, but this feels completely wrong.
+
+1178 Customer Support: I understand your frustration, sir. May I have your order number and the store location where you purchased them? We'll definitely look into this issue for you right away.
+
+Character 1: [impatient] It's order number XK-4582-B, from your Westfield location on 42nd Street. [sighs heavily] I specifically told them about my astigmatism—180 degrees in both eyes—but something's definitely off here.
+
+1179 Customer Support: [concerned] Let me pull that up... XK-4582-B. [pause] I see here the order was processed on November 15th. The system shows minus 2.75 left, minus 3.00 right, with astigmatism correction.
+
+Character 1: [exasperated] That's what it says, sure, but that's not what I got! [getting louder] My optometrist's prescription clearly states—hold on—[rustling] cylinder minus 1.25, not whatever disaster is in these frames.
+
+1180 Customer Support: Sir, I completely understand. We take prescription accuracy very seriously. Can you confirm your member ID? It should start with EYE, followed by seven digits.
+
+Character 1: [annoyed] EYE-3847291. [sarcastically] You know, I've been a premium member for six years, spending hundreds annually, and this is the first time I've had such a mess.
+
+1181 Customer Support: Thank you, Mr. Chen. [sincerely] I see your excellent history with us, and I'm truly sorry about this experience. [more helpfully] I can schedule you for an immediate re-examination tomorrow at 9 AM.
+
+Character 1: [skeptical] Tomorrow? [sighs] I have meetings all morning—can't you just... fix the lenses based on my original prescription from Dr. Matthews? [desperately] I need these glasses to actually function at work!
+
+1182 Customer Support: [understanding] Absolutely, we can work with Dr. Matthews' prescription. If you email it to service@eyechain.com, reference case number TC-9923, we'll expedite new lenses within 24 hours, no charge.
+
+Character 1: [slightly calmer] Fine, I'll—I'll send it right after this call. [cautiously] But what about these frames? They're the titanium ones, model FR-250, cost me three hundred bucks.
+
+1183 Customer Support: You'll keep the same frames, Mr. Chen. We'll only replace the lenses, and actually, I'm adding a 40% discount code—COMP240—for your next purchase as an apology.
+
+Character 1: [surprised] Oh, well... that's something at least. [more cooperatively] Should I drop them off at the same Westfield store, or is there somewhere closer to zip code 10013?
+
+1184 Customer Support: Actually, our SoHo location at 155 Spring Street is much closer to you. They open at 8 AM, and with your case number, you'll have priority service.
+
+Character 1: [relieved] Alright, 155 Spring Street, got it. [chuckles dryly] I just hope whoever made these lenses realizes that 2.75 and 7.25 are vastly different numbers.
+
+1185 Customer Support: Wait, did you say 7.25? That's a significant difference! [more urgently] Mr. Chen, I'm escalating this to our quality control team immediately—that's a serious error.
+
+Character 1: [vindicated] Finally, someone gets it! [exhales] I've been getting headaches, nearly walked into a glass door yesterday. [frustrated] This isn't just inconvenient, it's actually dangerous.
+
+1186 Customer Support: You're absolutely right. I'm documenting this as a critical incident, reference QC-1147. We'll also provide temporary lenses while yours are being remade, no rental fee.
+
+Character 1: [appreciatively] Thank you, that's—that actually helps a lot. [sighs] Just make sure whoever handles this knows the difference between sphere and cylinder measurements, please?
+
+1187 Customer Support: Absolutely, Mr. Chen. I'm personally assigning this to our senior technician, badge number ST-4429. [warmly] You'll receive a confirmation email within the hour with all these details.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: e96ec812 | Role: Customer Support
+
+Character 1: [frustrated] Hey, it's been TWO WEEKS since I reported the leak in my bathroom. [louder] Water is literally dripping through the ceiling! [sighs heavily] When exactly are you planning to fix this?
+
+1188 Customer Support: Oh, I'm so sorry about that! [quickly] I thought the maintenance guy came by last week? Let me, uh, check my records here real quick.
+
+Character 1: [sarcastically] He came, looked at it for five seconds, and said he'd "be back." [groans] That was ten days ago! [more angrily] My water bill is through the roof because of this constant dripping.
+
+1189 Customer Support: Well, you know, it's been really hard to get contractors lately. Everyone's booked solid. But I'll definitely call someone today, I promise.
+
+Character 1: [exasperated] You said that last week too! [pause] [firmly] Look, I've been patient, but now there's mold starting to grow. This is becoming a health hazard, you understand?
+
+1190 Customer Support: Mold? Oh no, that's... that's not good at all. Okay, forget the regular guy. [decisively] I'll call an emergency plumber right now, today, no excuses.
+
+Character 1: [skeptically] An emergency plumber? [slower] After two weeks, NOW it's an emergency? [sighs] I need this fixed by tomorrow or I'm calling the housing authority.
+
+1191 Customer Support: No, no, please don't do that! [quickly] I'll personally make sure someone comes today. Can you, maybe, send me photos of the damage so I can show them?
+
+Character 1: [tiredly] I already sent you three videos last week. [more firmly] Check your messages from Tuesday. [frustrated] The water damage, the mold, the warped flooring—it's all there, documented.
+
+1192 Customer Support: [embarrassed] Right, yes, of course. Tuesday's messages... I found them! [apologetically] This is completely unacceptable, I know.
+
+Character 1: [calmer] Good. So what's the actual plan here? [seriously] Because I can't keep putting buckets under this leak and emptying them every few hours.
+
+1193 Customer Support: [quickly] Here's what I'll do—I'm calling SafeGuard Plumbing right now. They owe me a favor. [briskly] They'll be there before 5 PM today, guaranteed.
+
+Character 1: [cautiously] Before 5 PM? [pause] [firmly] I need you to text me the plumber's contact info when you book it. No more waiting around wondering if someone's actually coming.
+
+1194 Customer Support: Absolutely, yes! I'll send you their number, the appointment time, even the plumber's name. [more slowly] Everything will be in writing this time, I promise.
+
+Character 1: [sighs] Alright, I'll give you until 5 today. [warning tone] But if no one shows up, I'm deducting the repair costs from next month's rent and hiring someone myself.
+
+1195 Customer Support: [quickly] That won't be necessary! Trust me, they'll be there. I'm literally dialing them as we speak, right now.
+
+Character 1: [doubtfully] You're dialing while texting me? [pause] [more firmly] Just... please, actually follow through this time. This has been ridiculous.
+
+1196 Customer Support: [apologetically] You're right, you're absolutely right. This should've been fixed two weeks ago. I'm handling it now, properly this time.
+
+Character 1: [resigned] Fine. I'll be home all afternoon waiting. [firmly] But this is the last chance—if it's not fixed today, [slower] we're going to have a very different conversation tomorrow.
+
+1197 Customer Support: [nervously] Understood, completely understood! You'll get that confirmation text within the hour. Today's the day it gets fixed, I guarantee it.
+
+--- BASIC SCENARIOS ---
+
+1198 [Fast] Oh my god, they're literally at the door right now and I've got—the place is a disaster, there's takeout containers everywhere! [Groan]
+
+1199 [Sarcastic] Sure, Mom, no problem, I definitely have three hours to discuss why I'm not married yet. [Tsk]
+
+1200 [Whisper] Quick, hide the—actually, just throw everything in the closet, they're coming up the stairs! [Fast]
+
+1201 [Happy] You know what, I actually kinda missed Dad's terrible jokes, even though I'd never admit it to him. [Chuckle]
+
+1202 [Disappointed] I had plans tonight, like, actual plans for once, and now I'm gonna be stuck looking at vacation photos. [Sigh]
+
+1203 [Slow] So apparently "I'll call before I come" means absolutely nothing in their universe, huh? [Sarcastic] [Tsk]
+
+1204 [Angry] They can't just—I mean, I'm thirty-two years old and they still treat my apartment like it's, what, an extension of their house? [Groan]
+
+1205 [Sad] I haven't seen them in six months and honestly, um, I don't even know what to say to them anymore. [Sigh]
+
+1206 [Shout] The bathroom's not—don't go in there yet, I need five minutes! [Fast] Please!
+
+1207 [Happy] Wait, did they bring the dog? [Laugh] Oh man, I haven't seen Buster in forever!
+
+1208 [Whisper] If they ask about my job situation, I'm just gonna, like, pretend I didn't hear them, okay? [Sarcastic]
+
+1209 [Disappointed] I was literally about to get in the shower and just—of course this is when they show up. [Slow] [Sigh]
+
+1210 [Fast] Um, so basically my roommate's boyfriend is here and he's not wearing a shirt and this is gonna be really awkward. [Groan]
+
+1211 [Angry] Twenty minutes notice would've been—I dunno—basic courtesy? [Shout] Is that too much to ask?
+
+1212 [Chuckle] My mom's already rearranging my kitchen cabinets, because apparently I've been storing plates wrong for three years. [Sarcastic]
+
+1213 [Sad] Every surprise visit starts with "we were just in the neighborhood," but they live four hours away, so... [Slow] [Tsk]
+
+1214 [Happy] Actually, you know what, forget cleaning—let's just order pizza and pretend we're normal people for once! [Laugh] [Fast]
+
+1215 [Whisper] Don't mention the breakup, don't mention the breakup, don't mention—oh god, Mom's got that look. [Disappointed] [Sigh]
+
+1216 [Slow] I love them, right, but sometimes I wish love came with, er, some kind of scheduling app or something. [Chuckle]
+
+1217 [Angry] This is the third "spontaneous" visit this month, and I'm starting to think they're, like, checking up on me or whatever. [Disappointed] [Groan]
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1218 SCENARIO: Upset about a critical comment from their parent, then rethinks it and sees the caring behind it
+
+==================================================
+
+[upset]
+
+So my mom called me this morning and just— ugh, she completely tore apart my presentation. Like I was so excited to tell her about it, you know? I got that promotion at work and I had to do this big pitch to the whole leadership team, and I thought it went really well.
+
+[frustrated]
+
+But she's like immediately asking me if I practiced enough, and did I remember to make eye contact, and she's like "you know how you get when you're nervous, your voice gets all quiet." And I'm just— [sigh] I'm twenty-eight years old, like why is she still treating me like I'm in middle school debate club?
+
+[annoyed]
+
+I was like, Mom, it went fine, they liked it, I got the promotion, and she's still going on about how I should have worn a different shirt or whatever. Like nothing I do is ever— nothing's ever good enough, you know?
+
+[pause] [realizing]
+
+But actually... wait, hold on. She did ask me like three times if I was proud of myself. And she wanted me to tell her the whole thing, like step by step.
+
+[softer] [thoughtful]
+
+Oh. Oh wow, she was nervous for me, wasn't she? Like she was— she was trying to help me prepare for next time because she cares. [small laugh] God, I totally missed that. I was so focused on feeling criticized that I didn't even— yeah, she was just being mom.

@@ -1,0 +1,305 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 8bd2eacd_script | Role: Character 2 (B)
+
+Character 1: Remember that ugly vase I got at the estate sale?
+
+402 Character 2: Oh my god, yes—the one with the weird, like, blue glaze thing? You almost didn't even buy it, right? What about it?
+
+Character 1: Turns out it's worth about twelve thousand dollars.
+
+403 Character 2: I'm sorry, WHAT? Did you just—did you just say twelve thousand? [Gasp] Like actual dollars? Not like, I dunno, twelve thousand pennies or something?
+
+Character 1: Actual dollars. Some Japanese pottery from the 1600s.
+
+404 Character 2: Hold on, hold on—you're telling me that crusty thing we almost left behind is from the sixteen hundreds? That's like—that's literally older than America. How did you even find out?
+
+Character 1: Got curious. Posted it online. Collectors went crazy.
+
+405 Character 2: Wait wait wait, so you just casually posted it and—boom? People just knew? That's insane. Are you gonna, like, are you actually gonna sell it though?
+
+Character 1: I don't know. It's sitting on my kitchen counter.
+
+406 Character 2: You have a twelve thousand dollar vase just—just chilling on your counter? Next to like, what, your coffee maker? [Laugh] That's so perfectly you, honestly.
+
+Character 1: Where else would I put it?
+
+407 Character 2: I mean—okay fair, but like, shouldn't it be in a safe or something? What if it falls? Oh god, I'm getting anxious just thinking about it.
+
+Character 1: It survived four hundred years. It'll be fine.
+
+408 Character 2: That's—okay that's actually a really good point. But still! You could literally pay off your car with that thing, y'know? Or take like, the world's fanciest vacation.
+
+Character 1: Or I could keep my new four-hundred-year-old friend.
+
+409 Character 2: Aww, see? [Chuckle] That's kinda sweet actually. You're gonna get attached to it now, aren't you? Even though it's still ugly as hell.
+
+Character 1: It's growing on me. The ugly adds character.
+
+410 Character 2: Oh my god, you're totally not gonna sell it. You're gonna be that person with the priceless artifact that you use as like, a pencil holder or something.
+
+Character 1: Already put a succulent in it.
+
+411 Character 2: NO. No no no, you did NOT—actually wait, that's honestly iconic. A succulent in a seventeenth century Japanese vase. I can't even—that's so ridiculous I love it.
+
+Script: f9da8ed8_script | Role: Character 2 (B)
+
+Character 1: I didn't ask for your opinion.
+
+412 Character 2: I know, I know you didn't, but—come on, you were literally talking about maybe dropping out of med school. Was I just supposed to sit there and say nothing?
+
+Character 1: Yes. That's exactly what you were supposed to do.
+
+413 Character 2: That's—okay, that's ridiculous. You're my best friend, I'm not gonna just watch you throw your life away without at least—without saying something. [scoff] Sorry for caring, I guess.
+
+Character 1: It's not your life to fix.
+
+414 Character 2: I wasn't trying to fix anything! I was just—look, you've worked so hard for this, for years, and hearing you talk like that, it scared me, okay? Maybe I didn't handle it perfectly but I was worried.
+
+Character 1: So you decided to lecture me for twenty minutes.
+
+415 Character 2: It wasn't a lecture, it was—fine, maybe it came out wrong. But honestly, you're acting like I committed some huge crime here. I gave you advice because I care about you, not because I think you're incompetent or whatever.
+
+Character 1: I never said you thought that.
+
+416 Character 2: No, but that's how you're making me feel right now. Like I'm this terrible person for—for what? For not wanting to see you give up on something you've wanted since we were kids? [frustrated laugh] That's really the hill you wanna die on?
+
+Character 1: I wanted you to listen. Just listen.
+
+417 Character 2: I did listen! I listened for like an hour before I said anything. And I'm sorry if the way I—if how I responded wasn't what you needed, but I'm not gonna apologize for being concerned about you.
+
+Character 1: You don't get to decide what I need.
+
+418 Character 2: You're right, you're right, I don't. But you also don't get to just—to dump all this heavy stuff on me and expect me to have zero reaction. That's not fair either. I'm human, y'know?
+
+Character 1: I expected you to be my friend.
+
+419 Character 2: I am your friend! That's literally why I said something! God, if I didn't care I would've just—I dunno, changed the subject or whatever. But I do care, and maybe that means I overstepped, fine, but don't question whether I'm your friend.
+
+Character 1: Friends respect boundaries.
+
+420 Character 2: Okay okay, and I—look, I hear you. I do. [sigh] Next time you need to vent, I'll keep my mouth shut. But can you at least understand that it came from a good place? I wasn't trying to control you.
+
+Character 1: Good intentions don't make it okay.
+
+421 Character 2: No, they don't. But they should at least—I mean, they should count for something, right? We've been friends for eight years. One mistake where I was genuinely trying to help shouldn't just... erase all that.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+422 SCENARIO: trying to remember someone's name before they get closer
+
+==================================================
+
+[muttering under breath]
+
+Oh no, oh no, okay, um— who is that? I know them, I definitely, uh, I definitely know them. They're walking over here and I— [sigh] I cannot remember their name for the life of me.
+
+[slightly panicked]
+
+Okay, think, think. Where do I know them from? Work? No, that's not— wait, maybe work? They look familiar but not, um, not work familiar. More like, uh, like neighbor familiar? Or maybe the gym?
+
+[faster, more frantic]
+
+Sarah? No, that's not right. Sandra? Stephanie? Wait wait wait, does it start with an S? I feel like it starts with an S but that might just be, um, that might just be because I said Sarah first and now I'm, uh, I'm stuck on S names.
+
+[desperately hopeful]
+
+Maybe they'll say my name first and then I can just be like "hey you!" in that, um, in that casual way where you don't actually have to say their name back. That works, right? That's, uh, that's totally normal.
+
+[resigned]
+
+Or I could just, you know, be honest and— nope, too late, they're here. [nervous laugh] Here we go.
+
+--- CONVERSATION ---
+
+Script: 2510ee8a | Role: Character 1 (A)
+
+423 Character 1: [devastated] My life is completely over! [voice breaking] The coffee shop ran out of oat milk, and I had to use regular milk in my latte. [wailing] How am I supposed to function today with dairy destroying my entire digestive system?
+
+Character 2: [flat] You're lactose intolerant now? [skeptical] Since when? [deadpan] I literally watched you eat an entire cheese pizza last night while crying over that Netflix show about the woman who talks to ghosts.
+
+424 Character 1: [dramatically gasping] That was different! [whimpering] Pizza cheese doesn't count because it's... it's comfort food! [building hysteria] But coffee is sacred, and now my whole morning routine is ruined forever and I'll probably die!
+
+Character 2: [monotone] Right. [slower] You're going to die from one tablespoon of milk. [sarcastically] Should I call your mom and tell her to start planning the funeral, or do you want to handle that yourself?
+
+425 Character 1: [trembling whisper] You don't understand the psychological damage! [getting louder] I specifically chose that coffee shop because they respect dietary preferences! [shouting] This betrayal cuts deeper than when Jennifer stole my parking spot last Tuesday!
+
+Character 2: [tired sigh] Jennifer has a broken leg. [matter-of-fact] She has a handicapped permit. [increasingly annoyed] You parked in the handicapped spot illegally and got towed, remember? That wasn't theft, that was karma.
+
+426 Character 1: [defensive shriek] Details! [quieter, sulking] The point is that everything is against me today. [building drama again] First the milk catastrophe, then I broke a nail, and now you're being completely heartless about my suffering!
+
+Character 2: [dry laugh] A broken nail? [disbelieving] Call the emergency services. [more sarcastic] I'm sure they have a special unit for cosmetic emergencies that will rush right over with their nail glue and tiny files.
+
+427 Character 1: [sobbing dramatically] See? [hiccupping] This is exactly why I can't share my feelings with you! [accusatory] When YOUR favorite pen ran out of ink, I was there for you! I listened! I cared!
+
+Character 2: [slightly louder] That pen was a limited edition from Japan! [defensive] It cost me eighty dollars! [returning to deadpan] Your nail will literally grow back in two weeks for free. These situations are not remotely comparable.
+
+428 Character 1: [wounded gasp] How can you put a price on emotional trauma? [pleading] My grandmother gave me these nails! [softer, manipulative] Well, she gave me the DNA that grows them, which is basically the same thing!
+
+Character 2: [long exhale] Your grandmother has been dead for three years. [slowly, deliberately] She did not give you those acrylic extensions. [firm] You got them done at that sketchy place in the mall last weekend for fifteen dollars.
+
+429 Character 1: [indignant squeal] They're gel, not acrylic! [huffing] And it was twenty dollars! [dejected moan] But fine, minimize my pain. When I'm hospitalized for calcium deficiency from avoiding dairy forever, don't come visit me!
+
+Character 2: [amused snort] Calcium deficiency? [steadily] From one cup of coffee? [laughing quietly] You do realize vegetables have calcium too, right? Or are you also suddenly allergic to broccoli and all leafy greens?
+
+430 Character 1: [mysteriously] You know what? [building suspense] I might be! [dramatic revelation] Maybe I'm developing multiple food sensitivities because of the stress you're causing me right now with your complete lack of empathy!
+
+Character 2: [bored] Cool. [pause] Starve then. [dismissively] I'm sure your funeral will be very well-attended by all the other people who've died from temporary oat milk shortages and broken nail emergencies.
+
+431 Character 1: [fake cheerful] Fine! [bitterly] I'll just suffer alone! [melodramatic whisper] Like I always do, carrying the weight of this cruel, dairy-filled world on my lactose-intolerant shoulders while everyone else lives in ignorant bliss!
+
+Character 2: [slight chuckle] Ignorant bliss? [normally] I have actual problems. [frustrated exhale] My car needs new tires, my rent went up, and my boss is making me work weekends. But sure, let's focus on your milk crisis.
+
+432 Character 1: [immediately sympathetic] Oh my god, your rent went up? [excited squeal] Why didn't you say something? [rapidly] We should totally move in together and split the cost! Think of all the money we'd save!
+
+Character 2: [horrified] Absolutely not. [quickly] I'd rather pay double rent. [firmly] Living with you would mean daily emergencies about expired yogurt, wrong-colored towels, and whatever else you decide is literally killing you that particular morning.
+
+--- CS ALPHANUMERIC ---
+
+Script: 9e544523 | Role: Customer Support
+
+Character 1: [agitated] You entered my apartment at 1247 Maple Street, unit 3B, yesterday at 2:30 PM [voice rising] without giving me the required 24-hour notice! [frustrated groan] This is the third time since, um, October that you've violated my privacy rights.
+
+433 Customer Support: [defensive] I left you a voicemail on 555-0892 about the emergency pipe inspection. The water damage from unit 4B was spreading and I couldn't wait for your response when property damage was imminent.
+
+Character 1: [sarcastically] Oh really, an emergency? [scoffs] Then why did I find my maintenance request form MR-4521 from two months ago [increasingly angry] suddenly marked as "completed" after your little visit?
+
+434 Customer Support: That's completely unrelated to yesterday's entry. Look, according to lease agreement section 7.4.2, I have the right to enter for emergencies without prior notice, period.
+
+Character 1: [shouting] Section 7.4.2 specifically states "imminent danger" not "possible water damage"! [breathing heavily] I've documented everything with photos timestamped at 2:47 PM and, and [voice shaking] I'm filing complaint number HC-90234 with housing court tomorrow.
+
+435 Customer Support: You can file whatever you want with whoever you want. But remember, your lease expires on 03/31/2024 and I'll be conducting thorough move-out inspections for that $2,400 security deposit.
+
+Character 1: [mockingly] Oh, are you threatening me now? [gasps] Because my lawyer at Brennan & Associates, case file BA-7789, would [more confidently] absolutely love to hear about retaliatory threats over legitimate tenant complaints!
+
+436 Customer Support: Nobody's threatening anyone here, okay? [nervous laugh] I'm simply stating that per addendum 2A of your lease, routine inspections are perfectly legal with proper protocols followed.
+
+Character 1: [triumphantly] Except you didn't follow proper protocols! [speaking faster] My doorbell camera, device ID RFC-4420, shows you used your key at 2:31 PM, [emphatic] exactly one minute after your so-called emergency voicemail!
+
+437 Customer Support: Fine, I'll credit your December rent by $150 for the inconvenience. Can we just... put this behind us and move forward like reasonable adults here?
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 86f4e913 | Role: Customer Support
+
+438 Customer Support: Tax office, how can I help you today? [more quickly] We're experiencing high call volumes, so I'll need to be brief with—uh—with each inquiry.
+
+Character 1: [frustrated] Yes, hello, I've been trying to figure out these forms for weeks! [desperately] The 1099-MISC, the Schedule C, and now something about a—a W-9? [groans] I don't even know where to start anymore.
+
+439 Customer Support: [efficiently] Right, let me pull up your account. [faster] Social security number, please? And while you're at it, which forms have you already submitted this quarter?
+
+Character 1: [hurried] It's 555-12-3456, and I haven't submitted anything because I can't figure out which ones I actually need! [exasperated] My accountant quit last month, and these instructions might as well be in ancient Greek.
+
+440 Customer Support: I understand your frustration, sir. Let's start simple—are you self-employed, an independent contractor, or do you have employees under you?
+
+Character 1: [uncertainly] Well, I'm—I'm technically self-employed, but I also hire freelancers sometimes? [confused] Does that make me an employer? [sighs heavily] Nobody explains these distinctions properly!
+
+441 Customer Support: [quickly] That means you'll need both Schedule C for your business income and 1099s for any freelancer you paid over $600. Did you keep records of those payments?
+
+Character 1: [panicked] Records? I have... receipts? [nervous laugh] Some emails, maybe a few invoices scattered around. [defeated] This is exactly why I'm calling—I don't know what counts as proper documentation!
+
+442 Customer Support: Okay, breathe. [rapidly] You'll need payment dates, amounts, and their tax ID numbers—we can work backward from your bank statements if necessary. Have you registered for an EIN yet?
+
+Character 1: [bewildered] A what now? E-I-N? [frustrated groan] See, this is the problem—every answer just creates three more questions! [pleading] Can't you just tell me exactly which forms to fill out?
+
+443 Customer Support: An Employer Identification Number—think of it as a social security number for your business. You'll need it for the 1099s, and you can apply online; it takes about fifteen minutes.
+
+Character 1: [overwhelmed] Fifteen minutes if you know what you're doing, maybe! [sarcastically] Last time I tried something "quick" on your website, I spent three hours in a loop. [sighs] Fine, what's the web address?
+
+444 Customer Support: IRS dot gov slash EIN, all capitals. Once you have that, the 1099 filing becomes much simpler—you'll just input the freelancer info and amounts. Deadline is January 31st, by the way.
+
+Character 1: [shocked] January 31st?! [louder] That's in two weeks! [anxiously] How am I supposed to track down all my freelancers' information and learn a whole new system in two weeks?
+
+445 Customer Support: Sir, extensions are available if needed. [more reassuringly] Though honestly, with your bank statements and a few emails, we're talking maybe—uh—maybe three hours of work total. [encouragingly] You're overthinking this.
+
+Character 1: [skeptically] Three hours, sure, if you speak fluent tax code! [tiredly] Look, can I just hire someone from your office to do this for me? [hopefully] Please say yes.
+
+446 Customer Support: We can't prepare your taxes for you, but we do have volunteer assistance programs. VITA sites offer free help if your income is under $60,000—there's probably one at your local library.
+
+Character 1: [relieved] Finally, some actual help! [eagerly] Wait, do they—do they understand all this 1099, Schedule C nonsense? [worried] Or will they just hand me more forms to figure out?
+
+447 Customer Support: They're trained volunteers who handle exactly these situations. [briskly] They'll sit with you, go through everything step by step, and file electronically. Much better than struggling alone, trust me.
+
+Character 1: [gratefully] Thank God. [exhausted chuckle] You know what, you've been more helpful in ten minutes than the last three people combined. [sincerely] Thanks for not just reading from a script.
+
+--- BASIC SCENARIOS ---
+
+448 [Nervous] Um, sorry, I'm still trying to figure out where the—wait, is this the break room or the conference room? [Laugh] Everything looks the same here.
+
+449 [Happy] [Fast] Oh my god, everyone's been so nice, like, seriously, I was expecting the whole awkward new person thing but y'all are amazing!
+
+450 [Whisper] I literally have no idea what half these acronyms mean—QBRM? [Tsk] [Sigh] I'm just nodding along pretending I get it.
+
+451 [Disappointed] [Slow] I thought I'd have, you know, more time to settle in before they threw me into this huge project.
+
+452 [Sarcastic] Oh great, another password to remember—because the twelve I created this morning weren't enough, right? [Groan]
+
+453 [Sad] I keep, uh, I keep forgetting people's names and it's been three days already. [Sigh] I feel like such an idiot.
+
+454 [Angry] [Fast] Nobody told me about the unassigned seating drama and I've apparently been sitting in Karen's spot for two days straight!
+
+455 [Happy] [Chuckle] Wait, we get free snacks AND coffee? This place is basically paradise compared to my last job!
+
+456 [Whisper] [Fast] Quick question—is it normal for the boss to just lurk behind people's desks like that or should I be worried?
+
+457 [Slow] So I'm supposed to—actually, let me make sure I understand this correctly before I mess something up. [Tsk]
+
+458 [Shout] Did someone say there's cake in the kitchen?! [Laugh] [Happy] Sorry, still learning appropriate volume levels for this office!
+
+459 [Disappointed] I mean, I thought "casual Friday" meant, like, actually casual, not "business casual but slightly less business." [Sigh] [Slow] My jeans feel very wrong right now.
+
+460 [Sarcastic] [Chuckle] Sure, just throw me into the client meeting on day two—what could possibly go wrong, right?
+
+461 [Sad] [Whisper] Everyone already has their little groups and inside jokes and I'm just... here, eating lunch alone again.
+
+462 [Happy] You know what, I actually think I'm getting the hang of this whole—oh wait, that's not how you use the copier? [Groan]
+
+463 [Angry] [Fast] The parking situation is absolutely insane—I've been driving around for twenty minutes and there's literally nowhere to park!
+
+464 [Slow] [Disappointed] Honestly, the job description was, um, it was kinda different from what I'm actually doing here.
+
+465 [Chuckle] I've said "sounds good" and "absolutely" to things I definitely don't understand at least fifteen times today. [Sarcastic] Fake it till you make it, right?
+
+466 [Whisper] [Sad] I miss my old desk where I knew where everything was and didn't have to ask permission to adjust the chair height.
+
+467 [Happy] [Shout] I got my first email that wasn't IT setup or HR paperwork! [Laugh] I'm officially part of the team now!
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+468 SCENARIO: Mad about a missed call, then they text the information instead
+
+==================================================
+
+[angry]
+
+So I'm literally sitting there waiting for this call from my insurance company, right? Like I've been on hold for twenty minutes, and then they finally— they finally say someone's gonna call me back within the hour about my claim.
+
+[frustrated]
+
+And of course, of course I miss it. I was in the bathroom for like two seconds and I hear my phone ringing and I'm like running, literally running back to grab it, and— [groan] — missed call. No voicemail, nothing.
+
+[irritated]
+
+So now I have to call back, sit on hold again for God knows how long, probably get transferred three times, explain my whole situation over again to someone new who's gonna be like "oh let me look that up for you" and put me on hold for another—
+
+[surprised]
+
+Oh wait, hold on. I'm getting a text right now, um...
+
+[reading, confused]
+
+It's from them? It says... okay, your claim has been approved, reference number whatever, payment will be processed in 3-5 business days. 
+
+[relieved] [slightly sheepish]
+
+Oh. Well that's— that's actually way better than sitting on another call for an hour. [chuckle] I guess they just texted me everything I needed to know anyway.
+
+[lighter]
+
+Man, I was so worked up about that. Sometimes the easy way works out, huh?

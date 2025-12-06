@@ -1,0 +1,353 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 7f2b02a8_script | Role: Character 2 (B)
+
+Character 1: So everyone knows about the job now.
+
+1196 Character 2: I—okay, I know you're mad, but it literally just came up. We were all talking about work stuff and Jake mentioned his interview at the same company and I just—it slipped out, alright?
+
+Character 1: It slipped out.
+
+1197 Character 2: Yes! It slipped out! I didn't wake up planning to tell everyone about your—about what happened. They were all sharing their worst interview stories and I mentioned yours without thinking. [Sigh] I realize now that wasn't cool, but...
+
+Character 1: But what?
+
+1198 Character 2: But you're acting like I maliciously went around gossiping about you, which is—that's not what happened. At all. I mean, come on, we've been friends for how long? You really think I'd do that to you?
+
+Character 1: I think you did do that to me.
+
+1199 Character 2: No, I—ugh, that's not the same thing and you know it. There's a difference between accidentally mentioning something in conversation and like, deliberately spreading your business around. I'm not saying I handled it perfectly, but [frustrated laugh] you're being kinda unfair here.
+
+Character 1: Am I? Because six people have texted me about it.
+
+1200 Character 2: Okay okay, look—I get that sucks. I do. But once it was out there, what was I supposed to do? Tell everyone to forget I said it? That would've just made it into a bigger thing, y'know?
+
+Character 1: You could've not said it in the first place.
+
+1201 Character 2: Yeah, well, I can't—I can't go back in time, can I? I messed up, fine, but honestly? You've shared stuff about me before too. Remember when you told Amy about my breakup while it was still happening?
+
+Character 1: That's different.
+
+1202 Character 2: How? How is that different? Because—no, seriously, explain to me how that's different. You "accidentally" told her I got dumped at my birthday dinner, and I had to deal with her pity texts for weeks.
+
+Character 1: Fine. We're even then.
+
+1203 Character 2: That's not—[groan] I'm not trying to keep score here. I'm just saying maybe you could cut me some slack since I've literally never done this before and it wasn't on purpose.
+
+Character 1: It being an accident doesn't make it better.
+
+1204 Character 2: I mean, it kinda does though? Like, intent matters. I wasn't trying to hurt you or—or make you look bad. Everyone was bonding over their failures and I thought... I dunno, I thought it would help normalize it or something.
+
+Character 1: Great. So glad my humiliation could help with bonding.
+
+1205 Character 2: You know what? Fine. Be mad. But I'm kinda disappointed that after everything, you can't even—whatever. I said I'm sorry, I explained what happened. If you wanna stay pissed at me forever over one mistake, that's... that's on you.
+
+Script: 98f54aea_script | Role: Character 2 (B)
+
+Character 1: You told Marcus about my therapy sessions.
+
+1206 Character 2: Wait wait wait—that's not what happened. I was talking about my own shit, okay? Like, I was literally explaining why I've been so anxious lately and yeah, I mentioned that we both go to therapy but—
+
+Character 1: That wasn't yours to share.
+
+1207 Character 2: I didn't share your stuff though! I was talking about me, about how I've been struggling with the same things. You're making it sound like I just [scoff] randomly brought up your personal business, which isn't what happened at all.
+
+Character 1: Same result.
+
+1208 Character 2: That's—okay, that's not fair. I needed to talk to someone too, y'know? And I thought—I dunno, I thought mentioning we were both working through stuff would make it less... weird or whatever. I wasn't gossiping about you.
+
+Character 1: You could've talked about yourself without mentioning me at all.
+
+1209 Character 2: Yeah, maybe. But honestly? It's kinda hard when we've been going through this together. Like, you're acting like I betrayed you when I was literally just trying to explain my own situation. [frustrated laugh] I mean, come on.
+
+Character 1: Now Marcus knows I'm in therapy. Thanks for that.
+
+1210 Character 2: So what? Seriously, so what? Half our friend group is in therapy—it's not like it's this big shameful secret. And I'm sorry if you wanted to keep it private, I am, but you're treating me like I'm some kind of—like I did this to hurt you.
+
+Character 1: Doesn't matter what you intended.
+
+1211 Character 2: Actually, yeah, it kinda does matter? Like, there's a difference between me maliciously spreading your business and me mentioning—in passing—while talking about my own mental health, that we both see therapists. That's—those are two completely different things.
+
+Character 1: Not to me.
+
+1212 Character 2: Okay okay, fine. I get that you're upset. But I'm also—look, I'm disappointed too, alright? Because I thought you'd understand that I wasn't trying to violate your trust. I was having a really shit day and I needed to vent.
+
+Character 1: So you threw me under the bus.
+
+1213 Character 2: That's not—[sigh] I didn't throw you under anything. You're being so dramatic about this. I literally said "yeah, we both started going around the same time" and that was it. I didn't share what you talk about or why you go or—nothing like that.
+
+Character 1: You still had no right.
+
+1214 Character 2: Maybe not. Fine. But you know what? You're not being a great friend right now either. Like, you haven't even asked why I was upset enough to need to talk to Marcus in the first place. It's just all about you and how I wronged you.
+
+Character 1: Because you did.
+
+1215 Character 2: Yeah, well—I'm sorry it came out, okay? I'm sorry. But I'm not gonna apologize for needing support too. And honestly? If you can't see the difference between what I did and actually betraying you, then I dunno what to tell you.
+
+Script: 78896949_script | Role: Character 2 (B)
+
+Character 1: You keep telling me to just get over it.
+
+1216 Character 2: That's not—I never said it like that. I'm trying to help you move forward, okay? There's a difference between minimizing and, like, trying to help you not stay stuck in this forever.
+
+Character 1: Same thing.
+
+1217 Character 2: No, it's really not though. Look look, I've been listening to you talk about this for months—which I'm happy to do—but at some point, y'know, dwelling on it isn't helping anymore. [frustrated laugh] That's all I'm saying.
+
+Character 1: So now I'm dwelling.
+
+1218 Character 2: I didn't—come on, don't twist my words. I'm just saying maybe it's time to, I dunno, try something different? Because what you're doing now obviously isn't working.
+
+Character 1: Thanks. Really helpful.
+
+1219 Character 2: Okay okay, see, this is what I mean. I literally can't say anything without you getting—I'm trying here. I am. But you're acting like I'm the bad guy for suggesting you might wanna, like, actually heal from this.
+
+Character 1: You don't get to decide when I'm healed.
+
+1220 Character 2: I'm not deciding anything! Jesus. I'm just—[sigh]—I'm worried about you, alright? And honestly, it feels like you want to stay angry more than you want to feel better.
+
+Character 1: Wow.
+
+1221 Character 2: What? What's "wow"? You're gonna sit there and tell me you haven't been, like, holding onto this? Fine fine, maybe I shouldn't have said it that way, but somebody needs to.
+
+Character 1: Not you. Not like this.
+
+1222 Character 2: Then how? Seriously, tell me how I'm supposed to—because I've tried being supportive, I've tried just listening, and now when I suggest maybe trying to move forward, suddenly I'm the worst friend ever?
+
+Character 1: I never asked you to fix me.
+
+1223 Character 2: No, but you—okay, you're right, you didn't. But I'm also allowed to have opinions about watching my best friend basically torture themselves over something that happened six months ago. That's—is that not fair?
+
+Character 1: Six months isn't that long.
+
+1224 Character 2: For some things, sure. But you're not even trying to—[groan] whatever. You know what? Maybe I am minimizing. Maybe I just don't get it. But I'm also kinda tired of feeling like the bad guy for wanting you to be okay.
+
+Character 1: Then stop.
+
+1225 Character 2: Stop what? Stop caring? Stop trying to help? I mean—that's what you want? Because honestly, I dunno what else to do here. I'm sorry if I'm not saying the right things, but I'm not gonna pretend like watching you do this to yourself is easy either.
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1226 SCENARIO: trying to decide which snack to get from the vending machine
+
+==================================================
+
+[muttering]
+
+Okay, so, um, I need a snack. I need— I definitely need something because I'm, like, I'm gonna crash in about ten minutes if I don't— [sigh] Alright, what do we got here?
+
+[slightly more focused]
+
+So there's, um, there's the usual suspects. Chips, obviously. But like, do I want— do I want salty or do I want sweet? Because I had that really bland sandwich for lunch and I'm thinking maybe sweet would be— but then again, uh, salt sounds really good right now.
+
+[considering]
+
+Ooh, okay, Snickers. Classic. Can't go wrong with— but wait, didn't I just have chocolate yesterday? I feel like I did. I mean, not that there's anything wrong with— [tsk] I'm not on a diet or anything, I just—
+
+[second-guessing]
+
+Maybe pretzels? Those are like, healthy-ish, right? Well, not healthy but, um, less bad? [laugh] Less bad, great criteria there. Very scientific. But they're so— they're so dry, and I don't have water with me, so—
+
+[decisive, then wavering]
+
+You know what, Snickers. I'm doing it. I'm— [pause] unless... do they have those trail mix things? The ones with the, uh, the little chocolate bits? [hmm] That's like compromise food. Best of both worlds.
+
+[resigned but satisfied]
+
+Nah, forget it. Snickers it is. Sometimes you just gotta— you just gotta go with your gut, right? B4. Here we go.
+
+--- CONVERSATION ---
+
+Script: 924d6f5d | Role: Character 1 (A)
+
+1227 Character 1: [exasperated] Sweetie, we need to talk about your appearance. [getting louder] The Hendersons are coming for dinner tonight, and you look like you just [pause] [disgusted] rolled out of bed. Could you at least brush your hair?
+
+Character 2: [monotone] My hair is fine, Mom. [slower] It's supposed to look like this—it's called "effortless." [small sigh] Besides, the Hendersons won't care what I look like; they're coming to see you, not me.
+
+1228 Character 1: [high-pitched] Effortless? [incredulous laugh] You look homeless! [whispering urgently] What will they think of our family? Their daughter just got into Yale—she always looks immaculate. Please, just change into something presentable for once.
+
+Character 2: [sarcastic] Oh right, because wearing a polo shirt will definitely get me into Yale. [more firmly] Mom, I'm comfortable like this. [yawning] Maybe focus less on what strangers think and more on actual important stuff?
+
+1229 Character 1: [hurt tone] Important stuff? [voice breaking] Our reputation IS important! [faster words] I work so hard to maintain our image in this neighborhood, and you're sabotaging everything with your deliberate sloppiness. It's embarrassing!
+
+Character 2: [amused] Sabotaging? [snort] Mom, you're being dramatic again. [matter-of-fact] No one cares that I wear band tees instead of button-downs. The only person obsessed with this perfect family image is you.
+
+1230 Character 1: [defensive shout] That's not true! [quieter] Mrs. Peterson mentioned your appearance at book club last week. [trembling] She said—and I quote—"Your daughter certainly marches to her own drummer." [bitter laugh] Do you know how humiliating that was?
+
+Character 2: [genuinely confused] That sounds like a compliment though? [more enthusiastically] She's saying I'm unique, independent. [flatly] Sorry I'm not a carbon copy of her boring daughter who only talks about tennis and SAT prep courses.
+
+1231 Character 1: [pleading] Just this once, honey. [softer] Wear the blue dress I bought you—the one with the flowers? [desperately quick] It would mean so much to me. You looked absolutely stunning in it at Easter!
+
+Character 2: [groaning] The itchy one that makes me look like a cupcake? [firmly] Hard pass, Mom. [resigned sigh] Fine, I'll compromise—I'll wear jeans without holes and a clean shirt. That's my final offer.
+
+1232 Character 1: [sarcastic whisper] Jeans without holes, how generous. [building frustration] You know what? When you're thirty and wondering why you never learned proper presentation, [sharp exhale] don't come crying to me about missed opportunities!
+
+Character 2: [laughing] Missed opportunities from not dressing up for your dinner parties? [more seriously] Mom, Steve Jobs wore the same outfit every day. [casual tone] Pretty sure my ripped jeans won't destroy my entire future.
+
+1233 Character 1: [mocking] Steve Jobs? [exasperated groan] You're not building Apple in our garage! [quieter, sadder] I just want you to understand that first impressions matter, sweetheart. The world judges us whether we like it or not.
+
+Character 2: [gentler] I know you mean well, Mom. [pause] [more firmly] But constantly worrying about everyone's opinions sounds exhausting. Maybe the world judges, but I'd rather be happy in my own skin than stressed in uncomfortable clothes.
+
+1234 Character 1: [defeated] Your own skin. [long sigh] That's all your generation talks about—authenticity, being yourself. [wistful] When I was your age, we understood the value of putting our best foot forward, of trying.
+
+Character 2: [defensive] We do try, just at different things. [steadier] I try at school, at my art, at being a good friend. [slight smile in voice] Sorry that doesn't include coordinating my outfit with the tablecloth.
+
+1235 Character 1: [sudden outburst] Fine! [voice cracking] Wear whatever you want! [more quietly] When the Hendersons whisper about our "alternative" child, I'll just smile and pretend it doesn't slice through me like a knife.
+
+Character 2: [uncomfortable] Mom, that's really manipulative. [sighing heavily] Look, if it matters that much, I'll wear the stupid dress. [muttering] But I'm not pretending to enjoy their small talk about country clubs.
+
+1236 Character 1: [brightening immediately] Really? You'll wear it? [excited squeal] Oh honey, thank you! [rapidly] You won't regret this—Mrs. Henderson always brings those fancy chocolates, and she's more generous when she's impressed!
+
+Character 2: [deadpan] Ah yes, chocolate—the ultimate bribe. [more warmly] You owe me for this, Mom. [teasing] Next time you complain about my music being too loud, remember this sacrifice. Now help me find those uncomfortable shoes.
+
+--- CS ALPHANUMERIC ---
+
+Script: cc73e4ba | Role: Customer Support
+
+Character 1: [furious] I brought my phone in for a cracked screen on October 15th, repair order R-7834-B, and now—now ALL my photos are gone! [voice shaking] Five years of memories, my daughter's graduation, everything deleted without my permission!
+
+1237 Customer Support: Sir, I understand you're upset, and I'm truly sorry this happened. Let me pull up your file... R-7834-B, yes, I see it here. [concerned] According to our records, you signed a data waiver form at drop-off.
+
+Character 1: [shouting] A data waiver? Nobody told me that meant you'd wipe everything! [sarcastically] The guy at counter 3 just said "sign here, here, and initial there" while texting on his phone. [getting louder] This is completely unacceptable!
+
+1238 Customer Support: Sir, our standard protocol requires all customers to back up their data before any repair. The form clearly states in section 4-A that we're not responsible for data loss. Did you create a backup before bringing it in?
+
+Character 1: [incredulous] Are you seriously blaming ME right now? [voice cracking] I came in for a screen, not—not a factory reset! [frustrated grunt] Your technician, badge number 4492, promised me nothing would happen to my data!
+
+1239 Customer Support: Employee 4492... that's Marcus, he wouldn't have promised that. Our policy at 1247 Riverside Plaza has been the same for three years. However, I can offer you a $50 store credit for your inconvenience.
+
+Character 1: [laughing bitterly] Fifty dollars? For my dead mother's last voicemail? [voice rising] I've been a premium member, account PRM-88974, since 2018! [desperately] There has to be some way to recover the data, please!
+
+1240 Customer Support: I genuinely wish there was something more I could do. [hesitant] Let me... let me speak with my manager, Mr. Chen. Sometimes our advanced tech team can attempt recovery for a fee of $299.
+
+Character 1: [outraged] You delete my data and now want to charge me three hundred dollars to maybe get it back? [groans loudly] This is insane—I'm calling corporate, the BBB, everyone! [threateningly] Your store's Google reviews are about to tank!
+
+1241 Customer Support: Sir, please, let's not escalate this further. [quickly] Actually, wait—I'm seeing here that your device serial J7K9-XX2M might still have a cloud backup from October 14th. Can you check your account settings right now?
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 3c2c36d0 | Role: Customer Support
+
+1242 Customer Support: Thank you for reaching out, Mr. Henderson. I understand you have concerns about your case timeline—let me pull up your file right away. We're here to address any issues you're experiencing.
+
+Character 1: [frustrated] It's been three months since our last meaningful update! [sighs heavily] My business partners are breathing down my neck, and I'm—I'm running out of excuses to give them. [desperately] When can we expect actual progress?
+
+1243 Customer Support: [apologetically] I completely understand your frustration, and you're right to be concerned. The discovery phase has taken longer than anticipated due to, uh, opposing counsel requesting multiple extensions. However, we should have depositions scheduled within two weeks.
+
+Character 1: [sarcastically] Two weeks? That's what you told me last month! [groans] Look, I'm paying premium rates here, and frankly, I expected... [pause] [more quietly] better communication at the very least.
+
+1244 Customer Support: You're absolutely right, and I apologize for the lack of consistent updates. Moving forward, we'll implement weekly email briefings every Friday, even if it's just to say nothing has changed. Your case is a priority.
+
+Character 1: [skeptically] Weekly briefings sound great in theory, but will they actually happen? [exhales sharply] I've heard promises before from your office. [pleading] I need concrete dates, not more vague timelines that keep shifting.
+
+1245 Customer Support: Let me be specific then—depositions are scheduled for March 15th and 17th. The motion hearing is set for April 2nd, and barring any unforeseen circumstances, we should have resolution by May. [confidently] These dates are confirmed.
+
+Character 1: [relieved] Finally, actual dates! [chuckles nervously] Though I have to ask—what exactly constitutes "unforeseen circumstances" in legal speak? [more seriously] Because everything seems to be unforeseen with this case lately.
+
+1246 Customer Support: Fair point, and I understand your skepticism. Unforeseen would be things like judge illness or, uh, natural disasters—not routine scheduling conflicts. We've already blocked these dates and notified all parties, so they're locked in.
+
+Character 1: [cautiously optimistic] Okay, that's... that's actually helpful. [sighs] But what about the billing situation? [frustrated again] I received an invoice for research that was supposedly completed two months ago, yet I'm only hearing about the results now.
+
+1247 Customer Support: Let me address that immediately—there seems to be a disconnect between our billing and case management systems. [apologetically] The research was completed on time, but the communication about it wasn't properly logged. [firmly] I'll have accounting review and adjust that invoice today.
+
+Character 1: [surprised] You'll actually adjust it? [chuckles] Most law firms would just defend their billing to the death. [more seriously] I appreciate the honesty, but this whole experience has been... exhausting, frankly.
+
+1248 Customer Support: I completely understand, and you deserve better service than what you've received. Here's what I propose—a 15% discount on this month's billing, plus those weekly updates I mentioned. [confidently] We want to rebuild your trust.
+
+Character 1: [considering] Fifteen percent helps, sure, but trust isn't rebuilt with discounts alone. [sighs] What I really need is for someone to actually own this case, not just... [pause] [tiredly] pass me between departments like a hot potato.
+
+1249 Customer Support: You're absolutely right, and effective immediately, I'm your single point of contact. My direct line is 555-0147, and I personally oversee every aspect of your case from here out. No more transfers, no more confusion.
+
+Character 1: [relieved] Now that's what I needed to hear from the beginning! [more hopefully] So when you say you'll oversee everything, does that include... [pause] making sure opposing counsel stops playing games with extensions?
+
+1250 Customer Support: Absolutely, and in fact, we're filing a motion to compel tomorrow morning. Their delay tactics end now—the judge has already indicated frustration with their behavior. [confidently] We're taking a much more aggressive stance moving forward.
+
+Character 1: [impressed] Finally, some teeth! [chuckles] I was starting to think you guys were too polite for litigation. [curiously] What changed—did someone light a fire under the senior partners or something?
+
+1251 Customer Support: [candidly] Your feedback did, actually—leadership reviewed your case this morning. They agreed we've been too accommodating, and frankly, it's hurt your position. That stops today, and we're pushing hard for that May resolution.
+
+Character 1: [gratefully] Well, I appreciate the candor and the new approach. [sighs] Let's hope this momentum actually continues, because I... [pause] [firmly] I can't afford any more delays, financially or professionally. Talk Friday then?
+
+--- BASIC SCENARIOS ---
+
+1252 [Disappointed] I know I bought it here, I just—I can't find the stupid receipt anywhere, but like, can't you look it up? [Sigh]
+
+1253 [Fast] Okay so basically my dog ate the receipt—no really, I'm serious—and I need to return this because it's broken. [Nervous laugh]
+
+1254 [Sarcastic] Oh great, so you're telling me that without that tiny piece of paper, this is just, what, mine forever? [Tsk]
+
+1255 [Whisper] Between you and me, um, my wife doesn't know I bought this, so I kinda need to—you know. [Slow]
+
+1256 [Happy] You guys have the best return policy though, right? [Laugh] I shop here literally all the time!
+
+1257 [Angry] This is ridiculous—I mean, you can see the price tag's still on it! [Shout] Manager! I need a manager!
+
+1258 [Slow] Look, I'm not trying to scam anyone here, I just, uh, I honestly forgot to keep the receipt. [Sad]
+
+1259 [Fast] Can you maybe check my credit card history or something 'cause I definitely—wait, did I pay cash? [Groan]
+
+1260 [Disappointed] I drove forty-five minutes to get here and now you're gonna—really? [Tsk] This is how you treat customers?
+
+1261 [Sarcastic] Sure, I'll just keep this broken blender that I totally wanted to own forever. [Slow] That's exactly what I had planned. [Sigh]
+
+1262 [Whisper] Is there, like, someone else I could talk to who might be more, um, flexible about this? [Chuckle]
+
+1263 [Happy] Wait wait wait, I think I might have—no, that's a grocery receipt, sorry. [Fast] But I swear I bought it Tuesday!
+
+1264 [Sad] My kid threw it away when he was "helping" clean, and I just—I dunno what else to tell you. [Slow]
+
+1265 [Angry] Every other store does store credit at least! [Fast] This is basically theft at this point, you realize that, right?
+
+1266 [Chuckle] Would it help if I, uh, if I showed you the charge on my bank app? [Happy] See? Seventy-nine ninety-nine!
+
+1267 [Disappointed] So you're saying even though it's literally defective, there's nothing—absolutely nothing—you can do? [Groan]
+
+1268 [Slow] I mean, honestly, I probably spent like three thousand dollars here last year, so... [Sarcastic] But sure, this one time matters. [Tsk]
+
+1269 [Shout] It's still in the original packaging! [Angry] How is this not proof enough that I'm not trying to pull something here?
+
+1270 [Whisper] Look, I'm kinda desperate here—it was supposed to be a gift and it's the wrong size. [Sad] Please?
+
+1271 [Fast] Okay so what if—hear me out—what if I buy something else right now and then return both things together? [Laugh] [Happy]
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1272 SCENARIO: Calmly recounting a boundary they set with someone, then remembering their exact words, then hearing how harsh it sounds out loud, ending in relationship guilt
+
+==================================================
+
+[matter-of-fact]
+
+So I had to have a conversation with my sister today about the whole wedding planning thing. You know how she's been calling me like every other day asking me to help with all these details?
+
+[conversational]
+
+I finally just told her I needed some space from it. Like, I want to be supportive, but I have my own stuff going on, you know? I was pretty calm about it, just explained that I needed to step back a little.
+
+[slightly uncomfortable]
+
+Actually, let me think about what I said exactly... [pause] I said, um, "I can't be your unpaid wedding coordinator anymore. You need to figure this out yourself or hire someone."
+
+[realizing]
+
+Wait, did I really say "unpaid wedding coordinator"? [nervous laugh] That sounds... that sounds kind of harsh now that I'm saying it out loud.
+
+[growing concern]
+
+And then I said— oh god, I told her she was being "emotionally draining" and that I felt like she only called me when she needed something. [groan] Why did I say it like that?
+
+[increasingly anxious]
+
+I mean, it's true, but... [sharp exhale] she's planning her wedding! Of course she's stressed! And I just— I basically told my sister she was using me right before the biggest day of her life.
+
+[spiraling] [upset]
+
+What if I ruined everything? What if she doesn't want me in the wedding anymore? [whimper] Oh my god, I'm the worst sister ever. I should call her back, shouldn't I?

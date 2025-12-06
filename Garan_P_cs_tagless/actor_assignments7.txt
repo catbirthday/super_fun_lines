@@ -1,0 +1,153 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 6bbc5772_script | Role: Character 2 (B)
+
+Character 1: You just sat there.
+
+519 Character 2: I—okay, hold on. What was I supposed to do? Start a fight with your boss in the middle of the meeting? That's not—that wouldn't have helped anything.
+
+Character 1: You could've said something.
+
+520 Character 2: Like what? Seriously, like what? "Hey, stop being mean to my friend"? [Scoff] That would've made you look worse, not better. I was trying to—I dunno, keep things from escalating.
+
+Character 1: By doing nothing.
+
+521 Character 2: That's not—I wasn't doing nothing. I was literally biting my tongue so I wouldn't say something that would get us both in trouble. You think I liked sitting there? You think that was fun for me?
+
+Character 1: Seemed pretty comfortable to me.
+
+522 Character 2: Oh, come on. That's—that's bullshit and you know it. I was trying to be strategic about it, okay? Sometimes the smart move is to not—look, if I'd jumped in, it would've become this whole thing. [Frustrated laugh] And then we'd both be screwed.
+
+Character 1: Right. Strategic.
+
+523 Character 2: Yes, strategic! I mean—Jesus, you're acting like I threw you under the bus or something. I texted you right after, didn't I? I was gonna talk to him separately, when things cooled down.
+
+Character 1: After the damage was done.
+
+524 Character 2: What damage? He was being a dick, everyone could see that. Nobody thought less of you because—okay okay, I get that you're hurt, but honestly? You're kinda being unfair here.
+
+Character 1: I needed backup.
+
+525 Character 2: And I—look, I'm sorry you felt alone in there, I am. But you didn't exactly give me a heads up that you were gonna push back on the project timeline either, so I was just as blindsided as everyone else.
+
+Character 1: So it's my fault.
+
+526 Character 2: That's not what I'm—[groan] stop twisting everything I say. I'm just saying there's context here that you're ignoring. We're supposed to be a team, but you went rogue and then expected me to what, read your mind?
+
+Character 1: Expected you to have my back.
+
+527 Character 2: I do have your back! But having your back doesn't mean—it doesn't mean I'm gonna commit career suicide every time someone's mean to you. That's not—I mean, is that really what you want from me?
+
+Character 1: Forget it.
+
+528 Character 2: No, don't—don't do that. Don't just shut down because I'm not giving you the perfect apology you want. I'm trying to—look, I could've handled it better, okay? But you could also try to understand why I didn't.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+529 SCENARIO: waiting for their turn at the DMV
+
+==================================================
+
+[muttering]
+
+Okay, so, um, I got here at like— what time is it? Like ten-thirty? And my number is... [sigh] sixty-seven. And they're on, uh, they're on forty-two right now. So that's, um, that's what, like twenty-five people ahead of me?
+
+[slightly resigned]
+
+I mean, I knew this was gonna take forever, I just— I don't know why I thought today would be different. Like, oh, maybe Tuesday at ten-thirty will be the magic time when the DMV is, uh, is actually efficient. [snort] Right.
+
+[conversational]
+
+Should've brought a book or something. I've got my phone but the wifi here is— it's terrible, and I don't want to, um, I don't want to burn through all my data just sitting here. Plus my battery's at like thirty percent, which means—
+
+[realizing]
+
+Oh wait, I think I have one of those little portable chargers in my bag somewhere. Let me just— [rustling] no, that's gum. That's receipts. Why do I have so many— oh, there it is.
+
+[more optimistic]
+
+Okay, so maybe this won't be so bad. I can just, uh, I can just catch up on podcasts or whatever. Make the best of it, right?
+
+--- CONVERSATION ---
+
+Script: fae38bb4 | Role: Character 1 (A)
+
+530 Character 1: [nervously] Thanks for coming, Sarah. I wasn't sure you'd show up. [clearing throat] I know twenty years is... [trailing off] well, it's a lifetime, especially when it's most of yours.
+
+Character 2: [flat tone] I almost didn't. [pause] Mom said you've been trying to reach out for months. [more coldly] Funny how you suddenly remembered you have a daughter after all this time.
+
+531 Character 1: [defensive] That's not fair—I never forgot about you. [softer] Your mother made it clear I wasn't welcome, and [long exhale] maybe I was too proud or too stupid to fight harder.
+
+Character 2: [bitter laugh] Oh, so it's Mom's fault? [rising anger] You walked out when I was five! [quieter] Do you know how many school plays you missed, how many birthdays?
+
+532 Character 1: [pained whisper] Every single one haunts me. [stronger] I sent cards, gifts—your mother returned them all unopened. [cracking voice] I tried, Sarah, but I should've tried harder, I know that now.
+
+Character 2: [sarcastically] Cards and gifts, wow, father of the year. [shaky breath] I needed you there, not your money. [barely audible] I used to wait by the window every Saturday, thinking you'd come.
+
+533 Character 1: [urgently] I did come! [frustrated groan] Three times I drove to your house, but I'd just sit in the car, paralyzed. [defeated] What could I say to make up for lost time?
+
+Character 2: [disbelief] You were there? [voice breaking] And you just... left? [harsh whisper] That's almost worse than not coming at all—knowing you were that close and still chose to drive away.
+
+534 Character 1: [pleading tone] I was terrified you'd reject me, that you'd already forgotten who I was. [steadier] But I'm here now, trying. [hopeful] Can't we at least attempt to build something from this?
+
+Character 2: [tired sigh] I'm getting married next spring. [cautiously] David keeps asking about my father, whether he'll walk me down the aisle. [trembling] I don't even know what to tell him about you.
+
+535 Character 1: [surprised gasp] Married? [warmly] That's wonderful news, sweetheart—I mean, Sarah. [hesitant] I'd be honored to be there, in whatever capacity you'd have me, even just as a guest.
+
+Character 2: [considering] Maybe we could start with coffee once a month? [firmly] But I need you to understand—trust isn't given, it's earned. [softer] And you've got twenty years of earning ahead of you.
+
+536 Character 1: [eagerly] Yes, absolutely, whatever you need. [relieved laugh] Coffee, lunch, just a phone call—I'll take any chance you give me. [emotionally] I promise I won't waste this opportunity, not this time.
+
+Character 2: [warning tone] One condition—no excuses, no disappearing acts. [steadying breath] The moment you bail on me again, we're done forever. [firmly] I won't go through that abandonment twice, understood?
+
+537 Character 1: [solemnly] I understand completely. [deep breath] I've been seeing a therapist, actually, working through why I ran. [quietly determined] I'm not that same coward anymore, or at least I'm trying not to be.
+
+Character 2: [slightly softer] Good, that's... good. [uncomfortable pause] Look, I can't promise this will be easy or quick. [measured tone] Twenty years of anger doesn't just evaporate because you bought me a latte.
+
+538 Character 1: [gently] I know, and I'm not asking for instant forgiveness. [thoughtful] But maybe we could exchange phone numbers? [hopefully] Start with texts, work our way up to actual conversations when you're ready?
+
+Character 2: [reluctantly] Fine, give me your phone. [typing sounds] There, you have my number now. [warning] But don't blow up my phone—one text to start, and we'll see how it goes.
+
+539 Character 1: [grateful whisper] Thank you, Sarah, this means everything. [choking up] I know I don't deserve this second chance, but [stronger] I swear I'll do whatever it takes to earn your trust back.
+
+Character 2: [standing up] We'll see, Dad. [pause] [surprised] That's the first time I've called you that in twenty years. [quietly leaving] Next month, same time—don't be late.
+
+--- CONVERSATION ---
+
+Script: ebfe7e13 | Role: Character 1 (A)
+
+540 Character 1: [nervously] Oh, hi! You must be Sarah. [voice getting higher] I've heard so much about you from Emma—she talks about her mom all the time. [rushed] I'm Jessica, I've been seeing Mark for a few months now.
+
+Character 2: [coolly] Yes, Emma mentioned you. [deliberate pause] The yoga instructor, right? [flatly] How nice that Mark found someone so... flexible. I hope you're finding the school pickup routine manageable—it can be quite demanding.
+
+541 Character 1: [defensive] Actually, I teach Pilates. [quieter] But yes, I'm getting used to the schedule. Emma's such a sweet girl, [warmly] she makes it easy. We've been bonding over her art projects lately at home.
+
+Character 2: [sharply] Her art projects? [incredulous] The ones for the district competition? [icily] I've been preparing her for that since kindergarten. But I'm sure your... input... is very helpful. She needs consistency, you understand.
+
+542 Character 1: [apologetically] Of course, I didn't mean to overstep. [stammering] I just wanted to help when she asked. [more confidently] Mark thought it would be good for us to spend time together, building our relationship naturally.
+
+Character 2: [bitter laugh] Mark would think that. [sarcastically sweet] He always loved delegating the hard parts of parenting. [lower voice] Tell me, has he mentioned Emma's anxiety about the divorce yet? Or is he still pretending everything's fine?
+
+543 Character 1: [uncomfortable whisper] We're taking things slow with Emma. [steadier] She seems to be adjusting well, actually. [hesitant] Maybe we could all work together to make this transition easier? For her sake, I mean.
+
+Character 2: [mock surprise] Work together? How modern of you. [dripping condescension] I've been her mother for eight years, dear. [firmly] I don't need assistance from someone who's known her for what—twelve weeks? But thanks for the offer.
+
+544 Character 1: [hurt] I'm not trying to replace you. [pleading] Nobody could ever do that. [softer] I just want Emma to feel comfortable when she's with us. [genuine] You've raised an amazing daughter—that's obvious to everyone.
+
+Character 2: [caught off-guard] Well. [slowly] Thank you for saying that. [reluctant softening] She is amazing, isn't she? [Sigh] Look, I know this isn't your fault. Mark and I... our issues started long before you.
+
+545 Character 1: [relieved exhale] I appreciate you saying that. [carefully] I know this must be incredibly hard for you. [sympathetic] If it helps, I grew up with divorced parents too—I understand how complicated it gets.
+
+Character 2: [wearily] Did your father's girlfriend try to braid your hair for picture day? [dry chuckle] Because Emma came home crying about that last week. [pointedly] Some things are just... sacred between mothers and daughters, you know?
+
+Character 2: [softer tone] She did ask you? [thoughtfully] That's... interesting. She must really like you then. [rueful] She never asks anyone for help with her hair. Maybe I've been too rigid about boundaries.
+
+Character 2: [warming slightly] Three YouTube tutorials and lots of practice. [almost friendly] She sits still for exactly twelve minutes before getting antsy. [confiding] Pro tip: let her hold the phone with videos while you work. Makes it easier.
+
+Character 2: [amused] Candy works too, honestly. [more relaxed] Don't tell Mark, but I keep emergency lollipops in my purse. [conspiratorial whisper] Sometimes survival trumps perfect parenting. We all do what we have to do.
+
+Character 2: [considering] Coffee. [measured] I suppose that would be... practical. [business-like] Thursday mornings work for me, after drop-off. [slight smile in voice] But I choose the place—and you're buying. Fair warning: I like the expensive lattes.
+
+--- BASIC SCENARIOS ---

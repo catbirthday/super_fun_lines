@@ -1,0 +1,600 @@
+ACTOR LINE ASSIGNMENTS - 87 ITEMS (~1949 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  275 words ( 14.1%)
+
+  monologues_selftalk :  230 words ( 11.8%)
+
+  conversation        :  326 words ( 16.7%)
+
+  cs_alpha            :  169 words (  8.7%)
+
+  cs_noalpha          :  288 words ( 14.8%)
+
+  basic_scenarios     :  354 words ( 18.2%)
+
+  monologues          :  307 words ( 15.8%)
+
+  TOTAL               : 1949 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (74 words)
+
+Script: d524c39a
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+1 Character 1: When was the last time you apologized to me first?
+
+Character 2: What? That's—that's not even—okay, where is this coming from? I apologize when I need to apologize. When I've actually done something wrong, y'know?
+
+2 Character 1: Right. When you think you've done something wrong.
+
+Character 2: Well yeah, obviously. I'm not gonna apologize for stuff I didn't—look, if this is about yesterday, I already told you I didn't think it was that big a deal. [scoff] You're acting like I never take responsibility.
+
+3 Character 1: You don't.
+
+Character 2: That's—come on, that's literally not true. Remember when I forgot your birthday dinner? I apologized like fifty times. Or when I accidentally told Jake about your promotion before you could? I owned that.
+
+4 Character 1: After I brought it up. After I had to explain why I was upset.
+
+Character 2: Okay okay, but—sometimes I genuinely don't realize something's wrong until you tell me. That doesn't mean I'm not sorry, it just means I'm not a [frustrated laugh] mind reader, y'know?
+
+5 Character 1: Must be nice. Never being wrong unless someone proves it.
+
+Character 2: That's not what I—ugh, you're twisting my words. Look, I'm sorry if you feel like I don't apologize enough, but honestly? Sometimes you get upset about stuff that's just... I dunno, not actually my fault?
+
+6 Character 1: Name one time.
+
+Character 2: Um, literally last month? When you got mad that I went to Sarah's party without you? You said you didn't wanna go, so I went, and then suddenly I'm the bad guy for not convincing you harder or whatever.
+
+7 Character 1: That's not what happened.
+
+Character 2: That's—that's exactly what happened! You literally said "go without me" and I did, and then you were cold to me for like three days. [sigh] And I still said sorry, by the way, even though I didn't think I did anything wrong.
+
+8 Character 1: You said "sorry you feel that way."
+
+Character 2: Because I was! I was sorry you felt bad, but I wasn't gonna pretend I did something terrible when I—when I literally just listened to what you told me to do.
+
+9 Character 1: Whatever. This is pointless.
+
+Character 2: No no no, don't—don't do that. Don't shut down just because I'm defending myself. You brought this up, and now you're mad that I'm not just... what, falling on my sword? Admitting I'm always wrong?
+
+10 Character 1: Just once would be nice. Without me having to beg for it.
+
+Character 2: I'm—okay, fine. Maybe I could be better about that, I guess. But you gotta admit, sometimes you expect apologies for stuff that's just... life happening, y'know? Not everything needs to be somebody's fault.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (64 words)
+
+Script: 15dba575
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+11 Character 1: Three weeks. I was there for three weeks.
+
+Character 2: I know, I—god, I know. I'm so sorry. I kept meaning to come, I swear I did, but then—okay that sounds terrible. That's not—let me start over.
+
+12 Character 1: Don't bother.
+
+Character 2: No no no, please, just—just let me explain. I was gonna come that first weekend, right? But then my mom had that thing and I thought, okay, I'll go Monday. But Monday turned into Tuesday and then—[groan] I'm the worst friend ever.
+
+13 Character 1: Yeah. You are.
+
+Character 2: I deserve that. I totally deserve that. I just—I got so caught up in my own stupid stuff, y'know? Like work was insane and I kept thinking I'd have more time later, but that's not an excuse. Nothing is.
+
+14 Character 1: Everyone else managed to find time.
+
+Character 2: I know. Even Jake came and he lives like three hours away. I'm—I'm literally twenty minutes from the hospital and I couldn't—god, I really messed up, didn't I? [nervous laugh] Like majorly, majorly messed up.
+
+15 Character 1: I kept asking the nurses if you'd called.
+
+Character 2: Oh god. Oh god, that's—I'm so sorry. I should've at least called. I wanted to but then I felt guilty for not visiting and then I felt like calling would be worse somehow? Like insulting? I dunno, that's so stupid, I'm so stupid.
+
+16 Character 1: It was scary. Being there alone.
+
+Character 2: I know. I mean—no, I don't know, but I can imagine and I—you shouldn't have been alone. You shouldn't have had to wonder where I was. I'm supposed to be your best friend and I just... wasn't there.
+
+17 Character 1: I really needed you.
+
+Character 2: I'm sorry. I'm so, so sorry. There's literally nothing I can say that makes this okay, is there? I just—I wanna fix this but I don't know how. Tell me what to do. Please.
+
+18 Character 1: You can't fix three weeks of wondering if you even cared.
+
+Character 2: But I did care! I do care! I thought about you constantly, I just—I couldn't make myself go. [sigh] Hospitals kinda freak me out since my dad, but that's not—that's my problem, not yours. I should've sucked it up.
+
+19 Character 1: Your dad. I forgot about that.
+
+Character 2: No, don't—don't make excuses for me. That was five years ago, I should be over it by now. And even if I'm not, even if hospitals make me wanna throw up, I should've been there. You needed me and I wasn't there.
+
+20 Character 1: I'm sorry too. For being so cold. I'm just hurt.
+
+Character 2: No no no, you have every right to be cold. Every right to be furious actually. I'm just—I'm grateful you're even talking to me, honestly. And I promise, if there's ever a next time—which hopefully there won't be—but if there is, I'll be there. Day one. I promise.
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (84 words)
+
+Script: 96e3d9f1
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+21 Character 1: We need to talk about your comments.
+
+Character 2: Oh—um, what comments? I mean, I'm not sure what you're—wait, are you upset with me? Because if I said something wrong, I honestly didn't mean to.
+
+22 Character 1: Really? You don't know?
+
+Character 2: Okay okay, maybe I—I might have an idea? But like, I wasn't trying to be mean or anything, I swear. Sometimes I just say things without thinking and—god, that sounds terrible when I say it out loud.
+
+23 Character 1: "Must be nice to have free time." "Some of us actually care about our appearance." Ring any bells?
+
+Character 2: Oh. Oh no. [nervous laugh] Those weren't—I didn't mean them like that. I was just, y'know, making conversation? But hearing them back like that... yeah, that's pretty bad, isn't it?
+
+24 Character 1: It's constant.
+
+Character 2: I know, I know, you're right. It's like—I dunno why I do it? Maybe I'm jealous or insecure or something and it just comes out all wrong. That's not an excuse though, I'm just trying to—I'm trying to understand why I keep doing this.
+
+25 Character 1: It hurts.
+
+Character 2: God, I'm so sorry. I really—[sigh]—I really am. You're one of my best friends and I've been acting like such a jerk without even realizing it. Or maybe I did realize it? I don't even know anymore.
+
+26 Character 1: You made me feel like everything I do is wrong somehow.
+
+Character 2: No no no, that's not—you're amazing, okay? You literally are. I think maybe I'm just... projecting my own stuff onto you? Which is so messed up and I gotta stop doing that immediately.
+
+27 Character 1: Why didn't you just talk to me if something was bothering you?
+
+Character 2: Because I'm an idiot? Because I didn't even realize I was—actually no, that's a cop-out. I think I was scared to admit I was feeling jealous about stupid things. Like your promotion and your new relationship and just... everything going well for you.
+
+28 Character 1: So you decided to be passive aggressive instead.
+
+Character 2: Yeah. Yeah, that's exactly what I did. And it's—it's toxic and horrible and I hate that I became that person. You deserve so much better than that from me, honestly.
+
+29 Character 1: I just want my friend back. The real one.
+
+Character 2: Me too. I mean—I wanna be that friend again. The one who actually celebrates your wins instead of making snide comments about them. [quieter] Can we—can we try to fix this? I promise I'll work on it.
+
+30 Character 1: It's going to take time. And you have to actually stop.
+
+Character 2: I will. I promise I will. And if I slip up—which hopefully I won't but if I do—please just call me out immediately? Don't let it build up like this again. I never wanna hurt you like this again.
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (53 words)
+
+Script: 3274f702
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+31 Character 1: So the campaign hit its goal.
+
+Character 2: Wait wait wait—are you serious? The whole thing? Like the full amount you were asking for? Oh my god, I'm literally—this is huge!
+
+32 Character 1: Yeah. Happened this morning.
+
+Character 2: This morning?! And you're just now telling me? I would've been like, screaming from the rooftops or something. How much did you end up with?
+
+33 Character 1: Thirty-seven thousand. Little over the goal.
+
+Character 2: Thirty-seven thou— [Gasp] okay that's actually insane. That's like, that's real money. People really believe in this thing you're doing, y'know? How do you even feel right now?
+
+34 Character 1: Terrified.
+
+Character 2: Oh babe, no no no—I mean, I get it, I totally get it. It's like, now it's real, right? Now you actually have to, um, deliver on everything?
+
+35 Character 1: Exactly. What if I mess it up?
+
+Character 2: Okay but like—hold on though. These people didn't just randomly throw money at you. They saw your vision, they saw what you're capable of, and they were like "yes, this, we want this." That means something.
+
+36 Character 1: I guess. Still feels unreal.
+
+Character 2: Have you told your parents yet? Because your mom is gonna absolutely lose it—in like, the best way possible [Chuckle]. She's been telling literally everyone about your project.
+
+37 Character 1: Not yet. Processing.
+
+Character 2: That's—yeah, that's fair actually. Take your time. But um, can we at least celebrate a little? Like even just... I dunno, drinks or something? This is massive!
+
+38 Character 1: Maybe later. I need to email all the backers first.
+
+Character 2: See, this is why—this is exactly why people trust you with their money. You're already thinking about them, about doing right by them. That's so... you're gonna be fine, honestly.
+
+39 Character 1: Three hundred and twelve people backed it.
+
+Character 2: Three hundred and—wait, that's like a whole community! That's basically a small town of people who believe in what you're doing! [Sigh] Sorry, I'm being super intense, I'm just really proud of you.
+
+40 Character 1: Thanks. It's... a lot.
+
+Character 2: I know, I know it is. But hey—you don't have to figure it all out today, y'know? Just like, let yourself have this moment. You did something really hard and it worked.
+
+============================================================
+
+ITEM 41 - MONOLOGUE SELFTALK (230 words)
+
+Source: e428ee33
+
+============================================================
+
+SCENARIO: debating whether to try a new route or stick to the usual
+
+==================================================
+
+[contemplative]
+
+Okay, so, um, I've got like fifteen minutes before I need to be there, and I'm just— I'm standing here like an idiot trying to decide if I should, uh, if I should take the usual way or try that, um, that new route I saw on the map thing.
+
+[slightly uncertain]
+
+I mean, the regular way takes what, like twelve minutes? Maybe thirteen if there's, uh, if there's that backup at the light. But this new way could be— I don't know, it could be faster? Or it could be, um, it could be a total disaster and I'll end up lost and late and—
+
+[muttering]
+
+Right, okay, but how hard can it be? It's just, like, straight down Miller instead of taking the, uh, the usual left on Oak. That's not— that's not rocket science. I mean, I've lived here for how long now?
+
+[conflicted]
+
+But what if there's construction? What if it's one of those streets that looks fine on the map but is actually, like, a nightmare in real life with no parking and— [sigh] God, why am I overthinking this?
+
+[resigned but curious]
+
+You know what? Screw it. I've got time. Let's, um, let's see what Miller Street is all about. Worst case scenario, I'll know for next time, right?
+
+============================================================
+
+ITEMS 42-51 - CONVERSATION (326 words)
+
+Script: 3ab5b556
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+42 Character 1: [controlling tone] You're cutting those carrots wrong, dear. [Sharp exhale] Here, let me show you the proper way—my son always loved them julienned, [increasingly patronizing] not these chunky pieces you're making.
+
+Character 2: [forced politeness] I appreciate the tip, but this recipe specifically calls for rough cuts. [tense pause] It helps them hold their shape during roasting. [quieter] That's what the cookbook says, anyway.
+
+43 Character 1: [dismissive laugh] Cookbooks! [louder] My mother taught me everything by hand, no books needed. [nostalgically] Real cooking comes from the heart, from tradition, from watching and learning—not reading instructions like assembling furniture.
+
+Character 2: [defensive] Well, times change, and so do cooking methods. [Nervous chuckle] Besides, your son seems to enjoy my cooking just fine. [more firmly] He's never complained about my carrot-cutting technique before.
+
+44 Character 1: [sweetly venomous] Oh, sweetheart, men never complain to their wives about food. [Soft tsk] They just quietly miss their mother's cooking. [whispered] Haven't you noticed how excited he gets when I bring dinner over?
+
+Character 2: [strained cheerfulness] Actually, he mentioned last week that my pot roast was better than—[catching herself] well, better than anything he'd had before. [Deep breath] Should we check on the potatoes? They might be burning.
+
+45 Character 1: [incredulous] Burning? [Scoff] I set the timer myself, there's still twelve minutes. [lecturing tone] You can't rush good food, dear. Patience is what separates mediocre cooks from exceptional ones, you know.
+
+Character 2: [muttering] Right, patience. [Louder, brittle] Speaking of which, maybe you'd be more comfortable supervising from the living room? [overly sweet] I wouldn't want you standing too long—must be tiring at your age.
+
+46 Character 1: [offended gasp] My age? [Indignant] I'll have you know I cooked Thanksgiving dinner for twenty people last year, all by myself! [triumphantly] Standing for eight hours straight without a single complaint or burnt dish!
+
+Character 2: [apologetic rush] I didn't mean—of course you're very capable. [Frustrated sigh] It's just getting crowded in here with both of us. [measured words] Maybe we should divide tasks instead of hovering over each other?
+
+47 Character 1: [suspicious] Hovering? [Hurt tone] I'm trying to help you learn, to pass down family recipes. [getting emotional] These are traditions that have been in our family for generations, precious memories in every ingredient!
+
+Character 2: [guilt-ridden] Look, I understand that, I really do. [Exhale] But constantly correcting me isn't teaching—it's criticizing. [pleading] Can't we just cook together without turning it into a competition about who knows best?
+
+48 Character 1: [wounded] Competition? [voice breaking] Is that what you think this is? [Bitter laugh] I'm just trying to ensure my grandchildren grow up knowing their heritage, their family's flavors, not just whatever's trending online!
+
+Character 2: [exhausted] Your grandchildren aren't even born yet! [Hysterical giggle] We're literally cooking dinner for three people, not preserving cultural artifacts! [softer] Can we please just finish this meal without a dissertation on tradition?
+
+49 Character 1: [cold silence] Fine. [Clipped words] Do it your way then. [dramatically resigned] I'll just stand here quietly and watch you massacre that beautiful roast with your "rough cuts" and modern techniques.
+
+Character 2: [sarcastically sweet] Thank you, that's very generous. [Under breath] And here I thought silence was too much to hope for. [Brighter] Oh look, the timer's going off—shall I get the potatoes?
+
+50 Character 1: [frantically] Wait, use the mitt on the left! [Gasping] Not that one—it has a hole! [exasperated groan] See, this is why I need to supervise. You almost burned yourself right there!
+
+Character 2: [through gritted teeth] The mitt is fine, there's no hole. [Controlled breathing] I use it every day without incident. [rising pitch] But thank you for your constant vigilance over my apparently dangerous kitchen habits!
+
+51 Character 1: [righteously] Someone needs to watch out for you, clearly. [Sniff] My son works so hard, the least you could do is learn proper kitchen safety. [pointed pause] A good wife protects her hands for her family.
+
+Character 2: [barely contained rage] You're absolutely right. [Fake brightness] In fact, why don't you take over completely? [walking away] I'll go set the table—with the good china, of course—while you finish everything perfectly.
+
+============================================================
+
+ITEMS 52-56 - CS ALPHANUMERIC (169 words)
+
+Script: ed1a06a7
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [frustrated] My RoboVac 3000X keeps, uh, mapping my bathroom as the kitchen. [sighs heavily] It tried to vacuum around a toilet it thinks is a dining table! [bewildered] My account number is AC-78942-K if that helps somehow.
+
+52 Customer Support: [cheerfully] Thank you for contacting RoboVac support! I see your device serial number RV3X-889214 in our system. This mapping confusion happens sometimes when—well—reflective surfaces like mirrors interfere with the sensors.
+
+Character 1: [exasperated] But there's no mirror in my bathroom! [groans] Yesterday it sent me a notification saying it cleaned 1,247 square feet, but [incredulous] my entire apartment is only 650!
+
+53 Customer Support: Oh dear, that's quite the discrepancy. Could you please check if firmware version 4.2.1 is installed? You'll find it under Settings, then About, then scroll down to—actually, there should be eight digits there.
+
+Character 1: [muttering] Let me see... okay, it says version 4.1.9-beta. [confused] Wait, beta? [more loudly] Nobody told me I was testing experimental software on my floors!
+
+54 Customer Support: Ah, the beta version, yes. That shouldn't have been pushed to consumer units. Let me escalate this to ticket number TK-20241108-5543, and we'll need to roll back your firmware immediately.
+
+Character 1: [sarcastically] Great, so my vacuum's having an identity crisis. [sighs] It also keeps trying to clean the same corner at 422 Maple Street—[suddenly louder] which isn't even my address! I live at 244!
+
+55 Customer Support: That's... highly unusual. [thoughtfully] The GPS module might be experiencing interference. Please power cycle the unit by holding the home button for exactly 15 seconds, not 14, not 16.
+
+Character 1: [resigned] Fine, I'm doing it now. [pause] [hopefully] Oh wait, it's showing a new map! [disappointed] Never mind, it just labeled my bedroom as "Garage Bay 3" somehow.
+
+56 Customer Support: I'm terribly sorry about this experience. I'm authorizing a replacement unit, reference code RPL-99087-DELTA. Your new RoboVac should arrive within 3-5 business days to your registered address.
+
+============================================================
+
+ITEMS 57-66 - CS NO-ALPHANUMERIC (288 words)
+
+Script: aa1a2eb0
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [frustrated] My apartment's been freezing for three days straight. [louder] The thermostat says 52 degrees! [groans] I've been sleeping in my winter coat, and I'm just... this is unacceptable.
+
+57 Customer Support: Oh wow, 52 degrees is definitely not okay. I'll need to check our maintenance log real quick—um, what's your apartment number? We'll get someone up there today.
+
+Character 1: [exasperated] 4B, like I told you yesterday when I called. [sighs heavily] Nobody came then either. [sarcastically] My fingers are literally turning blue while we're having this conversation.
+
+58 Customer Support: I don't see any record of—wait, here it is. Look, the boiler's been acting up, but our tech should've already... let me make some calls right now.
+
+Character 1: [angrily] The boiler's been "acting up" since October! [more desperately] I pay fifteen hundred a month for this place. [quieter] Can't you just... fix it properly for once?
+
+59 Customer Support: I hear you, I really do. The repair crew's actually on-site today—they're in building C right now. I'll redirect them to your unit within the hour.
+
+Character 1: [skeptically] Within the hour, like yesterday's "within the hour"? [chuckles bitterly] I've heard this song before. [firmly] I need something in writing this time, some guarantee.
+
+60 Customer Support: I'm texting you a work order confirmation right... now. Should be hitting your phone any second. And hey, I'll personally follow up if they're not there by noon.
+
+Character 1: [slightly calmer] Okay, I got it—work order 5847. [sighs] But if nobody shows up... [more forcefully] I'm calling the housing department and withholding rent, I swear.
+
+61 Customer Support: No need for that—seriously! I'm literally walking to building B myself right now to check. You have my direct number, right? Text me if they're even five minutes late.
+
+Character 1: [doubtfully] You're actually coming here yourself? [pause] [surprised] That's... different. [more hopefully] Maybe something will actually happen this time then.
+
+62 Customer Support: Already in your lobby—took the stairs. The tech's van just pulled up outside too. Told you I'd handle this personally today.
+
+Character 1: [relieved] I can hear footsteps in the hallway now. [gratefully] Thank god, finally. [more quietly] Sorry for getting so heated earlier, I'm just... frozen and frustrated.
+
+63 Customer Support: Hey, three days without heat in December? [warmly] I'd be furious too. The tech should knock any second—tall guy, name's Marcus.
+
+Character 1: [excited] He's here, he's actually here! [louder] And he's got actual tools, not just excuses. [sighs with relief] This better be the permanent fix though.
+
+64 Customer Support: Marcus is our best—he'll sort it out. He's replacing the valve, not just patching it. Should have heat within twenty minutes, thirty tops.
+
+Character 1: [hopefully] Twenty minutes sounds like heaven right now. [chuckles] I might actually take off this coat tonight. [more seriously] You'll make sure this doesn't happen again, right?
+
+65 Customer Support: Already scheduled monthly boiler maintenance going forward. Plus, I'm putting your unit on priority status in our system. [reassuringly] Next time—if there is one—we respond immediately.
+
+Character 1: [appreciatively] The heat's actually kicking in—I can hear the radiator! [emotionally] It's like... Christmas morning or something. [laughs] Sixty-eight degrees and climbing!
+
+66 Customer Support: That's what I like to hear! I'll check back tomorrow morning just to be sure. [warmly] Stay warm, and again, really sorry about the wait.
+
+============================================================
+
+ITEM 67 - BASIC SCENARIO (18 words)
+
+============================================================
+
+67 [Sad] I don't—I don't understand, you said the tests were just routine, right? [Slow] This can't be happening.
+
+============================================================
+
+ITEM 68 - BASIC SCENARIO (19 words)
+
+============================================================
+
+68 [Angry] No, no, you've gotta be looking at someone else's results because I feel completely fine! [Fast] Check again!
+
+============================================================
+
+ITEM 69 - BASIC SCENARIO (17 words)
+
+============================================================
+
+69 [Whisper] Um, should I... should I call my wife now or wait until I get home? [Sigh]
+
+============================================================
+
+ITEM 70 - BASIC SCENARIO (15 words)
+
+============================================================
+
+70 [Disappointed] [Slow] So all those years of eating kale and running marathons were just—what, pointless?
+
+============================================================
+
+ITEM 71 - BASIC SCENARIO (18 words)
+
+============================================================
+
+71 [Happy] Wait, you're joking, right? [Laugh] This is like one of those hidden camera things my kids watch!
+
+============================================================
+
+ITEM 72 - BASIC SCENARIO (18 words)
+
+============================================================
+
+72 [Fast] Okay so how long do I have to—actually, don't answer that yet, I need a minute. [Groan]
+
+============================================================
+
+ITEM 73 - BASIC SCENARIO (14 words)
+
+============================================================
+
+73 [Sarcastic] Oh great, perfect timing, really, 'cause I just booked a non-refundable cruise. [Tsk]
+
+============================================================
+
+ITEM 74 - BASIC SCENARIO (16 words)
+
+============================================================
+
+74 [Sad] My mom went through this same thing and she, um... [Whisper] she didn't make it.
+
+============================================================
+
+ITEM 75 - BASIC SCENARIO (12 words)
+
+============================================================
+
+75 [Shout] I want a second opinion! [Angry] I want three opinions, actually!
+
+============================================================
+
+ITEM 76 - BASIC SCENARIO (19 words)
+
+============================================================
+
+76 [Slow] Can you just, like, explain it again but use smaller words this time? [Disappointed] I'm kinda lost here.
+
+============================================================
+
+ITEM 77 - BASIC SCENARIO (18 words)
+
+============================================================
+
+77 [Chuckle] You know what's funny? [Sarcastic] I literally just paid off my student loans yesterday—thirty years of payments.
+
+============================================================
+
+ITEM 78 - BASIC SCENARIO (19 words)
+
+============================================================
+
+78 [Fast] [Whisper] Is this the kind of thing where I gotta quit my job or can I still work?
+
+============================================================
+
+ITEM 79 - BASIC SCENARIO (18 words)
+
+============================================================
+
+79 [Sad] I promised my daughter I'd walk her down the aisle and she's not even engaged yet. [Sigh]
+
+============================================================
+
+ITEM 80 - BASIC SCENARIO (15 words)
+
+============================================================
+
+80 [Angry] This is—no, I'm gonna sue somebody, the insurance company or whoever missed this! [Groan]
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (20 words)
+
+============================================================
+
+81 [Happy] Honestly? [Chuckle] Part of me is relieved 'cause at least now I know why I've been feeling so weird.
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (14 words)
+
+============================================================
+
+82 [Slow] [Disappointed] So basically you're telling me Christmas might be... different this year, huh?
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (19 words)
+
+============================================================
+
+83 [Whisper] I haven't even told my kids about the divorce yet and now there's—God, this is too much. [Tsk]
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (23 words)
+
+============================================================
+
+84 [Sarcastic] [Fast] Sure, sure, let's just pile it all on at once, why not throw in a meteor strike while we're at it?
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (21 words)
+
+============================================================
+
+85 [Sad] But Doctor, I just turned thirty, I mean, this isn't supposed to happen to people like—to people my age. [Slow]
+
+============================================================
+
+ITEM 86 - BASIC SCENARIO (21 words)
+
+============================================================
+
+86 [Shout] Don't touch me! [Angry] [Fast] I need to get out of here, I can't breathe in this stupid little room!
+
+============================================================
+
+ITEM 87 - MONOLOGUE (307 words)
+
+Source: 66f43c8a
+
+============================================================
+
+SCENARIO: Casually talking about a credit card they haven't used in a while, then checking the balance, then finding charges they didn't make, spiraling into identity theft panic
+
+==================================================
+
+[casual]
+
+Oh, you know what's funny? I was cleaning out my wallet earlier and I found that old Capital One card I got like two years ago. You know, the one with the cash back rewards? [light laugh] I completely forgot I even had it.
+
+[conversational]
+
+I think I used it maybe three times when I first got it, then just... never again. It's been sitting there collecting dust while I use my main card for everything. I should probably just cancel it, honestly.
+
+[matter-of-fact]
+
+But then I figured, you know what, let me just check the balance first. Make sure it's actually at zero before I call them. So I'm logging into the app and—
+
+[confused]
+
+Wait, that's... that can't be right. It's showing a balance of like four hundred dollars? But I haven't used this thing in months. Maybe it's some old charge that finally posted or something weird with—
+
+[more concerned]
+
+Hold on, hold on. [sharp exhale] There are charges here from last week. Multiple charges. Starbucks, some gas station, something called "Digital Media Purchase"... What the hell?
+
+[panic building]
+
+Oh my god. Oh my god, someone has my card information! How is this even possible? I have the physical card right here! [voice shaking] Someone cloned it or— or they got my numbers somehow and they're just— they're out there buying stuff!
+
+[spiraling] [frantic]
+
+This is identity theft! What if they have more than just this card? What if they have my social security number? My address? [hyperventilating] I need to call the bank right now, I need to freeze everything, I need to— [panicked] Oh god, what else do they have access to?
+

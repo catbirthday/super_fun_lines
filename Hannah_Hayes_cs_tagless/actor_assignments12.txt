@@ -1,0 +1,277 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 200c9a4d_script | Role: Character 2 (B)
+
+Character 1: So you're just gonna keep doing this?
+
+964 Character 2: Doing—doing what? I literally don't know what you're talking about. You've been weird with me all week and now you're acting like I'm supposed to read your mind or something.
+
+Character 1: The comments. The little jabs. Acting like everything's fine when it's not.
+
+965 Character 2: Okay, wait wait wait. [scoff] You're seriously gonna call ME out for not being direct? That's—wow, that's rich coming from you. You've been giving me the silent treatment for days.
+
+Character 1: At least I'm not pretending.
+
+966 Character 2: I'm not—ugh, I'm not pretending anything! Maybe I made a couple comments, fine, but it's kinda hard to talk to you when you shut down every conversation before it even starts, y'know?
+
+Character 1: Just say what you mean. Stop with the passive aggressive bullshit.
+
+967 Character 2: Oh, like you do? When have you ever—honestly, when have you ever just come out and said what's bothering you? [frustrated laugh] Instead of making me guess what I did wrong this time?
+
+Character 1: This time? Really?
+
+968 Character 2: That's not—okay okay, that came out wrong. But I mean, come on, you gotta admit you don't exactly make it easy to have real conversations about stuff.
+
+Character 1: Neither do you.
+
+969 Character 2: Maybe not, but at least I try to—look, I'm sorry if some things I said came off wrong, alright? But I dunno how else to deal with it when you won't actually talk to me.
+
+Character 1: You could try being honest. Novel concept.
+
+970 Character 2: I am being—[sigh] Fine. You wanna know what's honest? I'm frustrated. I'm frustrated that you expect me to be perfectly direct when you literally ice me out the second something goes wrong.
+
+Character 1: So you get passive aggressive instead.
+
+971 Character 2: Yeah, maybe I do! Because what else am I supposed to—you don't give me any other option. It's like, either I pretend nothing's wrong or I'm the bad guy for trying to bring it up sideways.
+
+Character 1: There's a third option. Use your words.
+
+972 Character 2: Okay but—that's exactly what I'm trying to tell you. I don't know HOW to just say it outright. That's not—some of us weren't raised that way, y'know? It feels confrontational and scary and—whatever, you wouldn't get it.
+
+Character 1: Try me.
+
+973 Character 2: I just... I guess I'm disappointed that we can't seem to—that neither of us can figure out how to actually communicate. And yeah, I'm sorry for being passive aggressive, I am, but I need you to meet me halfway here.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+974 SCENARIO: waiting for test results online
+
+==================================================
+
+[muttering]
+
+Okay, so, um, they said it would be up by— by five, right? Or was it— wait, what time is it now? [sigh] Four thirty-seven. So, um, so I still have like twenty minutes, but maybe they posted it early? They do that sometimes, right?
+
+[slightly anxious]
+
+Let me just— let me just refresh this page one more time. I mean, I literally just checked it, like, two minutes ago, but maybe— [tsk] nope. Still says "results pending." Which is, uh, which is fine, that's totally fine.
+
+[faster]
+
+But like, what if— what if something went wrong with my, um, with my submission? What if they didn't get it properly and now I have to— no, no wait, that's not— that's not how this works. I got the confirmation email, so—
+
+[rambling]
+
+I should probably just, um, I should probably close the laptop and go do something else. Make some tea or whatever. But what if they post it right after I close it? Then I'll just be sitting there not knowing when I could be— [groan]
+
+[resigned]
+
+Okay, okay. I'm gonna refresh it one more time and then I'm— yep, still pending. Cool. I'll just, uh, I'll just check again in like... five minutes.
+
+--- CONVERSATION ---
+
+Script: 6635853a | Role: Character 1 (A)
+
+975 Character 1: [panicked] Did you get the alert? [voice rising] They're saying the school's on lockdown! [Sharp intake of breath] I can't reach Emma's teacher—the phones must be jammed or something. This can't be happening right now.
+
+Character 2: [trembling] Oh my God, yes! [faster speaking] Marcus is in there too—second grade classroom by the parking lot. [voice cracking] They're not saying why it's happening. Should we drive there? What are we supposed to do?
+
+976 Character 1: [forcefully] I'm already in my car! [shaky breath] The Facebook parent group is going crazy but nobody knows anything real. [quieter] What if it's... you know... [trailing off] I can't even think about it right now.
+
+Character 2: [desperate whisper] Don't say it, please don't say it. [Sobbing breath] The police scanner app isn't showing anything yet. [louder] My husband's trying to call the principal but nobody's answering anywhere. This waiting is killing me.
+
+977 Character 1: [barely audible] They did that drill last month, remember? [more steadily] The kids know to hide in the reading corner. [voice breaking] Emma was so scared after that drill—said her stomach hurt for days. God, she must be terrified.
+
+Character 2: [angry shout] Why aren't they telling us anything?! [Gasping] It's been fifteen minutes already! [low and tense] I'm two blocks away but they've got the whole street blocked off. There's police cars everywhere—this is really bad.
+
+978 Character 1: [quivering] I see them too—counting at least eight patrol cars from here. [steadier] Wait, someone's posting that it might be a false alarm? [hopeful rise] Something about a suspicious person but no weapon seen? Is that real?
+
+Character 2: [frantic] Where did you see that? [demanding] Show me your phone! [Shuddering breath] I can't handle this not knowing—Marcus has anxiety already and this is going to mess him up. [weakly] I feel like I'm going to throw up.
+
+979 Character 1: [gentle tone] Hey, breathe with me, okay? [more firmly] Our kids are strong and the teachers are trained. [reassuring] Look—the news van just got here, so maybe we'll get real information soon instead of all these rumors.
+
+Character 2: [bitter laugh] The news? [sarcastically] Great, now it's a spectacle. [voice dropping] You know what Marcus asked me yesterday? If bad guys could get into schools. [Choked sob] I told him no, schools are safe places.
+
+980 Character 1: [defensive] You told him the right thing! [softer] Schools ARE safe—this is probably nothing. [strained] Remember last year's lockdown at Jefferson? [more hopefully] Turned out someone just saw a maintenance worker they didn't recognize carrying tools.
+
+Character 2: [exhausted] You're right, you're right. [Shaky exhale] I'm trying to stay calm but my whole body is shaking. [firmly] After this is over, I'm homeschooling. I can't do this again. I just can't.
+
+981 Character 1: [urgently] Wait, look at your phone! [excited] The district just sent another alert! [reading slowly] "Lockdown lifted—all students and staff are safe." [Relieved sob] Oh thank God, thank God! They're safe! Our babies are safe!
+
+Character 2: [screaming] Are you serious?! [crying] Let me see! [breathlessly] "Parents can pick up children at the community center for reunification." [laughing through tears] I've never been so happy to read a text message in my entire life!
+
+982 Character 1: [determined] Come on, let's go together! [rushed words] We'll take my van—it's bigger and I'm parked closer. [warmly] I want to hug Emma so tight she complains. I'm never letting her out of my sight again.
+
+Character 2: [gratefully] Yes, please, I can't drive like this. [Sniffling] My legs feel like jelly. [stronger] You know what? Our kids are going to need ice cream after this. [tender voice] Lots and lots of ice cream and cuddles.
+
+983 Character 1: [laughing weakly] Ice cream for dinner, even. [serious tone] And we're going to have to talk to them about this. [sighing deeply] How do you even explain this to a seven-year-old? The world is so messed up sometimes.
+
+Character 2: [quietly] One day at a time, right? [more confident] We'll figure it out together—maybe get them some counseling if they need it. [thoughtfully] The school better send resources home. They owe us that much after this nightmare.
+
+984 Character 1: [firmly] Absolutely. [getting louder] And I want answers about what actually happened! [controlled anger] This better not have been some stupid false alarm because someone got spooked. [softer] Our kids don't deserve this trauma for nothing.
+
+Character 2: [wearily] Look, there's the community center. [voice lifting] I can see parents running in already! [emotional] In about two minutes, we're going to be holding our kids. [breaking down] That's all that matters right now—everything else can wait.
+
+--- CS ALPHANUMERIC ---
+
+Script: ff5447c8 | Role: Customer Support
+
+Character 1: [furious] My entire family got sick on your ship—cabin B-2847! [voice shaking] Twenty-three people throwing up, and your staff just... just handed us towels. [disgusted groan] This is unacceptable!
+
+985 Customer Support: I'm so sorry to hear about your experience, Mr...? If you could provide your booking reference—it should start with RCL or NCL—I can pull up your reservation immediately.
+
+Character 1: [shouting] Peterson! James Peterson, booking NCL-4439-TX! [sarcastically] Oh, and my mother, she's 78, spent three days in the medical center at $450 per day. [bitter laugh] Some vacation!
+
+986 Customer Support: Mr. Peterson, I see your reservation here for the March 15th sailing. According to our records, we did have a gastrointestinal situation affecting approximately 2.3% of passengers. [carefully] Were medical forms filed?
+
+Character 1: [incredulous] Two point three percent?! [voice rising] There were literally—LITERALLY—lines outside every bathroom on Deck 7! [frustrated sigh] My receipt numbers are MED-78904 through MED-78911!
+
+987 Customer Support: I understand your frustration completely. Our protocol requires us to report when cases exceed 3% to the CDC at 1-800-CDC-INFO. We can certainly discuss compensation options.
+
+Character 1: [mockingly] Compensation? You gave us 15% off a future cruise! [angry laugh] Like we'd EVER sail with you again after this nightmare at sea! [louder] Fifteen percent is insulting!
+
+988 Customer Support: Mr. Peterson, I can escalate this to our Guest Relations Manager. Would you prefer a refund to your original payment method ending in 4782, or... or perhaps onboard credit totaling $2,500?
+
+Character 1: [slightly calmer] The full cruise was $8,400 for three cabins. [firmly] We want at least 75% back—that's, what, $6,300? [exhausted sigh] Plus the medical bills, obviously.
+
+989 Customer Support: Let me review case number GR-2024-88453 with my supervisor. I can authorize up to 50% immediately—$4,200—plus full medical reimbursement. Would that be acceptable?
+
+Character 1: [considering] That's... that's better, but still not enough. [more demanding] We missed two ports—Nassau and Half Moon Cay—because of the quarantine! [frustrated] Those excursions alone cost $1,800!
+
+990 Customer Support: [understanding] Absolutely, the port excursions should be refunded separately through Shore-Ex department. I'm adding note EX-REFUND-PRIORITY to your file now. They'll process within 7-10 business days.
+
+Character 1: [skeptically] And what about the trauma? My kids, ages 9 and 11, they're terrified of boats now! [voice breaking] Do you know what it's like seeing your family that sick? [heavy sigh]
+
+991 Customer Support: [empathetically] As a parent myself, I truly understand, Mr. Peterson. While I can't put a price on that experience, I can offer our Executive Response package—65% refund plus $1,000 future cruise credit.
+
+Character 1: [grudgingly] Sixty-five percent... that's $5,460, right? [calculating] Plus the medical, plus excursions... [sighs] Fine, but I want it in writing to jpetersonTX@email.com within 24 hours.
+
+992 Customer Support: Excellent, I'll send the agreement to that email immediately. [professionally] Your confirmation number is EXEC-COMP-77234-B. [warmly] Is there anything else I can help resolve today, Mr. Peterson?
+
+Character 1: [exhausted] Just... make sure this doesn't happen to other families. [quietly] Room B-2847 still had stains when we checked in—maybe that's where it started. [resigned sigh] We took photos.
+
+993 Customer Support: [concerned] That's extremely valuable information, thank you. I'm forwarding this to our Health Services at health.report@cruiseline.com immediately. Photos can be uploaded to case number HS-9982-REVIEW.
+
+Character 1: [slightly appeased] Alright, I'll... I'll send them today. [tiredly] The check goes to 4429 Oceanview Drive, Houston, TX 77024, correct? [muttering] Want this nightmare over with.
+
+994 Customer Support: That's correct, 4429 Oceanview Drive, Houston, 77024. Mr. Peterson, you'll receive everything within 14 days, and my direct line is 1-888-555-7823 extension 445. Again, our deepest apologies.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 2268518a | Role: Customer Support
+
+995 Customer Support: Good afternoon, thank you for calling Premium Insurance Solutions. My name is Sandra, and I'll be assisting you today with your claim. Can I have your claim number and policy details, please?
+
+Character 1: [irritated] Yeah, it's claim 47B-2093, and I've been waiting [louder] three weeks now! [exasperated sigh] Nobody seems to know what's happening with my car damage claim, and I'm—I'm honestly at my wit's end here.
+
+996 Customer Support: I completely understand your frustration, Mr... [pause] let me just pull that up. Johnson, right? [reassuringly] I see here your claim was submitted on the fifteenth, and it appears to be in our review department still.
+
+Character 1: [sarcastically] Oh, still in review, how wonderful! [more angrily] Do you people understand that I can't drive to work? [groans] My neighbor's been giving me rides, and it's getting really, really awkward at this point.
+
+997 Customer Support: I can definitely see why that would be difficult. Let me check with—actually, I'm seeing a note here. Your adjuster attempted to contact you twice last week but couldn't reach you?
+
+Character 1: [defensively] What? No, that's impossible! [frustrated] I've had my phone on me constantly, waiting for you guys. [more loudly] Unless they called some ancient number from like, I don't know, 2015 or something ridiculous.
+
+998 Customer Support: The number we have on file ends in 3847. Is that still current? Because if not, that would explain the disconnect, and we can update it right away to expedite everything.
+
+Character 1: [shocked] 3847? [groans loudly] That's my old work number! [exasperated] I updated this months ago when I renewed my policy—how do you not have the right number? This is absolutely unbelievable.
+
+999 Customer Support: I'm so sorry about that confusion. Let me update that immediately—what's the best number? I'll also flag this for priority review, and personally ensure the adjuster calls you within twenty-four hours.
+
+Character 1: [resigned] It's 555-9821. [more firmly] And please, please make sure someone actually calls this time. [sighs] I've already paid my deductible, and my rental coverage expired yesterday, so I'm basically stranded.
+
+1000 Customer Support: Got it, 555-9821, updating now. About the rental coverage—let me see what I can do. [briskly] Sometimes we can extend it in cases where there's been a communication error on our end.
+
+Character 1: [hopefully] Really? That would be—that would help enormously. [more urgently] Can you also tell me honestly, how much longer? [frustrated chuckle] Because "in review" doesn't really tell me if we're talking days or weeks here.
+
+1001 Customer Support: Based on what I'm seeing, and with the priority flag I'm adding... you should hear from adjuster Williams by tomorrow afternoon. The actual payout, once approved, typically takes three to five business days after that.
+
+Character 1: [skeptically] Tomorrow afternoon, you're sure? [more firmly] Because I've heard promises before from your company. [sighs] I just need my car fixed so I can get back to my normal life, you know?
+
+1002 Customer Support: I'm putting a personal note in the system right now. If Williams doesn't call by 3 PM tomorrow, I want you to call back and ask for me directly—Sandra, extension 4021. We'll get this sorted.
+
+Character 1: [relieved] Okay, Sandra, extension 4021. [more calmly] I'm writing that down. [pause] Thank you for actually listening and not just reading from some script like the last three people I talked to.
+
+1003 Customer Support: [warmly] Of course, Mr. Johnson. I've also sent you an email confirmation with all these details and your updated contact info. Is there anything else I can help clarify about the claim process today?
+
+Character 1: [thoughtfully] Well, actually, yes—when they do approve it... [more quickly] do I have to use your approved shops, or can I take it to my own mechanic? [concerned] Because I have a guy I trust, and I'd rather use him.
+
+1004 Customer Support: [quickly] You can absolutely use your own mechanic. You'll just need to submit the estimate for approval first, but that usually only takes a day. I'll make a note about your preference in the file right now.
+
+Character 1: [appreciatively] Alright, that's—that's actually really helpful. [more sincerely] Thanks, Sandra, you've been more useful in five minutes than... [chuckles] well, than the last three weeks combined. [firmly] I'll be waiting for that call tomorrow.
+
+--- BASIC SCENARIOS ---
+
+1005 [Disappointed] Wait, wait, wait—I'm patting all my pockets and it's just... it's not here. [Sigh] I literally had it this morning.
+
+1006 [Fast] Oh god, um, do you take Venmo or like—actually, can someone spot me? [Nervous laugh] This is so embarrassing.
+
+1007 [Angry] Are you kidding me right now? [Groan] I drove all the way here and I gotta go back for a stupid piece of leather?
+
+1008 [Whisper] Hey, psst—I kinda need you to, uh, cover this for me. [Fast] I'll pay you back, I swear.
+
+1009 [Sarcastic] Oh fantastic, really, this is just—this is exactly what I needed today. [Tsk] Perfect timing as always.
+
+1010 [Slow] You know what? I'm gonna take this as a sign from the universe that I shouldn't buy this. [Chuckle]
+
+1011 [Shout] No, no, NO! [Disappointed] I can't believe I—the one time I actually need cash!
+
+1012 [Happy] Honestly? Kind of relieved I can't impulse buy that jacket now. [Laugh] My bank account thanks me, I guess.
+
+1013 [Sad] I just, um... I really wanted to treat you to lunch for once, y'know? [Sigh] And now I can't even do that.
+
+1014 [Fast] [Angry] This is the third time this month—the THIRD time I've done this exact same thing!
+
+1015 [Whisper] [Slow] So, uh, funny story... remember when I said I had everything under control?
+
+1016 [Disappointed] I literally put it right by my keys so I wouldn't—but here we are. [Tsk] [Sigh] Classic me.
+
+1017 [Sarcastic] [Fast] Sure, let me just magically produce money from thin air, that's definitely how this works.
+
+1018 [Happy] Wait, actually—I think I left twenty bucks in my gym bag! [Fast] Hold on, lemme check the car!
+
+1019 [Shout] [Angry] I HAD IT! I literally—I remember putting it down when I grabbed my phone and then... nothing.
+
+1020 [Sad] [Slow] Great, now everyone's waiting on me and I'm just... I'm that person holding up the line.
+
+1021 [Chuckle] You wanna know something stupid? I have like four backup wallets at home—fat lot of good they're doing me. [Disappointed]
+
+1022 [Whisper] Don't make a big deal about it, but, um, I'm gonna need to borrow your card. [Fast] I'll Zelle you right now, okay?
+
+1023 [Sarcastic] [Slow] Oh this is rich—I lecture my kids about being responsible and look at me now.
+
+1024 [Happy] Actually, y'know what? Forget it—let's just go do something free instead. [Laugh] [Fast] When's the last time we just walked around the park anyway?
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1025 SCENARIO: Excited about a job offer, then worried about the commute, then finding out it's mostly remote
+
+==================================================
+
+[excited]
+
+Oh my God, okay, so you know that marketing position I interviewed for last week? They called me this morning and I got it! I got the job! [laugh] I literally screamed when they told me the salary—it's like fifteen thousand more than what I'm making now.
+
+[still excited but slightly worried]
+
+The only thing is, um, it's all the way downtown and I'd have to be there by eight-thirty every morning. That's like— that's gonna be at least an hour each way on the train, maybe longer if there's delays or whatever.
+
+[more worried]
+
+I was doing the math in my head and it's like, okay, two hours of commuting every day, that's ten hours a week, that's... [trailing off] God, that's a lot. Plus the train pass is gonna cost me like what, hundred and fifty a month?
+
+[conflicted]
+
+I mean the money's still good even with— even with all that, but I was just starting to think maybe I should—
+
+[surprised]
+
+Oh wait, hold on. The HR person is emailing me right now with all the details and— oh. Oh wow, okay this changes everything.
+
+[relieved] [excited again]
+
+She's saying the position is mostly remote! Like I only have to go in twice a week for meetings and stuff. [laugh] So much for my big commute crisis, I was literally about to stress myself out over nothing.

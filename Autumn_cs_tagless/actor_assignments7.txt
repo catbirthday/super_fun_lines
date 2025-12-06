@@ -1,0 +1,271 @@
+ACTOR LINE ASSIGNMENTS - 50 ITEMS (~1757 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1757 words (100.0%)
+
+  TOTAL                 :  1757 words
+
+============================================================
+
+============================================================
+
+ITEMS 316-325 - GENERAL TAGS (368 words)
+
+Script: 737d97bf_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+316 Character 1: [cheerfully] Oh, what a beautiful day today, isn't it? [slower pace] The sun's finally out after all that rain we had last week. [Deep breath] Reminds me of when my Harold and I used to walk in weather like this.
+
+Character 2: [hurried tone] Yeah, it's nice. [quietly] Did you find everything okay today? [more quickly] We're having a special on the canned goods in aisle three if you need anything else before I ring you up here.
+
+317 Character 1: [wistfully] Canned goods, yes. [Soft chuckle] I used to make the most wonderful casseroles, you know. [getting excited] Won three county fair ribbons back in my day! Do you cook much, dear? Young people nowadays seem so busy.
+
+Character 2: [politely rushed] Not really, no. [Nervous laugh] Mostly takeout for me. [speeding up] That'll be forty-seven fifty-three. Will that be cash or card today? I can help you with the chip reader if you need.
+
+318 Character 1: [disappointed] Oh, takeout. [brightening up] You should try my tuna surprise recipe sometime! [Long sigh] Though I suppose nobody wants recipes from old folks anymore. Let me just find my wallet here, I know it's somewhere.
+
+Character 2: [strained patience] Take your time. [under breath] Sort of. [louder] The card reader's ready whenever you are, just insert the chip end first and wait for the beep. There's usually a line but we're good.
+
+319 Character 1: [frustrated mumbling] These new machines are so complicated. [nostalgic tone] We used to just hand over cash and that was that! [Gentle laugh] Did I tell you my grandson works with computers? Such a smart boy, visits sometimes.
+
+Character 2: [mechanically pleasant] That's nice about your grandson. [more urgently] Just push the green button for credit. [Exhaled breath] No, the other green— there you go. Would you like your receipt with you or in the bag?
+
+320 Character 1: [rambling slowly] In the bag's fine, dear. [perking up] Say, you remind me of my neighbor's daughter. [warmly] Such a pretty girl, about your age. Are you married? [Hopeful giggle] I know a nice young man!
+
+Character 2: [awkwardly quick] Nope, not married, totally fine with that. [forcing cheer] Have a great day, ma'am! [trailing off] Next customer, please? I can help you over here at register two whenever you're ready to check out.
+
+321 Character 1: [lingering sadly] Well, alright then. [more slowly] I suppose I'll head home to my empty house. [Wistful sigh] Maybe I'll see you next week? Tuesday's when I usually shop, after my programs end at noon.
+
+Character 2: [guilty] Sure, maybe. [gentler] Tuesdays are busy but yeah. [Quick exhale] Drive safe out there, okay? The parking lot gets a little crazy this time of day with everyone getting off work and all.
+
+322 Character 1: [suddenly animated] Oh, speaking of driving! [worried tone] Did you hear about that accident on Maple Street? [Clicking tongue] Terrible thing, just terrible. My friend Dolores lives right there, she said the sirens went on for hours yesterday!
+
+Character 2: [increasingly desperate] I didn't hear about that. [firmly] Ma'am, I really need to help the next customer now. [softer] But I hope your friend is okay. There's someone waiting behind you with frozen items melting.
+
+323 Character 1: [oblivious] Frozen items! [delighted] That reminds me, I forgot ice cream! [slower] Harold loved vanilla, plain vanilla. Can you believe that? [Soft chuckle] Thirty-seven years of marriage and never once tried chocolate. Would you hold my bags?
+
+Character 2: [barely controlled] I can't hold them but— [speaking quickly] Customer service desk can watch them. [Loud sigh] It's right over there by the entrance. Just tell them Katie at register two sent you over, okay?
+
+324 Character 1: [gratefully] Katie! What a lovely name! [reminiscing] My middle name is Katherine. [thoughtfully slower] Named after my grandmother who came here from Poland in 1923. [Warm laugh] She made the most incredible pierogi, better than any store-bought.
+
+Character 2: [rapidly declining patience] That's really interesting. [more firmly] But seriously, I need to keep the line moving. [Professional tone] My manager's watching and I've got a performance review coming up this week. Please, ma'am. The customer service desk.
+
+325 Character 1: [hurt] Oh, of course, dear. [understanding] I didn't mean to be a bother. [Shaky breath] It's just nice to talk to someone. [quietly] The cat's not much for conversation these days, you understand.
+
+Character 2: [suddenly softer] I get it. [pause] Look, I'm here Tuesdays through Fridays. [genuinely] Come through my line whenever, okay? [Gentle exhale] Just maybe when it's less busy, like around two-thirty? Now please, your ice cream's waiting.
+
+============================================================
+
+ITEMS 326-335 - GENERAL TAGS (367 words)
+
+Script: 663d9593_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+326 Character 1: [through tears] Oh my God, Sarah, look at her! [voice breaking] She's absolutely radiant in that dress. [Soft sob] I can't believe our little Emma is getting married today—it feels like yesterday we were all in college together.
+
+Character 2: [quivering] I know, I know! [sniffling] The lace detail on the bodice is just perfect. [more emotionally] Remember when we went to twelve different shops? [Shaky breath] This was so worth every single exhausting moment of dress hunting.
+
+327 Character 1: [whispered awe] She looks like an actual princess. [louder, tearfully] Emma, you're going to make Jake cry when he sees you! [Hiccupping sob] My mascara is completely ruined and we haven't even gotten to the ceremony yet.
+
+Character 2: [laughing through tears] Mine's already streaking down my face! [more quietly] But seriously, that cathedral veil with the pearl edges? [voice cracking] Her grandmother would be so proud seeing her wear something so elegant and timeless today.
+
+328 Character 1: [nostalgic tone] We've been planning this day since we were fifteen. [increasingly emotional] Every sleepover, every dream board, every silly conversation about wedding colors. [Gasping breath] And now it's actually happening and I'm just so overwhelmed with joy.
+
+Character 2: [trembling whisper] Stop it, you're making me cry harder! [more steadily] The way the dress moves when she walks—like she's floating on clouds. [breaking down] I've never seen anything more beautiful than our best friend right now.
+
+329 Character 1: [dramatically] This is it, this is the moment! [softer, wobbly] Twenty years of friendship leading to this. [Loud sniffle] Someone needs to hand me more tissues before I flood this entire bridal suite with my happy tears.
+
+Character 2: [choked up] The photographer better be getting these moments! [more controlled] Our faces are probably all blotchy and red, but this is real emotion. [voice rising] Emma, you're the most stunning bride in the entire world, I swear!
+
+330 Character 1: [barely audible] Her mom is crying too—look at her face. [stronger, proudly] Three generations of women in this room, all sobbing over how perfect Emma looks. [Shuddering breath] This is what pure happiness feels like, isn't it?
+
+Character 2: [wistfully] When it's my turn, you both better cry this hard. [more firmly] But honestly, nothing will ever top this moment. [breaking again] Our trio, our sisterhood, everything we've been through together—it all led here.
+
+331 Character 1: [high-pitched] The train! Did you see how it spreads? [calming slightly] Like something from a royal wedding, I can't handle it. [Soft whimper] Jake is the luckiest man alive and he better know it forever.
+
+Character 2: [through sniffles] He does, trust me, he absolutely does. [more earnestly] Remember his face when he talked about proposing? [voice wavering] That boy worships the ground she walks on—they're perfect for each other, absolutely perfect.
+
+332 Character 1: [desperately] Someone needs to fix my makeup immediately! [laughing wetly] I look like a raccoon who went swimming. [more seriously] But I don't even care because our best friend is getting married and nothing else matters today.
+
+Character 2: [agreeing tearfully] We're all going to be disasters walking down that aisle! [more quietly] The guests will think we're at a funeral, not a wedding. [Choked laugh] But these are the happiest tears I've ever cried in my life.
+
+333 Character 1: [reverent whisper] She's glowing, literally glowing from happiness. [building emotion] The dress, the veil, the shoes—everything we dreamed about. [Sobbing] But it's her smile that's making me lose it completely; she's never looked happier.
+
+Character 2: [steadying breath] Okay, we need to pull ourselves together soon. [more urgently] The ceremony starts in thirty minutes! [cracking again] But first, just one more minute to admire our beautiful bride before we share her with everyone.
+
+334 Character 1: [determined] You're right, deep breaths, we can do this. [wavering] We're her bridesmaids, we have jobs to do! [Soft cry] But after the ceremony, I'm going to sob through the entire reception, fair warning to everyone.
+
+Character 2: [joyfully] Let them see us cry! [more intensely] This is what love looks like—messy, emotional, and absolutely beautiful. [trembling] Emma deserves every happy tear, every joyful sob, every single overwhelming moment of today's celebration.
+
+335 Character 1: [quietly profound] This dress isn't just fabric and lace. [building up] It's every dream, every hope, every prayer we've had for her happiness. [Shaky exhale] And seeing her wear it is watching all those wishes finally come true.
+
+Character 2: [final whisper] Come here, group hug before we go. [stronger, triumphant] The three musketeers, together forever, no matter what. [breaking completely] I love you both so much, and this is the most perfect day in the entire world!
+
+============================================================
+
+ITEMS 336-345 - GENERAL TAGS (310 words)
+
+Script: bcc6d290_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+336 Character 1: [trembling voice] Oh Martha, listen to them! [Sniffling] Their little voices singing together like that—it's just too precious. [quieter] Remember when we used to dream about days like this?
+
+Character 2: [through tears] I know, Helen. [shaky breath] Look at my grandson's face, so serious about getting the words right! [warmer tone] And your granddaughter conducting them like she's leading an orchestra.
+
+337 Character 1: [Laughing sob] She gets that from her mother! [nostalgic whisper] Sixty-five years we've been alive, and nothing—absolutely nothing—beats this moment. [voice breaking] My heart feels like it might burst from all this joy.
+
+Character 2: [soft and wobbly] The cake they made is lopsided, [Gentle chuckle], frosting everywhere. [more emotionally] But it's the most beautiful cake I've ever seen because their tiny hands made it with such love.
+
+338 Character 1: [high pitched] Wait, are they doing harmonies now? [Gasping breath] Martha, they practiced harmonies for us! [cracking voice] I can't handle this—pass me another tissue before I completely fall apart here.
+
+Character 2: [whispered awe] They must have rehearsed for weeks. [stronger] Your son just told me they wanted it perfect for their "special grandmas." [Soft sob] How did we get so lucky to have these angels?
+
+339 Character 1: [rapidly speaking] Remember our birthdays as kids? [slower, sadder] Just a simple cake if we were lucky. [brightening up] Now look—we're queens for a day, and our grandchildren are our royal choir!
+
+Character 2: [thick with emotion] Every wrinkle, every gray hair, [Shuddering breath], every ache was worth it to reach this day. [steadier] These babies are singing their hearts out like we're the most important people alive.
+
+340 Character 1: [barely audible] Oh no, here comes the big finish. [building volume] They're getting louder and—Martha, [Weeping laugh] Tommy just shouted "happy birthday" at the top of his lungs! That precious boy!
+
+Character 2: [choked up] And there's Sarah doing her little curtsy! [more controlled] We should probably stop crying before we scare them. [breaking again] But how can we when they're being so absolutely perfect right now?
+
+341 Character 1: [determined tone] Let them see us cry happy tears. [gentler] It's good for children to know they can bring such joy. [voice wavering] Oh Martha, they're running over for hugs—brace yourself!
+
+Character 2: [joyful shriek] Here they come! [laughing] Like a stampede of love heading straight for us. [tenderly] Sixty-five never felt so young as when these little arms wrap around us tight.
+
+342 Character 1: [muffled voice] Best birthday ever, don't you think? [Hiccupping laugh] Even better than when Harold proposed at my twenty-first! [dreamily] These grandbabies have given us something no gift could ever match today.
+
+Character 2: [firmly] Nothing compares to this. [quieting down] Not the cruise, not the jewelry over the years. [passionate whisper] Just their voices, their effort, their pure love singing happy birthday to two old ladies.
+
+343 Character 1: [mock scolding] Old ladies? [brighter] Speak for yourself—we're vintage! [Snorting laugh] But yes, Martha, this tops everything, even that surprise party the kids threw us five years ago downtown.
+
+Character 2: [reflective tone] You know what Helen? [building enthusiasm] We should record them next year, capture these precious voices before they change. [softer] Although nothing could capture how full my heart feels right now.
+
+344 Character 1: [excited squeal] Oh, they want us to blow out candles together! [nervous giggle] At our age, we might need their help! [warmly] Come here, sweet ones, help your grandmas make a wish.
+
+Character 2: [contemplative] What could we possibly wish for? [Contented sigh] We have everything right here in this room. [more animated] These grandchildren, this friendship, this perfect moment that I'll treasure forever and always.
+
+345 Character 1: [instructing gently] On three, everyone! [louder] One, two— [Whooping] Wait, little Emma's already blowing! [chuckling] Let her have her moment; there's enough magic in this day for all of us.
+
+Character 2: [peacefully] Look at them clapping and cheering. [voice thick] Helen, promise me something—we'll make it to seventy so we can do this again. [stronger] These babies deserve many more years of their grandmas.
+
+============================================================
+
+ITEMS 346-355 - GENERAL TAGS (367 words)
+
+Script: a2c16cf1_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+346 Character 1: [nervously] Oh my god, Rachel? [higher pitch] Is that really you? [Clearing throat] I almost didn't recognize you in that designer dress—you look incredible! How long has it been, like three years since graduation?
+
+Character 2: [warmly] Alex! [Excited squeal] It's been forever! [in a softer tone] Yeah, about three years sounds right. You look great too! Are you here for the bride or groom's side? I'm Sarah's colleague from the firm.
+
+347 Character 1: [hesitant] Bride's side—Sarah and I were roommates sophomore year. [quieter] The firm? [Nervous laugh] Wow, that sounds so professional and adult. I'm still figuring things out, you know, just taking it one day at a time.
+
+Character 2: [enthusiastically] Oh, I'm at Goldman now! [proudly] Started as an analyst but got promoted to associate last month. [Chuckle] The hours are insane but the bonus this year was enough to buy my condo downtown.
+
+348 Character 1: [strained cheerfulness] A condo? [more quietly] That's amazing, really. [Heavy sigh] I'm still in my studio apartment with two roommates—one sleeps in what used to be a closet. But hey, at least rent's only sixty percent of my income!
+
+Character 2: [sympathetically] Oh, the rental market is brutal right now. [brighter tone] Have you thought about consulting? [speeding up] My friend's firm is hiring—starting salary's like ninety K, plus they have amazing benefits and signing bonuses!
+
+349 Character 1: [bitter laugh] Ninety K? [sarcastically] That's cute. [Exhale] I make thirty-two thousand at the nonprofit, and they acted like they were doing me a favor. My master's degree is basically an expensive wall decoration at this point.
+
+Character 2: [awkwardly] A nonprofit, that's so noble though! [trying to sound positive] You're making a real difference. [trailing off] Money isn't everything, right? Although I guess it does help with the student loans and everything else...
+
+350 Character 1: [dryly] Noble doesn't pay for groceries. [Hollow laugh] I ate ramen four times this week. [more bitterly] But sure, I'm changing the world one unpaid overtime hour at a time while you're probably planning your second vacation home.
+
+Character 2: [defensively] It's not like success just fell into my lap! [louder] I worked hundred-hour weeks, sacrificed everything. [Sharp breath] Maybe if you'd networked more in college instead of pursuing your passion, you'd be somewhere different now.
+
+351 Character 1: [angrily] Networked more? [voice breaking] I was working three jobs just to afford textbooks! [Bitter snort] Not everyone had daddy's connections at investment banks or summer homes to host study groups in. Some of us actually had to survive.
+
+Character 2: [quietly] That's not fair, Alex. [more firmly] Yes, I had advantages, but I also made choices. [Pause] Look, I didn't mean to sound condescending—I know it's tough out there. We all have different paths.
+
+352 Character 1: [tiredly] Different paths. [Scoff] Yours is a highway and mine's a dirt road with potholes. [softer] Whatever, I'm happy for you, really. Someone from our class had to make it, might as well be you.
+
+Character 2: [guilt in voice] Hey, let me buy you a drink at least? [trying to lighten mood] Open bar, but still. [Nervous giggle] Remember when we used to sneak wine from campus events? Now look at us—actual adults at actual weddings.
+
+353 Character 1: [wistfully] God, those were simpler times. [Short laugh] Back when we thought we'd conquer the world together. [mumbling] Now you've conquered it and I'm just trying not to drown in it. Sure, I'll take that drink.
+
+Character 2: [gently] You know what? [determined] I meant what I said about that consulting job. [warmly] Send me your resume Monday. No promises, but having a referral helps, and you were always the smartest one in our economics class.
+
+354 Character 1: [surprised] You'd do that? [skeptically] Even after I just dumped all my bitterness on you? [Soft exhale] I'm sorry, Rachel. It's been a rough year—actually, a rough three years. Thanks, I'll definitely send it over.
+
+Character 2: [sincerely] Of course I would. [lower voice] Success means nothing if you can't help people who matter. [Gentle laugh] Plus, you saved my ass in statistics junior year—I definitely owe you one. Or several, actually.
+
+355 Character 1: [emotional] I forgot about statistics. [voice cracking] Professor Williams and his impossible exams. [Shaky breath] Thanks, Rach. Really. Maybe there's hope for this broke grad yet. Should we grab those drinks before I start crying at this wedding?
+
+Character 2: [laughing warmly] Yes, definitely drinks first, tears later! [playfully] Come on, let's get wine that doesn't come from a box. [whispered] And Alex? You're going to be okay. We all bloom at different times, remember?
+
+============================================================
+
+ITEMS 356-365 - GENERAL TAGS (345 words)
+
+Script: fc1cec89_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+356 Character 1: [trembling] Oh my god, Sarah, I think— [louder] I think it just happened! [Gasping breath] My water just broke all over your new carpet, and I can't tell if I'm terrified or thrilled but the baby is actually coming!
+
+Character 2: [Screaming] WHAT?! [in disbelief] Are you serious right now? [more excitedly] After nine months of waiting, it's happening in my living room? Forget the carpet, we're having a baby! Where are the keys? Hospital bag?
+
+357 Character 1: [panicked giggle] The bag's been in the car for three weeks! [breathing heavily] Remember how you mocked me for being overprepared? [Shriek] Oh god, here comes a contraction—this is real, this is so incredibly real!
+
+Character 2: [frantically] I'm calling Jake right now! [shakily] My hands won't stop shaking—why won't they stop shaking? You're the one in labor! [Nervous laugh] Should I boil water? What do people even do with boiled water during birth?
+
+358 Character 1: [through gritted teeth] Forget the water, just drive! [whimpering] Jake's in that meeting until noon, but honestly who cares about quarterly reports when— [Loud groan] —when his child is literally making an entrance right now!
+
+Character 2: [determined] Meeting schmeting, he's about to become a father! [more urgently] Can you walk to the car? [Squealing] I can't believe we're doing this—your baby shower was literally yesterday! Talk about perfect timing!
+
+359 Character 1: [breathlessly] The universe has a twisted sense of humor. [steadier] All those birthing classes, meditation apps, and here I am— [Sharp cry] —completely losing it in your hallway! This wasn't in any of the birth plans!
+
+Character 2: [reassuring tone] Plans are overrated anyway, mama! [getting louder] You're doing amazing! [firmly] Deep breaths, just like we practiced—in through the nose, out through the— who am I kidding, just breathe however feels right!
+
+360 Character 1: [weakly laughing] You sound exactly like the instructor we both hated. [stronger] "Find your center, embrace the waves." [Snort] What waves? These are tsunamis! But somehow knowing you're here makes everything feel possible.
+
+Character 2: [emotionally] Stop making me cry when I need to see the road! [joyfully] We've been dreaming about this day since college! [Excited squeal] Your little miracle is coming, and I get to be here for it all!
+
+361 Character 1: [warmly] Remember when we used to stay up planning our futures? [more intensely] You said you'd be there when I— [Sharp intake] —had my first baby, and here you are, literally catching me as I waddle!
+
+Character 2: [teary voice] Always, babe, always! [more confidently] Five more minutes to the hospital. [Laughing] The nurses are going to love this story—best friends since kindergarten, and now you're leaking amniotic fluid in my Honda!
+
+362 Character 1: [groaning softly] Your poor Honda deserves hazard pay after this. [suddenly urgent] Oh no, they're getting closer together! [panicked] What if we don't make it? What if this baby has your impatience gene by proximity?
+
+Character 2: [mock offended] My impatience? [seriously] You're the one who took a pregnancy test at three weeks! [Cackling] But we're pulling up now—look, there's the emergency entrance! We made it, superhero mama!
+
+363 Character 1: [relieved sob] Thank god for your lead foot! [quietly] I'm scared, Emma. [building confidence] But also ready—so ready to meet this tiny person who's been doing gymnastics in my belly for months.
+
+Character 2: [soothingly] Fear and excitement are best friends, just like us. [enthusiastically] I'll be right there holding your hand! [Whoop] Unless Jake faints—then I'll be holding both your hands while standing on him!
+
+364 Character 1: [hysterical giggle] He practiced not fainting on YouTube! [straining] Here comes another one— [determined whisper] —but I can do this because my best friend believes I can. That's all the strength I need.
+
+Character 2: [shouting] Wheelchair! We need a wheelchair here! [proudly] My best friend's about to become the most incredible mother! [choked up] This baby has no idea how lucky they are to have you as their mom.
+
+365 Character 1: [crying] Stop being so perfect when I look like a disaster! [gratefully] Thank you for dropping everything, for being here, for— [Yelp] —for not judging my language when these contractions hit!
+
+Character 2: [jubilant] Judge you? Never! [softer] I'm documenting every beautiful, messy second of this! [triumphantly] Years from now, we'll tell this little one how Aunt Emma drove like a race car driver to deliver them safely!

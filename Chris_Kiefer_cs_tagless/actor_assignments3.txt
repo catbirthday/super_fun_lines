@@ -1,0 +1,257 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 8ba1f83f_script | Role: Character 2 (B)
+
+Character 1: So. I got offered a book deal.
+
+176 Character 2: Wait wait wait—WHAT? You got—oh my god, are you serious right now? Like, an actual publisher wants to... [Gasp] This is huge! Why are you being so calm about this?
+
+Character 1: It's from Pemberton House. They want the manuscript by December.
+
+177 Character 2: Pemberton—that's like, that's a real publisher! They do all those, um, those literary fiction books with the pretty covers, right? Holy shit, this is actually happening.
+
+Character 1: Yeah. I haven't said yes yet.
+
+178 Character 2: You haven't—okay okay, I get it, it's a big decision. But like... this is what you've been working toward for literally years, y'know? What's making you hesitate?
+
+Character 1: What if I'm not ready? What if the book's terrible?
+
+179 Character 2: Oh no no no, we're not—we're not doing this. Remember when you let me read that chapter last year? I literally cried. [Softer] Like, actual tears. Your writing is... it's special.
+
+Character 1: That was just one chapter.
+
+180 Character 2: Okay but—I mean, they wouldn't offer you a deal if they didn't believe in the whole thing, right? These people know what they're doing. They see something in you that you're kinda... refusing to see?
+
+Character 1: My dad thinks I should focus on my "real job."
+
+181 Character 2: Your dad thinks—ugh, of course he does. No offense but like, didn't he also think smartphones were gonna be a fad? Some people just don't... they don't get creative stuff.
+
+Character 1: True. He still uses a flip phone.
+
+182 Character 2: [Laugh] Exactly! So maybe—just maybe—he's not the best person to take career advice from? Especially about, y'know, following your actual dreams and stuff.
+
+Character 1: The advance isn't much. Barely covers rent for three months.
+
+183 Character 2: Okay but it's not really about the money right now, is it? It's like—this is your foot in the door. Your first book! Once you're published, that changes everything. You'll be a real author.
+
+Character 1: I'm scared I'll mess it up.
+
+184 Character 2: That's—honestly? That's the most normal thing you've said. [Chuckle] Everyone's scared of the big stuff. But you've gotta... I dunno, what's worse? Trying and maybe failing, or always wondering what if?
+
+Character 1: When you put it like that.
+
+185 Character 2: Right? Like, future you is gonna be so pissed if you don't at least try. And hey—worst case scenario, you've got me to ugly cry over your drafts and tell you you're brilliant, so...
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+186 SCENARIO: debating whether to wave back at someone who might not be waving at them
+
+==================================================
+
+[uncertain]
+
+Oh. Oh wait, is that— are they waving at me? I think— I think they're waving. But, um, but they could be waving at, like, literally anyone behind me, right? [nervous laugh] There's probably, uh, there's probably someone right behind me.
+
+[muttering quickly]
+
+Okay, so do I wave back? Because if I wave and they're not— if they're not actually waving at me, then I'm just, um, I'm just some weirdo waving at nothing. Which is— which is not great.
+
+[slightly panicked]
+
+But if they ARE waving at me and I don't wave back, then I'm, uh, I'm rude. I'm the rude person who ignores people. [exhale] God, why is this— why is this so complicated?
+
+[thinking out loud]
+
+I mean, I could do like a half-wave? Like a, um, like a little tentative wave that could maybe pass as just, uh, just adjusting my hair or something if it goes wrong?
+
+[resigned]
+
+Okay, okay, I'm just— I'm just gonna do it. Quick little wave. [pause] There. Done. And they're... yeah, they're waving back. So we're good. We're, um, we're all good here.
+
+--- CONVERSATION ---
+
+Script: 050db3c2 | Role: Character 1 (A)
+
+187 Character 1: [conspiratorial whisper] Oh sweetie, there you are! [getting louder] Did you hear about your cousin Marcus? [Sharp intake of breath] Three divorces now, and rumor has it the last one involved his secretary and a yacht in Miami.
+
+Character 2: [uncomfortable] Aunt Linda, we're at Uncle Joe's funeral. [clearing throat] Maybe we should focus on— [trailing off] I mean, it's nice to see everyone together, even if the circumstances aren't ideal for catching up.
+
+188 Character 1: [dismissively] Oh, Joe would've loved the gossip! [cackling laugh] Speaking of love, when are you bringing someone home? [more insistently] Your mother tells me you're still single, thirty-two and no prospects in sight!
+
+Character 2: [defensive] I'm actually doing really well at work. [mumbling] Got promoted last month to senior analyst. [forced cheerfulness] The job keeps me pretty busy, you know how it is in tech these days.
+
+189 Character 1: [in a knowing tone] Work, work, work! [tutting sound] That's what your cousin Rebecca said before she eloped with her yoga instructor. [drops to whisper] Forty-three years old and ran off to Bali last Tuesday!
+
+Character 2: [strained politeness] Good for Rebecca, I guess. [nervous chuckle] Hey, have you tried the potato salad? [more quickly] Mom made it from grandma's recipe, I should probably grab some before it's gone.
+
+190 Character 1: [urgently] Wait, wait, before you go! [hushed excitement] Did you know your father's brother, the one nobody talks about? [dramatic pause] He showed up here with a woman half his age wearing diamonds!
+
+Character 2: [weary] That's just Uncle Ray with his wife. [flatly] They've been married fifteen years, Aunt Linda. [slight sigh] She's a cardiologist, those are probably just her regular earrings, nothing scandalous about it.
+
+191 Character 1: [disappointed] Well, you never know these days. [perking up again] Oh! Your sister's pregnancy! [rapid whisper] Four months along and she hasn't told your grandmother yet because of that incident at Christmas!
+
+Character 2: [firmly] She literally announced it on Facebook last week. [exhausted tone] Everyone knows, including grandma. [pleading] Can we please just pay our respects to Uncle Joe and maybe talk about literally anything else?
+
+192 Character 1: [huffily] Fine, be boring then. [softening slightly] How's your apartment? [suspicious tone] Still living in that tiny studio, or did you finally move somewhere respectable like your brother did with his family?
+
+Character 2: [monotone] Still in the same place, it works for me. [slightly sarcastic] Not everyone needs a McMansion in the suburbs. [quieter] Some of us actually like living where we can walk to things.
+
+193 Character 1: [scandalized gasp] Walking! In the city! [lowering voice dramatically] That reminds me, your old friend from high school, Jennifer? [speeding up] Arrested last month for public intoxication after her book club!
+
+Character 2: [incredulous] Book club arrests? [nervous laugh] That sounds completely made up, Aunt Linda. [more firmly] Also, I haven't talked to anyone from high school in years, so I really wouldn't know.
+
+194 Character 1: [indignantly] I have it on good authority! [whispering intensely] Her mother told me at pilates. [building excitement] Apparently the whole book club was involved, something about wine and a noise complaint!
+
+Character 2: [resigned sigh] Sounds like they were just having fun. [muttering] Unlike this conversation. [louder, desperate] Oh look, Father O'Brien is starting to gather people, probably for a prayer or something.
+
+195 Character 1: [quickly] One more thing! [breathless whisper] Your mother's friend Carol, the one with the cats? [triumphant tone] Dating a man she met at bingo who might be in the witness protection program!
+
+Character 2: [deadpan] Carol's seventy-eight years old. [slight disbelief] I highly doubt she's dating anyone in witness protection. [speeding up] That's literally the plot of a Netflix show mom was watching last week.
+
+196 Character 1: [deflated] You young people never believe anything interesting. [perking up slightly] But mark my words, something's fishy there! [confidentially] He drives a different car every week and pays only in cash!
+
+Character 2: [with finality] He's probably an Uber driver, Aunt Linda. [deep breath] I really need to go now. [walking away tone] Tell mom I'll call her later about the leftover casseroles.
+
+--- CS ALPHANUMERIC ---
+
+Script: 75dc77e1 | Role: Customer Support
+
+Character 1: [irritated] Look, I paid you people $285 last month, invoice number MX-47829, and now— [voice rising] now I've got mice droppings all over my kitchen again! [disgusted groan] This is completely unacceptable, I mean, what kind of guarantee is this?
+
+197 Customer Support: I'm so sorry to hear that, sir. Let me pull up your account— can you confirm your address is 1847 Maple Drive, unit 3B? [more gently] We absolutely stand behind our 30-day guarantee, and we'll make this right.
+
+Character 1: [exasperated] Yes, yes, that's the address, and my contract number is, uh— [rustling pause] GXT-9043-A. [more angrily] Your technician, Bradley something, he said the problem was solved! [bitter laugh] Solved, he said!
+
+198 Customer Support: [understanding] I see Bradley visited on October 15th at 2:30 PM. He noted sealing three entry points near your basement. Can you tell me— are you seeing actual mice or just, um, new droppings?
+
+Character 1: [loudly] Both! [frustrated sigh] I saw two of them last night around 11:45, bold as brass, running across my countertop! [voice trembling] My wife is threatening to stay at her mother's if this isn't fixed by Friday.
+
+199 Customer Support: We'll get someone out there immediately, sir. I'm scheduling our senior technician for tomorrow at— would 9 AM work? That's Thursday the 22nd, and there'll be no charge under your warranty, code WR-2024.
+
+Character 1: [skeptically] Senior technician, huh? [sarcastically] Not another rookie who doesn't know bait station B4 from B7? [heavy sigh] Fine, 9 AM works, but I'm working from home, conference calls all day.
+
+200 Customer Support: Marcus Thompson will be handling your case, employee ID MT-556. [professionally] He's been with us twelve years, specializes in recurring infestations. Between you and me, he's who we send when— when we really need to solve something.
+
+Character 1: [slightly calmer] Well, Marcus better bring his A-game because I'm this close— [voice rising again] this close to calling my lawyer! [muttering] False advertising, breach of contract, I don't know, something about the $285 I wasted.
+
+201 Customer Support: I completely understand your frustration, sir. Marcus will do a full inspection, reference number INS-88924-MT. We'll also extend your warranty by three months and— and provide complimentary quarterly visits through next June.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 5f57a68d | Role: Customer Support
+
+202 Customer Support: Thank you for coming in today, Mrs. Chen. I understand you have some concerns about the—the frequency of calls regarding Emma? Let's discuss how we can work together on this.
+
+Character 1: [frustrated] Concerns? That's putting it mildly. [voice rising] I've been called THREE times this week alone! [exasperated sigh] My boss is threatening to fire me because I keep leaving for a runny nose—a runny nose!
+
+203 Customer Support: [calmly] I completely understand your frustration, and believe me, we don't make these calls lightly. However, our policy requires us to contact parents when symptoms appear that could indicate illness.
+
+Character 1: [sarcastically] Could indicate? [scoffs] Yesterday you called because she sneezed twice. [getting faster] The day before, a slight cough, and Monday—Monday was because she seemed "less energetic than usual."
+
+204 Customer Support: I know it seems excessive, but we're dealing with twenty-two other children here. [quickening pace] One contagious illness can spread like wildfire, parents complain, staff gets sick, and suddenly we're understaffed for weeks.
+
+Character 1: [pleading] But she's not actually sick! [groans] Her pediatrician says she's perfectly healthy—just adjusting to daycare germs. [more desperately] Can't we find some middle ground here?
+
+205 Customer Support: [thoughtfully] Well, perhaps we could... Actually, have you submitted the doctor's note stating she's not contagious? That would certainly help our assessment process.
+
+Character 1: [incredulous] I've submitted four notes! [louder] Four! [voice breaking] Every single time, your staff still calls me for the tiniest sniffle. Do you even read them?
+
+206 Customer Support: Of course we read them, Mrs. Chen. But our teachers aren't medical professionals—they have to err on the side of caution. It's liability, you understand?
+
+Character 1: [bitterly] Liability. Right. [quieter] So my job is less important than your liability? [building anger] Because that's essentially what you're telling me here.
+
+207 Customer Support: No, no, that's not what I'm saying at all. [reassuringly] Your job is absolutely important. Let me... What if we set up a specific symptom threshold for Emma?
+
+Character 1: [skeptically] A threshold? [curious but cautious] What exactly would that look like? Because frankly, I'm running out of sick days and patience. [exhausted sigh]
+
+208 Customer Support: We could document specific symptoms that don't require immediate pickup—like clear runny nose without fever. I'll personally brief the staff, ensure everyone's on the same page about Emma's situation.
+
+Character 1: [hopefully] That... that actually sounds reasonable. [more firmly] But I need this in writing. [determined] And I need ALL the teachers to follow it, not just the morning shift.
+
+209 Customer Support: Absolutely, I'll draft that today and email it to you. [briskly] We'll require fever over 100.4, persistent vomiting, or obvious contagious symptoms before calling. Sound fair?
+
+Character 1: [relieved] Yes, thank God, someone who finally gets it. [chuckles tiredly] You know, I love this daycare, Emma loves her teachers, but this—this was becoming impossible.
+
+210 Customer Support: [warmly] We love having Emma here too, she's such a bright little one. These transition months are hard—kids building immunity, parents adjusting. [softly] We'll figure this out together.
+
+Character 1: [gratefully] Thank you for actually listening. [sighs] Her last daycare just kept saying "policy is policy" until I had to pull her out. [more optimistically] This gives me hope.
+
+211 Customer Support: We're not that kind of facility, Mrs. Chen. I'll have that document ready by end of day, and we'll start the new protocol Monday. Let's check in next week, see how it's going?
+
+Character 1: [appreciatively] Perfect. Yes, let's do that. [lighter tone] Maybe I'll actually get through a full week of work! [laughs softly] Emma will be thrilled she doesn't have to leave her friends early anymore.
+
+--- BASIC SCENARIOS ---
+
+212 [Fast] Come on, come on, just five more minutes and then—okay, maybe three more minutes. [Groan] Who am I kidding, even one more minute feels impossible right now.
+
+213 [Happy] Oh my god, I actually, like, I actually did ten push-ups without stopping! [Laugh] That's literally never happened before in my entire life!
+
+214 [Sarcastic] Sure, yeah, "runner's high" they said, it'll be "amazing" they said. [Tsk] Right now all I'm feeling is, uh, runner's why-did-I-do-this.
+
+215 [Whisper] Nobody's watching, I could just—no, no, finish the set. [Slow] You promised yourself you'd finish the whole thing today.
+
+216 [Shout] Let's GO! [Fast] This is it, this is the moment, you're gonna crush this last sprint like it's nothing!
+
+217 [Disappointed] I mean, I've been at this for, what, three weeks now? [Sigh] And I still can't even touch my toes properly.
+
+218 [Angry] My legs are literally on fire and this stupid playlist just—ugh, where's the skip button?! [Groan] Everything hurts and the music sucks!
+
+219 [Slow] Breathe in... hold it... and, um, breathe out. [Happy] Okay, that actually kinda helped a little bit.
+
+220 [Fast] Gotta keep moving, gotta keep—wait, is that my neighbor? [Whisper] Please don't see me sweating like this, please just keep walking.
+
+221 [Sad] Everyone else makes this look so, I dunno, effortless? [Sigh] And here I am dying after like five minutes.
+
+222 [Chuckle] You know what, at least I'm not on the couch eating chips. [Happy] That's gotta count for something, right?
+
+223 [Angry] Twenty burpees?! [Sarcastic] Oh sure, because nineteen wasn't enough torture already, let's just add one more for fun!
+
+224 [Slow] Remember why you started this whole—actually, why DID I start this? [Tsk] [Disappointed] Oh right, those jeans that don't fit anymore.
+
+225 [Happy] The endorphins are kicking in, I think—no wait, that's just, uh, that's just sweat in my eyes. [Laugh] Never mind!
+
+226 [Whisper] If I just do half the reps really fast, that's basically the same thing as doing all of them slowly, right? [Chuckle]
+
+227 [Shout] YOU'VE GOT THIS! [Fast] Stop thinking about how much it hurts and just—just zone out and push through!
+
+228 [Disappointed] I literally used to be able to do this stuff in high school without even trying. [Slow] [Sigh] Getting older is, um, it's honestly brutal.
+
+229 [Sarcastic] "It gets easier," my personal trainer said. [Angry] Well Karen, when exactly does that magical moment happen?!
+
+230 [Happy] Okay so, I'm basically drenched and disgusting but, like, I kinda feel amazing? [Chuckle] Is this what accomplishment feels like?
+
+231 [Sad] Maybe I should just—no, you know what? [Slow] One more set, and if I die, at least I'll die trying, I guess.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+232 SCENARIO: Excited about a new phone, then worried they'll break it, then the case they forgot they ordered arrives
+
+==================================================
+
+[excited]
+
+Oh my God, I finally got it! The new phone I've been obsessing over for like, for weeks now. It's so— it's honestly perfect, like the camera is insane and it's so much faster than my old piece of garbage.
+
+[excited] [slightly anxious]
+
+I've been like, carrying it around all day just staring at it. [nervous laugh] Which is probably not smart because I'm already paranoid I'm gonna drop it or something. Like this thing cost me way too much money to just, you know, shatter on day one.
+
+[worried]
+
+Actually I should probably get a case soon because I am— I'm literally the clumsiest person alive. Remember when I dropped my laptop down the stairs? [groan] Yeah, that was like three hundred dollars I didn't have, so I really can't— I can't do that again with this.
+
+[anxious]
+
+God, why didn't I order a case with it? That was so stupid of me, I was just so excited about the phone itself that I completely forgot about— 
+
+[surprised]
+
+Oh wait, what's this? There's a package at my door, I didn't— hold on, let me just...
+
+[relieved] [laughing]
+
+Are you kidding me? It's a phone case! I totally forgot I ordered this like two weeks ago when I was still waiting for the phone to ship. [chuckle] Past me actually had it together for once. Crisis averted!

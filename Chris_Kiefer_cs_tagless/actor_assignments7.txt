@@ -1,0 +1,820 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 3274f702_script | Role: Character 2 (B)
+
+Character 1: So the campaign hit its goal.
+
+469 Character 2: Wait wait wait—are you serious? The whole thing? Like the full amount you were asking for? Oh my god, I'm literally—this is huge!
+
+Character 1: Yeah. Happened this morning.
+
+470 Character 2: This morning?! And you're just now telling me? I would've been like, screaming from the rooftops or something. How much did you end up with?
+
+Character 1: Thirty-seven thousand. Little over the goal.
+
+471 Character 2: Thirty-seven thou— [Gasp] okay that's actually insane. That's like, that's real money. People really believe in this thing you're doing, y'know? How do you even feel right now?
+
+Character 1: Terrified.
+
+472 Character 2: Oh babe, no no no—I mean, I get it, I totally get it. It's like, now it's real, right? Now you actually have to, um, deliver on everything?
+
+Character 1: Exactly. What if I mess it up?
+
+473 Character 2: Okay but like—hold on though. These people didn't just randomly throw money at you. They saw your vision, they saw what you're capable of, and they were like "yes, this, we want this." That means something.
+
+Character 1: I guess. Still feels unreal.
+
+474 Character 2: Have you told your parents yet? Because your mom is gonna absolutely lose it—in like, the best way possible [Chuckle]. She's been telling literally everyone about your project.
+
+Character 1: Not yet. Processing.
+
+475 Character 2: That's—yeah, that's fair actually. Take your time. But um, can we at least celebrate a little? Like even just... I dunno, drinks or something? This is massive!
+
+Character 1: Maybe later. I need to email all the backers first.
+
+476 Character 2: See, this is why—this is exactly why people trust you with their money. You're already thinking about them, about doing right by them. That's so... you're gonna be fine, honestly.
+
+Character 1: Three hundred and twelve people backed it.
+
+477 Character 2: Three hundred and—wait, that's like a whole community! That's basically a small town of people who believe in what you're doing! [Sigh] Sorry, I'm being super intense, I'm just really proud of you.
+
+Character 1: Thanks. It's... a lot.
+
+478 Character 2: I know, I know it is. But hey—you don't have to figure it all out today, y'know? Just like, let yourself have this moment. You did something really hard and it worked.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+479 SCENARIO: realizing they've been on mute during a video call
+
+==================================================
+
+[muttering]
+
+Okay, so I was just, um— I was making all these really good points about the quarterly reports and, uh, and everyone's just sitting there staring at me like— like I'm crazy or something. Which is, um, which is weird because I thought I was being pretty, you know, pretty articulate for once.
+
+[realization dawning]
+
+Wait. Wait wait wait. [exhale] Oh no. The little, uh, the little microphone icon— is that— that's got a line through it, doesn't it. [groan] That's the mute thing. That means I'm— oh god, I'm muted, aren't I.
+
+[slightly panicked]
+
+How long have I been— I mean, I was talking for like, what, three minutes? Four minutes? About the budget allocation and the, um, the staffing issues, and they're all just— they probably think I'm just moving my mouth like some kind of, uh, like some kind of broken puppet or something.
+
+[embarrassed but trying to laugh it off]
+
+Okay, so now I have to, um, I have to unmute and just pretend like— like that didn't happen. Or do I acknowledge it? Do people acknowledge the mute thing? [sigh] This is why I hate technology.
+
+[resigned]
+
+Right. Okay. Just gonna, um, just gonna click this little button here and— and maybe make a little joke about it. Everyone does this, right? This is, uh, this is totally normal. [nervous laugh] Totally fine.
+
+--- CONVERSATION ---
+
+Script: a80dc934 | Role: Character 1 (A)
+
+480 Character 1: [nervous laugh] Hi there, Maya! We're so happy to finally meet you. [speaking quickly] We've been preparing your room for weeks—painted it purple because the social worker mentioned you liked that color. [quieter] Is purple still okay?
+
+Character 2: [flat tone] It's fine. [pause] Purple's whatever. [more defensively] Look, you don't have to do all this special stuff for me. I've been in six homes already, so [trailing off] I know how this goes.
+
+481 Character 1: [gentle voice] That must have been really hard, moving around so much. [steadier] We're not going anywhere, Maya. [soft exhale] This is our first time too, actually—being parents, I mean. We're probably more scared than you are.
+
+Character 2: [skeptical] Right. [short laugh] Adults don't get scared. [mumbling] You guys just feel sorry for kids like me and then change your minds when things get tough. [harder edge] Everyone always says they're different at first.
+
+482 Character 1: [hurt whisper] We're not like that. [stronger] My husband and I waited three years for this moment. [voice breaking] We chose you, Maya, specifically you—not just any child. [steadying breath] We read every word of your file twice.
+
+Character 2: [uncomfortable] My file doesn't tell you who I am. [getting louder] It just says all the bad stuff that happened! [quieter again] Did it mention I failed math twice? Or that I ran away from the Johnsons?
+
+483 Character 1: [calmly] It mentioned you love astronomy and taught yourself guitar. [warmer tone] That you read fantasy novels under your blanket with a flashlight. [excited whisper] We actually bought a telescope—it's in the garage if you want to see it later.
+
+Character 2: [surprised] You bought a telescope? [suspicious again] Those are expensive. [small voice] The Millers promised me a guitar once, but after two weeks they said I was too much trouble. [bitter laugh] Never even got to hold it.
+
+484 Character 1: [firmly] The telescope is already yours, no matter what. [shaky breath] And there's a guitar in your room too. [more confidently] We know trust takes time, Maya. [gentle] We're prepared to wait as long as you need.
+
+Character 2: [defensive mumble] Whatever, I probably won't stay long anyway. [louder] I sleepwalk sometimes and I don't eat vegetables. [rushed words] Last family sent me back because I had nightmares. [quieter] Really loud ones that woke everyone up.
+
+485 Character 1: [reassuring tone] My husband has nightmares too, from his time overseas. [matter-of-fact] We installed soundproofing last month anyway—for music practice. [soft chuckle] And vegetables? [whispering conspiratorially] I hide mine under mashed potatoes. Don't tell David.
+
+Character 2: [tiny laugh] That's kind of funny. [cautious] Your husband was military? [worried rush] Is he super strict about rules and stuff? The group home had this veteran staff member who made us do pushups.
+
+486 Character 1: [laughing warmly] David? Strict? [amused tone] He cried watching Moana last week and lets the dog sleep on our bed. [tender voice] The only rule he's firm about is Sunday pancakes. [playful whisper] Chocolate chip ones.
+
+Character 2: [hesitant] You have a dog? [hopeful creeping in] What kind? [faster] I always wanted a pet but foster homes usually say no. [sadder] Even fish are too much responsibility for a temporary kid apparently.
+
+487 Character 1: [enthusiastic] A golden retriever named Biscuit! [getting faster] She's probably hiding behind David's legs right now—she's shy with new people. [warm laugh] But once she knows you, she'll never leave your side. [softly] She's a cuddler.
+
+Character 2: [wistful tone] I like dogs. [stronger] Animals don't pretend to like you then leave. [pause] Can I ask something real? [blunt voice] Why can't you have regular kids? Why pick someone broken like me?
+
+488 Character 1: [deep breath] We can't have biological children. [steady voice] But Maya, you're not broken—you're brave. [emotional] You've survived things that would destroy adults. [firmly] We didn't pick you because we had no choice. We picked you because you're you.
+
+Character 2: [shaky whisper] People always say nice things at first. [sniffling] But I'm difficult. I don't trust easily and I test boundaries. [desperate rush] What happens when I mess up? When I'm not grateful enough or I slam doors?
+
+489 Character 1: [soft voice] Then we'll still be here. [more firmly] Slamming doors, testing boundaries—that's what kids do. [slight tremor] We signed up for all of it, Maya. [determined] The hard days, the good days, and everything between them.
+
+Character 2: [small voice] Okay. [pause] Maybe I could stay for a little while. [hesitant] Just to see the telescope. [barely audible] And meet Biscuit. [stronger] But I'm not calling you mom yet. [softer] Maybe just Sarah for now?
+
+--- CS ALPHANUMERIC ---
+
+Script: 28270179 | Role: Customer Support
+
+Character 1: [frustrated] Look, I've been standing here for twenty minutes already! [raising voice] My insurance card says BlueCross PPO, member ID X4R7892-01, [impatiently] so why the hell won't it go through?
+
+490 Customer Support: Sir, I understand your frustration, but the system's showing your coverage terminated on November 30th. Have you recently changed jobs or, um, updated your plan? [sighs] Sometimes there's a lag in—
+
+Character 1: [angrily] That's impossible! [louder] I pay three hundred and forty-seven dollars every single month! [sarcastically] Maybe if you actually knew how to do your job, [groans] we wouldn't be having this problem.
+
+491 Customer Support: Sir, I'm trying to help you here. Let me call your insurance directly—what's your date of birth and the group number? It should be right under your member ID, starts with GRP or something similar.
+
+Character 1: [exasperated] January fifteenth, 1978, and the group is, uh... [muttering] GRP-45K21. [accusingly] But I already gave all this to the other girl yesterday! [bitterly] She said everything would be fine today!
+
+492 Customer Support: I'm seeing here that your pharmacy benefit manager changed to CareMark as of December first. Your medical is still BlueCross, but prescriptions now need the new BIN number—610494. Did you receive a separate pharmacy card?
+
+Character 1: [incredulously] A separate card? [shouting] Nobody told me about any separate card! [desperately] I need my Metformin today—my blood sugar's been running over 200! [groans loudly] This is absolutely ridiculous!
+
+493 Customer Support: I completely understand, and we'll figure this out. For now, the cash price is forty-two dollars and ninety cents. Or I can try running it under discount code RX2024SAVE for thirty-one fifty?
+
+Character 1: [outraged] Forty-two dollars for something that should be five bucks?! [voice breaking] I've been coming to this Walgreens at 4521 Oak Street for twelve years! [pleading] Can't you just, I don't know, bill them later?
+
+494 Customer Support: Unfortunately, we can't post-date insurance claims, but here's what I can do. [helpfully] Call 1-800-CAREMARK right now, get your PCN and group numbers. I'll hold your prescription, and you can come back before we close at nine.
+
+Character 1: [defeated] So I have to call them myself? [sarcastically] Great, just great—another hour on hold with those idiots. [muttering angrily] PCN, BIN, group number... [sighs heavily] why does this have to be so complicated?
+
+495 Customer Support: I know it's frustrating, trust me. Tell them you need your new ID number that starts with 'W' followed by nine digits. Once you have that, we can process everything in about two minutes, promise.
+
+Character 1: [skeptically] Two minutes, sure. [bitterly] That's what they said about my prior authorization for Eliquis last month—took three weeks! [exhausted] You know what, just... [sighs] just give me the stupid cash price.
+
+496 Customer Support: Okay, so that's forty-two ninety for the Metformin. [hesitantly] But sir, weren't you also picking up your Lisinopril and, um, the Atorvastatin? Those would be another seventy-eight dollars without insurance.
+
+Character 1: [shocked] Seventy-eight more?! [voice cracking] Jesus Christ, that's over a hundred and twenty dollars! [desperately] I'm on a fixed income here—my wife's gonna kill me if I spend that much!
+
+497 Customer Support: Wait, let me check something... Are you by any chance eligible for Medicare Part D? Because if you're over sixty-five, we might have other options through our senior discount program.
+
+Character 1: [irritated] I'm forty-five years old! [incredulously] Do I look like I qualify for Medicare? [groans] Look, forget the other two—I'll just take the Metformin and figure out this insurance nightmare tomorrow.
+
+498 Customer Support: Alright, forty-two ninety for just the Metformin then. [sympathetically] I'll put notes in your file about the insurance issue, okay? [helpfully] Also, here's CareMark's provider line—1-800-966-5772—sometimes it's faster than customer service.
+
+Character 1: [resigned] Fine, whatever. [fumbling] Here's my credit card... [muttering] Visa ending in 4458. [sighs deeply] And I guess I'll be back tomorrow to do this whole dance again.
+
+499 Customer Support: Hopefully with the right numbers, it'll be much smoother tomorrow. [warmly] I'll be here until five if you need help after calling them. Your receipt's in the bag, and, uh, good luck with CareMark!
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: a5f895a5 | Role: Customer Support
+
+500 Customer Support: [briskly] Next customer, please! Hi there, how can I help you today? Returns are right here at this counter.
+
+Character 1: [exhausted] Yeah, I need to... um... return this bread maker. [sighs heavily] It's still in the box, never even opened it—bought it last week during that big sale.
+
+501 Customer Support: Alright, let me pull up your receipt in the system. I do see here that unopened appliances have a fifteen percent restocking fee. Will that be okay?
+
+Character 1: [confused] Wait, what? A restocking fee? [groans] Nobody mentioned that when I bought it. Why do I have to pay to return something I never even touched?
+
+502 Customer Support: I understand your frustration, really. [speaking faster] The fee covers processing and inspection costs—it's printed on the receipt and posted at checkout, but I know it's easy to miss.
+
+Character 1: [irritated] This is ridiculous. I just... I bought it on impulse and realized I don't have counter space. [pleading] Can't you just waive it this once?
+
+503 Customer Support: Let me check with my manager real quick. Since you're a rewards member and it's unopened, maybe—just maybe—we can work something out for you.
+
+Character 1: [hopefully] Oh, thank God. [sighs] I've been standing in lines all day, my feet are killing me, and [desperately] I just want this nightmare shopping trip to end.
+
+504 Customer Support: Good news! My manager approved a one-time courtesy waiver, so you'll get the full refund. Just need your signature here and we're all set.
+
+Character 1: [relieved] You're a lifesaver, seriously. [gratefully] Thank you so much—I promise I'll read the fine print next time before I go crazy at sales.
+
+--- BASIC SCENARIOS ---
+
+505 [Sad] I messed up, and um, there's nothing I can say to justify it—I just, I'm truly sorry. [Sigh]
+
+506 [Fast] [Disappointed] Look, I know I hurt you, okay, and I gotta own that completely, no matter what was going on with me.
+
+507 [Whisper] You deserved so much better from me. [Slow] [Sad] I... I failed you.
+
+508 [Angry] I'm furious at myself for this—like, genuinely furious—and you have every right to be too. [Tsk]
+
+509 [Slow] What I did was wrong, period. [Sigh] [Disappointed] Full stop, y'know?
+
+510 [Chuckle] [Sarcastic] Yeah, I really outdid myself this time, didn't I? But seriously, I'm—I'm genuinely sorry.
+
+511 [Fast] Can I just—actually, no, let me start with this: I apologize, completely and without any buts attached. [Sad]
+
+512 [Happy] You know what? I'm gonna make this right, I promise—well, first I need to apologize properly. [Fast] I'm sorry.
+
+513 [Shout] I screwed up! [Slow] [Sad] There, I said it, and I mean it.
+
+514 [Disappointed] This isn't who I wanna be, and uh, seeing your face right now, I just—I'm so sorry. [Sigh]
+
+515 [Slow] I've been thinking about what I did, and honestly? [Tsk] [Angry] I don't even recognize myself in that moment.
+
+516 [Whisper] [Sad] I'm sorry doesn't feel like enough, but it's... it's all I've got right now.
+
+517 [Sarcastic] Oh great, now I'm the person who—no, wait, I'm not gonna deflect. [Sad] [Slow] I apologize, sincerely.
+
+518 [Fast] [Happy] Okay so I've been rehearsing this all day but basically—I was wrong, you were right, I'm sorry!
+
+519 [Groan] I keep replaying it in my head and I just... [Disappointed] [Slow] I wish I could take it back, y'know?
+
+520 [Angry] [Fast] The worst part is I knew better—I literally knew better—and I still did it anyway! I'm sorry.
+
+521 [Sad] How do I even—I mean, where do I start with apologizing for something like this? [Whisper] I'm just... sorry.
+
+522 [Laugh] [Disappointed] I can't believe I'm that person who—ugh, never mind what kind of person, I just need to apologize.
+
+523 [Slow] You trusted me. [Sad] [Sigh] And I, um, I broke that trust completely.
+
+524 [Fast] [Chuckle] I've written like seventeen apology texts and deleted them all 'cause—actually, I needed to say this in person: I'm sorry.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+525 SCENARIO: Excited about a trip, then weather looking bad, then forecast changing to perfect
+
+==================================================
+
+[excited]
+
+Oh my God, I am so ready for this weekend! Like, I've been planning this hiking trip for months and I finally— I finally get to see those waterfalls everyone's been posting about. I packed everything last night, got my new boots broken in, the whole thing.
+
+[deflated] [worried]
+
+But then I checked the weather this morning and it's like— ugh, it's supposed to be torrential rain all weekend. Like not just a little drizzle, but actual storms. And I'm thinking great, just great, all this planning and now I'm gonna be stuck inside some cabin watching Netflix.
+
+[frustrated]
+
+I mean I could still go but what's the point? The trails will be all muddy and gross, you can't see anything in the rain, and those waterfalls are gonna be like— well okay they'll probably be pretty intense actually, but still. [sigh] I was really looking forward to getting some good photos, you know?
+
+[surprised]
+
+Wait, hold on— my weather app just updated and... oh. Oh wow, okay this is completely different now. It's saying sunny and seventy-five both days?
+
+[excited] [relieved]
+
+Are you kidding me? That's like perfect hiking weather! [laugh] I went from totally bummed to— God, I'm gonna have the best weekend ever. I should probably double-check my sunscreen supply now instead of my rain gear.
+
+============================================================
+
+ITEM 526 - MONOLOGUE SELFTALK (231 words)
+
+Source: ebc8c292
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+526 SCENARIO: waiting for the next available representative
+
+==================================================
+
+[muttering]
+
+Okay, so, um, I'm currently caller number... forty-seven. Which is, uh, which is not great. But it's not— it's not like it's three hundred or something, so I guess that's, um, that's something.
+
+[slightly resigned]
+
+Your call is important to us. [snort] Right. If my call was actually important, maybe there'd be more than, like, two people answering phones today. I mean, come on. It's Tuesday afternoon, not— not Christmas morning.
+
+[conversational]
+
+Oh wait, they're playing different music now. That's, um, that's new. Still terrible, but new terrible. Is this supposed to be, like, calming? Because it's very... [drawn out] very elevator-y. Makes me feel like I should be shopping for, uh, for sensible cardigans or something.
+
+[checking]
+
+Caller number forty-seven... still caller number forty-seven. [sigh] Maybe I should've just— maybe I should've tried the online chat thing instead. But then I'd probably be, like, number two hundred in that queue.
+
+[trailing off]
+
+I wonder if the representatives ever listen to this music when they're not working. Like, do they go home and think, "You know what I need right now? Some of that smooth jazz from work..." Probably not.
+
+[accepting]
+
+Okay, well, I'm committed now. Might as well, um, might as well see this through. At least I don't have anywhere else to be for the next... however long this takes.
+
+============================================================
+
+ITEM 527 - MONOLOGUE SELFTALK (210 words)
+
+Source: c7a7968d
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+527 SCENARIO: realizing they forgot to water their plants
+
+==================================================
+
+[muttering]
+
+Oh. Oh no. When did I— when did I last water the, um, the plants? Because they're looking a little, uh— they're looking a little sad over there, and I'm pretty sure it's been, like, what, three days? Four days?
+
+[slightly panicked]
+
+Wait, no, it's been longer than that, hasn't it? I watered them on, um, on Sunday, I think? Or was that— no, that was when I meant to water them, but then I got distracted by that whole thing with the, uh, with the laundry, and—
+
+[guilty]
+
+[sigh] Okay, so it's definitely been a week. At least a week. Poor little guys. I mean, they're not dead or anything, they're just— they're just looking droopy, which is, um, which is basically plant language for "hey, remember us?"
+
+[talking faster]
+
+Right, okay, so I need to— I need to get the watering can, and I should probably check the soil first, like, stick my finger down and see if it's actually dry or if I'm just, uh, just being paranoid about—
+
+[resigned but gentle]
+
+Who am I kidding, it's dry. [laugh] Sorry, plants. I'm, um, I'm not the most reliable plant parent, but we're figuring it out together, right?
+
+
+============================================================
+
+ITEM 528 - MONOLOGUE SELFTALK (239 words)
+
+Source: c98082f1
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+528 SCENARIO: waiting for glue to set
+
+==================================================
+
+[muttering]
+
+Okay, so, um, how long has it been now? Like, five minutes? The bottle says, uh, it says fifteen to twenty minutes for full bond, but I don't know if that's— if that's like, don't touch it at all, or just don't, um, don't put stress on it.
+
+[slightly impatient]
+
+I mean, it's just a stupid mug handle. How long could it possibly— [sigh] but if I check it too early and it, like, it falls off again, then I'm back to square one. Which is, um, which is annoying because this is my favorite mug and I really don't want to throw it away.
+
+[contemplative]
+
+Maybe I should set a timer? But then I have to find my phone, and I'm pretty sure it's upstairs somewhere. Or I could just, uh, I could just wait until that show I put on is over. That's probably close to fifteen minutes, right?
+
+[fidgety]
+
+God, why is waiting so— it's like watching paint dry, except worse because at least with paint you can see it happening. This is just... nothing. Just sitting here, staring at a mug, hoping some invisible chemical process is, um, is doing its thing.
+
+[resigned but lighter]
+
+Okay, okay, I'll just— I'll give it another ten minutes. Maybe do some dishes or something. Try to be, uh, try to be productive while my mug gets its life back together.
+
+
+============================================================
+
+ITEM 529 - MONOLOGUE SELFTALK (210 words)
+
+Source: cdcb87b2
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+529 SCENARIO: attempting to get comfortable in an airplane seat
+
+==================================================
+
+[muttering]
+
+Okay, so, um, let me just— let me try to get this— [sigh] this is supposed to recline, right? Like, all airplane seats recline, that's just— that's just a thing. But I can't find the, uh, the button thing, or the lever, or whatever they—
+
+[slightly strained]
+
+Wait, is it this— no, that's the tray table. Obviously. Um, maybe it's on the side? Let me just feel around here like some kind of— [huff] some kind of weirdo, just groping my armrest in front of strangers. Cool.
+
+[frustrated but quiet]
+
+Oh come on, it's gotta be— there! Okay, that's, um, that's definitely a button. Here we go, and— [pause] and nothing. Nothing happened. Great. Maybe I need to, like, push back while I press it? Let me just—
+
+[slightly hopeful]
+
+Oh wait wait wait, I think I felt something. Let me try— [grunt] okay, pushing back and— yes! Oh, that's like two degrees. Two degrees of recline. This is, um, this is what I'm working with here.
+
+[resigned but amused]
+
+Alright, so apparently this is comfort now. This is me being comfortable. [dry laugh] At least my knees are only mostly touching the seat in front of me. Progress.
+
+
+============================================================
+
+ITEM 530 - MONOLOGUE SELFTALK (203 words)
+
+Source: cfb87fcd
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+530 SCENARIO: noticing a hangnail they can't stop picking at
+
+==================================================
+
+[muttering]
+
+Oh, what is— ugh, there's like a little, um, a little piece of skin here that's just— [tsk] why does this always happen? It's not even, like, it's not even that big but I can, um, I can feel it catching on everything.
+
+[slightly annoyed]
+
+Okay, I should just— I should just leave it alone, right? That's what you're supposed to do. Don't pick at it, it'll just get worse, but— [sigh] but it's right there and it's so, um, it's so tempting to just—
+
+[guilty]
+
+No, no, I'm not gonna— I'm not gonna make it worse. I'll just, uh, I'll just ignore it. Except now I'm thinking about it more because I'm trying not to think about it, which is, like, the worst possible—
+
+[frustrated]
+
+And now I'm doing it again! I'm literally, um, I'm literally picking at it while telling myself not to pick at it. [laugh] This is, uh, this is some next-level self-sabotage right here.
+
+[resigned]
+
+You know what, maybe I just need, like, nail clippers or something. Or I could just— I could just accept that I have zero self-control when it comes to, um, to hangnails.
+
+
+============================================================
+
+ITEM 531 - MONOLOGUE SELFTALK (206 words)
+
+Source: d09bf185
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+531 SCENARIO: trying to remember if they took their medication
+
+==================================================
+
+[muttering]
+
+Okay, so, um, did I take my— did I take my pills this morning? I feel like I did, but I— I can't, uh, I can't actually remember doing it, which is... [sigh] which is always a great sign.
+
+[slightly uncertain]
+
+Let me think. I got up, I brushed my teeth, and then I, um— I went to the kitchen for coffee, right? So I would've— I would've walked right past the, uh, the pill organizer thing. But did I actually, like, did I actually stop and take them?
+
+[faster, working through it]
+
+Okay okay, so the Sunday slot— if I look at the Sunday slot and it's empty, then I took them. But if it's, um, if it's still full then I— then I didn't. That's, uh, that's literally what this thing is for, right? [laugh] That's the whole point.
+
+[walking, talking to self]
+
+Let me just— where did I even put that thing? I swear I left it right next to the, um, the coffee maker, but—
+
+[relieved but sheepish]
+
+Oh. There it is. And it's... [pause] empty. So I did take them. Cool. I'm not, uh, I'm not completely losing it yet.
+
+
+============================================================
+
+ITEM 532 - MONOLOGUE SELFTALK (207 words)
+
+Source: d0b43b88
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+532 SCENARIO: noticing their watch stopped
+
+==================================================
+
+[muttering]
+
+Okay, so it's, um— wait. It's definitely past three, right? I mean, I've been sitting here for like, uh, for like twenty minutes at least, but this thing still says— [tsk] this still says 2:47.
+
+[slightly annoyed]
+
+Oh, come on. Really? Did it just— did it just stop? I literally, um, I literally just got this thing back from being fixed like two weeks ago. The, uh, the guy said it was— he said it was good as new.
+
+[contemplative]
+
+Hm. Maybe if I just, um— [exhale] maybe if I give it a little shake? Do people still do that? I feel like that's what my dad would do. Just like, shake it and hope for the, uh, hope for the best.
+
+[resigned]
+
+Right, okay, so that's— that's not working. Obviously. Because it's 2023, not 1953, and watches don't just, um, they don't just magically fix themselves when you— when you shake them.
+
+[practical]
+
+I should probably just, uh, just take it back to the repair guy. I mean, if it's still under some kind of warranty situation, then— then maybe it's not a huge deal? Unless I, um, unless I lost the receipt, which— [groan] which I probably did.
+
+
+============================================================
+
+ITEM 533 - MONOLOGUE SELFTALK (226 words)
+
+Source: d354c4d4
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+533 SCENARIO: attempting to open packaging that won't cooperate
+
+==================================================
+
+[muttering]
+
+Okay, so, um, I just need to— I just need to open this thing. How hard can it be, right? It's just, uh, it's just cereal. [sigh] But this plastic is, like, welded shut or something.
+
+[slightly strained]
+
+Let me just— let me just try to find the, um, the little tab thing. There's always a tab, right? Or like a— a perforated edge or whatever they call it. [tsk] Nope, that's not— that's not doing anything.
+
+[frustrated but trying to stay calm]
+
+Okay okay okay, maybe I need, uh, maybe I need scissors? But then I have to go find scissors, and I'm already— I'm already standing here with my bowl out, and the milk is just, um, just sitting there getting warm or whatever.
+
+[determined]
+
+You know what, let me just— let me just use my teeth. I know that's probably not, uh, not the most elegant solution, but— [grunt] oh come on, seriously?
+
+[deadpan]
+
+Great. Now I've got plastic shreds in my mouth and the bag is still completely— completely intact. This is, um, this is going well.
+
+[resigned but amused]
+
+Scissors it is, I guess. [laugh] My cereal bowl can wait another two minutes while I go hunt down some basic tools to defeat this, uh, this impenetrable fortress of breakfast food.
+
+============================================================
+
+ITEM 534 - MONOLOGUE (243 words)
+
+Source: 0ca9c333
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+534 SCENARIO: Mad their kid didn't do chores, then walks into the room and sees everything is actually done
+
+==================================================
+
+[frustrated]
+
+Oh my God, I am so done with Alex right now. Like, we had this whole conversation yesterday about responsibility and doing their part around the house, and what do I come home to? Nothing. Absolutely nothing done.
+
+[annoyed]
+
+I left a list on the counter this morning — just basic stuff, you know? Take out the trash, load the dishwasher, maybe run the vacuum in the living room. Not asking for miracles here, just— [sigh] just the bare minimum.
+
+[getting more worked up]
+
+And I'm thinking, okay, they're thirteen, they can handle three simple tasks while I'm at work for eight hours. But no, apparently that's too much to ask. I was ready to march upstairs and be like, "What exactly did you do all day?"
+
+[confused] [quieter]
+
+Wait, hold on. I'm— I'm looking at the kitchen right now and the dishwasher is... it's running? And there's no trash in the bin.
+
+[surprised]
+
+Oh. Oh wow, they— they actually did do it. The living room looks... yeah, it's vacuumed. You can see the little carpet lines and everything.
+
+[guilty] [embarrassed]
+
+God, I feel like such a jerk. I was literally working myself up into this whole lecture about follow-through and— [half laugh] and they actually followed through. I should probably go tell them good job instead of, you know, yelling at them.
+
+
+============================================================
+
+ITEM 535 - MONOLOGUE (237 words)
+
+Source: 0d02533b
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+535 SCENARIO: Annoyed about a wrong address, then the right place being even closer
+
+==================================================
+
+[frustrated]
+
+So I had to go to this appointment today, right? And I put the address in my GPS and it takes me to this like— this strip mall in the middle of nowhere. And I'm driving around for like twenty minutes looking for this place, getting more and more stressed because I'm gonna be late.
+
+[annoyed]
+
+And there's nothing there! Like, there's a nail salon, there's a, uh, a sandwich shop, but no sign of where I'm supposed to be. So I call them and I'm like "I can't find you guys" and they're like "Oh yeah, we moved, sorry."
+
+[irritated]
+
+Moved! And they give me this whole new address and I'm like— [sigh] great, now I'm definitely gonna be late, I gotta drive across town, traffic's getting worse...
+
+[surprised]
+
+But wait, I'm putting this new address in and it's like— it's literally two blocks from my house. Two blocks! I drove like forty minutes to the wrong place when the right place is practically in my backyard.
+
+[laughing] [slightly amazed]
+
+I actually got there early because it was so close! I had time to like grab a coffee and everything. 
+
+[amused] [shaking head]
+
+I mean, I'm still annoyed they didn't update their info online, but honestly? This is way better. I might actually keep going there just because it's so convenient.
+
+
+============================================================
+
+ITEM 536 - MONOLOGUE (241 words)
+
+Source: 0d06b31f
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+536 SCENARIO: Mad about a canceled flight, then sees they got upgraded to first class on the rebooking
+
+==================================================
+
+[frustrated] [angry]
+
+Oh my God, don't even get me started on this day. My flight got canceled— not delayed, canceled— and I'm standing there at the gate like an idiot with my coffee, and they're like "weather delays" but it's perfectly sunny outside? 
+
+[indignant]
+
+So now I'm missing the whole first day of the conference, which I've been planning for like three months, and they put me on this red-eye tonight instead. Like thanks, now I get to be exhausted for the presentation I actually care about.
+
+[exasperated] 
+
+And the gate agent was so— [scoff] she was like "sorry for the inconvenience" in that voice where you know she's said it like fifty times already and just wants to go home. I get it, it's not her fault, but still.
+
+[annoyed]
+
+I'm just sitting here at the airport Starbucks feeling sorry for myself, and I haven't even told my boss yet that I'm gonna miss the— oh wait, I'm getting a text.
+
+[surprised]
+
+Um, okay this is from the airline... let me just— 
+
+[growing excitement]
+
+Oh. Oh wow. They upgraded me to first class on the new flight? Like, actual first class with the— with the lie-flat seats and everything?
+
+[delighted] [slightly embarrassed]
+
+Okay I feel like such a brat now for complaining. [laugh] This might actually be better than my original flight!
+
+
+============================================================
+
+ITEM 537 - MONOLOGUE (253 words)
+
+Source: 0d160803
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+537 SCENARIO: Casually talking about a product they recommended to lots of people, then seeing a recall notice, then realizing they have to tell everyone, spiraling into recommendation guilt
+
+==================================================
+
+[casual]
+
+Oh, so you know that air fryer I got a few months ago? The one I've been totally obsessed with? Yeah, well, I've basically become like the air fryer evangelist to everyone I know. [light laugh] I think I've recommended it to, what, like fifteen people at this point?
+
+[conversational]
+
+My mom got one, my sister, half the people at work... I mean, it really is amazing, you know? Everything comes out so crispy and you barely need any oil. I was just telling my neighbor about it yesterday, actually.
+
+[shifting tone]
+
+But then this morning I'm scrolling through my emails and I see this— wait, hold on. [pause] I'm getting a text right now from my mom.
+
+[concern creeping in]
+
+She's asking if I saw the news about... [trailing off] Oh. Oh no. She's saying there's a recall notice. For air fryers. Let me— [nervous laugh] let me look this up real quick.
+
+[growing anxiety]
+
+Oh my god. It's— it's the exact model. Fire hazard. "Immediate discontinuation of use recommended." [sharp exhale] How many people did I tell to buy this thing?
+
+[spiraling]
+
+Fifteen people! Maybe more! What if someone's house burns down? What if my mom— [panicked] I have to call everyone. Right now. I have to— [groaning] Oh god, I'm that person who gives dangerous recommendations! This is a disaster!
+
+
+============================================================
+
+ITEM 538 - MONOLOGUE (267 words)
+
+Source: 0e1fd4fb
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+538 SCENARIO: Casually mentioning they need to move their car, then checking the time, then realizing street cleaning already happened and they definitely have a ticket, ending in resigned financial frustration
+
+==================================================
+
+[casual]
+
+Oh, I should probably move my car later. Street cleaning's today on my block, you know how it is. I think it's at like... two? Two-thirty? Something like that.
+
+[conversational]
+
+I've been pretty good about it lately, actually. Like, I used to get nailed all the time when I first moved to that neighborhood. But now I have this little system where I— [pause] wait, what time is it right now?
+
+[slight concern]
+
+It's... oh. It's three-fifteen. [nervous laugh] Okay, that's— that's probably not great. But maybe they haven't gotten to my street yet? Sometimes they run late, right?
+
+[growing worry]
+
+Actually, you know what, they usually start on the north end and work down, and I'm pretty much right in the middle, so... [trailing off] Yeah, no, they've definitely been by already.
+
+[realization setting in]
+
+[sigh] Oh god, there's definitely a ticket on my windshield right now. I can just picture it. That stupid little envelope, probably flapping in the wind like a tiny flag of my failure as a responsible adult.
+
+[frustrated]
+
+And it's what, like seventy-five bucks now? For street cleaning? [scoff] Seventy-five dollars because I can't keep track of what day it is!
+
+[exasperated] [building to peak]
+
+Ugh, I swear this city is just designed to bleed you dry! Every week it's something! Parking tickets, meter fees, permit renewals— [huff] I'm basically paying rent twice at this point! This is insane!
+
+
+============================================================
+
+ITEM 539 - MONOLOGUE (245 words)
+
+Source: 0e4c8f9f
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+539 SCENARIO: Complaining about a broken umbrella, then the rain stops
+
+==================================================
+
+[frustrated]
+
+Oh my god, you will not believe the day I've had. So I'm walking to work this morning and it starts absolutely pouring, right? Like torrential downpour. And I pull out my umbrella— you know, the good one I got last year— and the second I try to open it, [groan] the whole thing just collapses on itself.
+
+[annoyed]
+
+Like the little, uh, the little metal bits that hold it up? They just snapped. So now I'm standing there in the rain holding what's basically a wet cloth on a stick, getting completely soaked. My hair, my jacket, everything. I looked like a drowned rat by the time I got to the office.
+
+[irritated]
+
+And of course everyone's like "Oh you're all wet!" Yeah, thanks for the observation, Karen. Really helpful. I had to sit through three meetings looking like I'd been— I don't know, like I'd been swimming or something. So unprofessional.
+
+[trailing off] [quieter]
+
+I keep thinking I should just buy a new one but that umbrella wasn't cheap and it's only like eight months old, so... 
+
+Wait. [pause] [surprised]
+
+Oh. Huh. It's— it's actually stopping. The rain. Right now. [small laugh] Look at that, the sun's coming out.
+
+[amused] [slightly sheepish]
+
+You know what? Maybe I don't even need that stupid umbrella. [chuckle] Classic, right? Complain about the rain and it stops the second I— yeah, okay, universe. Point taken.
+
+
+============================================================
+
+ITEM 540 - MONOLOGUE (313 words)
+
+Source: 0eb96651
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+540 SCENARIO: Casually talking about a coupon they meant to use, then checking its expiration, then seeing it expired this morning, ending in coupon timing frustration
+
+==================================================
+
+[casual]
+
+Oh, you know what, I, um, I totally meant to use this coupon today when I was at Target. I had it in my, uh, my wallet the whole time and just— just completely forgot about it until I was already in the car. [light laugh] You know how it is.
+
+[matter-of-fact]
+
+It was for like, um, twenty percent off or something? Which, I mean, not huge but still— still would've been nice, you know? I bought a bunch of, uh, cleaning stuff and some— some random things for the kitchen, so it would've, um, it would've added up.
+
+[conversational]
+
+Actually, hang on, let me— let me just check when this thing expires. Maybe I can, um, use it next time I go. I think it was good for like, uh, a week or something? [rustling] Where is— oh, here it is.
+
+[slight concern]
+
+Okay so it says... um... expires March... wait, what's today? Today's the, uh, the fifteenth, right? And this says— [pause] oh no, this says it expired— it expired this morning? Like, um, like literally this morning?
+
+[building frustration]
+
+Are you— are you kidding me right now? I had it! I, uh, I literally had it right there in my hands when I was checking out! The cashier was right— she was right there, I could've just— [groan] This morning! This freaking morning!
+
+[exasperated] 
+
+Twenty dollars! I could've saved twenty dollars if I had just— if I had just remembered to look at the stupid— [huff] Why do they make these things expire so fast? Like, um, like what is the point of even— [frustrated sigh] I swear these companies just— they just want you to forget! That's the whole— the whole scam!
+

@@ -1,0 +1,303 @@
+ACTOR LINE ASSIGNMENTS - 55 ITEMS (~1909 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :  1909 words (100.0%)
+
+  TOTAL                 :  1909 words
+
+============================================================
+
+============================================================
+
+ITEMS 101-110 - GENERAL TAGS (384 words)
+
+Script: 4c481df5_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+101 Character 1: [nervously] Mr. Whiskers has been eating well, really well actually. [defensive tone] He just loves his treats so much, and [trailing off] those eyes when he begs... [Soft sigh] I know I shouldn't give in every time he meows.
+
+Character 2: [stern] Twenty-eight pounds for a domestic shorthair is dangerously obese. [increasingly firm] His joints are suffering, his heart is working overtime. [Pause] [coldly] How many treats exactly are we talking about here? This isn't love—it's harmful negligence.
+
+102 Character 1: [guilty whisper] Maybe... five or six times a day? [getting faster] But they're the small ones, the salmon flavored ones he adores! [Nervous laugh] He follows me everywhere, purring and rubbing against my legs until I cave in completely.
+
+Character 2: [Exasperated sigh] Five or six TIMES? [louder] That's essentially full meals between meals! [measured tone] Look at this chart—your cat should weigh twelve pounds maximum. [firmly] We're talking about diabetes, arthritis, and potentially fatal liver disease here.
+
+103 Character 1: [quivering] I had no idea it was that serious. [more quietly] After my divorce, he's been my only companion, and [voice breaking] food seemed to make him happy. [Shaky breath] I guess I was feeding my own loneliness through him.
+
+Character 2: [softer] I understand pets become emotional anchors during difficult times. [professional tone] But genuine care means making hard choices. [Pause] [gently] Would you rather have him happy for two years or healthy for ten more? Think about that carefully.
+
+104 Character 1: [determined] You're absolutely right, I need to change this immediately. [worried tone] But won't he hate me when I cut his food? [increasingly anxious] What if he stops sleeping on my bed or greeting me at the door?
+
+Character 2: [reassuring] Cats adapt better than we think they will. [more firmly] Start with measured portions, no free feeding whatsoever. [Slight chuckle] He'll protest dramatically for two weeks, then accept the new normal. [clinically] Trust the process, not the meowing.
+
+105 Character 1: [hopefully] Could I at least give him one tiny treat for being good? [pleading tone] Maybe after he uses his scratching post or [voice rising] comes when called? [Nervous giggle] He does know about fifteen different tricks I've taught him!
+
+Character 2: [impressed whisper] Fifteen tricks? [normal volume] That's actually excellent for exercise and mental stimulation! [enthusiastically] Yes, one small treat for tricks is acceptable. [more serious] But break them in half—he won't know the difference, trust me on this.
+
+106 Character 1: [relieved] Oh thank goodness, I thought you'd ban everything completely! [eagerly] Should I buy special diet food, or those [mumbling] expensive prescription brands? [Worried laugh] My sister says her cat lost weight eating only wet food twice daily.
+
+Character 2: [precisely] Prescription diet food would be ideal for now, yes. [instructive tone] Wet food does help with satiation and hydration. [Pause] [warmer] Your sister's right about that. [firmly] But portion control remains the absolute key to success here.
+
+107 Character 1: [hesitant] What about those puzzle feeders I've seen online? [more excited] The ones where cats have to work for kibble? [questioning tone] Mr. Whiskers is pretty smart, though [Soft chuckle] sometimes too smart for his own good actually.
+
+Character 2: [enthusiastic] Puzzle feeders are brilliant for weight loss! [professionally] They slow eating, provide mental stimulation, and increase activity. [more animated] Get three different types and rotate them. [Pleased hum] Your clever cat will burn calories just thinking about dinner.
+
+108 Character 1: [sheepishly] I suppose I should probably stop leaving bowls everywhere too. [guiltier] There's one in the bedroom, kitchen, [trailing off] living room... [Heavy sigh] basically wherever he likes to nap, which is literally everywhere in my apartment.
+
+Character 2: [shocked] Multiple feeding stations? [disbelieving tone] No wonder he's gained so much weight rapidly! [strictly] One bowl, one location, set feeding times only. [Pause] [more gently] Making him walk to eat is exercise he desperately needs right now.
+
+109 Character 1: [resigned] Alright, I'll do whatever it takes to help him. [emotional] He deserves better than what I've been doing. [steadier voice] When should we schedule the next weigh-in? [Hopeful breath] Maybe we'll see some progress by then?
+
+Character 2: [encouraging] That's the attitude I want to hear! [businesslike] Come back in exactly one month for monitoring. [warmly] Even two pounds lost makes a huge difference. [Pause] [confidently] You'll both adjust faster than you think, I promise.
+
+110 Character 1: [grateful whisper] Thank you for not judging me too harshly. [stronger] I really do love him more than anything. [determinedly] Starting tomorrow, Mr. Whiskers begins his fitness journey! [Nervous laugh] Wish us luck with the midnight meowing protests.
+
+Character 2: [amused] Earplugs help during the adjustment period, believe me. [sincerely] You're taking responsibility, and that's commendable. [professional tone] Remember—you're saving his life, not punishing him. [Soft chuckle] See you both in thirty days, hopefully several pounds lighter!
+
+============================================================
+
+ITEMS 111-120 - GENERAL TAGS (338 words)
+
+Script: 0c53a90e_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+111 Character 1: [pompously] Welcome to my humble abode! [chuckle] Four bedrooms, three baths, and [getting louder] a kitchen that would make Gordon Ramsay weep. Did I mention the heated floors? [smugly] My toes haven't been cold since Tuesday.
+
+Character 2: [flatly] Wow, heated floors. [quieter] Meanwhile, my radiator sounds like it's dying. [Bitter laugh] But hey, at least my landlord fixed the leak last month—only took him three weeks and four angry voicemails.
+
+112 Character 1: [in a sing-song voice] Oh, speaking of landlords, [triumphantly] I don't have one anymore! [Deep satisfied sigh] Just me, myself, and my mortgage. Want to see the master suite? [excitedly] The walk-in closet is bigger than your entire bedroom.
+
+Character 2: [sarcastically] How delightful for you. [Dry chuckle] I share my closet with the water heater. [more bitterly] Sometimes at night, it gurgles like it's mocking me. [slower] "You'll never escape," it says.
+
+113 Character 1: [dismissively] You're so dramatic! [Hearty laugh] Look at this view though—[in awe] mountains, trees, not a single neighbor in sight. [bragging] The previous owners practically begged me to take it off their hands.
+
+Character 2: [tiredly] My view is spectacular too. [Snort] A brick wall and Mrs. Henderson's underwear drying on her fire escape. [getting angrier] She uses the same clothesline for her cat's toys. [disgusted] The aesthetic is truly unmatched.
+
+114 Character 1: [condescendingly] You should really consider buying. [faster] The market's only going up, up, up! [Gleeful cackle] My equity has already increased by fifteen percent. [whispered] That's basically free money just sitting there.
+
+Character 2: [explosively] Free money? [Hollow laugh] I need three jobs just to make rent! [quieting down] My savings account has twelve dollars. [defeated whisper] Twelve. I bought a sandwich yesterday and had an existential crisis.
+
+115 Character 1: [obliviously cheerful] Check out my home office! [proudly] Custom built-ins, ergonomic everything. [Contented sigh] Working from home feels like a vacation now. [boastfully] The accountant said I can write off half of it!
+
+Character 2: [monotone] I work from my kitchen table. [Frustrated groan] It wobbles. [building anger] My roommate makes smoothies during my Zoom calls. [through gritted teeth] Nothing says professional like the sound of crushing ice during quarterly reports.
+
+116 Character 1: [in a pitying tone] Maybe you need a better job? [thoughtfully] I could put in a word at my firm. [Soft chuckle] Though they do require a certain... [trailing off] presentation standard, you know?
+
+Character 2: [incredulous] Presentation standard? [Harsh laugh] You mean not looking like I live in a glorified shoebox? [sarcastically sweet] How kind of you to notice. [venomously] Should I mention your cocaine Thursdays from college on my reference?
+
+117 Character 1: [nervously] That was different times! [defensive] Besides, look where I am now. [Clearing throat] Success requires sacrifice. [pontificating] You just need to prioritize, save better, maybe skip the daily lattes or whatever.
+
+Character 2: [eerily calm] I don't buy lattes. [Hysterical giggle] I eat ramen twice a day. [building rage] But please, tell me more about sacrifice. [shouting] Was giving up avocado toast your Vietnam?
+
+118 Character 1: [backpedaling] I didn't mean it like that. [awkwardly] Want to see the pool? [trying to lighten mood] It has a waterfall feature! [weakly enthusiastic] The previous owners left their floaties—little flamingo ones!
+
+Character 2: [exhaustedly] A pool. [Defeated sigh] I pay extra to use the laundromat. [hollowly] Twenty-five cents for five more minutes of hot water in my shower. [whispering] But sure, tell me about your flamingo floaties.
+
+119 Character 1: [uncertainly] The garage fits three cars. [quieter] Not that I need three spaces. [Nervous laughter] It's mostly storage now, boxes of things I don't even remember buying. [mumbling] Probably should donate some stuff.
+
+Character 2: [suddenly bright] Three cars! [Manic laugh] I take two buses to get here. [sardonically] The second one smells like despair and cheese. [deadpan] Sometimes I can't tell which is which anymore.
+
+120 Character 1: [guilty] Look, I know it seems like a lot. [hesitantly] But I worked hard for this. [Defensive huff] Seven years of saving, no vacations. [quietly] My parents did help with the down payment though.
+
+Character 2: [explosively] Your parents helped? [Incredulous shriek] Of course they did! [more calmly] Mine sent me a twenty-dollar Applebee's gift card for my birthday. [Weary sigh] I've been saving it for a special occasion—like eviction.
+
+============================================================
+
+ITEMS 121-125 - GENERAL TAGS (184 words)
+
+Script: _A_used_4b9e2889_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [gleefully] Would you look at all this! [Cackling] We must've cleaned out half the express car. [louder] Count it again, Jesse—I swear there's more gold than we thought, and those fancy pocket watches are worth a fortune!
+
+121 Character 2: [excited whisper] Shhh, keep it down! [chuckling] But Lord almighty, you're right. [in disbelief] There's got to be ten thousand here easy. That conductor's face when we rode off—priceless! Never seen a man turn quite that shade of purple.
+
+Character 1: [low and menacing] Purple? [Explosive laugh] He went white as Sunday sheets when I fired into the ceiling! [proudly] Best acting I've done since we hit that stage in Tucson. Pass me those bills, the ones tied with string.
+
+122 Character 2: [greedily] These crispy hundreds? [Snorting] They're beautiful. [slower, savoring] Fresh from the Denver mint, still smell like ink. Remember when we were eating beans from a can? Now we're drowning in more money than God himself!
+
+Character 1: [nostalgic] Beans and hardtack. [Bitter laugh] Those days are dead and buried, partner. [building excitement] Tonight we feast like kings! Champagne, steaks thick as bibles, maybe even one of those fancy hotel rooms with the copper bathtubs.
+
+123 Character 2: [dreamily] A real bed... [Sighing] Clean sheets that don't smell like trail dust. [more energetically] But first, we split this proper. Your cut, my cut, and something for the horses—they earned their oats today, outrunning that posse!
+
+Character 1: [suspicious] Hold on now. [harsh whisper] What's this heavy leather pouch hiding back here? [Gasp] Uncut diamonds! Must be twenty, maybe thirty stones. Some railroad baron's going to be crying into his brandy tonight, that's certain!
+
+124 Character 2: [hushed awe] Diamonds... [nervously] That changes everything. [quicker pace] We can't fence these in town—too hot. My cousin in San Francisco, though, he knows people. These little beauties could set us up permanent-like, no more running.
+
+Character 1: [contemplative] San Francisco. [Soft chuckle] Always wanted to see the ocean. [firmly] But we lay low first, split up for a month. Meet at that saloon in Amarillo—the one with the redhead piano player who can't carry a tune.
+
+125 Character 2: [warmly] Deal, partner. [Hearty laugh] Forty-sixty split like always? [teasing] Or should I remind you who sweet-talked that nervous bank teller into opening the safe? Your charm couldn't melt butter in July, and you know it!
+
+============================================================
+
+ITEMS 126-135 - GENERAL TAGS (341 words)
+
+Script: 8cf2a140_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+126 Character 1: [breathless] We made it, Sarah. [voice breaking] The summit of K2. [Choking sob] After everything, after losing Marcus and Chen, we actually made it to the top of this goddamn mountain.
+
+Character 2: [trembling whisper] Don't say their names. [louder] Not yet. [Gasping breath] I keep thinking I'll turn around and see Marcus grinning behind us with that stupid joke ready about altitude sickness.
+
+127 Character 1: [bitter laugh] He would've loved this view. [quieter] Remember how he used to say the mountain chooses who stays? [voice cracking] I guess it chose us to carry their memory up here instead.
+
+Character 2: [angrily] The mountain didn't choose anything! [softer now] The avalanche took them. [Long exhale] We're standing on their dream right now, breathing air they'll never taste again at twenty-eight thousand feet.
+
+128 Character 1: [hollow tone] I can't even celebrate. Every photo we take, every flag we plant—[more desperately] it feels like betrayal. [Shuddering breath] How do we go home and tell their families we made it without them?
+
+Character 2: [firmly] We tell them the truth. [voice wavering] That Chen saved my life with that rope. [almost inaudible] That Marcus pushed you out of the avalanche path. They died as heroes, not victims, you understand?
+
+129 Character 1: [through tears] Heroes. [sarcastically] Right. [Broken whisper] Heroes who froze to death while we kept climbing. I haven't slept since we left them—their faces keep appearing in the ice formations around me.
+
+Character 2: [defensive shout] We couldn't carry them! [pleading] You know we couldn't. [Ragged breathing] The weather window was closing, and staying meant we'd all die. Marcus would've pushed us forward himself—you know that.
+
+130 Character 1: [numbly] My fingers are frostbitten. [with sudden intensity] Look at them—black like the void that swallowed our friends. [Hysterical laugh] Maybe it's the mountain's way of making sure I never forget what reaching paradise cost us.
+
+Character 2: [gentle but firm] Stop torturing yourself. [more forcefully] They knew the risks! [Controlled breath] Every mountaineer who attempts K2 writes their will first. Chen made me promise to summit if anything happened to him.
+
+131 Character 1: [accusingly] You promised Chen? [voice rising] When? During those last moments while he was slipping away, or before, when we all pretended this wouldn't happen? [Bitter chuckle] Promises to dead men are just guilt dressed prettier.
+
+Character 2: [hurt] That's not fair. [steadier] He made me promise at base camp, actually. Said his daughter should know her father's friends were strong enough to finish what they started together. [voice catching] Strong enough.
+
+132 Character 1: [exhausted whisper] I'm not strong. [slightly louder] I'm empty, Sarah. [Weeping] Standing on top of the world should feel like something, but all I feel is the weight of two ghosts on my shoulders.
+
+Character 2: [raw emotion] Then we carry them down. [more determined] Every step back to base camp, we carry their memory. [Sharp intake] Their families deserve to know they made it here through us, even if—
+
+133 Character 1: [interrupting loudly] Even if what? [quieter now] Even if we left them buried under tons of ice? [Sob] God, I can still hear Marcus screaming my name before the silence hit us like death itself.
+
+Character 2: [shaking] I hear Chen too. [firmly] Every night. [voice dropping] But standing here means their struggle meant something. This summit belongs to all four of us, not just the two still breathing this thin air.
+
+134 Character 1: [resigned] You're right. [stronger] You're right. [Deep breath] We should take their photos out, place them here at the summit marker. Let them see what they died trying to reach—one last moment together.
+
+Character 2: [crying freely] Yes. Here, I have Chen's. [reverent whisper] His wife gave it to me. [steadying] Marcus's too—his sister insisted I carry it. Look how young they were in these pictures, before mountains called them.
+
+135 Character 1: [wonderingly] The sun's breaking through. [emotional] Right as we placed their photos. [Choked laugh] Marcus always did have perfect timing. Maybe they're telling us it's okay, that we did what we had to do up here.
+
+Character 2: [peaceful exhaustion] Time to go down. [with finality] We've got stories to tell and promises to keep. [Quiet sob] But first, let's sit here for just one more minute—all four of us, together at the top.
+
+============================================================
+
+ITEMS 136-145 - GENERAL TAGS (338 words)
+
+Script: _A_used_2510ee8a_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [devastated] My life is completely over! [voice breaking] The coffee shop ran out of oat milk, and I had to use regular milk in my latte. [wailing] How am I supposed to function today with dairy destroying my entire digestive system?
+
+136 Character 2: [flat] You're lactose intolerant now? [skeptical] Since when? [deadpan] I literally watched you eat an entire cheese pizza last night while crying over that Netflix show about the woman who talks to ghosts.
+
+Character 1: [dramatically gasping] That was different! [whimpering] Pizza cheese doesn't count because it's... it's comfort food! [building hysteria] But coffee is sacred, and now my whole morning routine is ruined forever and I'll probably die!
+
+137 Character 2: [monotone] Right. [slower] You're going to die from one tablespoon of milk. [sarcastically] Should I call your mom and tell her to start planning the funeral, or do you want to handle that yourself?
+
+Character 1: [trembling whisper] You don't understand the psychological damage! [getting louder] I specifically chose that coffee shop because they respect dietary preferences! [shouting] This betrayal cuts deeper than when Jennifer stole my parking spot last Tuesday!
+
+138 Character 2: [tired sigh] Jennifer has a broken leg. [matter-of-fact] She has a handicapped permit. [increasingly annoyed] You parked in the handicapped spot illegally and got towed, remember? That wasn't theft, that was karma.
+
+Character 1: [defensive shriek] Details! [quieter, sulking] The point is that everything is against me today. [building drama again] First the milk catastrophe, then I broke a nail, and now you're being completely heartless about my suffering!
+
+139 Character 2: [dry laugh] A broken nail? [disbelieving] Call the emergency services. [more sarcastic] I'm sure they have a special unit for cosmetic emergencies that will rush right over with their nail glue and tiny files.
+
+Character 1: [sobbing dramatically] See? [hiccupping] This is exactly why I can't share my feelings with you! [accusatory] When YOUR favorite pen ran out of ink, I was there for you! I listened! I cared!
+
+140 Character 2: [slightly louder] That pen was a limited edition from Japan! [defensive] It cost me eighty dollars! [returning to deadpan] Your nail will literally grow back in two weeks for free. These situations are not remotely comparable.
+
+Character 1: [wounded gasp] How can you put a price on emotional trauma? [pleading] My grandmother gave me these nails! [softer, manipulative] Well, she gave me the DNA that grows them, which is basically the same thing!
+
+141 Character 2: [long exhale] Your grandmother has been dead for three years. [slowly, deliberately] She did not give you those acrylic extensions. [firm] You got them done at that sketchy place in the mall last weekend for fifteen dollars.
+
+Character 1: [indignant squeal] They're gel, not acrylic! [huffing] And it was twenty dollars! [dejected moan] But fine, minimize my pain. When I'm hospitalized for calcium deficiency from avoiding dairy forever, don't come visit me!
+
+142 Character 2: [amused snort] Calcium deficiency? [steadily] From one cup of coffee? [laughing quietly] You do realize vegetables have calcium too, right? Or are you also suddenly allergic to broccoli and all leafy greens?
+
+Character 1: [mysteriously] You know what? [building suspense] I might be! [dramatic revelation] Maybe I'm developing multiple food sensitivities because of the stress you're causing me right now with your complete lack of empathy!
+
+143 Character 2: [bored] Cool. [pause] Starve then. [dismissively] I'm sure your funeral will be very well-attended by all the other people who've died from temporary oat milk shortages and broken nail emergencies.
+
+Character 1: [fake cheerful] Fine! [bitterly] I'll just suffer alone! [melodramatic whisper] Like I always do, carrying the weight of this cruel, dairy-filled world on my lactose-intolerant shoulders while everyone else lives in ignorant bliss!
+
+144 Character 2: [slight chuckle] Ignorant bliss? [normally] I have actual problems. [frustrated exhale] My car needs new tires, my rent went up, and my boss is making me work weekends. But sure, let's focus on your milk crisis.
+
+Character 1: [immediately sympathetic] Oh my god, your rent went up? [excited squeal] Why didn't you say something? [rapidly] We should totally move in together and split the cost! Think of all the money we'd save!
+
+145 Character 2: [horrified] Absolutely not. [quickly] I'd rather pay double rent. [firmly] Living with you would mean daily emergencies about expired yogurt, wrong-colored towels, and whatever else you decide is literally killing you that particular morning.
+
+============================================================
+
+ITEMS 146-155 - GENERAL TAGS (324 words)
+
+Script: 8c20f0d2_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+146 Character 1: [defensive] Yeah, I still smoke, so what? [faster] It's not like I'm chain-smoking or anything crazy. [Nervous laugh] Just a few here and there when I'm stressed, you know how work gets.
+
+Character 2: [concerned] Oh, I totally understand the stress thing. [enthusiastically] But honestly, quitting was the best decision I ever made! [Deep breath] My lungs feel amazing, I can actually taste food again—it's incredible!
+
+147 Character 1: [irritated] Good for you, really. [Sarcastic chuckle] Some of us still enjoy our little vices though. [quieter] Not everyone needs to be perfect all the time, despite what your yoga instructor might say.
+
+Character 2: [hurt tone] I'm not trying to be preachy! [more eagerly] I just care about you, that's all. [Soft sigh] Remember when we used to smoke together on your balcony, talking until sunrise?
+
+148 Character 1: [wistfully] Of course I remember. [sharper] But that was before you became the poster child for clean living. [Bitter laugh] Now you can't even stand being around me when I light up.
+
+Character 2: [apologetic whisper] That's not fair and you know it. [louder] The smell just makes me nauseous now! [Excited gasp] But hey, have you tried those nicotine patches? They really helped me through the worst cravings.
+
+149 Character 1: [Exasperated groan] Patches, gum, vaping—I've heard it all before. [mockingly sweet] Maybe I actually like smoking? [firm voice] Maybe it's one of the few things that still feels like me anymore.
+
+Character 2: [gentle] I get that, I really do. [increasingly passionate] But you're literally paying companies to kill you slowly! [Nervous laugh] Sorry, that came out wrong—I just worry about losing you to this.
+
+150 Character 1: [coldly] We're all dying slowly anyway. [Heavy sigh] At least I'm enjoying the journey, unlike some people who replaced cigarettes with sanctimony. [mumbling] Miss the old you who didn't judge every single choice.
+
+Character 2: [voice breaking] You think I wanted to become this person? [frustrated shout] Watching my dad die from lung cancer changed everything! [Shaky breath] Every cigarette you smoke reminds me of his last horrible months.
+
+151 Character 1: [shocked whisper] I didn't know about your dad. [remorseful] Why didn't you tell me? [Long pause] God, I'm such an ass—here I am making this all about me and my stupid pride.
+
+Character 2: [tearfully] It happened right after I quit, actually. [steadier] That's why I get so intense about it. [Soft chuckle] I know I'm annoying, but I can't help seeing him in every smoker now.
+
+152 Character 1: [warmly] You're not annoying, you're grieving. [more seriously] I should have asked why this mattered so much instead of getting defensive. [Thoughtful hum] Maybe we could find middle ground somewhere that doesn't involve lectures?
+
+Character 2: [relieved laugh] Middle ground sounds perfect. [hopeful tone] How about I stop preaching if you promise to just think about cutting back? [quickly] Not quit, just maybe smoke one less a day?
+
+153 Character 1: [amused] One less cigarette in exchange for zero health sermons? [playfully suspicious] Seems almost too good to be true. [Genuine laugh] But yeah, I can probably manage that without having an existential crisis.
+
+Character 2: [excitedly] Deal! [calming down] And maybe we can hang out more often without this weird tension? [nostalgic whisper] I miss just talking about normal stuff, like terrible reality TV and your dating disasters.
+
+154 Character 1: [Loud cackle] Oh god, my dating life! [groaning] Still a complete dumpster fire, thanks for asking. [cheerfully] Last week's guy showed up drunk and called me by his ex's name three times.
+
+Character 2: [horrified gasp] Three times?! [laughing harder] How do you even stay for the third one? [mockingly romantic] "Oh Jennifer—I mean Sarah—I mean... what's your name again?" That's when you run!
+
+155 Character 1: [through laughter] The appetizers hadn't arrived yet! [more seriously] A girl's gotta eat, even if her date's a disaster. [Snorting laugh] Plus, watching him try to recover was genuinely entertaining dinner theater.
+
+Character 2: [fondly] This is what I missed most. [gentle tone] Not the smoking or the preaching, just us being ridiculous together. [hopeful] Same time next week? [quickly] I promise no health talks, just friend stuff.

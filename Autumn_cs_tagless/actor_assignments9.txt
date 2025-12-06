@@ -1,0 +1,115 @@
+ACTOR LINE ASSIGNMENTS - 20 ITEMS (~712 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  general_tags          :   712 words (100.0%)
+
+  TOTAL                 :   712 words
+
+============================================================
+
+============================================================
+
+ITEMS 416-425 - GENERAL TAGS (373 words)
+
+Script: 7ae68c21_script
+
+============================================================
+
+You are A; your role: Character 1
+
+--- FULL SCRIPT ---
+
+416 Character 1: [worried] Dad, we need to talk about your driving. [pause] Yesterday Mrs. Chen called—she saw you go through that stop sign on Maple Street. [quieter] I'm concerned about your safety, and honestly, everyone else's too.
+
+Character 2: [defensive] That woman needs new glasses! [louder] I've been driving since before you were born, kiddo. One little mistake and suddenly [bitter laugh] everyone thinks I'm senile. My reflexes are perfectly fine, thank you very much.
+
+417 Character 1: [gently] It's not just one mistake though. [hesitant] Remember last month? [faster] The fender bender at the grocery store, mixing up the gas and brake pedals? These things are happening more frequently, and I'm scared you'll get hurt.
+
+Character 2: [grumbling] That parking lot was poorly designed. [indignant huff] Any fool could see those spaces were too narrow! Besides, insurance covered everything. [firmly] I need my car to get around—what am I supposed to do, sit home all day?
+
+418 Character 1: [pleading tone] There are other options, Dad. [more enthusiastically] The senior center runs shuttles, there's that new ride service for older adults, and [softer] I can drive you anywhere you need to go. We'll figure this out together.
+
+Character 2: [sarcastic] Oh wonderful, being chauffeured around like some invalid! [sharp exhale] Your mother would roll over in her grave. [trembling] She always said getting old meant losing everything bit by bit—first your friends, then your freedom.
+
+419 Character 1: [choking up] Mom would want you safe. [steadier] What if you hit someone else's child, Dad? [very quiet] Could you live with that? I'm not trying to take away your independence; I'm trying to protect what matters most.
+
+Character 2: [wounded] You think I'm dangerous. [long sigh] My own child thinks I'm a menace to society. [more forcefully] Well, I passed my license renewal just fine last year! The DMV didn't see any problem with my driving, did they?
+
+420 Character 1: [frustrated] The DMV test doesn't check for reaction time in real traffic! [calming down] Look, what if we compromise? [hopefully] Maybe you could drive just during daylight hours, only to familiar places? We could practice together first.
+
+Character 2: [considering] Practice together? [offended snort] Like I'm sixteen again? Though I suppose... [trailing off] daylight driving isn't unreasonable. But I'm keeping my keys, and this discussion about giving up driving completely is over.
+
+421 Character 1: [relieved exhale] That's a start, Dad. [carefully] How about we also schedule an appointment with Dr. Morrison? [quicker] Sometimes medications can affect driving ability—it's worth checking if any adjustments might help you feel more confident behind the wheel.
+
+Character 2: [suspicious] You've already talked to him, haven't you? [accusatory] This whole thing is a conspiracy! [deflating] Fine, I'll see the doctor, but only because my back's been acting up anyway, not because you think I'm incompetent.
+
+422 Character 1: [hurt] It's not about competence, it's about changes that happen to everyone. [more firmly] You taught me to face hard truths, remember? [gentle again] That lesson you gave me about responsibility? I'm trying to follow it now.
+
+Character 2: [quiet recognition] You always were too smart for your own good. [wistful chuckle] Using my own words against me now. [sighing] Your mother did the same thing when she wanted something. Alright, we'll try your compromise for a month.
+
+423 Character 1: [warmly] Thank you, Dad. [earnest] I know this is hard—giving up even a little control feels like losing yourself. [softer still] But you're not losing anything that matters. You're still you, still my stubborn, wonderful father.
+
+Character 2: [gruff affection] Don't get all sentimental on me now. [clearing throat] One month, daylight only, familiar routes. [warning tone] But if I feel fine after that, we're revisiting this whole arrangement. I won't be treated like a child forever.
+
+424 Character 1: [agreeing quickly] Absolutely, one month trial. [brightening] Hey, remember teaching me to drive in that old station wagon? [laughing] You were so patient, even when I knocked over three trash cans in one day. That patience inspired me.
+
+Character 2: [amused rumble] Three? It was five! [more animated] You cried for twenty minutes, convinced you'd never learn. [fondly] But you did learn, eventually. Became a better driver than your brother ever was, that's for certain.
+
+425 Character 1: [thoughtfully] Maybe that's why this conversation matters so much to me. [emotional] You taught me that knowing when to be cautious is just as important as knowing when to be brave. [steadying] This is me being both, Dad.
+
+Character 2: [long pause] Your mother would be proud of you, standing up to your old man like this. [resigned sigh] Alright, you win. [quietly firm] One month, then we'll reassess. But I'm driving myself to church this Sunday—daylight, familiar route.
+
+============================================================
+
+ITEMS 426-435 - GENERAL TAGS (339 words)
+
+Script: _A_used_778f0795_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: [defensive] Oh wow, you look great as always. [bitter laugh] I've been trying this new diet, but [trailing off] work's been so stressful that I keep breaking it. [quietly] Emotional eating is real, you know?
+
+426 Character 2: [oblivious] Thanks! I've actually lost weight recently—[surprised] totally by accident! [cheerfully] I've been so busy with my pottery classes that I literally forget to eat sometimes. [giggle] Isn't that funny?
+
+Character 1: [forced smile] Forget to eat? [incredulous] How does someone just forget? [getting louder] I think about food constantly—planning meals, counting calories, avoiding temptation. [sarcastic] Must be nice living in that magical world.
+
+427 Character 2: [innocently confused] It's weird, right? [thoughtful] Yesterday I realized at 8 PM that all I'd had was coffee. [amazed whisper] My body just doesn't send hunger signals sometimes. [casually] I had to force myself to eat something.
+
+Character 1: [Sharp exhale] Force yourself. [more bitterly] Meanwhile, I ate a salad for lunch and was starving an hour later. [frustrated growl] My metabolism is completely broken from years of yo-yo dieting. [defeated] Nothing works anymore.
+
+428 Character 2: [sympathetic but clueless] Oh no, that sounds hard! [brightening] Have you tried intuitive eating? [enthusiastically] I just eat whatever my body wants, whenever it wants it. [dreamy sigh] It's so freeing and natural!
+
+Character 1: [tense laughter] Intuitive eating? [sarcastically slow] My intuition says eat an entire pizza at midnight. [voice cracking] That's what got me here in the first place. [mumbling] Some of us don't have naturally thin intuition.
+
+429 Character 2: [awkwardly] I didn't mean—[gentle voice] everyone's different, I guess. [trying to help] Oh, my trainer says muscle burns more calories! [perky] Maybe you could try weight lifting? [hopefully] It's actually really fun once you start!
+
+Character 1: [exhausted tone] I've tried everything—trainers, keto, intermittent fasting. [building frustration] Spent thousands of dollars on programs and supplements. [hollow laugh] But sure, maybe weight lifting is the magic answer. [whispered] Just like everything else was supposed to be.
+
+430 Character 2: [uncomfortable silence] I'm sorry. [quieter] I know I don't really get it. [sincerely] My mom always said I have my dad's metabolism—[nervous laugh] we're all string beans in his family. Genetic lottery, I guess.
+
+Character 1: [long sigh] Genetic lottery. [more firmly] That's exactly what it is. [emotional] While you win that lottery, I'm fighting biology every single day. [voice breaking] And losing. Over and over again.
+
+431 Character 2: [guilty whisper] You're not losing anything—you're beautiful. [rushed words] Weight doesn't determine worth, you know that, right? [gentle but awkward] Besides, you always look so put-together and confident. [trailing off] I admire that about you.
+
+Character 1: [bitter snort] Put-together? [incredulous whisper] I spend forty minutes every morning choosing clothes that hide my stomach. [getting faster] Confident is just code for "carries herself well for her size." [tired] But thanks, I guess.
+
+432 Character 2: [hurt] That's not what I meant at all. [defensive] I was being genuine! [softer] Look, maybe we should change the subject? [hopeful voice] Did you see that new show everyone's talking about?
+
+Character 1: [dry laugh] Sure, let's change the subject. [sarcastically sweet] Right after you ordered that green juice because you're "too full" from forgetting to eat. [sighing] Yes, I saw the show. [flatly] It was fine.
+
+433 Character 2: [meekly] I can order something else. [uncertain] Maybe we could share those truffle fries you like? [trying too hard] Or that chocolate lava cake! [nervous giggle] I know you mentioned craving chocolate earlier this week.
+
+Character 1: [suspicious tone] Why would you order something you don't want? [accusingly] To make me feel better about eating? [louder] I don't need your pity fries, Sarah. [controlled anger] I'm capable of ordering my own food.
+
+434 Character 2: [flustered] No, I just thought—[giving up] Never mind. [quietly resigned] I'll have the juice. [mumbling] And maybe we could talk about literally anything else? [pleading] Please? This used to be easier between us.
+
+Character 1: [softening slightly] You're right. [heavy sigh] I'm sorry, I'm being awful. [ashamed whisper] It's just hard when everything feels so effortless for you. [steadier] Let's talk about that show—did you like the plot twist?
+
+435 Character 2: [relieved exhale] The twist was insane! [warming up] I didn't see it coming at all. [gentle laugh] And hey, nothing about friendship is effortless—[sincerely] including ours. [warmly] But you're worth the effort. Always have been.

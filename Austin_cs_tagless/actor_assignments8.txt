@@ -1,0 +1,619 @@
+
+470 Character 2: And I get both of those things, I really do. But I'm also kinda frustrated that you're more focused on being mad than on—whatever, forget it. I said I was sorry, my mom's okay now, can we just... move past this?
+
+Script: 80b60b0e_script | Role: Character 2 (B)
+
+Character 1: Where's my grandmother's necklace?
+
+471 Character 2: Oh god, okay—I know you're mad. I'm so so sorry, I meant to bring it back last week but then my car broke down and I—wait, that's not an excuse, I know.
+
+Character 1: You've had it for three months.
+
+472 Character 2: I know, I know! Three months is—that's inexcusable, honestly. I kept meaning to return it but then I'd forget and—[groan] no, that sounds terrible. I wasn't forgetting about YOU, I swear, just the actual act of bringing it.
+
+Character 1: Right.
+
+473 Character 2: Please don't—okay, I can hear how mad you are and you have every right to be. That necklace is literally irreplaceable and I just left it sitting in my jewelry box like it was nothing when it's—it's not nothing, obviously.
+
+Character 1: It was hers. The only thing I have left.
+
+474 Character 2: I know. God, I know and I feel like such an absolute—I'm the worst friend ever. Like genuinely, who borrows something that important and just... [nervous laugh] apparently me. I'm that person.
+
+Character 1: Yeah. You are.
+
+475 Character 2: I actually—I have it in my car right now. I've been carrying it around for two weeks trying to find the right time to apologize but there's no good time for "hey, sorry I'm basically the worst person alive," y'know?
+
+Character 1: Two weeks. In your car.
+
+476 Character 2: That sounds—okay that sounds bad when you say it like that. But I wrapped it really carefully! Like, it's in the original box, then bubble wrap, then another box. I was paranoid about it getting damaged so I kinda went overboard with the protection.
+
+Character 1: At least you thought about that.
+
+477 Character 2: Wait, does that—are you maybe like, slightly less furious? Because I will literally run to my car right now and get it. Actually, I'm gonna do that anyway—hold on, just give me two seconds.
+
+Character 1: Don't run. Just... get it.
+
+478 Character 2: No no, I'm running. I'm—actually I'm already halfway there. [slightly out of breath] I should've just brought it to your door the second I put it in my car but I was scared you'd slam it in my face. Which, um, fair.
+
+Character 1: I wouldn't slam the door on you.
+
+479 Character 2: You wouldn't? Even though I'm literally the most irresponsible—okay, getting it now. It's right here, perfectly safe. See? Not a single scratch or anything, I promise.
+
+Character 1: Thank you for keeping it safe. Even if you kept it too long.
+
+480 Character 2: I really am sorry. Like, deeply genuinely sorry. I know it's not just a necklace—it's your grandma and I should've treated it that way from the beginning. I'm just... I'm really sorry.
+
+--- EMPATHETIC PARTIAL ---
+
+--- BASIC SCENARIOS ---
+
+============================================================
+
+ITEM 481 - MONOLOGUE SELFTALK (202 words)
+
+Source: 00348d6d
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+481 SCENARIO: realizing they forgot to defrost the chicken
+
+==================================================
+
+[muttering to self]
+
+Okay, so dinner. I was gonna make that, um, that chicken thing tonight. The one with the— with the lemon and the, uh— [sigh] oh no. Oh no no no.
+
+[realization dawning]
+
+The chicken. The chicken is still in the freezer, isn't it? I was supposed to— I was supposed to take it out this morning before I left for work, and I just, um, I just completely—
+
+[slightly panicked]
+
+It's like a brick. It's gonna be like a solid brick of chicken, and I told everyone we're having dinner at six, and it's already— what time is it? It's already four-thirty, which means—
+
+[thinking out loud]
+
+Okay okay, so, um, cold water bath? That's a thing, right? You can, uh, you can put it in cold water and it defrosts faster? Or is that— is that not safe? I feel like my mom used to do that, but then again my mom also, like—
+
+[resigned but problem-solving]
+
+You know what, maybe we're just having pasta tonight. Or I could— I could cut it up while it's still, um, still partially frozen? That's probably fine. Probably. [nervous laugh] Everything's fine.
+
+
+============================================================
+
+ITEM 482 - MONOLOGUE SELFTALK (201 words)
+
+Source: 046de30d
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+482 SCENARIO: noticing the thing they threw away is now in the recycling
+
+==================================================
+
+[muttering]
+
+Wait, that's— that's weird. I literally just threw that away, like, ten minutes ago, and now it's— it's in the recycling bin. [confused] I mean, I'm pretty sure I put it in the, um, the regular trash, right? The little one by my desk?
+
+[slightly puzzled]
+
+Okay, so either I'm, uh, I'm losing my mind, or someone moved it. But who would— who would move my trash? That's so weird. [hmm] Unless— unless I just, like, autopiloted it into the wrong bin? I do that sometimes with, um, with the dishes and stuff.
+
+[thinking out loud]
+
+Let me think. I had that yogurt container, and I was, um, I was definitely gonna throw it away, but maybe I just— maybe my brain went "container equals recycling" and I just, uh, I just put it there without thinking?
+
+[slightly amused]
+
+That's probably— yeah, that's probably what happened. I'm not going crazy, I'm just, um, I'm just running on muscle memory. [chuckle] Which is, uh, which is actually kind of good? Like, at least my subconscious is being environmentally responsible.
+
+[trailing off]
+
+Still weird though. I could've sworn I...
+
+
+============================================================
+
+ITEM 483 - MONOLOGUE SELFTALK (189 words)
+
+Source: 075a7658
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+483 SCENARIO: realizing they missed a belt loop
+
+==================================================
+
+[muttering]
+
+Okay, so I'm, um— I'm looking in the mirror and something's just, like, off about this whole— this whole situation here. The belt looks weird, right? Like, it's doing this, uh, this weird twisty thing that belts shouldn't— shouldn't normally do.
+
+[puzzled]
+
+Wait, let me just— [sigh] oh. Oh, okay, I see what happened here. I missed a loop. I literally, um, I literally just walked right past one of the belt loops like it didn't exist. How do you even— how do you even do that?
+
+[slightly exasperated] 
+
+So now I have to, what, take the whole thing off and start over? Because I can't just— I mean, I could try to thread it back through, but that's gonna be all awkward and— [groan] no, that's not gonna work.
+
+[resigned but amused]
+
+This is, uh, this is exactly the kind of thing that happens when I'm rushing. I'm like, "belt, check," but it's not actually— it's not actually checked, is it? It's just, um, it's just belt-ish.
+
+[matter-of-fact]
+
+Alright, starting over. Take two of, uh, of basic adult skills.
+
+
+============================================================
+
+ITEM 484 - MONOLOGUE SELFTALK (223 words)
+
+Source: 0a17db7e
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+484 SCENARIO: deciding what to make for dinner with limited ingredients
+
+==================================================
+
+[muttering]
+
+Okay, so, um, dinner. I need to make dinner and I have, uh, I have literally nothing in this fridge. Well, not nothing, but like— [sigh] what is this even? Half a bell pepper, some, um, some sad looking carrots, and— oh, there's rice. There's always rice.
+
+[slightly more upbeat]
+
+Okay so rice, that's, uh, that's a start. Rice is good. Rice is— rice is reliable. And I've got, um, let me see what else... [hmm] there's that can of beans I bought like two weeks ago. Black beans? Yeah, black beans. That could work, right?
+
+[uncertain]
+
+So like, rice and beans, that's a thing people make. That's a, um, a real meal that real people eat. I could just— I could throw in the pepper and the carrots and call it, uh, call it a stir-fry situation? Is that what that is?
+
+[picking up speed]
+
+Wait, wait, do I have any, um, any spices that would make this not completely boring? Because plain rice and beans is just— that's just sad. That's like college sad.
+
+[resigned but accepting]
+
+You know what, um, some garlic powder, maybe some cumin if I can find it... it'll be fine. It'll be, uh, it'll be perfectly adequate. [soft laugh] Adequate dinner, coming right up.
+
+
+============================================================
+
+ITEM 485 - MONOLOGUE SELFTALK (217 words)
+
+Source: 0abd8739
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+485 SCENARIO: realizing they forgot their work badge
+
+==================================================
+
+[muttering]
+
+Okay, so I'm, um— I'm at the door, and I need my— where's my badge? My work badge. I always, uh, I always clip it right here on my— [sigh] it's not there.
+
+[slightly panicked]
+
+Wait wait wait, did I— did I leave it at home? I feel like I, um, I feel like I grabbed it this morning, but maybe I just— maybe I just thought about grabbing it? Oh god, that's, uh, that's totally something I would do.
+
+[talking faster]
+
+Okay, let me just— let me check my bag again. Sometimes it falls off and just, like, sits at the bottom with all the, um, the random receipts and— [rustling sounds] no, nope, not seeing it. Great.
+
+[resigned but thinking]
+
+I mean, I could probably just, uh, just tell security that I forgot it? They know me, right? I've been here for like two years, so— but what if it's that new guy? He's not gonna— he's not gonna know who I am.
+
+[brightening slightly]
+
+Actually, wait, I think Sarah gets in early. I could just, um, I could just text her to come let me in? That's not too weird, right? People forget their badges all the time. [exhale] Okay, yeah, that's— that's the plan.
+
+
+============================================================
+
+ITEM 486 - MONOLOGUE SELFTALK (204 words)
+
+Source: 0c669224
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+486 SCENARIO: trying to figure out the self-checkout machine
+
+==================================================
+
+[muttering]
+
+Okay, so I just— I just scan the thing, right? Like, um, how hard can this be? I've seen people do this a million times. Just, uh, just beep it over the little glass thing and—
+
+[slightly confused]
+
+Huh. Nothing happened. Maybe I need to, um, maybe I need to press something first? [hmm] There's like seventeen different buttons here, which is, uh, which is super helpful.
+
+[tentative]
+
+Oh wait, okay, it says "start" right there. Obviously. So, um, let me just— [beep sound] oh! There we go, it's, uh, it's doing something now. "Please scan your first item." Right, okay, I can— I can do that.
+
+[frustrated]
+
+And it's not— why is it not scanning? Am I doing this wrong? Maybe if I turn it around, or, um, or hold it closer to the— [beep] oh there it is! Okay cool, we're, uh, we're in business now.
+
+[deadpan]
+
+"Please place item in bagging area." Right. The bagging area. Which is, um, which is this thing here, I assume? Unless— wait, why is it yelling at me about unexpected items? I literally just put the thing where you told me to put the thing.
+
+
+============================================================
+
+ITEM 487 - MONOLOGUE SELFTALK (182 words)
+
+Source: 0f3bc74d
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+487 SCENARIO: realizing they've been pronouncing something wrong
+
+==================================================
+
+[muttering to self]
+
+Wait, did she just say "niche" like "neesh"? I've been saying it like "nitch" this whole time. Oh no. Oh no no no. How long have I been— how long have I been saying it wrong?
+
+[slightly panicked]
+
+I literally used that word in, um, in my presentation last week. To like forty people. I said "nitch market" and everyone just— they just sat there and didn't say anything. [groan] They were probably all thinking I'm an idiot.
+
+[faster, working through it]
+
+Okay but wait, wait wait. Maybe both are right? Like, maybe it's one of those— one of those words that has, um, multiple pronunciations? Like "tomato" or whatever? But no, she seemed really confident about the "neesh" thing.
+
+[deflated]
+
+God, I hate this. It's like when I found out "sherbet" isn't "sherbert." I was, uh, I was twenty-five when I learned that one. Twenty-five! 
+
+[resigned, trailing off]
+
+I should probably just... look it up. But honestly, I'm scared to know what else I've been saying wrong all this time...
+
+
+============================================================
+
+ITEM 488 - MONOLOGUE SELFTALK (196 words)
+
+Source: 102bcfe2
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+488 SCENARIO: noticing their zipper has been down
+
+==================================================
+
+[muttering to self]
+
+Oh. Oh no. Um, okay, so— so my zipper is, uh, it's completely down right now. Like, completely. How long has it been— how long have I been walking around like this?
+
+[slightly mortified]
+
+I mean, I just came from the, um, the coffee shop, and then I was at the— oh god, I was at the grocery store too. Did people see? They probably saw, right? People always notice these things but they don't, uh, they don't say anything because it's weird to—
+
+[faster, anxious]
+
+Wait wait wait, when did I last— when did I go to the bathroom? This morning? Was it zipped then? I can't— I can't remember if I, um, if I zipped it back up or if I just— [groan] this is so—
+
+[resigned, working through it]
+
+Okay, you know what, it's, uh, it's not that big a deal. People probably didn't notice, or if they did, they're not gonna, like, remember it forever. It's just a zipper. Just a— a very obvious zipper that was down for who knows how long.
+
+[quietly accepting]
+
+Right. Okay. Crisis averted, I guess.
+
+============================================================
+
+ITEM 489 - MONOLOGUE (231 words)
+
+Source: 157444b3
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+489 SCENARIO: Frustrated about a power outage, then power comes back right as they're ranting
+
+==================================================
+
+[frustrated]
+
+Oh my god, don't even get me started on today. So I'm working from home, right? I've got this huge presentation due tomorrow and I'm like deep in it, really in the zone, and then— [groan] the power just goes out. Like completely out.
+
+[irritated]
+
+And of course it's like the hottest day of the year so far, so now I'm just sitting there sweating, laptop's dying, and I can't get any work done. I tried going to that coffee shop on Fifth but they were packed, like every other person in the neighborhood had the same idea.
+
+[getting more worked up]
+
+So I come back home and I'm just sitting here in the dark, and it's been like four hours now, four hours, and I call the power company and they're like "we're aware of the outage, estimated repair time unknown." Unknown! Like how is that even—
+
+[surprised] [stopping mid-sentence]
+
+Oh wait, wait— the, uh, the lights just came back on. The fan's going again.
+
+[sheepish] [half laugh]
+
+Okay well... that's, that's actually perfect timing. Um, wow I was really getting myself all worked up there, wasn't I? 
+
+[relieved] [slightly embarrassed]
+
+God, I probably sounded completely unhinged. But hey, at least now I can actually finish this presentation before tomorrow. Crisis averted, I guess.
+
+
+============================================================
+
+ITEM 490 - MONOLOGUE (264 words)
+
+Source: 15a8bcc2
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+490 SCENARIO: Offhandedly recounting feedback they gave anonymously, then seeing changes being made, then realizing their feedback was identifiable somehow, ending in anonymous-no-more anxiety
+
+==================================================
+
+[casual]
+
+Oh, so remember that whole thing with the feedback survey at work? You know, the anonymous one they sent out about the new project management system? [light laugh] I may have gone a little overboard with my response.
+
+[conversational]
+
+I mean, I wrote like three paragraphs about how the dashboard was confusing and the color scheme was terrible. Really specific stuff, you know? But whatever, it felt good to vent anonymously for once.
+
+[slightly more engaged]
+
+But then this week they actually started making changes! Like, they switched to the exact blue I suggested, and they moved the sidebar thing. I was like, wow, okay, they actually listen to feedback. That's... that's kind of cool, actually.
+
+[a bit pleased]
+
+I'm feeling pretty good about it, right? Like my voice mattered, even if nobody knows it was me. The perfect crime of corporate improvement. [chuckle]
+
+[pause] [uncertain]
+
+Wait... [exhale] Oh. Oh no. 
+
+[realization dawning]
+
+I just— I literally mentioned in my feedback that I'm colorblind. And there are only two people with that condition in our department. Me and Kevin from accounting.
+
+[anxiety building]
+
+And Kevin doesn't even use the project management system! [nervous laugh] Oh my god, they know. They totally know it was me.
+
+[spiraling] [panicked]
+
+What if they think I'm difficult? What if this goes in my file? I wrote three paragraphs! [groan] Why did I mention the colorblind thing? Ugh, I'm never doing anonymous feedback again!
+
+
+============================================================
+
+ITEM 491 - MONOLOGUE (256 words)
+
+Source: 17169763
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+491 SCENARIO: Mad about a delayed train, then meets someone interesting while waiting
+
+==================================================
+
+[frustrated]
+
+Oh my God, don't even get me started on today. The 8:15 train was like forty minutes late— forty minutes! And they're just like "signal issues, blah blah" over the intercom but I'm standing there like, I have a meeting at nine, you know?
+
+[annoyed]
+
+So I'm just pacing around the platform like a crazy person, checking my phone every two seconds, and I'm getting more and more— [groan] I was literally about to just call an Uber and eat the like sixty dollar surge or whatever.
+
+[calmer] [slightly curious]
+
+But then this woman next to me just starts laughing. Like actually laughing at the whole situation, and I'm like— I turn around and she's got this huge coffee stain down her shirt and she's just like "well, this day's already shot to hell anyway."
+
+[warming up]
+
+And we just started talking, and she's this— she does ceramics, like actual pottery, and she was telling me about her studio and how she's got this kiln that breaks down all the time, so train delays are like nothing compared to that.
+
+[surprised] [excited]
+
+Oh wait, she's— she just texted me actually! She said she looked up my company after we talked and she wants to collaborate on something for our lobby space?
+
+[genuinely happy]
+
+That's... that's actually amazing. Like I went from wanting to scream at the train conductor to maybe landing this cool art project. [small laugh] Weird how that works out.
+
+
+============================================================
+
+ITEM 492 - MONOLOGUE (267 words)
+
+Source: 19b73f70
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+492 SCENARIO: Casually talking about a thing they cooked for someone, then remembering their dietary restrictions, then realizing they forgot and served them something they shouldn't eat, ending in host failure guilt
+
+==================================================
+
+[casual]
+
+Oh yeah, so I made that, um, that lasagna recipe for Sarah last night. You know, the one with the, uh, the ricotta and spinach? Turned out pretty good actually, like, um, better than I expected.
+
+[pleased]
+
+She seemed to really enjoy it too, which was, uh, which was nice because I— I don't cook for people that often, you know? But she had like, um, like three servings, so I figured I, uh, I nailed it.
+
+[conversational]
+
+We were just catching up and, um, and she was telling me about her new job and— oh, and her yoga class. She's really into that, uh, that whole wellness thing now, which is— which is cool, I mean, good for her.
+
+[slight concern]
+
+Actually, now that I think about it, didn't she mention something about, um, about not eating dairy? Or was that— wait, was that gluten? I feel like she said something about—
+
+[realization dawning]
+
+Oh. Oh no. [sharp exhale] Oh god, wait. She's— she's lactose intolerant. She told me like, um, like two months ago. How did I— the ricotta! The whole thing was basically, uh, basically cheese!
+
+[panicking]
+
+And she ate three servings! She was just— she was just being polite! Oh my god, she probably went home and was, um, was sick all night because of me! [groan] I'm the worst host ever. I literally, uh, I literally poisoned my friend!
+
+
+============================================================
+
+ITEM 493 - MONOLOGUE (295 words)
+
+Source: 1aa09fb7
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+493 SCENARIO: Calmly mentioning a medication they take, then reading interactions, then finding it interacts badly with something else they've been taking, ending in pharmacy anxiety
+
+==================================================
+
+[casual]
+
+Oh, so I had my doctor's appointment today. Nothing major, just my annual physical. She's keeping me on the same blood pressure medication — lisinopril, you know, the one I've been taking for like two years now. [light laugh] Same boring pill every morning.
+
+[conversational]
+
+But she gave me this new pamphlet about, um, drug interactions and stuff. Said I should actually read through it since I'm getting older and might need more medications eventually. So I'm like, sure, why not, I'll be responsible for once.
+
+[slightly interested]
+
+And I'm flipping through it at lunch, just curious, you know? Looking up my medication to see what I should avoid. Most of it's pretty obvious stuff — don't drink heavily, watch out for certain pain meds, whatever.
+
+[a bit concerned]
+
+But then I see this whole section about herbal supplements and— [pause] oh wait. Wait, hold on. It says here that lisinopril can interact badly with... [trails off] with potassium supplements.
+
+[growing alarm]
+
+And I'm like— I've been taking potassium pills every day for my leg cramps! My old doctor told me to! That was like six months ago and I just— [nervous laugh] I never thought to mention it to my new doctor.
+
+[increasingly anxious]
+
+So now I'm googling "lisinopril potassium interaction" and it's saying things like "dangerous potassium buildup" and "kidney problems" and— [sharp exhale] oh my god, what if I've been slowly poisoning myself?
+
+[spiraling] [panicked]
+
+I need to call the pharmacy right now. Like right now. What if— what if my kidneys are already damaged? [whimper] Six months! I've been taking both for six months!
+
+
+============================================================
+
+ITEM 494 - MONOLOGUE (263 words)
+
+Source: 1ad37917
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+494 SCENARIO: Casually describing an old username they used, then googling it, then finding it's connected to embarrassing old content, spiraling into digital footprint horror
+
+==================================================
+
+[casual]
+
+So I was setting up this new account today and I needed a username, right? And I'm like, ugh, what do I even use anymore. I used to have this one back in like, high school — "SkyeDreamer97" — God, so cringe, but whatever.
+
+[conversational]
+
+And then I'm like, wait, I wonder if that's still floating around anywhere. You know how you get curious about your old digital self? [light laugh] So I decide to Google it, just for fun.
+
+[slight concern]
+
+First few results are fine, just some old forum posts about like, anime or whatever I was into. But then I keep scrolling and I see this... this LiveJournal link.
+
+[growing unease]
+
+And I'm like, oh no. Oh no no no. I completely forgot I had a LiveJournal. [nervous laugh] So obviously I click on it because I'm a masochist, apparently.
+
+[mortified]
+
+It's— it's all there. Every single embarrassing teenage thought I ever had. Poetry about my "dark soul." Rants about how nobody understands me. [groan] Photos of me in those terrible low-rise jeans making peace signs!
+
+[spiraling] [panicked]
+
+Wait, wait— if this is indexed by Google, that means anyone can find this! My coworkers! My boss! [sharp exhale] Oh my God, what if someone I'm dating Googles me?
+
+[frantic] [horrified]
+
+I'm frantically trying to remember what else is connected to this username and I just keep finding more! DeviantArt! Fanfiction! [whimper] There's no escape!
+
+
+--- EMPATHETIC PARTIAL ---
+
+Script: 8c136152_script | Role: Character 2 (B)
+
+Character 1: Three days. Nothing.
+
+495 Character 2: I know, I know how it looks, but I was dealing with—my mom was in the hospital, okay? I wasn't exactly checking my phone every five seconds.
+
+Character 1: A text takes two seconds.
+
+496 Character 2: That's—come on, that's not fair. You think I was just sitting around choosing not to text you? I was literally sleeping in a hospital chair for two nights straight. [scoff] But sure, yeah, I should've made time for our dinner plans discussion.
+
+Character 1: You had time to post on Instagram.
+
+497 Character 2: That was—okay okay, that was my sister using my phone to update people about my mom. I didn't even know she did that until like, yesterday. You're acting like I was out partying or something.
+
+Character 1: I didn't know what to think. You just disappeared.
+
+498 Character 2: And I'm sorry about that, I am, but also like—I dunno, maybe cut me some slack? You know I don't just ignore you for fun. There was literally a reason, a pretty serious one actually. [frustrated laugh]
+
+Character 1: You could've sent something. Anything.
+
+499 Character 2: Yeah, well, you could've checked in differently too instead of just—I mean, you sent me like fifteen angry texts before even asking if I was okay. That kinda hurt, honestly.
+
+Character 1: How was I supposed to know?
+
+500 Character 2: You weren't! That's—that's exactly my point though. You just assumed I was being a jerk instead of thinking maybe, just maybe, something was actually wrong.
+
+Character 1: Because you never said anything was wrong.
+
+501 Character 2: I get it, I do, but I was barely keeping it together, y'know? I wasn't thinking straight, I wasn't—[sigh] look look, I should've texted, fine. But you're acting like I committed some huge betrayal here.
+
+Character 1: It felt like it.
+
+502 Character 2: Okay but that's—I mean, come on. We've been friends for how long? And you immediately jump to me just not caring about you? That's what's kinda disappointing here, honestly.
+
+Character 1: Three days is a long time.
+
+503 Character 2: It is, you're right, it is. And I'm not saying you can't be upset, but like—I dunno, I guess I thought you'd be more understanding once you knew why. Instead you're still acting like I did this to hurt you on purpose.
+
+Character 1: I was worried. Then I was angry.

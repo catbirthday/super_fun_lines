@@ -1,0 +1,329 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 0c57f45b_script | Role: Character 2 (B)
+
+Character 1: So. They accepted it.
+
+750 Character 2: Wait wait wait—they what? Your thesis? They—oh my god, are you serious right now? Like, the whole thing is done? You're gonna be Doctor Whatever-Your-Last-Name-Is?
+
+Character 1: Yeah. Got the email this morning.
+
+751 Character 2: This morning?! And you're just—you're just now telling me? I mean, okay, classic you but like [Laugh] this is huge! How many years has this been? Four? Five?
+
+Character 1: Six.
+
+752 Character 2: Six. Six years of your life and you're sitting here like—like you just told me you bought groceries or something. Are you, um, are you okay? Like, how are you actually feeling about this?
+
+Character 1: I don't know. Tired, mostly.
+
+753 Character 2: Yeah, no, that's—that's totally fair actually. It's probably not even real yet, y'know? Like your brain is probably just... done. Completely fried from all that stress.
+
+Character 1: I keep checking the email. Making sure I read it right.
+
+754 Character 2: Oh babe, that's so—wait, can I see it? The email? I just wanna, like, I need to see the words because this is [Gasp] honestly incredible and I'm kinda freaking out for you right now.
+
+Character 1: It's not that interesting. Very formal.
+
+755 Character 2: Not that inter—okay, no no no. You don't get to downplay this. Your committee, those scary professor people who've been terrorizing you for literally years? They said yes. They said your work matters.
+
+Character 1: They had some revisions.
+
+756 Character 2: Some revi—of course they did! That's like, that's what they do, right? But minor ones? Not like, start-over-from-scratch kind of revisions? Because there's a difference and you know it.
+
+Character 1: Minor. Formatting stuff, mostly.
+
+757 Character 2: See? See, that's basically nothing! That's them saying "we love it but we gotta pretend to find something wrong" kind of stuff. Have you—have you told your family yet? Your mom's gonna absolutely lose it.
+
+Character 1: Not yet. You're the first.
+
+758 Character 2: I'm the—[Sigh] okay that's really sweet actually. But also like, you need to call them! This is the kind of news where you interrupt whatever they're doing, y'know?
+
+Character 1: Maybe tomorrow. When it feels real.
+
+759 Character 2: Yeah, I get that. I totally get that. But just—promise me you're gonna do something to celebrate? Even if it's just, I dunno, expensive ice cream or taking a really long nap?
+
+Script: 20efd8b8_script | Role: Character 2 (B)
+
+Character 1: Finally done with the renovation.
+
+760 Character 2: Oh my god, wait—you're done? Like done done? I feel like you've been living in, um, basically a construction zone for what—six months? Eight months?
+
+Character 1: Seven and a half. But who's counting.
+
+761 Character 2: Okay okay, so tell me everything! What did you—actually no, first, how does it feel to not have, like, contractors in your house at 7am? [Laugh] That must be so weird now, right?
+
+Character 1: Quiet. Very quiet.
+
+762 Character 2: I bet! So what's your favorite part? Like if you had to pick one thing that you're just—that you're totally obsessed with?
+
+Character 1: The kitchen island. It's huge. Could land a plane on it.
+
+763 Character 2: Stop it, I'm so jealous. You know I've been wanting an island forever but my kitchen is literally the size of a—wait, is it marble? Please tell me it's that, um, that white marble with the grey veiny stuff?
+
+Character 1: Quartz. Looks like marble. Costs less. Stains less.
+
+764 Character 2: Smart, that's—that's actually really smart. God, I can't wait to see it! Are you gonna have like a housewarming thing or are you just... done with people in your space? [Chuckle]
+
+Character 1: Maybe in a month. Need to recover first.
+
+765 Character 2: No no no, totally get it. You must be so exhausted. Was it—okay, be honest—was it worth all the chaos? Like, all the dust and noise and decisions about, I dunno, doorknobs and whatever?
+
+Character 1: Ask me after I get the final bill.
+
+766 Character 2: Oh god, don't even—actually, you know what? Don't think about that right now. You've got this gorgeous space and you're gonna [Sigh] you're gonna love it for years, right? That's what matters.
+
+Character 1: The bathroom tiles are already annoying me.
+
+767 Character 2: Wait, what? But you just—didn't you literally just finish? What's wrong with them?
+
+Character 1: They're fine. Just not what I pictured. White subway tile. Boring.
+
+768 Character 2: Okay but here's the thing—subway tile is classic! It's like, it never goes out of style, y'know? And honestly? You can always add, um, colorful towels or art or whatever to make it more... you.
+
+Character 1: True. The heated floors help.
+
+769 Character 2: Heated—excuse me? Heated floors? Oh my god, you buried the lead! That's like—that's literally living the dream. I would never leave that bathroom. Ever.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+770 SCENARIO: trying to decide if they should text first
+
+==================================================
+
+[muttering]
+
+Okay, so, um, should I just— should I just text them? I mean, like, it's not that big of a deal, right? It's just a, uh, just a text. But I don't want to seem, um, I don't want to seem too eager or whatever.
+
+[slightly uncertain]
+
+But like, we had a good time yesterday, I think? I think we did. [hmm] Unless I'm, uh, unless I'm reading that wrong, which— which I've done before, obviously. But they were laughing and, um, and they seemed like they were having fun, so...
+
+[faster, working through it]
+
+Okay okay, but the thing is, I texted first last time. And the time before that. So maybe I should, uh, maybe I should wait for them to— to reach out? But what if they're thinking the same thing? What if they're just sitting there going, "oh, well, they haven't texted me, so..."
+
+[drawn out, considering]
+
+I mean, it's just— it's just saying hi, right? Like, "hey, how's your day going" or whatever. That's not, um, that's not clingy. That's just... friendly.
+
+[decisive, then second-guessing]
+
+You know what? I'm just gonna— [sigh] no, wait. Maybe I should wait until, like, this evening? Or is that too long? [groan] Why is this so complicated?
+
+[resigned, slightly amused]
+
+Okay, I'm just— I'm just gonna send something casual. Right now. Before I, uh, before I overthink this even more than I already have. [exhale] Here goes nothing.
+
+--- CONVERSATION ---
+
+Script: 2b7e9fab | Role: Character 1 (A)
+
+771 Character 1: [stern] Let's discuss your performance this quarter. [clearing throat] Your reports have been consistently late, and [slower] I've noticed several errors in the budget projections. [pause] This isn't the standard we expect from someone in your position.
+
+Character 2: [quietly] I understand your concerns. [voice breaking] I've been trying really hard to keep up with everything, but [trembling] the workload has been overwhelming lately. [softer] I know I need to do better.
+
+772 Character 1: [impatiently] Everyone has the same workload here. [sharp exhale] Your colleagues manage to meet their deadlines without issue. [more forcefully] Perhaps you need to reconsider your time management strategies or whether this role suits you.
+
+Character 2: [defensive] I've been staying late every night! [voice cracking] Maybe if I had more support or training on the new systems— [trailing off] I'm doing my best with what I have. [whispered] I really am.
+
+773 Character 1: [dismissively] Excuses won't fix missed deadlines. [louder] The Henderson account specifically complained about your responsiveness. [sigh] How do you explain taking three days to return their calls when our policy is twenty-four hours?
+
+Character 2: [shakily] The Henderson situation was complicated. [speeding up] I was waiting for approval from legal, and they kept sending back revisions, and [sharp breath] I didn't want to give them wrong information. [pleading] Accuracy matters too.
+
+774 Character 1: [sarcastically] Oh, accuracy matters? [bitter laugh] Then explain the calculation errors in last week's presentation. [slower, deliberate] The CEO noticed them immediately. Do you know how that reflects on our entire department?
+
+Character 2: [near tears] I had just learned my mother was hospitalized that morning. [quivering] I should have double-checked, I know. [sniffling] But I was distracted and scared, and [barely audible] I'm sorry I let everyone down.
+
+775 Character 1: [uncomfortable pause] Personal issues can't interfere with work performance. [gentler] While I sympathize with your situation, [returning to stern] we need reliability. [firmly] Your improvement plan starts Monday—non-negotiable.
+
+Character 2: [desperate] An improvement plan? [voice rising] That feels like you're pushing me out! [shaky breath] I've been here for three years without any issues until recently. [stronger] Doesn't my past performance count for anything?
+
+776 Character 1: [coldly] Past performance doesn't erase current failures. [measured tone] You have thirty days to show measurable improvement. [pause] Meet the metrics outlined in the plan, [warning tone] or we'll need to explore other options.
+
+Character 2: [defeated whisper] Thirty days to save my job. [bitter laugh] After everything I've contributed to this team. [steadier] Fine, I'll prove you wrong. [determined] I'll exceed every single metric you throw at me.
+
+777 Character 1: [skeptically] That's the attitude I need to see. [rustling papers vocally] But actions speak louder than words. [businesslike] HR will send the documentation by end of day. [curtly] We'll meet weekly to track progress.
+
+Character 2: [resigned] Weekly meetings it is then. [deep breath] Can you at least tell me one thing I'm doing right? [hopefully] Just something positive to build on? [quieter] It would really help right now.
+
+778 Character 1: [sighing heavily] Your client relationships, when you maintain them, are strong. [reluctantly] People do seem to like working with you. [quickly] But likability doesn't replace competence. [firm] Focus on the metrics, not making friends.
+
+Character 2: [slightly brightening] Thank you for saying that. [more confident] I'll work on balancing both—strong relationships AND meeting deadlines. [determined whisper] Maybe this plan will help me find better systems. [steadying] I won't let you down again.
+
+779 Character 1: [warning tone] See that you don't. [abruptly] Your first deadline is Wednesday's report. [emphasis] No extensions, no excuses. [lighter] Prove to me that keeping you was the right decision.
+
+Character 2: [nervously] Wednesday's report will be perfect. [gaining strength] I'm already halfway through the research, and I've set three alarms to remind myself. [small laugh] Maybe I'll even submit it Tuesday night. [hopeful] Early for once.
+
+780 Character 1: [surprised] That would be a welcome change. [professionally] Remember, this isn't personal—it's business. [softer briefly] I actually want you to succeed here. [returning firm] But wanting isn't enough without results.
+
+Character 2: [emotional] I know it's business. [stronger] But this job means everything to me, and [determined] I'll fight to keep it. [clear voice] Thank you for giving me this chance. I won't waste it.
+
+--- CS ALPHANUMERIC ---
+
+Script: eb80cd6c | Role: Customer Support
+
+Character 1: [furious] I've got SEVEN fraudulent charges on my account—seven! [shouting] Someone spent $4,287 at some electronics store in Phoenix, Arizona, and I haven't even [voice cracking] been out of New York since Christmas!
+
+781 Customer Support: [calmly] I understand your frustration, sir. [reassuring] Let me pull up your account—can you please verify your card number ending in, uh, the last four digits [professionally] and your member ID?
+
+Character 1: [exasperated] It's 8-9-4-2, and the member ID is [impatiently] JX47B9K12. [more urgently] Look, these charges started three days ago, January 15th at 2:47 AM—who shops at that hour?!
+
+782 Customer Support: Thank you, Mr. Peterson. I see the transactions here—there's also a $892 charge at, um, "TechWorld Solutions" and another for $1,650 at "Digital Paradise LLC."
+
+Character 1: [sarcastically] Oh great, there's more?! [groaning loudly] I specifically called you people last month about updating my address from 4821 Oak Street to [frantically] my new place, and now THIS happens!
+
+783 Customer Support: Sir, I'm so sorry about this situation. I'm immediately flagging these transactions and, uh, initiating a dispute case—your reference number will be FRD-2024-78K4M.
+
+Character 1: [bitterly] A reference number, fantastic. [getting louder] Meanwhile, my mortgage payment bounced because your system let someone drain my account! [desperately] How am I supposed to explain this to Wells Fargo?
+
+784 Customer Support: [professionally] We'll issue a provisional credit within 24 to 48 hours while we investigate. I'm also, um, canceling your current card ending in 8942 [helpfully] and expediting a replacement to your address.
+
+Character 1: [skeptically] The right address this time? [exhausted sigh] Because last time you sent it to my ex-wife's place in Boston—ZIP code 02134—which was [angrily] absolutely mortifying to retrieve!
+
+785 Customer Support: I have your current address as 7823 Maple Avenue, Apartment 5B, New York, 10025. [confirming tone] Is that, uh, still correct, or should I update it before sending the new card?
+
+Character 1: [slightly calmer] Yes, that's... that's right. [heavy breathing] Look, I'm sorry for yelling, but this is the third time in six months [frustrated whisper] someone's hacked my card somehow.
+
+786 Customer Support: No apology necessary—I'd be upset too. [more confidently] We're upgrading you to our SecureShield Plus protection, which includes, um, real-time alerts and enhanced encryption with code XP-990-SECURE.
+
+Character 1: [cautiously hopeful] Will that actually help? [sighs deeply] Because your regular protection clearly didn't stop someone from buying—what was it—[reading] "$347 worth of stuff from GamerHeaven dot com"?
+
+787 Customer Support: The new system requires biometric verification for any purchase over $100. Plus, we're waiving your annual fee for, uh, the inconvenience—that's a $195 credit to your account.
+
+Character 1: [surprised] Oh, well that's... that's something at least. [more calmly] When exactly will I get the new card, and [worried] will my recurring bills still go through?
+
+788 Customer Support: [efficiently] Your replacement arrives via FedEx in 2-3 business days, tracking number starts with 7749. I can transfer your recurring payments—Netflix, ConEd, and, um, [checking] your gym membership—to the new card automatically.
+
+Character 1: [relieved sigh] Okay, okay good. [more steadily] And you're absolutely sure the provisional credit will hit by Thursday? [nervously] Because my account is showing negative $1,247 right now.
+
+789 Customer Support: By Thursday noon at the latest, Mr. Peterson. I'm also adding a note for our fraud team to call you directly at [carefully] 917-555-8823 within 24 hours.
+
+Character 1: [exhausted] Fine, I'll be waiting. [quietly] The case number was FRD-2024—what was it—[struggling] 78-something? [sighs] I need to write this down for my records.
+
+790 Customer Support: FRD-2024-78K4M, and I'm emailing all this information to your registered email. We'll get this resolved, sir, and, uh, [sincerely] thank you for your patience today.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: df630629 | Role: Customer Support
+
+791 Customer Support: Good afternoon, AirPure Solutions, this is Janet speaking. How can I help you with your air purifier today?
+
+Character 1: [confused] Hi, um, I bought one of your machines about—[pause]—maybe six months ago? [slower] The red light is blinking and I don't know what filter I need. [sighs] There's like three different slots in there.
+
+792 Customer Support: Okay, no problem, we'll figure this out together. [quickly] Can you tell me your model number? It should be on a sticker on the back or bottom of the unit.
+
+Character 1: [frustrated] It says... AP-3500X? [uncertain] Or maybe it's AP-3800X? [groans] The sticker is really faded and I can't—wait, no, definitely 3500X.
+
+793 Customer Support: Perfect! The AP-3500X has three filters—the pre-filter, the HEPA filter, and the activated carbon filter. Which light specifically is blinking red?
+
+Character 1: [overwhelmed] All of them are blinking! [panicked] Does that mean I need to replace everything? [quieter] That sounds really expensive.
+
+794 Customer Support: Not necessarily—sometimes it's just the reset button. Have you cleaned the pre-filter recently? That one's actually washable, so you don't need to buy a replacement.
+
+Character 1: [surprised] Washable? [skeptically] The manual didn't mention—oh wait, [chuckles] I never actually read the manual. How do I even get to it?
+
+795 Customer Support: The front panel pops off if you pull from the top corners. The pre-filter is the mesh one, you can rinse it under cold water. But the HEPA and carbon filters, those do need replacing every six to eight months.
+
+Character 1: [relieved] Oh, okay, that makes more sense. [hesitant] So I need to order the—what did you call them? [confused again] The HEPA and the carbon thing?
+
+796 Customer Support: Yes, the HEPA filter is model HF-3500, and the carbon filter is CF-3500. [quickly] We have a bundle deal right now—[enthusiastically] both filters for $79.99 with free shipping!
+
+Character 1: [cautiously] That's not too bad, I guess. [curiously] But wait, how do I know which one goes where? [worried] I don't want to put them in backwards or something.
+
+797 Customer Support: They're designed to only fit one way, so you can't mix them up. [briskly] The HEPA is the thick white pleated one, carbon is the black honeycomb-looking filter. [helpfully] There's also a video guide on our website.
+
+Character 1: [grateful] Oh thank goodness, I'm terrible with these things. [quickly] Can you send me the link to that video? [pause] And also, um, how do I actually order these filters?
+
+798 Customer Support: I can place the order for you right now if you'd like! [more slowly] Or I can email you the direct link to our filter replacement page. Which would you prefer?
+
+Character 1: [decisively] Let's just do it now while I have you. [chuckles nervously] Otherwise I'll forget and breathe terrible air for another month. [resigned] My credit card is... somewhere around here.
+
+799 Customer Support: Take your time, I'll wait. [quickly] While you're looking, should I add our filter subscription service? You save 15% and they ship automatically every six months.
+
+Character 1: [distracted] Found it! [considering] The subscription thing sounds convenient but—[hesitant] what if I forget to cancel? [suspicious] Is it one of those impossible-to-cancel situations?
+
+800 Customer Support: Not at all, you can cancel anytime online or by calling us. No fees, no hassles, and we send reminder emails before each shipment. Most customers really love not having to remember.
+
+Character 1: [convinced] Alright, you know what? [decisively] Let's do the subscription then. [sighs] One less thing to worry about, and my lungs will thank me, right?
+
+--- BASIC SCENARIOS ---
+
+801 [Happy] I mean, every rejection is just, like, one step closer to the right job, right? [Chuckle] That's what I keep telling myself anyway.
+
+802 [Fast] Okay so I've sent out—what—maybe forty applications this week and honestly it's kinda exhausting but I'm gonna keep pushing. [Sigh]
+
+803 [Sarcastic] Oh sure, another "we'll keep your resume on file" email, because that's super helpful. [Tsk] [Disappointed] Whatever, moving on.
+
+804 [Slow] You know what though, I actually learned something from that last interview, even if I didn't—even if it didn't work out. [Happy]
+
+805 [Whisper] Between you and me, I'm, uh, I'm getting a little scared about the bills, but... [Normal] [Laugh] we're not gonna think about that today!
+
+806 [Angry] Why do they need five years experience for an entry—I just, I don't get it! [Groan] [Sad] Sorry, I'm trying to stay positive here.
+
+807 [Happy] My LinkedIn profile looks pretty good now, I mean, I basically rewrote the whole thing and it's—yeah, it's solid. [Chuckle]
+
+808 [Disappointed] Another ghosting after the second interview, which is, um, which is fine, I guess. [Sigh] [Happy] Their loss, honestly!
+
+809 [Fast] [Shout] I got a callback! Wait—no, false alarm, it's just spam about, uh, car insurance or something. [Disappointed] [Groan]
+
+810 [Sarcastic] "We decided to go with someone who's a better fit" is basically code for—actually, you know what, doesn't matter. [Happy] Next!
+
+811 [Sad] Sometimes I wonder if I'm even qualified for anything, but then I remember—hold on—yeah, I've got skills, damn it. [Laugh]
+
+812 [Slow] [Whisper] It's been three months now, and I'm starting to think maybe I should just... [Normal] [Happy] nope, gonna nail the next one for sure!
+
+813 [Happy] [Fast] Oh my god, I just realized I've been spelling the company name wrong in all my—wait, no, I'm good, false panic! [Laugh]
+
+814 [Angry] [Shout] If one more person tells me to "just network more" I'm gonna—! [Sigh] [Sad] Sorry, it's just, er, it's been a long week.
+
+815 [Disappointed] The salary range was, like, half what I expected, but hey, at least they're, um, at least they're transparent about it? [Tsk]
+
+816 [Happy] You know, unemployment kinda gives you time to, I dunno, figure out what you actually want? [Chuckle] Silver lining and all that.
+
+817 [Sarcastic] [Fast] Love writing custom cover letters that nobody reads—it's literally my favorite hobby now. [Groan] [Happy] But seriously, today feels different somehow!
+
+818 [Whisper] [Sad] Mom keeps asking how it's going and I just—I can't tell her how rough it really... [Normal] [Happy] but tomorrow's interview will change everything!
+
+819 [Slow] Rejection doesn't mean I'm not good enough, it means, uh, it means I'm one step closer to where I belong. [Sigh] [Happy] Right?
+
+820 [Shout] [Happy] Finally updated my portfolio and it looks—wait, did I forget to save the—? [Fast] [Disappointed] No no no... oh thank god, it's there! [Laugh]
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+821 SCENARIO: Matter-of-factly recounting an interview they thought went well, then checking the job posting, then seeing it's been reposted, ending in rejection realization despair
+
+==================================================
+
+[matter-of-fact]
+
+So I had that interview today at the marketing firm. It went really well, actually. Like, we talked for almost an hour when it was supposed to be thirty minutes, and the hiring manager seemed genuinely interested in my background.
+
+[casual] [light laugh]
+
+She even walked me out personally and said they'd be in touch soon. You know how sometimes you can just tell when there's good chemistry? It felt like that.
+
+[conversational]
+
+I mean, I nailed all their questions about campaign strategy, and when I mentioned that project I did at my last job, her whole face lit up. She was like, "Oh, we need exactly that kind of thinking here."
+
+[slightly more engaged]
+
+So anyway, I'm feeling pretty good about it. I was just gonna check the job posting again to review the salary range, make sure I remember the details correctly for when they call back...
+
+[confused]
+
+Wait. [pause] That's... weird. The posting date says today. But I interviewed for this position today, so why would they—
+
+[dawning realization]
+
+Oh. Oh no. They reposted it. [nervous laugh] They reposted the job listing. Today. After my interview.
+
+[spiraling] [shaky laugh]
+
+So while I'm sitting here thinking about what I'm gonna wear on my first day, they're already back online looking for other candidates. [bitter laugh] God, I'm such an idiot.

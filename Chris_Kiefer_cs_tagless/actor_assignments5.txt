@@ -1,0 +1,309 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: c15a6e63_script | Role: Character 2 (B)
+
+Character 1: So I won that thing.
+
+335 Character 2: Wait wait wait—what thing? What are you—oh my god, the photography competition? The one with like, all those professional judges?
+
+Character 1: Yeah. First place.
+
+336 Character 2: Are you kidding me right now? That's—that's actually incredible! I mean, I knew you were good but like... [Gasp] first place? Out of how many people?
+
+Character 1: About two hundred entries.
+
+337 Character 2: Two hundred—okay no, you cannot just drop that on me so casually! This is huge! Like, this is literally life-changing huge, y'know?
+
+Character 1: It's just a local thing.
+
+338 Character 2: Just a—are you seriously gonna downplay this? Because um, I saw the other entries online and they were like, really really good. Yours must've been absolutely stunning.
+
+Character 1: Got lucky with the lighting that day.
+
+339 Character 2: Oh my god, stop stop stop—it wasn't luck! You've been out there every single weekend at like, what, 5 AM? Taking hundreds of shots? [Laugh] That's not luck, that's dedication.
+
+Character 1: I guess.
+
+340 Character 2: You guess? Okay, what did—what did they say about your piece? The judges? They must've given you feedback or something, right?
+
+Character 1: They said it showed "exceptional composition and emotional depth." Whatever that means.
+
+341 Character 2: Whatever that—babe, that's literally the highest praise you can get! That means you didn't just take a pretty picture, you like... you made art. Real art.
+
+Character 1: There's prize money. Five thousand.
+
+342 Character 2: Five thou—[Chuckle] okay now you're just showing off! What are you gonna do with it? Finally get that new lens you've been obsessing over?
+
+Character 1: Maybe. Or save it.
+
+343 Character 2: That's so—ugh, that's so you. But honestly? You should celebrate a little. Like, this is the kind of thing people dream about and you actually did it, y'know?
+
+Character 1: Want to get dinner? My treat.
+
+344 Character 2: Um, yes? Obviously yes! We're gonna—we're getting the fancy place downtown and you're gonna tell me everything, every single detail about how it felt to win. No arguing!
+
+Script: 3e6758c9_script | Role: Character 2 (B)
+
+Character 1: So. I'm engaged now.
+
+345 Character 2: Wait wait wait—WHAT? You're—oh my god, you're engaged? Like, actually engaged engaged? When did this even happen?
+
+Character 1: Last night. At that Italian place we always go to.
+
+346 Character 2: Stop it right now, that's—that's so perfect though! The place with the little candles and the— [Gasp] wait, did they do it during dessert? Please tell me there was tiramisu involved.
+
+Character 1: There was. Ring was in it.
+
+347 Character 2: IN the tiramisu? That's like—okay that's actually kinda risky but also really cute? I'm literally dying right now. How are you so calm about this?
+
+Character 1: I don't know. Still processing, I guess.
+
+348 Character 2: No no no, that's—that's totally normal. It's huge, y'know? Like after what, five years? Six years? You guys have been together forever.
+
+Character 1: Seven, actually.
+
+349 Character 2: Seven years and you're just now— [Laugh] sorry, I mean, that's not bad! That's like, you really know each other, right? Some people get engaged after like six months which is insane.
+
+Character 1: Yeah. We wanted to be sure.
+
+350 Character 2: And are you? Sure, I mean? Like—actually wait, that's a dumb question, you said yes so obviously you're—but like, how do you feel?
+
+Character 1: Good. Scared. Both.
+
+351 Character 2: Oh babe, that's so—honestly? That sounds exactly right. Like if you weren't a little scared I'd be worried. This is literally your whole life changing.
+
+Character 1: My mom already wants to plan everything. She called this morning.
+
+352 Character 2: Of course she did, oh my god. Is she going full—what's it called—bridezilla but for moms? Momzilla? [Chuckle] That's gonna be a whole thing, isn't it?
+
+Character 1: She has a Pinterest board. Had one for three years, apparently.
+
+353 Character 2: THREE YEARS? She's been—okay that's actually hilarious but also terrifying? Like she was just waiting, just ready to pounce with her little color swatches and stuff.
+
+Character 1: It's... a lot.
+
+354 Character 2: Hey, you know what though? You don't have to—like, this is your thing, okay? Yours and your partner's. Your mom can have opinions but she doesn't get to, y'know, take over. You excited though? Even a little?
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+355 SCENARIO: waiting for someone to text back
+
+==================================================
+
+[muttering]
+
+Okay, so, um, it's been like— what, twenty minutes? Twenty-five? I sent that text and, uh, and nothing. Which is, I mean, it's fine, people are busy, right? But like, they were literally just posting on Instagram, so—
+
+[slightly anxious]
+
+Maybe it didn't go through? Sometimes texts just, um, they just don't— no, wait, it shows delivered. It says delivered right there. So they got it, they just, uh, they just haven't responded yet.
+
+[faster]
+
+Or maybe I said something weird? Let me just— let me read it again. "Hey, are we still on for tonight?" That's, that's normal, right? That's not— I'm not being clingy or anything, I'm just, um, I'm just confirming plans.
+
+[drawn out]
+
+God, I hate this part. The, uh, the waiting part. Like, just respond with literally anything. Even just "yeah" would be— would be totally fine.
+
+[resigned]
+
+Okay, you know what, I'm just gonna, um— I'm gonna put my phone away and do something else. They'll text back when they text back. It's not that deep.
+
+[muttering]
+
+But like... maybe just one more check.
+
+--- CONVERSATION ---
+
+Script: c393601a | Role: Character 1 (A)
+
+356 Character 1: [defensively] Eight percent is perfectly reasonable for mediocre service. [getting louder] She forgot my water twice and mixed up our appetizers! [Scoff] I'm not subsidizing incompetence just because society expects me to throw money around like confetti.
+
+Character 2: [mortified whisper] Jeremy, please keep your voice down. [urgently] Everyone's staring at us, and she's standing right there by the kitchen. [Nervous laugh] Can't you just leave fifteen percent like a normal person for once in your life?
+
+357 Character 1: [smugly] Normal people don't understand economics. [slower pace] If everyone tipped properly based on actual service quality, [triumphantly] maybe these restaurants would train their staff better instead of expecting customers to supplement their payroll expenses.
+
+Character 2: [exasperated] She's a single mom working doubles! [pleading tone] I talked to her last week when you were in the bathroom. [Heavy sigh] Your "economics lesson" means her kid might not get new school shoes this month.
+
+358 Character 1: [dismissively] That's emotional manipulation, not my problem. [matter-of-fact] Her financial planning isn't my responsibility. [Dry chuckle] Besides, I left her five whole dollars on a sixty-dollar check—that's generous enough for forgetting my ranch dressing.
+
+Character 2: [through gritted teeth] Five dollars? [increasingly agitated] You spent forty dollars on that bottle of wine alone! [Bitter laugh] But God forbid you leave an extra three bucks for someone who served us for ninety minutes straight.
+
+359 Character 1: [condescendingly slow] The wine was an investment in our evening's enjoyment. [sharply] Tips are optional gratuities, hence the name. [Snort] If she wanted guaranteed income, she should've chosen a career with a proper salary structure, shouldn't she?
+
+Character 2: [quietly seething] You know what? [building volume] I'm done being embarrassed every single time we go out. [Shaky breath] This is the last dinner I'm having with you until you learn basic human decency and social awareness.
+
+360 Character 1: [mockingly] Oh, how dramatic! [in disbelief] You're ending our friendship over tipping culture? [Hollow laugh] Fine, go ahead and enable this broken system where customers are guilted into paying employees instead of their actual employers doing it.
+
+Character 2: [firmly] I'm going back inside. [determined] I'm leaving her a proper tip and apologizing for your behavior. [Disgusted sigh] And yes, I'm ending our restaurant outings because I can't stand watching you humiliate hardworking people anymore.
+
+361 Character 1: [indignantly] Humiliate? [rising pitch] I'm the one being humiliated by your virtue signaling! [Harsh laugh] Go ahead, waste your money if it makes you feel morally superior to everyone who understands basic mathematics and principles.
+
+Character 2: [coldly] It's not virtue signaling, Jeremy. [measured tone] It's called not being a complete asshole to service workers. [Tired exhale] You make six figures but act like leaving twenty percent will bankrupt you somehow.
+
+362 Character 1: [defensively fast] My income is irrelevant to this discussion! [slowly, deliberately] A tip should reflect service quality, period. [Sharp intake] Just because I earn well doesn't mean I should subsidize every sob story with a notepad.
+
+Character 2: [incredulous] Sob story? [voice cracking] She's a human being trying to make rent! [Frustrated groan] You spent two hundred dollars on those concert tickets last week but calculate tips down to the penny like Scrooge.
+
+363 Character 1: [pompously] Concert tickets provide lasting memories and cultural enrichment. [dismissive tone] Overtipping provides nothing but enabling a flawed system. [Clicking tongue] You clearly don't understand the difference between worthwhile investments and throwing money away on principle.
+
+Character 2: [sarcastically sweet] Oh, I understand perfectly. [building anger] You value your entertainment over people's livelihoods. [Dry laugh] That waitress will definitely remember you too—as the cheap jerk from table twelve who stiffed her.
+
+364 Character 1: [irritated] Stiffed her? [louder, defensive] I left something, didn't I? [Exasperated huff] In most countries, tipping isn't even expected—America's the only place where customers are emotionally blackmailed into paying restaurant wages directly.
+
+Character 2: [wearily] But we're not in other countries, are we? [firmly] We're here, where servers make two dollars an hour. [Deep breath] I'm done arguing—enjoy eating alone from now on, because I won't be joining.
+
+365 Character 1: [bitterly] Fine by me! [quick tempo] I'll save money on both the tip and your overpriced entrees. [Sardonic chuckle] Maybe I'll find dining companions who appreciate fiscal responsibility instead of bleeding-heart liberalism at every meal.
+
+Character 2: [walking away] Fiscal responsibility? [disgusted whisper] You're just cheap, Jeremy. [Hollow laugh] And lonely—because nobody wants to be seen in public with someone who treats people like they're beneath them. Goodbye.
+
+--- CS ALPHANUMERIC ---
+
+Script: b45a9978 | Role: Customer Support
+
+ Character 1: [skeptical] Yeah, hi, I'm calling about your, uh, international plans? [pause] My account number is 4-4-7-8-9-2-K-L-M. [suspiciously] I saw online you have something for $45 a month, but that seems way too cheap for unlimited calling.
+
+366 Customer Support: D2: Good afternoon! Let me pull up your account right away. Yes, I see you're currently on our Basic North America plan at $62.99. The Global Connect 45 plan is absolutely legitimate—it covers 127 countries with unlimited talk and text!
+
+ Character 1: [doubtfully] Okay, but like, what's the catch here? [more insistently] Every time I've switched plans before, you guys hit me with—I don't know—activation fees, roaming charges. [sighs] Last year's "upgrade" cost me an extra $230 somehow.
+
+367 Customer Support: D4: I completely understand your concerns, and I appreciate you bringing that up. The only additional fee would be a one-time $15 plan change charge. No hidden roaming fees within those 127 covered countries, I promise you that.
+
+ Character 1: [sarcastically] Right, so what about data though? [increasingly frustrated] Because my daughter's studying in Prague—address is 42 Nerudova Street, apartment 3-B—and she's constantly on Instagram. [groans] Don't tell me it's like 50 megabytes or something ridiculous.
+
+368 Customer Support: [patiently] Actually, the plan includes 15 gigabytes of high-speed international data per month. After that, it drops to 2G speeds, but there's no overage charges. For Prague specifically, we partner with T-Mobile CZ, so coverage should be excellent.
+
+ Character 1: [surprised] Wait, fifteen gigs? [cautiously optimistic] That's... actually not terrible. [quickly] But hang on, does this work immediately, or is there some waiting period? Because she leaves Thursday, flight UA-8847 at 2:30 PM.
+
+369 Customer Support: D8: The plan activates within 2 to 4 hours after confirmation. Since today's Monday, you'd have plenty of time before Thursday. I just need to verify—can you confirm the last four digits of the payment card ending in 6789?
+
+ Character 1: [hesitantly] It's, um... [pause] actually that card expired. [annoyed] Hold on, let me get the new one—it's 9-0-3-4. [more cooperatively] Look, if this really is $45 flat, no surprises, then yeah, let's do it.
+
+370 Customer Support: Perfect, I'm processing that change right now! Your confirmation number will be TRX-90045-BCDE. You'll receive a text to your phone ending in 3421, and an email with all the plan details within 15 minutes.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: bfd2cb03 | Role: Customer Support
+
+371 Customer Support: [briskly] Good afternoon, this is Marcus from City Power Solutions, how can I— oh, I see you're calling about a connection delay. [more gently] Let me pull up your account right away, what's the service address?
+
+Character 1: [frustrated] Yeah, it's 4500 Oakwood Drive, the penthouse. [sighs heavily] Look, I've been waiting three weeks now and I'm— I'm literally working by candlelight here. [sarcastically] Very romantic for a tech startup CEO, wouldn't you say?
+
+372 Customer Support: Oh wow, three weeks is definitely not acceptable, I'm so sorry about that. Let me just... okay, I'm seeing here that there was a— wait, this says the technician couldn't access the building?
+
+Character 1: [incredulous] Couldn't access? [louder] I own the entire top floor! [groans] My building manager was there all day, both times they supposedly came. Nobody— and I mean nobody— showed up.
+
+373 Customer Support: Right, well, sometimes our techs encounter unexpected— actually, you know what, let me escalate this immediately. [firmly] This needs priority handling, especially for a commercial property of this... caliber.
+
+Character 1: [coldly] I'm paying fifteen thousand a month for this place. [slower] Do you understand what it's like conducting investor meetings in the dark? [exasperated sigh] My lawyers are already drafting something about breach of service agreements.
+
+374 Customer Support: Lawyers, okay, yes, let's definitely avoid that route. [speaking faster] I'm flagging this as critical priority right now— executive level escalation. How about we schedule a guaranteed appointment for tomorrow morning?
+
+Character 1: [skeptical] Guaranteed like the last two were guaranteed? [chuckles bitterly] You people keep using that word, but... [pause] fine. [resigned] But I want the regional manager's direct line if this falls through again.
+
+375 Customer Support: Absolutely, I'm actually putting you directly under his oversight for this case. [more confidently] Tomorrow, 8 AM sharp, and— and if they don't show, the manager himself will personally ensure connection by end of day.
+
+Character 1: [firmly] Good. And I expect significant compensation for this disaster. [slower, deliberately] We're talking about lost productivity, damaged equipment from power surges, and— [pause] well, let's just say my patience has a price tag.
+
+376 Customer Support: Of course, yes, I'm noting all of that in your file right now. [more carefully] We'll be applying a full month credit, plus— let me check what else I can authorize here... additional commercial service credits.
+
+Character 1: [dismissive] A month? [laughs sharply] That barely covers my assistant's overtime dealing with your company. [more calmly] But it's a start, I suppose. What's your name again, Marcus?
+
+377 Customer Support: [professionally] Yes, Marcus Chen, employee ID 4-4-7-2. I'm sending you my direct extension right now, and— and I'll personally monitor this ticket until resolution. This won't happen again, I promise you that.
+
+Character 1: [warning] It better not, Marcus. [sighs] You seem more competent than the last three people I spoke with, at least. [pause] Though honestly, that's not saying much at this point.
+
+378 Customer Support: I understand your frustration completely, and you're right to be upset. Just to confirm— tomorrow, 8 AM, guaranteed connection, or the regional manager handles it personally. Is there anything else I can do right now?
+
+Character 1: [thoughtfully] Actually, yes. [demanding] I want a detailed report of what went wrong— every miscommunication, every failed attempt. [slower] Someone needs to be held accountable for this mess.
+
+379 Customer Support: Absolutely, I'll compile that report and have it sent within twenty-four hours. It'll include timeline, personnel involved, and— and our corrective action plan going forward. Will email work for you?
+
+Character 1: [curtly] Email's fine. [softer] Look, Marcus, I don't mean to take this out on you personally, but... [frustrated groan] this has been an absolute nightmare for my business operations.
+
+380 Customer Support: No, no, I completely get it, this situation is unacceptable on every level. You've been more than patient, and we've clearly dropped the ball here. But I give you my word, this ends tomorrow morning.
+
+Character 1: [resigned] Alright, Marcus. [pause] We'll see if your word means more than your company's "guaranteed" appointments. [quietly] Eight AM sharp. [more strongly] Don't make me regret giving you another chance.
+
+--- BASIC SCENARIOS ---
+
+381 [Disappointed] So I guess, uh, everyone already knows then? [Sigh] This is exactly what I didn't want to happen.
+
+382 [Fast] Wait wait wait, how did you—actually, it doesn't matter, I just need to know who else knows about this. [Groan]
+
+383 [Sarcastic] Oh fantastic, the one time a rumor about me is actually true. [Tsk] Of all the things to get right.
+
+384 [Whisper] Can we, um, can we maybe not talk about this here? [Slow] People are literally staring at us right now.
+
+385 [Happy] You know what? I'm kinda relieved it's finally out there—I mean, keeping it secret was exhausting anyway. [Laugh]
+
+386 [Angry] I specifically told Rachel not to say anything and she just—ugh! [Shout] This is such a betrayal!
+
+387 [Sad] Yeah, it's, uh, it's true. [Slow] I didn't want you to find out like this though, honestly.
+
+388 [Chuckle] The funny thing is, like, the rumor isn't even the worst part—wait till you hear the whole story. [Fast] It gets so much weirder.
+
+389 [Disappointed] I was gonna tell everyone myself, y'know? [Sigh] But I guess that ship has kinda sailed now, hasn't it?
+
+390 [Shout] How is this anyone's business?! [Angry] I mean, seriously, don't people have their own lives to worry about?
+
+391 [Slow] Look, technically speaking, um, only part of it is true—the rest is just... [Whisper] okay fine, it's all true.
+
+392 [Happy] Actually, this is perfect timing because I was literally about to—no, you know what? [Laugh] This saves me the trouble!
+
+393 [Sarcastic] Great detective work, everyone. [Tsk] Y'all should really consider, like, opening a private investigation firm or something.
+
+394 [Fast] Okay so basically what happened was—actually, er, how much do you already know? [Disappointed] Everything? Oh.
+
+395 [Sad] I mean, I tried to deny it for so long that I almost believed it wasn't true myself. [Sigh]
+
+396 [Whisper] Between you and me though? [Chuckle] The rumor actually makes it sound way cooler than it really was.
+
+397 [Angry] This is exactly why I don't tell people things—someone always has to go and run their mouth! [Groan]
+
+398 [Slow] You're not, um, you're not gonna look at me differently now, are you? [Sad] 'Cause that's what I'm really afraid of.
+
+399 [Happy] Honestly? Keeping this secret was killing me, so like—[Fast] whatever, let everyone talk, I don't even care anymore!
+
+400 [Sarcastic] Well congratulations to whoever started this rumor, you've got, uh, a real gift for journalism apparently. [Disappointed] [Tsk]
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+401 SCENARIO: Upset about being picked last, then being put on the winning team
+
+==================================================
+
+[frustrated]
+
+Ugh, okay so you know how we had that pickup game today? And like, everyone's just standing there picking teams and I'm just— I'm literally the last one standing there. Like, dead last. 
+
+[hurt] [bitter]
+
+And it's not even like I'm terrible, you know? I mean I'm not amazing but I'm not like— I can hold my own, but apparently everyone thinks I'm just gonna drag them down or whatever. So humiliating.
+
+[annoyed]
+
+So of course I get stuck on Team B, right? And I'm just like great, this is gonna be a disaster, everyone's gonna blame me when we lose and I'm just— [sigh] I was honestly thinking about just making up some excuse and leaving.
+
+[surprised] [confused]
+
+But then like— wait, we actually started playing really well together? Like really well. I don't know what happened but we just like clicked and—
+
+[excited] [realizing]
+
+Oh my God, we won! We actually— we crushed them! Like it wasn't even close by the end and I— I actually played pretty decent too, like I made some good plays and...
+
+[warm] [slightly amazed]
+
+You know what, maybe getting picked last was actually the best thing? Like maybe Team A was just a bunch of egos who don't actually work well together. 
+
+[chuckling]
+
+God, their faces when we won though— [laugh] priceless.

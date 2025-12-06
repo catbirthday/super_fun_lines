@@ -1,0 +1,512 @@
+ACTOR LINE ASSIGNMENTS - 72 ITEMS (~2701 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  437 words ( 16.2%)
+
+  monologues_selftalk :  206 words (  7.6%)
+
+  conversation        :  339 words ( 12.6%)
+
+  cs_alpha            :  762 words ( 28.2%)
+
+  cs_noalpha          :  343 words ( 12.7%)
+
+  basic_scenarios     :  371 words ( 13.7%)
+
+  monologues          :  243 words (  9.0%)
+
+  TOTAL               : 2701 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (61 words)
+
+Script: b951e8a5
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+1 Character 1: So I won something.
+
+Character 2: Wait wait wait—you won something? Like, what kind of something? Because the way you're just casually dropping this makes me think it's either, like, a grocery store gift card or—or something huge.
+
+2 Character 1: A year of free flights. Anywhere.
+
+Character 2: I'm sorry, WHAT? [Gasp] No no no, you can't just—hold on. A YEAR? Of flights? To literally anywhere? That's—that's not real. How is that even real?
+
+3 Character 1: Some airline raffle thing. I forgot I even entered.
+
+Character 2: You forgot?! Oh my god, of course you forgot. This is so—wait, so like, business class? Economy? Because honestly even economy would be insane but I'm just trying to wrap my head around this right now.
+
+4 Character 1: First class.
+
+Character 2: Okay I'm gonna—I might actually pass out. First class! Do you even understand what you're saying? Like, you could literally go to Japan next week! Or—or Paris for lunch! This is the most ridiculous thing I've ever heard and you're just sitting there like [Laugh] like it's nothing!
+
+5 Character 1: Haven't really processed it yet.
+
+Character 2: Yeah no, I mean—that makes sense actually. It's probably like, what do they call it? Shock? Because this is basically winning the lottery except better because money's just money but this is like—this is experiences, y'know?
+
+6 Character 1: I don't even have a passport.
+
+Character 2: Oh my god, okay okay—we're fixing that immediately. Like, tomorrow. Actually no, today if we can because—wait, when does it start? The year of flights?
+
+7 Character 1: Next month. But I don't know where to go.
+
+Character 2: Are you—okay that's actually kinda sweet that you're overwhelmed because like, most people would already have seventeen trips planned but you're just... [Chuckle] you're just you. We're gonna make a list though, right? Together?
+
+8 Character 1: Yeah. Maybe start small.
+
+Character 2: Small? Babe, nothing about this is small! But I mean—yeah, okay, maybe don't do like, Australia for your first trip. Unless you want to! God, you could literally go anywhere. This is so unfair but also I'm so happy for you I could cry.
+
+9 Character 1: You could come. On some of them.
+
+Character 2: Wait—are you serious? Because I was trying really really hard not to invite myself but like, if you're offering... I mean, I'd pay for everything else obviously, hotels and stuff. Oh my god, we could actually do that trip we always talked about!
+
+10 Character 1: The one to Iceland? Yeah. Let's do that one.
+
+Character 2: I'm literally—okay I'm getting emotional now because you've been talking about those hot springs for like three years and now it's actually gonna happen? This is the best thing ever. You deserve this so much, you know that?
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (376 words)
+
+Script: 5e0a1ad3
+
+============================================================
+
+You are Character (B); your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: You just stood there.
+
+11 Character 2: I know, I know—I'm so sorry. I just, I completely froze up when your ex started talking about the breakup and I didn't—I should've jumped in, I know that.
+
+Character 1: Three whole minutes of him telling everyone about our "issues."
+
+12 Character 2: Oh god, was it really three minutes? It felt like—okay no, you're right, it was forever. I kept trying to think of something to say but my brain just [nervous laugh] completely shut down, y'know?
+
+Character 1: You promised you'd have my back.
+
+13 Character 2: I did! I mean—I do! I always have your back, I swear, but when he started going into all those details I just—I panicked. Like, literally couldn't form words. Which is ironic because usually I can't shut up, right?
+
+Character 1: Right.
+
+14 Character 2: Wait wait wait, don't—please don't be like this. I'm trying to—I wanna explain but I know how badly I messed up. Everyone was just staring and I felt like if I said something it might make it worse? But that's—that's not an excuse.
+
+Character 1: It couldn't have been worse.
+
+15 Character 2: You're right. You're totally right. I should've just, I dunno, spilled my drink or pretended to choke or literally anything other than standing there like an idiot while you were drowning.
+
+Character 1: A fake emergency would've been nice.
+
+16 Character 2: I actually—okay this is gonna sound so stupid but I kept thinking about faking a phone call? But then I was like, what if it's too obvious, and then—ugh, I just overthought everything instead of actually helping. [groan] I'm the worst friend ever.
+
+Character 1: Not the worst. Just... disappointing.
+
+17 Character 2: That's somehow worse? Like, honestly, I'd rather be the worst than disappointing. I just—I keep replaying it in my head and thinking of all the things I should've said or done and I can't—I can't stop kicking myself for it.
+
+Character 1: I had to excuse myself to the bathroom. To cry.
+
+18 Character 2: Oh no. Oh no no no, I didn't—I didn't know you cried. That makes me feel even more terrible, if that's possible. I should've followed you, or—wait, did you want me to follow you?
+
+Character 1: I wanted you to stop him before it got to that point.
+
+19 Character 2: You're right. You're absolutely right and I—there's no excuse. I failed you when you needed me most and that's just... that's not okay. I'm gonna—I'm gonna do better, I promise. Like, we can practice scenarios or have a code word or something?
+
+Character 1: Maybe just... don't freeze next time?
+
+20 Character 2: Yeah. Yes. Definitely no freezing. And hey, if he ever tries to corner you again, I'll—I'll literally throw myself between you two if I have to. [softer] I really am sorry. Like, genuinely, deeply sorry. You deserved better from me.
+
+============================================================
+
+ITEM 21 - MONOLOGUE SELFTALK (206 words)
+
+Source: d09bf185
+
+============================================================
+
+SCENARIO: trying to remember if they took their medication
+
+==================================================
+
+[muttering]
+
+Okay, so, um, did I take my— did I take my pills this morning? I feel like I did, but I— I can't, uh, I can't actually remember doing it, which is... [sigh] which is always a great sign.
+
+[slightly uncertain]
+
+Let me think. I got up, I brushed my teeth, and then I, um— I went to the kitchen for coffee, right? So I would've— I would've walked right past the, uh, the pill organizer thing. But did I actually, like, did I actually stop and take them?
+
+[faster, working through it]
+
+Okay okay, so the Sunday slot— if I look at the Sunday slot and it's empty, then I took them. But if it's, um, if it's still full then I— then I didn't. That's, uh, that's literally what this thing is for, right? [laugh] That's the whole point.
+
+[walking, talking to self]
+
+Let me just— where did I even put that thing? I swear I left it right next to the, um, the coffee maker, but—
+
+[relieved but sheepish]
+
+Oh. There it is. And it's... [pause] empty. So I did take them. Cool. I'm not, uh, I'm not completely losing it yet.
+
+============================================================
+
+ITEMS 22-31 - CONVERSATION (339 words)
+
+Script: 47162168
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+22 Character 1: [cheerfully] Sweetie, I've reorganized your entire apartment while you were at work! [getting faster] I color-coded your closet, meal-prepped for two weeks, and [giggling] even scheduled your dentist appointment for tomorrow at nine.
+
+Character 2: [stunned] Mom, you... you broke into my apartment? [voice rising] I gave you that key for emergencies only. [firmly] This isn't okay—I'm twenty-eight years old and perfectly capable of managing my own life.
+
+23 Character 1: [wounded] But darling, I was just trying to help! [quivering] The place was such a mess, and you never answer my calls anymore. [Soft sob] I worry about you constantly since you moved out.
+
+Character 2: [exhausted sigh] I don't answer because you call fifteen times a day. [steadier] Look, I love you, but [pause] I need you to respect my space. These surprise visits have to stop immediately.
+
+24 Character 1: [frantically] Fifteen times isn't that much when you think about it! [defensive] Your father thinks I'm being perfectly reasonable. [pleading whisper] Can't a mother just check if her baby ate breakfast and took vitamins?
+
+Character 2: [controlled anger] Dad asked me to talk to you about this, actually. [slower] He said you've been sleeping in my old room, [shakily] crying over my baby photos every single night for months.
+
+25 Character 1: [accusingly] Well, someone has to remember when you were sweet! [bitter laugh] Now you act like I'm some kind of burden. [dramatically] I gave up everything for you, my entire career, my whole identity!
+
+Character 2: [gently] Mom, I never asked you to give up anything. [more firmly] You made those choices yourself. [Deep breath] Maybe it's time you found something new to focus on—a hobby, volunteering, literally anything else.
+
+26 Character 1: [sarcastically] Oh, wonderful advice from someone who can't even fold fitted sheets properly! [getting louder] You still need me, whether you admit it or not. [Nervous giggle] Who else would notice you're dating that terrible person?
+
+Character 2: [shocked] You've been following me on dates? [voice cracking] Mom, that's stalking. [determined whisper] I'm changing my locks tomorrow, and if you don't respect these boundaries, we'll need to take a real break.
+
+27 Character 1: [hysterically] A break? From your own mother? [Choking sob] This is exactly what happened with cousin Janet and look how that turned out! [whimpering] She died alone, probably calling for her ungrateful children!
+
+Character 2: [calmly] Janet died peacefully surrounded by family who visited on healthy terms. [pause] Mom, I'm not abandoning you. [reassuringly] I'm asking for normal adult boundaries—weekly dinners, planned visits, maybe one daily text exchange.
+
+28 Character 1: [desperately] But what if there's an emergency and I can't reach you immediately? [rapid words] What if you choke on dinner, or slip in the shower, or [Gasp] get kidnapped by internet people?
+
+Character 2: [slight laugh] The internet people aren't coming for me, Mom. [seriously] Listen, I know empty nest is hard. [softer] Would you consider talking to someone professional about this anxiety you're experiencing lately?
+
+29 Character 1: [offended whisper] You think I'm crazy now? [building volume] First I'm a stalker, now I need therapy? [Bitter chuckle] Maybe I should just pretend you don't exist like those modern parents do!
+
+Character 2: [firmly] That's manipulative and you know it. [measured tone] Therapy isn't punishment—it's support during life transitions. [warmly] Dad mentioned you used to love painting; why not take that watercolor class at the community center?
+
+30 Character 1: [quietly] You and your father have been discussing me behind my back? [hurt] I suppose everyone thinks poor Mom is just pathetic now. [Shaky breath] Fine, maybe I have been a tiny bit overwhelming.
+
+Character 2: [relieved] Thank you for hearing me. [lovingly] Mom, you're not pathetic—you're just lost without your main job. [hopefully] Being my parent doesn't end, but the role has to evolve now.
+
+31 Character 1: [reluctantly] I suppose calling three times daily would be excessive too? [Nervous laugh] The watercolor class does meet Tuesdays and Thursdays. [thoughtfully] Margaret from book club mentioned she's taking it; maybe I could actually join her.
+
+Character 2: [warmly] That sounds perfect, and I'd love to see your paintings. [enthusiastically] How about Sunday dinners at your place? [tenderly] I'll even bring dessert—but Mom, you have to promise to return my apartment key.
+
+============================================================
+
+ITEMS 32-41 - CS ALPHANUMERIC (762 words)
+
+Script: 7cd1ae9c
+
+============================================================
+
+You are playing a customer service agent; your role: Character 1
+
+--- FULL SCRIPT ---
+
+32 Character 1: [firmly] Dr. Martinez, I need to discuss a serious breach of professional boundaries involving my therapist, Dr. Sarah Chen—license number 47B-2019. [pause] She friended me on Facebook last Tuesday, May 14th, and [voice rising] has been commenting on all my personal posts.
+
+Customer Support: D2: [concerned] I understand this must be very uncomfortable for you. [reassuring tone] Let me pull up Dr. Chen's file—case number 892-XY—and we'll document this properly. [more seriously] Can you tell me, um, when exactly did you first notice these interactions?
+
+33 Character 1: [frustrated] It started innocently enough with a friend request around 9:30 PM, but then—[sighs heavily]—she liked seventeen photos from my 2018 vacation. [incredulous] She even commented "Looking great!" on my beach photos, which felt... invasive.
+
+Customer Support: D4: [professionally] This is absolutely inappropriate behavior that violates Section 5.06 of our ethical guidelines. [pause] [more gently] I need to ask—have there been any other boundary crossings during your sessions at our 4521 Maple Street location?
+
+34 Character 1: [hesitant] Well, during our last three sessions she kept mentioning her divorce proceedings. [voice breaking] She spent maybe 20 minutes—20 minutes!—of my $175 session talking about her ex-husband Gary. [sarcastically] Really therapeutic for ME, you know?
+
+Customer Support: D6: [apologetically] I'm so sorry you've experienced this unprofessional conduct. [more firmly] These violations—both the social media contact and the self-disclosure—require immediate intervention. [carefully] Have you, uh, responded to any of her online communications?
+
+35 Character 1: [defensively] I blocked her immediately after she sent me a private message at 11:47 PM asking if I wanted to grab coffee! [groans] My anxiety is through the roof—isn't she supposed to be helping with that?
+
+Customer Support: D8: [shocked] A social invitation outside of therapy is a severe violation of protocol 7-A in our handbook. [reassuring] We're going to file a formal complaint with report number QM-2024-0892 today. [more softly] How are you managing emotionally with all of this?
+
+36 Character 1: [upset] Honestly? I feel betrayed and—[voice shaking]—I don't know if I can trust another therapist here. [bitterly] I've been coming to this clinic since 2021, and now I'm considering filing with the state board, license complaint form 45-C.
+
+Customer Support: D10: [empathetically] Your feelings are completely valid, and you have every right to file that complaint. [determined tone] I'm suspending Dr. Chen effective immediately, pending investigation code R-77. [warmly] Would you like me to personally match you with a new therapist who specializes in, um, boundary-respectful treatment?
+
+37 Character 1: [skeptically] How do I know this won't happen again with therapist number—what would this be—four? [sighs] I specifically requested someone experienced when I filled out intake form 12-B, and look where that got me.
+
+Customer Support: D12: [confidently] I personally supervise Dr. James Wong, license 51A-2020, who has zero complaints in five years. [reassuring] He's available Thursdays at 2:00 PM in suite 203, and I'll monitor your case myself. [more seriously] Would that provide enough oversight for you?
+
+38 Character 1: [considering] Dr. Wong... I've heard good things about him from the support group that meets Wednesdays. [cautiously hopeful] If you're personally guaranteeing oversight with your supervisor license—SV-8823, right?—then maybe I'll give it one more try.
+
+Customer Support: D14: [warmly] That's correct, SV-8823, and I stake my reputation on this. [professional tone] I'll waive your next three copays—that's $105 saved—as an apology for this experience. [sincerely] Your trust means everything to us.
+
+39 Character 1: [relieved] Thank you for taking this seriously, unlike the office manager who said I was "overreacting" yesterday. [more firmly] I want everything documented though—every incident from May 14th through today, May 21st.
+
+Customer Support: D16: [disapproving] The office manager dismissed your concerns? [frustrated] That's another issue we need to address—employee ID number? [determined] Everything will be in writing by 5:00 PM today, complaint reference TH-2024-521.
+
+40 Character 1: [tired] Employee 10847—Rebecca something—she practically rolled her eyes at me. [sighs deeply] I just want to feel safe in therapy again, you know? [quietly] Is that too much to ask for my mental health investment?
+
+Customer Support: D18: [firmly] Absolutely not too much to ask—it's the bare minimum we owe you. [compassionate] Rebecca from reception will be retrained immediately on complaint protocols. [reassuring tone] Your new intake with Dr. Wong is scheduled for May 28th at 2:00 PM.
+
+41 Character 1: [gratefully] I appreciate you listening and actually doing something about this mess. [pause] [cautiously] Will Dr. Chen still have access to my files—all those notes from our 23 sessions?
+
+Customer Support: D20: [decisively] Her access was revoked at 10:32 AM this morning—security protocol 9-Delta activated immediately. [gentle but firm] Only Dr. Wong and I will have file access, authorization code PM-447. [warmly] We're going to make this right for you, I promise.
+
+============================================================
+
+ITEMS 42-51 - CS NO-ALPHANUMERIC (343 words)
+
+Script: 7d2a2c2a
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+42 Customer Support: Alright, let's check your water softener settings real quick. Your hardness should be set to match your water test results—what number did you get, somewhere between 7 and 25 grains?
+
+Character 1: [confused] I... I don't know what grains are? [nervously] The manual says something about, um, regeneration cycles and [pause] salt dosage, but [frustrated sigh] none of this makes any sense to me.
+
+43 Customer Support: No worries, grains just measure how hard your water is. Did you get a test kit with the unit, or—actually, let me ask—when you run water, do you see white spots on dishes?
+
+Character 1: [exasperated] White spots? [louder] Everything has white spots! [groans] My shower door looks frosted, my faucets are crusty, and [desperately] I've been adding salt every week but nothing's changing.
+
+44 Customer Support: [concerned] Every week? [sharp intake] That's way too much salt—you're probably stuck in constant regeneration. Quick question: what's your capacity setting showing, and is the time display blinking or solid?
+
+Character 1: [hesitant] The display shows... twelve hundred something? [slowly] And there's definitely blinking, like, [frustrated] three different numbers that keep changing. [defeated] Should I just call a plumber instead?
+
+45 Customer Support: No, no, we can fix this right now. That twelve hundred is your capacity—totally wrong for residential use. Press and hold the up arrow, then tap down twice when it beeps.
+
+Character 1: [skeptical] Okay, pressing up... [surprised] Oh! It beeped really loud. [uncertainly] Now it says "HD" and a number twenty-five? [worried] Did I break it, because that seems really high?
+
+46 Customer Support: [excited] Perfect, that's your hardness setting! Twenty-five is actually pretty hard water, so that explains the spots. [more patiently] Now hit next—we need to set regeneration to, um, [calculating] probably every four days for your household.
+
+Character 1: [relieved chuckle] Four days, not every day like I had it. [embarrassed] No wonder my water bill was insane last month. [curiously] But wait, how do I know when it's actually, you know, [pause] working properly?
+
+47 Customer Support: [professionally] You'll hear it regenerate at 2 AM—sounds like rushing water for about ninety minutes. [reassuring] The spots should disappear within a week, and your soap will get super sudsy, almost too much actually.
+
+Character 1: [thoughtful] Two in the morning, that explains the weird noises. [laughs nervously] I thought I had ghost plumbers or something. [more seriously] So just leave it alone now, [questioning] or should I still add salt weekly?
+
+48 Customer Support: Ghost plumbers, that's a new one. Check salt monthly, not weekly—it should be at least one-third full, but never pack it to the top, that causes bridges.
+
+Character 1: [confused] Bridges? [incredulous] Like actual bridges in my salt tank? [pause] I'm sorry, but [overwhelmed] every answer creates two more questions here—is there a simple guide somewhere?
+
+49 Customer Support: Salt bridges are just hardened salt chunks that block water flow. Look, I'll email you our quick-start guide, but honestly, you're all set now—these settings should handle everything automatically.
+
+Character 1: [grateful] Oh thank god, an email guide would be amazing. [hopefully] Will it explain what all these buttons do, because [sheepishly] I've been afraid to touch half of them since installation.
+
+50 Customer Support: Most customers never need those other buttons anyway. The guide covers the basics—hardness, regeneration time, and salt level indicators. Don't overthink it; water softeners are simpler than they seem.
+
+Character 1: [relieved sigh] Simpler than they seem, sure. [sarcastically] Says the person who knows what grain capacity regeneration cycles mean. [genuinely] But seriously, thanks for not making me feel stupid about this.
+
+51 Customer Support: Hey, nobody's born knowing water chemistry. [encouragingly] You figured out the settings faster than most people do, and now you're good for probably years—just salt, wait, and enjoy spot-free dishes.
+
+Character 1: [optimistic] Spot-free dishes sound like a dream. [gratefully] Thanks for talking me through this instead of just, you know, [lighter] sending me back to that horrible manual. [determined] I'm actually excited to see this thing finally work right!
+
+============================================================
+
+ITEM 52 - BASIC SCENARIO (21 words)
+
+============================================================
+
+52 [Angry] I mean, the dishes have been sitting there for—what, three weeks now? [Groan] And there's literally mold growing on them.
+
+============================================================
+
+ITEM 53 - BASIC SCENARIO (18 words)
+
+============================================================
+
+53 [Sarcastic] Oh sure, the magical cleaning fairy is gonna come and, uh, take care of everything, right? [Tsk]
+
+============================================================
+
+ITEM 54 - BASIC SCENARIO (20 words)
+
+============================================================
+
+54 [Whisper] Honestly, I kinda snuck their dirty laundry into their bed last night. [Chuckle] Don't tell them it was me.
+
+============================================================
+
+ITEM 55 - BASIC SCENARIO (18 words)
+
+============================================================
+
+55 [Disappointed] We had this whole agreement when we moved in, and you're just—you're not even trying anymore. [Sigh]
+
+============================================================
+
+ITEM 56 - BASIC SCENARIO (20 words)
+
+============================================================
+
+56 [Fast] I can't have my parents visit tomorrow with the place looking like—like some kind of disaster zone, you know?
+
+============================================================
+
+ITEM 57 - BASIC SCENARIO (13 words)
+
+============================================================
+
+57 [Happy] Wait, you actually cleaned the bathroom? [Laugh] This is like Christmas morning!
+
+============================================================
+
+ITEM 58 - BASIC SCENARIO (20 words)
+
+============================================================
+
+58 [Sad] I dunno if I can keep living like this, it's just... it's exhausting having to be everyone's mom. [Slow]
+
+============================================================
+
+ITEM 59 - BASIC SCENARIO (18 words)
+
+============================================================
+
+59 [Shout] That's my grandmother's plate you left rotting in your room! [Angry] How could you be so careless?
+
+============================================================
+
+ITEM 60 - BASIC SCENARIO (20 words)
+
+============================================================
+
+60 [Sarcastic] [Fast] Yeah, stepping on your pizza crust at 3 AM was exactly how I wanted to start my day.
+
+============================================================
+
+ITEM 61 - BASIC SCENARIO (19 words)
+
+============================================================
+
+61 [Slow] You know what, I'm done asking nicely—either you start cleaning or, um, or I'm calling the landlord. [Disappointed]
+
+============================================================
+
+ITEM 62 - BASIC SCENARIO (21 words)
+
+============================================================
+
+62 [Whisper] [Sad] Sometimes I just sit in my car after work 'cause I don't wanna deal with the mess at home.
+
+============================================================
+
+ITEM 63 - BASIC SCENARIO (15 words)
+
+============================================================
+
+63 [Chuckle] Remember when you said you were "super organized"? [Sarcastic] That was a good one.
+
+============================================================
+
+ITEM 64 - BASIC SCENARIO (21 words)
+
+============================================================
+
+64 [Happy] [Fast] My sister's moving to town and she needs a roommate, so I'm thinking—actually, I'm definitely moving out next month!
+
+============================================================
+
+ITEM 65 - BASIC SCENARIO (17 words)
+
+============================================================
+
+65 [Angry] [Slow] Every single surface in this kitchen is sticky, and I haven't cooked here in weeks.
+
+============================================================
+
+ITEM 66 - BASIC SCENARIO (23 words)
+
+============================================================
+
+66 [Disappointed] Look, I've tried being understanding about your, uh, your depression and stuff, but this is getting unhealthy for both of us. [Sigh]
+
+============================================================
+
+ITEM 67 - BASIC SCENARIO (19 words)
+
+============================================================
+
+67 [Tsk] The smell from your room is literally—I mean, I can smell it from the front door now. [Groan]
+
+============================================================
+
+ITEM 68 - BASIC SCENARIO (17 words)
+
+============================================================
+
+68 [Sad] [Whisper] I used to love this apartment, but now it's like living in someone else's garbage.
+
+============================================================
+
+ITEM 69 - BASIC SCENARIO (17 words)
+
+============================================================
+
+69 [Fast] [Angry] I'm not your parent, your maid, or your—your whatever, okay? Just clean up after yourself!
+
+============================================================
+
+ITEM 70 - BASIC SCENARIO (14 words)
+
+============================================================
+
+70 [Sarcastic] [Laugh] Wow, you moved the trash bag three inches closer to the door—progress!
+
+============================================================
+
+ITEM 71 - BASIC SCENARIO (20 words)
+
+============================================================
+
+71 [Slow] Honestly? I've started looking for a new place 'cause this whole situation is just—it's not gonna work. [Disappointed] [Sigh]
+
+============================================================
+
+ITEM 72 - MONOLOGUE (243 words)
+
+Source: 1fe42f6a
+
+============================================================
+
+SCENARIO: Annoyed about a friend's unsolicited advice, then realizes while talking that the advice was actually spot on
+
+==================================================
+
+[frustrated]
+
+So you know how Jessica is always— like, always giving me advice about my dating life? Well today she was going on and on about how I need to "stop being so available" and like, "make him wonder where I am sometimes."
+
+[annoyed]
+
+And I'm just like, okay Jessica, thanks, but I didn't ask? Like me and Ryan are fine, we text throughout the day, we see each other on weekends, it's— it's working for us, you know?
+
+[irritated] 
+
+She keeps being like "you're too eager" and "guys like the chase" and I'm like, ugh, we're adults, we're not playing games. If I want to text him, I'm gonna text him. If I want to see him, I'll— I'll make plans.
+
+[trailing off] [quieter]
+
+But like... now that I'm actually saying this out loud, I'm realizing— God, okay, so Ryan has been a little... distant lately? Like he used to initiate plans and now it's always me being like "what are you doing this weekend" or whatever.
+
+[reluctant realization]
+
+And last week when I texted him good morning every day, he only replied to like... two of them. [sigh] Which at the time I was like, oh he's just busy, but maybe—
+
+[grudging] [slightly embarrassed]
+
+Maybe Jessica actually... maybe she has a point. [groan] I hate when she's right. I really hate it.
+

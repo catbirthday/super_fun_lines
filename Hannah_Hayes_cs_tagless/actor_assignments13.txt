@@ -1,0 +1,305 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: dad6b3a0_script | Role: Character 2 (B)
+
+Character 1: So you uninvited me.
+
+1026 Character 2: Okay, wait—that's not—I didn't uninvite you exactly. The venue changed and they literally cut our numbers in half. I had to—everyone had to make cuts.
+
+Character 1: But you made sure to keep everyone else.
+
+1027 Character 2: That's not true and you know it. I had to cut like eight people, not just you. My cousin's not even coming anymore. [scoff] You're making it sound like I specifically targeted you or something.
+
+Character 1: Eight people. And I made the list.
+
+1028 Character 2: Look, I—yeah, okay, you made the list. But it wasn't personal. I had to think about who absolutely had to be there, like family obligations and—I mean, you get that, right?
+
+Character 1: I thought I was important enough.
+
+1029 Character 2: You are important! Jesus, that's not—this isn't about how important you are to me. It's about having to make impossible choices when the venue literally [frustrated laugh] screwed us over last minute.
+
+Character 1: Right.
+
+1030 Character 2: Don't—don't do that. Don't just say "right" like that. I'm trying to explain what happened here. You think I wanted to make these calls? You think this was fun for me?
+
+Character 1: Did you even hesitate?
+
+1031 Character 2: Of course I—what kind of question is that? Of course I hesitated. I went back and forth on the list like fifty times. But somebody had to get cut, okay? Somebody always has to get cut.
+
+Character 1: And it's always me, isn't it.
+
+1032 Character 2: Oh come on, that's—that's completely unfair. When have I ever excluded you from anything before? Name one time. [sigh] You're acting like there's some pattern here when there isn't.
+
+Character 1: Sarah's still going.
+
+1033 Character 2: Sarah's—okay, Sarah's been helping me plan this thing for six months. She literally put down deposits. I couldn't just—what was I supposed to do there? I get that you're hurt but—
+
+Character 1: Whatever. It's fine.
+
+1034 Character 2: It's clearly not fine. Look look, I know I handled this badly, alright? I should've called you sooner, explained better, I just—I dunno, I was stressed and making a million decisions and I screwed up the delivery.
+
+Character 1: You made your choice.
+
+1035 Character 2: Yeah, I did. And I'm—I'm sorry you're hurt about it, I really am. But I'm also kinda frustrated that you can't see I was in an impossible situation here. Like, there was no good option.
+
+Script: dfe41e52_script | Role: Character 2 (B)
+
+Character 1: Three weeks. Nothing.
+
+1036 Character 2: I know, I know—look, you said you needed time to process everything, so I was trying to respect that. I didn't wanna be that friend who like, doesn't know when to back off.
+
+Character 1: I never said don't check in.
+
+1037 Character 2: Okay but you—you literally said "I need space right now" and then you stopped responding to the group chat, so what was I supposed to think? [Sigh] I was trying to do the right thing here.
+
+Character 1: One text. That's all.
+
+1038 Character 2: That's not—come on, that's not fair. Every time I've tried to give you space before, you got mad that I wasn't persistent enough. Now I actually listen and somehow that's wrong too?
+
+Character 1: This was different.
+
+1039 Character 2: How? How was I supposed to know that? I'm not a mind reader—I can't just magically know when "I need space" means [frustrated laugh] "please still check on me" versus when it actually means space.
+
+Character 1: Everyone else figured it out.
+
+1040 Character 2: Oh, great. Great. So now I'm the only terrible friend who didn't crack your code? That's—honestly, that's kinda unfair. I was literally trying to respect what you asked for.
+
+Character 1: You could've tried once.
+
+1041 Character 2: I almost did! Like five times, actually. But then I'd remember how you—remember last year when your dad was sick? You said you needed space and I kept texting anyway and you got so pissed at me for not listening.
+
+Character 1: That was completely different and you know it.
+
+1042 Character 2: Do I? Because from where I'm sitting, it feels like I can't win. I check in, I'm being pushy. I don't check in, I'm a bad friend who doesn't care. [Scoff] Like, what do you want from me?
+
+Character 1: To care enough to ask.
+
+1043 Character 2: That's—okay, that's not even—I do care. Obviously I care. But you're acting like I just forgot about you or something when I was literally thinking about you every day, wondering if I should reach out or if that would make things worse.
+
+Character 1: But you didn't.
+
+1044 Character 2: No. I didn't. And maybe—maybe that was wrong, fine. But I'm also kinda frustrated that you're making me the villain here when I was genuinely trying to give you what I thought you needed.
+
+Character 1: I needed my friend.
+
+1045 Character 2: And I'm—look, I'm sorry I misread it, okay? I am. But I need you to understand that I wasn't just being lazy or not caring. I was scared of making it worse. That's gotta count for something.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1046 SCENARIO: attempting to catch a fly in their apartment
+
+==================================================
+
+[muttering]
+
+Okay, so there's, um— there's definitely a fly in here somewhere. I can hear it, like, buzzing around, but I can't— where is it? It was just, uh, it was just by the window, like, two seconds ago.
+
+[slightly annoyed]
+
+Right, so now it's gonna, um, it's gonna hide until I sit down and then it'll just— [sigh] it'll just start dive-bombing my head. That's, uh, that's how this works, right?
+
+[determined]
+
+Okay, let me just— I need something to, um, to catch it with. Magazine? No, that's gonna make a mess. What about, uh— oh, there it is! It's on the, um, on the lamp.
+
+[whispering intensely]
+
+Don't move, don't move, just— okay, I'm gonna use this cup, and then I'll, uh, I'll slide some paper under it, and— [tsk] and it flew away. Of course it did.
+
+[resigned]
+
+You know what? Maybe I just, um— maybe I just open the window and let it figure itself out. I mean, it probably wants to leave more than I want it to— oh wait, there it goes. [laugh] Problem solved, I guess.
+
+--- CONVERSATION ---
+
+Script: cf757138 | Role: Character 1 (A)
+
+1047 Character 1: [deadpan] Welcome to coffee purgatory, where decisions go to die. [drawn-out] What can I get started for you today? [Sigh] Or should I just brew everything while you contemplate the meaning of espresso versus americano?
+
+Character 2: [nervously] Oh, um, I think I want a latte? [higher pitch] No wait, actually a cappuccino sounds good. [rapidly] But maybe iced? [Pause] Do you have oat milk? Is oat milk even good in cappuccinos?
+
+1048 Character 1: [sarcastically sweet] Oat milk is fantastic in everything, just like indecision. [slower] So that's one maybe-iced-possibly-cappuccino-but-could-be-latte. [Sharp exhale] What size would you like to be uncertain about—small, medium, or existentially large?
+
+Character 2: [defensive] I'm just being thorough! [quieter] Medium, I think. [speeding up] Actually, does the ice make it more diluted? Maybe hot is better? [frustrated groan] Why are there so many options?
+
+1049 Character 1: [monotone] Physics says yes, ice dilutes things. [perky] Congratulations on discovering water! [back to deadpan] Would you like me to explain how temperature works, or can we move on to the seventeen syrup flavors you'll panic about?
+
+Character 2: [embarrassed laugh] Okay, hot medium cappuccino then. [hesitant] With oat milk. [suddenly urgent] Wait, is there a difference between a wet and dry cappuccino? [trailing off] I read something online about microfoam ratios...
+
+1050 Character 1: [impressed whistle] Someone's been on coffee Reddit. [patronizing] A dry cappuccino has more foam, less milk—like my patience right now. [brightening falsely] Wet has more milk. Pick your moisture level, coffee philosopher.
+
+Character 2: [determined] Dry then! [immediately doubtful] Or is that too pretentious? [rambling faster] I don't want to be that customer who orders complicated drinks. [Nervous giggle] Am I already that customer? Oh god, I am.
+
+1051 Character 1: [dryly] You became that customer three minutes ago. [reassuring] But hey, at least you're self-aware about it. [teasing] So one medium, dry, oat milk cappuccino. [Pause] Any flavoring to overthink?
+
+Character 2: [relieved] No flavoring, keep it simple. [sudden panic] Unless—do you have lavender? [quieter] Or vanilla? [Groan] Actually, does vanilla overpower the coffee taste? Maybe caramel? No, too sweet. Nothing. [firmly] Definitely nothing.
+
+1052 Character 1: [slowly] Nothing it is. [amused] That only took four flavor rejections. [matter-of-fact] Would you like whipped cream on your dry cappuccino that specifically has less milk but somehow might need whipped dairy?
+
+Character 2: [confused] Can you even put whipped cream on— [cutting self off] You're mocking me now. [more confident] No whipped cream, obviously. [wavering again] Should I get a pastry? Do pastries go with cappuccinos?
+
+1053 Character 1: [philosophical] Pastries transcend beverage boundaries. [sarcastic wonder] They're the universal constant of cafes. [lowering voice] But let me guess—you'll need twenty minutes to choose between croissant and muffin?
+
+Character 2: [defensive squeaking] I already know I want a croissant! [less certain] Plain or chocolate? [mumbling] Or maybe almond? [Defeated sigh] Do you have those cheese ones? Actually, forget the pastry. Too many variables.
+
+1054 Character 1: [fake sympathy] Poor thing, defeated by French baked goods. [efficient] So that's one medium dry oat cappuccino, no flavor, no pastry, [slower] no joy. That'll be five-fifty and years off my life.
+
+Character 2: [fumbling] Here's ten— [worried] Wait, do you take cards? [hurried] I have exact change somewhere. [rustling pause] Should I tip before or after? Is twenty percent enough for the therapy session?
+
+1055 Character 1: [weary] Cards work fine. [brightening] Tips are for bartenders and therapists, and [chuckling] I'm apparently both today. [genuine] Twenty percent would be lovely, unlike this entire interaction.
+
+Character 2: [sheepishly] Sorry for being difficult. [sincere] I just get overwhelmed by choices. [lighter] Tomorrow I'll just point at the menu and [laughing] grunt. That's easier for everyone, right?
+
+1056 Character 1: [warming up] Grunting is actually our preferred ordering method. [friendly now] Look, your drink'll be great. [reassuring] Even indecisive people deserve good coffee. [calling out] One overcomplicated cappuccino, coming up!
+
+Character 2: [grateful] Thanks for the patience. [joking] Same time tomorrow? [quickly panicking] Unless that's too early? Or too late? [Deep breath] You know what, I'll surprise you. [muttering] And myself, apparently.
+
+--- CS ALPHANUMERIC ---
+
+Script: d1b23d19 | Role: Character 1
+
+Character 1: [furious] Are you KIDDING me right now?! [shouting] My account ID JX4829-B just got banned for absolutely no reason! [incredulous] I've been a premium member since 2018, spent over $3,400 on your platform, and this is how you treat loyal customers?!
+
+1057 Customer Support: Hello, we understand your frustration regarding account JX4829-B. Our records show multiple violations of our Terms of Service, specifically sections 4.2 and 4.7. We've sent three warning emails to your registered address at gmail.
+
+Character 1: [sarcastically] Oh please, what violations exactly? [getting louder] Playing the game too well?! [scoffs] I never received ANY emails—maybe check if your system actually works before destroying people's accounts!
+
+1058 Customer Support: The violations include using automated software detected on October 23rd at 14:32 EST. We have logs showing irregular activity patterns from IP address 192.168.45.221. [sighs] These decisions aren't made lightly, sir.
+
+Character 1: [outraged] AUTOMATED SOFTWARE?! [laughs bitterly] That's my work VPN, you incompetent— [groans] I'm a network engineer, order number #78234KL proves I bought your VIP package legitimately last month!
+
+1059 Customer Support: VPN usage can trigger our anti-cheat systems, as stated in section 8.1.3 of our guidelines. However, we can review your case if you submit form TOS-REVIEW-2024. [quietly] The process typically takes 7-10 business days.
+
+Character 1: [mockingly] Oh wow, 7-10 days while my $200 tournament entry fee just vanishes? [exasperated] This is going viral—screenshot saved, timestamp 3:47 PM. [angrily] Forty-two thousand followers are about to hear about this disaster!
+
+1060 Customer Support: Sir, threatening our company won't expedite your review process. Please submit ticket through proper channels—reference number RV-20241028-4829. We're trying to help, but public harassment violates our social media policy.
+
+Character 1: [incredulous] Harassment?! [shouting louder] YOU stole my account worth $3,400! [chuckles darkly] My lawyer's already drafting the small claims filing for case #2024-SC-9823, so maybe... maybe you should expedite that review yourselves.
+
+1061 Customer Support: We've escalated your case to senior management under priority code P1-URGENT-428. You'll receive an email within 24 hours to accounts@jx4829-review.com. We apologize for this frustrating experience and appreciate your patience.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 3724af31 | Role: Customer Support
+
+1062 Customer Support: Good afternoon, thanks for contacting us today. I see you're reaching out about order number 78432. How can I help you with that?
+
+Character 1: [frustrated] Yeah, um, where is my package? [sharper] It was supposed to be here three days ago—THREE DAYS—and the tracking hasn't updated since Monday. [sighs heavily] This is completely unacceptable.
+
+1063 Customer Support: I completely understand your frustration, and I'm so sorry about this delay. Let me just... pull up your order details right now. We'll get this sorted out for you immediately, I promise.
+
+Character 1: [sarcastically] Oh great, more promises. [louder] You guys already promised two-day shipping when I paid extra for it. [groans] I needed this for my daughter's birthday party, which is tomorrow!
+
+1064 Customer Support: [concerned] Oh no, a birthday party—that's, that's really important. [speaking faster] I can see here the package got stuck at our distribution center due to some unexpected weather delays. But I'm escalating this right now to our priority team.
+
+Character 1: [incredulous] Weather delays? [scoffs] It's been sunny all week! [demanding] I want a full refund on the shipping, and I need to know—can you guarantee delivery by tomorrow morning or not?
+
+1065 Customer Support: Absolutely, yes, the shipping refund is already being processed as we speak. For tomorrow delivery, I'm... I'm checking our express options now. Actually, yes, I can upgrade you to our morning courier service at no charge.
+
+Character 1: [skeptically] And this morning courier is actually reliable? [exhausted] Because honestly, I'm about ready to just cancel everything and drive to a store. [sighs] Though I guess that doesn't help me now, does it?
+
+1066 Customer Support: The morning courier has a 99.8% success rate, genuinely. They'll deliver between 8 and 10 AM, you'll get tracking updates every hour, and—here's my direct extension if anything goes wrong. We really don't want to ruin your daughter's special day.
+
+Character 1: [slightly calmer] Okay... okay, fine. [resigned] I guess I don't have much choice at this point. [more firmly] But if this doesn't arrive tomorrow morning, I'm never ordering from you again. [pause] What's that extension number?
+
+1067 Customer Support: [briskly] It's extension 4521, and my name is Marcus. I've added a note to personally monitor your shipment first thing tomorrow. Also, I'm adding a 20% discount code to your account for the inconvenience.
+
+Character 1: [surprised] Oh, well... that's something at least. [cautiously] Marcus, right? [sighs] I'm sorry for being so harsh, it's just been a really stressful week and this party means everything to her.
+
+1068 Customer Support: [warmly] Hey, no apology necessary—I'm a parent too. Birthday parties are stressful enough without shipping disasters. I've just sent you an email confirmation with all the updated details and my direct line.
+
+Character 1: [relieved] Thank you, I just got it. [curiously] So, um, what exactly happened at the distribution center? [chuckles nervously] Should I be worried about future orders, or was this just a freak thing?
+
+1069 Customer Support: [honestly] It was an unusual situation—flooding at the facility, actually. [rapidly] Not in your area, but at our hub two states over. We've already rerouted everything, so future orders won't have this issue.
+
+Character 1: [understanding] Flooding, jeez, that explains it. [thoughtfully] I guess I should've checked the news or something. [more lightly] Well, fingers crossed for tomorrow then—it's a unicorn-themed party, by the way.
+
+1070 Customer Support: Oh, unicorns are the best! [quickly] My daughter just had one last month. I'm noting that in your file so our courier knows it's extra special—they sometimes add a birthday sticker to packages like these.
+
+Character 1: [pleasantly surprised] Really? That's... that's actually really sweet. [gratefully] You know what, Marcus, you've turned this whole thing around. [chuckles] Maybe I won't write that angry review after all.
+
+1071 Customer Support: Well, I appreciate that! [sincerely] But seriously, if anything seems off with tomorrow's delivery, don't hesitate—call me directly. I'll be in from 7 AM just to make sure everything goes smoothly.
+
+Character 1: [appreciatively] Thanks, Marcus, really. [optimistically] I'll let you know how it goes, and hey—maybe I'll even send you a picture of the birthday girl with her gift. [laughs softly] Assuming it actually arrives, of course!
+
+--- BASIC SCENARIOS ---
+
+1072 [Happy] So the nurse today, she was telling me about her cat who apparently steals socks—I dunno, it just made me laugh. [Chuckle]
+
+1073 [Sarcastic] Oh yeah, losing my hair is, uh, totally the new fashion statement I was going for. [Tsk] [Slow] Very avant-garde, right?
+
+1074 [Whisper] Sometimes at three AM, I kinda just lie here and think—wait, is that weird? [Fast] I mean, the quiet helps me process everything.
+
+1075 [Disappointed] I was gonna make it to Sarah's wedding, but now I'm—I'm not so sure my body's gonna cooperate. [Sigh]
+
+1076 [Happy] [Fast] My oncologist said the numbers are actually looking better than expected, so that's, y'know, that's something to celebrate!
+
+1077 [Angry] Why do people keep saying "stay strong" like I have a—like there's another option here? [Groan]
+
+1078 [Slow] The thing about chemo brain is, um, you forget what you were gonna—what was I saying? [Chuckle] [Sad] See, there it goes again.
+
+1079 [Shout] I actually kept down an entire meal today! [Happy] [Laugh] Take that, nausea!
+
+1080 [Sarcastic] [Fast] Sure, let's add another pill to the collection—I'm basically a walking pharmacy at this point, what's one more?
+
+1081 [Sad] My kids are trying so hard to be brave, but I can see they're—they're scared, y'know? [Whisper] And honestly, me too.
+
+1082 [Happy] This wig is kinda fun actually—I've always wanted to try being a redhead! [Chuckle] [Fast] Maybe I'll get a blue one next.
+
+1083 [Disappointed] [Slow] I used to run marathons, and now walking to the mailbox is like—it's an achievement, I guess.
+
+1084 [Angry] [Shout] Can everyone please stop tiptoeing around me like I'm made of glass?! [Sigh] I'm sick, not broken!
+
+1085 [Whisper] You wanna know something funny? [Happy] The hospital jello actually tastes pretty good when you can't taste anything else properly.
+
+1086 [Fast] [Sarcastic] Oh fantastic, another person wants to tell me about their aunt's cousin who beat cancer with, uh, positive thinking and kale smoothies.
+
+1087 [Sad] [Slow] Some days are harder than—I mean, yesterday was okay, but today I just... [Sigh] Tomorrow will be different.
+
+1088 [Happy] My support group is literally the best—we call ourselves the "Chemo Warriors" and honestly, it's so cheesy but I love it! [Laugh]
+
+1089 [Angry] The insurance company is being absolutely—ugh, I can't even deal with their bureaucratic nonsense right now. [Groan] [Fast] Like I don't have enough to worry about?
+
+1090 [Whisper] [Disappointed] I keep having these dreams where I'm completely healthy and then I wake up and remember—yeah.
+
+1091 [Slow] It's weird how cancer makes you appreciate stupid little things like, um, like keeping ice cream down or having energy to shower. [Chuckle] [Happy] Small victories, right?
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1092 SCENARIO: Matter-of-factly talking about a ride share they took, then checking their rating, then seeing it dropped significantly recently, spiraling into confusion and self-consciousness about what they did
+
+==================================================
+
+[conversational]
+
+So I took an Uber to that appointment this morning, right? Pretty normal ride, nothing weird happened. Driver was quiet, which honestly I prefer sometimes, you know?
+
+[matter-of-fact]
+
+But then I'm sitting here and I remember I haven't checked my rating in forever. Like, I used to obsess over it but then I just... stopped caring, I guess.
+
+[slightly curious]
+
+So I open the app and I'm expecting like a 4.8 or whatever I usually have, and— [pause] wait, what? 4.2? That can't be right.
+
+[confused]
+
+I mean, that's... that's a pretty big drop, right? When did that happen? I literally just sit there and say thanks at the end. What could I have possibly— [nervous laugh]
+
+[growing self-conscious]
+
+Oh god, do I smell? Have I been smelling this whole time and not knowing it? Or maybe I was too chatty with someone who wanted silence, or too quiet with someone who wanted to talk?
+
+[spiraling]
+
+What if I've been slamming doors wrong? Or maybe my music was too loud through my headphones? [anxious laugh] Do I look sketchy? Is it my face? Can they rate you for having an annoying face?
+
+[panicked] [rambling]
+
+I need to figure out which ride it was. Was it the guy yesterday? The woman last week? Oh my god, what if multiple people have been rating me badly and I've just been walking around being the worst passenger ever without knowing it?

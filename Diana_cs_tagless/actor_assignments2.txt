@@ -1,0 +1,547 @@
+ACTOR LINE ASSIGNMENTS - 92 ITEMS (~2332 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  294 words ( 12.6%)
+
+  monologues_selftalk :  239 words ( 10.2%)
+
+  conversation        :  352 words ( 15.1%)
+
+  cs_alpha            :  422 words ( 18.1%)
+
+  cs_noalpha          :  333 words ( 14.3%)
+
+  basic_scenarios     :  421 words ( 18.1%)
+
+  monologues          :  271 words ( 11.6%)
+
+  TOTAL               : 2332 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (86 words)
+
+Script: c2112c0d_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Third time this month.
+
+96 Character 2: Oh god, oh no—what did I—wait, the cookies? The cookies had peanuts? I'm so sorry, I didn't even think to check, I just grabbed them because they looked really good and I thought—
+
+Character 1: You never think to check.
+
+97 Character 2: That's not—okay, that's kinda true. [nervous laugh] But it's not that I don't care! I swear I care, I just get so caught up in the moment and then I forget to ask about ingredients and—no, that sounds terrible. I'm making it worse.
+
+Character 1: I literally carry an EpiPen because of this.
+
+98 Character 2: I know, I know, and that's—that's terrifying actually? Like when you put it that way, I realize how badly I keep messing this up. It's not just forgetting, it's like... it's your life, y'know?
+
+Character 1: Yeah. It is.
+
+99 Character 2: I'm gonna—I'm gonna put it in my phone right now. Like, literally setting reminders and everything. [groan] God, I should've done this months ago. I don't know why I'm like this, my brain just doesn't—that's not an excuse though.
+
+Character 1: You said you'd remember after the Thai food incident.
+
+100 Character 2: The pad thai with the—yeah. Yeah, I did say that. And then the birthday cake thing happened and I just... I dunno why it doesn't stick in my head. It's like I know you have allergies but then someone offers food and my brain goes completely blank.
+
+Character 1: Do you just not care enough to remember?
+
+101 Character 2: No! No no no, that's not it at all. I care—I care so much, honestly. You're one of my best friends and I keep putting you in danger because I'm just—I'm careless, I guess? Not on purpose but that doesn't make it better.
+
+Character 1: It's exhausting having to remind you constantly.
+
+102 Character 2: You shouldn't have to. Like, you really shouldn't. That's on me, completely on me, and I—wait, I'm gonna write it on my hand right now too. Peanuts, tree nuts, shellfish. That's all of them, right? [sigh] See, the fact that I'm even asking...
+
+Character 1: And soy.
+
+103 Character 2: And soy! Fuck, I'm—I'm the worst friend. I'm literally the worst. You've told me a hundred times and I still can't get it right. I don't blame you for being mad, I'd be furious if someone kept doing this to me.
+
+Character 1: I'm tired of almost dying at every group dinner.
+
+104 Character 2: That's—okay when you say it like that... I've been treating this like some minor thing, haven't I? Like "oops, forgot again" but it's not—it's actually serious and I've been so stupidly casual about your actual safety.
+
+Character 1: Yeah. You have.
+
+105 Character 2: I'm gonna—I'm gonna fix this. For real this time, not just saying it. Maybe we could, um, go through a list together? Of safe restaurants and brands and stuff? So I have it all written down and I can actually be a decent friend for once?
+
+Script: 9d78f27f_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You threw me under the bus.
+
+106 Character 2: What? No no no, that's not—okay, I know how it looked but I swear that's not what happened. I was trying to explain to everyone that it wasn't anybody's fault and then—
+
+Character 1: You literally pointed at me.
+
+107 Character 2: I was gesturing! I was just—my hands were moving while I talked, you know how I get when I'm nervous. And Mark was like "whose idea was it" and I kinda froze and I—[nervous laugh] okay yeah, my hand might've been in your direction but—
+
+Character 1: Might've been?
+
+108 Character 2: Okay fine, it was. It totally was pointing at you but I didn't mean—I wasn't trying to blame you! I was literally about to say that we all decided together but then everyone just assumed and started talking over me.
+
+Character 1: You didn't correct them.
+
+109 Character 2: I tried! I mean—I wanted to, but then Jessica started going off about accountability and I just—I panicked. [Groan] God, I'm such a coward. I shoulda said something right then, I know.
+
+Character 1: Yeah. You should have.
+
+110 Character 2: I'm gonna fix this, okay? I'm gonna tell everyone tomorrow that it was actually—that you had nothing to do with it. I'll explain everything, I promise. I'll literally send a group text right now if you want.
+
+Character 1: It's too late. They already think I'm the one who screwed everything up.
+
+111 Character 2: No, it's not too late! People forget stuff like this, honestly. And I'll—I'll make sure they know the truth. Um, actually, wait—I already texted Mark like an hour ago trying to explain. He hasn't responded yet but—
+
+Character 1: You texted Mark?
+
+112 Character 2: Yeah! Yeah, as soon as I realized how bad it looked, I messaged him. And I'm gonna talk to Jessica tomorrow in person 'cause she's the one who really—she's the one spreading it around the most, y'know? [Sigh] I really didn't mean for this to happen.
+
+Character 1: I just don't get why you didn't speak up immediately.
+
+113 Character 2: I know, I—that's totally fair. I just freeze sometimes when everyone's staring at me and I can't—the words just don't come out right. But that's not an excuse, I know it's not. I really messed up and I'm so, so sorry.
+
+Character 1: This really sucked. Having everyone look at me like that.
+
+114 Character 2: I know. God, I know and I feel—I feel terrible about it. Like genuinely sick to my stomach. You're one of my best friends and I just... I let you down. I'm gonna make this right though, I swear. Whatever it takes.
+
+Character 1: Just... next time, have my back. Please.
+
+115 Character 2: I will. I promise I will. And there's gonna—wait, does this mean you're not completely done with me? 'Cause I thought—I was worried you'd never wanna talk to me again after this. [quieter] I really am sorry. Like, from the bottom of my heart.
+
+Script: fd05ad48_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Where's my jacket?
+
+116 Character 2: Oh god, your jacket—okay, so, um, I definitely have it. I mean, I borrowed it last week for that thing, remember? And I was totally gonna bring it back but then—wait, actually let me check my car real quick.
+
+Character 1: Don't bother. This is the third thing this month.
+
+117 Character 2: No no no, I know how this looks. I'm not—I'm not trying to steal your stuff, I swear. I'm just really, really bad at remembering to return things and that's [nervous laugh] that's on me, totally on me.
+
+Character 1: My headphones. My book. Now my jacket.
+
+118 Character 2: The book! Right, I still have that too—god, I'm the worst. Like literally the worst friend ever. I keep meaning to gather everything up and bring it all back but then I—I dunno, I just space out completely. It's not an excuse, I know.
+
+Character 1: I needed that jacket yesterday.
+
+119 Character 2: Oh no. Oh no no no, did you—was it for something important? [Groan] Please don't tell me it was for your date. It was for your date, wasn't it? I'm so sorry, I didn't even think about—
+
+Character 1: Yeah. It was.
+
+120 Character 2: I feel terrible. Like, genuinely awful right now. You must think I'm doing this on purpose but I'm not—I would never. It's just that my brain is basically Swiss cheese lately and I can't keep track of anything, y'know?
+
+Character 1: That's not really my problem.
+
+121 Character 2: You're right. You're absolutely right, it's not. I'm making excuses when I should just be—okay, here's what I'm gonna do. I'm driving home right now, grabbing literally everything of yours, and bringing it straight back. Today. Within the hour.
+
+Character 1: You said that last time.
+
+122 Character 2: I know I know, but last time I—wait, no, see I'm doing it again. No excuses. [Sigh] I honestly don't blame you for being mad. I'd be furious with me too. Actually, I kinda am furious with myself.
+
+Character 1: I just want my stuff back.
+
+123 Character 2: You'll have it. I promise—actually, no, promises don't mean anything at this point, do they? Um, how about this: I'm gonna text you photos of everything I've gathered up before I leave my place. Like proof that I actually have it all ready.
+
+Character 1: That would be good.
+
+124 Character 2: And maybe—maybe we need like a system or something? Like I give you collateral when I borrow stuff? God, that sounds so stupid when I say it out loud but I clearly can't be trusted with the normal way of just, y'know, being a responsible adult.
+
+Character 1: Just bring my things back first. Then we'll talk.
+
+125 Character 2: Right. Yeah, of course. I'm—I'm leaving right now. Literally walking to my car as we speak. And I really am sorry. Like, deeply, truly sorry. I know I've been a crappy friend about this and you deserve better. [quieter] Way better.
+
+Script: a273c040_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: Where's my camera?
+
+126 Character 2: Oh god, okay—so, um, this is gonna sound really bad but just let me explain the whole thing first? I was at the park taking those photos I told you about, right? And I—I swear I had it in my bag.
+
+Character 1: You lost it.
+
+127 Character 2: Wait wait wait, I didn't—well, I mean, technically yes but it's not like I was careless or anything! I literally had it zipped up in the front pocket and then when I got home it just wasn't—[groan] okay that sounds worse out loud.
+
+Character 1: That was my grandfather's camera.
+
+128 Character 2: I know. Oh my god, I know, I'm like—I'm literally sick about it. I've been back to the park three times already looking for it, I called the lost and found, I posted in all the local Facebook groups—
+
+Character 1: It's gone.
+
+129 Character 2: No no no, don't say that! I'm gonna—I'm gonna find it, I promise. Or I'll replace it! I mean, I know I can't actually replace it 'cause of the sentimental value and everything but I could try to find the same model? [nervous laugh] I've been checking eBay all morning.
+
+Character 1: Do you have any idea what that camera meant to me?
+
+130 Character 2: Yes. God, yes, of course I do. That's why I feel so—that's why this is killing me, y'know? You trusted me with it and I just... I completely messed up. I'm so, so sorry.
+
+Character 1: I shouldn't have lent it to you.
+
+131 Character 2: You're—you're right. I mean, no, you were being a good friend and I—I let you down. Badly. Like, this is probably the worst thing I've ever done to you and I just... I dunno how to make it right.
+
+Character 1: Three years. Three years I've been careful with that camera.
+
+132 Character 2: I know, I know. And then I lose it in one day like an idiot. [sigh] I honestly—I can't even look at myself in the mirror right now. I keep replaying everything trying to figure out where it could've—actually, wait, did I tell you I'm gonna check the coffee shop too?
+
+Character 1: Which coffee shop?
+
+133 Character 2: The one by the park! I stopped there after—oh my god, I totally forgot I went there! Maybe I—maybe I left it on the chair or something? I'm gonna go right now, actually. Will you—would you maybe wanna come with me?
+
+Character 1: Fine. But if it's not there—
+
+134 Character 2: Then I'll keep looking! Seriously, I'm not giving up on this. Even if it takes me weeks, months, whatever—I'm gonna make this right. And um, even if you never forgive me, which I'd totally understand, just... know that I'm really, truly sorry.
+
+Character 1: I know you are. Let's just... let's go check the coffee shop.
+
+135 Character 2: Really? You'll come? Oh thank god—I mean, thank you. I promise I'll—from now on, I'm never borrowing anything from anyone ever again. Literally nothing. Not even a pencil.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (68 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (75 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (65 words)
+
+============================================================
+
+============================================================
+
+ITEMS 42-51 - CONVERSATION (352 words)
+
+Script: d8ae6765
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+136 Character 1: [defensive] I already told you, I was at Jake's house. [getting louder] We were just playing video games and lost track of time, okay? [frustrated sigh] Why do you always assume I'm lying about everything?
+
+Character 2: [suspicious] Jake's mother called me at ten asking if he was here. [slower, deliberate] So unless Jake has mastered being in two places at once... [sharp pause] [coldly] Try again with the truth this time.
+
+137 Character 1: [panicked] Wait, she must have been confused! [speaking faster] Maybe she meant to call someone else's mom, there were other kids there too. [nervous laugh] You know how she gets mixed up sometimes with all those names.
+
+Character 2: [controlled anger] Don't you dare blame Mrs. Henderson. [building intensity] I saw your location was turned off on your phone, and you smell like [sniffing] [disgusted] cheap perfume and cigarettes. Where were you really?
+
+138 Character 1: [quieter] That's from walking past some people smoking outside. [defensive mumbling] And Sarah hugged me goodbye, she always wears too much perfume. [pleading] Mom, you're making this into something it's not, I swear to you.
+
+Character 2: [tired sigh] Sarah moved to Denver three months ago. [more firmly] We went to her going-away party together, remember? [accusatory whisper] How stupid do you think I am? One more lie and you're grounded until graduation.
+
+139 Character 1: [caught off-guard] I meant... a different Sarah! [stammering] From my chemistry class, you don't know her. [desperately] Look, fine, we went to this small get-together at Mark's house but nothing bad happened, I promise!
+
+Character 2: [sarcastic] Oh, now it's Mark's house. [bitter laugh] And I suppose Mark's parents were supervising this "small get-together"? [dangerously quiet] Were they serving juice boxes and playing board games at this innocent little party?
+
+140 Character 1: [defiant shout] Why can't you just trust me for once! [voice cracking] Everyone else's parents let them have a normal life! [resentful] You treat me like a prisoner, no wonder I have to sneak around sometimes!
+
+Character 2: [hurt whisper] Sneaking around is exactly the problem. [steadier] Trust is earned through honesty, not deception and changing stories. [firm] Until you can tell me the truth, [pause] [coldly] hand over your phone and car keys.
+
+141 Character 1: [whining] Mom, please, you're being completely unreasonable! [more urgently] I need my phone for school and work tomorrow! [frustrated groan] Okay, okay, there was alcohol there but I didn't drink any, I was responsible!
+
+Character 2: [explosive] Alcohol? [voice shaking] You went to an unsupervised party with underage drinking? [lower, threatening] What else happened there that you're not telling me? Drugs? Police? [pause] Did anyone drive home drunk?
+
+142 Character 1: [quickly defensive] No, nothing like that! [calmer] Everyone was being safe, some people stayed over, others got rides. [earnestly] Mom, I made good choices, I didn't drink or do anything stupid, isn't that what matters?
+
+Character 2: [disbelieving laugh] Good choices? [sarcastically sweet] Like lying to my face five times in ten minutes? [harsher] Your definition of "good choices" needs serious work. [commanding] Phone and keys, now. We'll discuss your punishment tomorrow.
+
+143 Character 1: [desperate] This is so unfair! [voice breaking] I came home safe, I didn't do anything wrong except go to a party! [bitterly] You wonder why I don't tell you things? This is exactly why!
+
+Character 2: [sad but firm] You lied repeatedly, turned off your location, and went somewhere with alcohol. [gentler] Those aren't the actions of someone I can trust. [sighing] I'm disappointed more than angry. Your father will hear about this.
+
+144 Character 1: [panicking] No, please don't tell Dad! [bargaining quickly] I'll do extra chores, I'll stay home every weekend for a month! [desperately sincere] Mom, I'm sorry I lied, I just knew you'd overreact exactly like this!
+
+Character 2: [scoffing] Overreact? [incredulous] You think being concerned about my child's safety is overreacting? [firmly] Your father deserves to know what his daughter is doing. [disappointed whisper] I thought I raised you better than this, honestly.
+
+145 Character 1: [defeated mumble] You did raise me better. [remorseful] I know I messed up with the lying part. [quietly pleading] Can we please just talk about this without Dad? I'll tell you everything that happened, the whole truth.
+
+Character 2: [long exhale] Fine, one chance to tell me everything. [warning tone] But if I find out you're still lying about any detail... [pause] [steely] the consequences will be far worse than just losing your phone.
+
+============================================================
+
+ITEMS 52-61 - CS ALPHANUMERIC (422 words)
+
+Script: 733e72d6
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [confused] Um, so I bought this TV last week—the Samsung QN65Q80B—and I'm trying to understand these warranty papers. [hesitant] There's like... three different options here? [sighs] My receipt says I paid $1,299.99 on November 15th.
+
+146 Customer Support: [professionally] Absolutely, I can help clarify those warranty options for you. So with that model, you have the standard one-year manufacturer warranty, plus we offer our store protection plan. Did you purchase any extended coverage when you bought it?
+
+Character 1: [uncertain] I... I think maybe? [frustrated sigh] The guy who helped me was talking really fast about something called "TechShield Plus" for $189.99. [more confused] But then there's also this GeekCare thing on my receipt for—wait, no that's $249.99.
+
+147 Customer Support: Let me pull up your purchase under your phone number. Can you confirm it's 555-0123? [more clearly] Ah yes, I see you enrolled in our TechShield Plus which covers accidental damage for three years, replacement guarantee, and includes annual tune-ups.
+
+Character 1: [relieved] Oh good, so I did get something. [suddenly worried] But wait, does that cover if my kid throws something at it? [nervous chuckle] Because my address is 4782 Oak Street and we have, uh, very active twins.
+
+148 Customer Support: [enthusiastically] Actually yes, accidental damage from handling is included! Your coverage code TSP-2024-11-QN65 specifically covers drops, spills, and yes—flying toy incidents. However, it doesn't cover intentional damage or, um, pet-related disasters beyond normal accidents.
+
+Character 1: [skeptical] Pet-related? [groans] Our cat already knocked over the soundbar twice this week. [more concerned] So if I need to use this warranty, do I call you guys at this store or Samsung directly at their 1-800 number?
+
+149 Customer Support: You'd actually call our dedicated TechShield hotline at 1-888-SHIELD1. They're available 24/7 and your member ID is TS-45892-K. Just have that ready when you call, and they'll dispatch a technician within 48 hours usually to your Oak Street address.
+
+Character 1: [overwhelmed] Okay so that's different from the Samsung warranty which expires on 11/15/2025. [sighs deeply] And then there's this third thing about a "Premium Setup Service" for $99.99? [confused again] Did I... did I pay for someone to set it up too?
+
+150 Customer Support: Yes, you did opt for Premium Setup! Our team should've contacted you to schedule that—typically within 3-5 business days of purchase. Since today's November 22nd, they probably already called? Check for a voicemail from 555-SETUP, that's 555-73887.
+
+Character 1: [embarrassed laugh] Oh man, I never check voicemails. [frustrated] So I probably missed them calling about setting up this massive TV that's still in its box. [worried tone] Will they charge me extra if I need to reschedule now?
+
+151 Customer Support: No additional charges for rescheduling! Let me call them right now from extension 4421 and see what slots they have available. With Thanksgiving coming up, we should get you scheduled before the holiday rush really hits.
+
+Character 1: [grateful] That would be amazing, thank you. [suddenly remembering] Oh, and one more thing—my credit card statement shows two charges? [concerned] One for $1,299.99 and another for $538.98 which I guess is all these add-ons?
+
+152 Customer Support: Exactly right, the $538.98 covers your TechShield at $189.99, Premium Setup at $99.99, and you also got the premium HDMI cable kit. That's model CBL-4K-10FT for $49 plus the wall mount bracket WM-65-ADJ for $199.99.
+
+Character 1: [shocked] Wait, two hundred bucks for a wall mount? [groans loudly] I thought that was like fifty dollars max! [resigned] Though I guess at this point, what's another couple hundred when I'm already in for almost two thousand?
+
+153 Customer Support: I understand the sticker shock. But that mount is rated for up to 100 pounds and includes tilt and swivel features. [more enthusiastically] Plus with your TechShield plan, if the mount fails, we cover any damage to your TV—that alone could save you the full $1,299.99.
+
+Character 1: [considering] Okay, when you put it that way... [chuckles nervously] I just need to remember all these numbers and dates. [overwhelmed again] The warranty until 2027, my member ID, that hotline number—it's a lot to keep track of.
+
+154 Customer Support: I'll print you a consolidated summary right now! Everything will be on one sheet—all your coverage dates, important phone numbers, your member ID TS-45892-K. I'll even highlight the key stuff with our store location at 9800 Main Street Mall.
+
+Character 1: [relieved sigh] You're a lifesaver, seriously. [more relaxed] So the setup team will call me back today? [hopefully] Because my wife's been complaining about that giant box blocking our hallway since last Thursday.
+
+155 Customer Support: They'll call within the hour to your number ending in 0123. They have slots available tomorrow and Saturday between 8am and 6pm. And remember, once it's mounted, you have free calibration service for the first year—just call with code CAL-2024-FREE!
+
+============================================================
+
+ITEMS 62-71 - CS NO-ALPHANUMERIC (333 words)
+
+Script: 969122ab
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+156 Customer Support: Good afternoon, I see you're calling about your recent premium notice. Yes, I can definitely help explain the increase—let me just pull up your account here and, um, we can go through everything together.
+
+Character 1: [frustrated] Look, I've been with you guys for twelve years, twelve! [voice rising] My premium just jumped forty percent and I—I haven't even filed a claim. [sighs heavily] How is this even justified?
+
+157 Customer Support: [sympathetically] I completely understand your frustration, truly. The increase is actually market-wide—we've seen rising repair costs, medical expenses are up thirty percent, and unfortunately these factors affect everyone's rates.
+
+Character 1: [sarcastically] Oh great, so everyone's suffering equally. [slower] That really doesn't help when I'm already stretched between my mortgage and, well, [exhausted] everything else that's gone up this year.
+
+158 Customer Support: You're absolutely right, everything's more expensive now. Let me check what discounts we can apply—are you still, um, working from home? [hopeful] We have new low-mileage options that could save you fifteen percent.
+
+Character 1: [skeptically] Fifteen percent off of what though? [groans] The new inflated price? [quieter] I work from home three days a week now, but that's still—that's still not making this affordable.
+
+159 Customer Support: Actually, three days qualifies you for our hybrid work discount! Plus, if you bundle with homeowners—wait, do you have that with us? [pause] We could potentially get you back closer to your original rate.
+
+Character 1: [tired] My homeowner's is with State Farm. [sighs] I suppose I could switch, but [reluctantly] that sounds like such a hassle right now, transferring everything over.
+
+160 Customer Support: It's actually much easier than you'd think! We handle all the paperwork, coordinate the switch date, and—here's the thing—bundling would save you about two hundred monthly across both policies.
+
+Character 1: [surprised] Two hundred? [pause] That's... actually significant. [cautiously optimistic] But what's the catch here—are you cutting coverage or raising deductibles without telling me?
+
+161 Customer Support: No catch, same coverage levels exactly. [more slowly] The savings come from the multi-policy discount, plus that hybrid work reduction, and honestly, we really value long-term customers like yourself.
+
+Character 1: [considering] Alright, so if I'm understanding correctly... [trails off] Wait, would this lock me into some long contract? [worried] Because I don't want to be stuck if rates jump again next year.
+
+162 Customer Support: [confidently] No long-term contracts whatsoever! You can adjust or cancel anytime—we keep customers by, you know, actually providing value. Not by trapping them with contracts.
+
+Character 1: [relieved] Well that's refreshing, I guess. [sighs] Can you email me the exact numbers? [more firmly] I need to see everything spelled out before I make any decisions here.
+
+163 Customer Support: Absolutely, I'm preparing that right now actually. I'll include both the standalone auto rate and the bundled option, with all applicable discounts itemized—should be in your inbox within five minutes.
+
+Character 1: [appreciatively] Thank you, that's helpful. [pause] One more thing though—what about my daughter? [concerned] She's getting her license next month and I'm dreading what that'll do to the premium.
+
+164 Customer Support: Perfect timing to ask! We have a good student discount, defensive driving course credits, and if she's using a car with our safe-drive monitoring app, that's another ten to fifteen percent off her portion.
+
+Character 1: [skeptically] Monitoring app? [groans softly] You mean tracking her every move? [resigned] I suppose that's just how things are now—no privacy for anyone anymore.
+
+165 Customer Support: I understand the concern about privacy, really. The app only tracks driving behaviors—speed, braking, that sort of thing—not locations or destinations. It's completely optional but the savings are substantial.
+
+Character 1: [decisively] Alright, send me everything—the quotes, the app information, all of it. [sighs] I'll review it with my husband tonight and [somewhat defeated] probably call you back tomorrow to switch everything over.
+
+============================================================
+
+ITEM 166 - BASIC SCENARIO (27 words)
+
+============================================================
+
+166 [Disappointed] So, um, I really gotta—I mean, my parking meter's definitely expired by now. [Fast] I should probably go check on that before I get a ticket.
+
+============================================================
+
+ITEM 167 - BASIC SCENARIO (23 words)
+
+============================================================
+
+167 [Whisper] Hey, uh, I think my phone's been vibrating for like ten minutes straight? [Nervous laugh] [Sigh] Someone's probably wondering where I am.
+
+============================================================
+
+ITEM 168 - BASIC SCENARIO (19 words)
+
+============================================================
+
+168 [Sarcastic] Wow, this is—this is fascinating, truly, but my cat's gonna starve if I don't leave right now. [Tsk]
+
+============================================================
+
+ITEM 169 - BASIC SCENARIO (26 words)
+
+============================================================
+
+169 [Happy] Oh! [Fast] You know what, I just remembered I've got that thing—the thing I told you about last week? [Chuckle] Yeah, I should really run!
+
+============================================================
+
+ITEM 170 - BASIC SCENARIO (24 words)
+
+============================================================
+
+170 [Slow] Listen, I'm gonna have to, uh... [Sigh] [Disappointed] I'm gonna have to stop you right there because I genuinely can't be late again.
+
+============================================================
+
+ITEM 171 - BASIC SCENARIO (18 words)
+
+============================================================
+
+171 [Angry] Okay, I've been trying to—look, I've said "goodbye" three times already! [Groan] I really need to go!
+
+============================================================
+
+ITEM 172 - BASIC SCENARIO (23 words)
+
+============================================================
+
+172 [Sad] I wish I could stay and hear the rest, honestly, but I'm just—I'm exhausted. [Slow] Maybe we can continue this another time?
+
+============================================================
+
+ITEM 173 - BASIC SCENARIO (20 words)
+
+============================================================
+
+173 [Fast] [Happy] Right, so basically my Uber's here and the driver's texting me like crazy, so I'm just gonna—yeah, bye!
+
+============================================================
+
+ITEM 174 - BASIC SCENARIO (17 words)
+
+============================================================
+
+174 [Whisper] Can I just—sorry, but I really have to use the bathroom. [Fast] Like, urgently. [Nervous laugh]
+
+============================================================
+
+ITEM 175 - BASIC SCENARIO (18 words)
+
+============================================================
+
+175 [Shout] MY HOUSE IS ON FIRE! [Laugh] No, I'm kidding, but seriously though, I do need to leave.
+
+============================================================
+
+ITEM 176 - BASIC SCENARIO (19 words)
+
+============================================================
+
+176 [Sarcastic] [Slow] Mhmm, yeah, absolutely riveting stuff here, but, uh, my dentist appointment was actually twenty minutes ago, so...
+
+============================================================
+
+ITEM 177 - BASIC SCENARIO (24 words)
+
+============================================================
+
+177 [Disappointed] You're not really picking up on my hints, are you? [Tsk] [Fast] I've been edging toward the door for literally five minutes now.
+
+============================================================
+
+ITEM 178 - BASIC SCENARIO (24 words)
+
+============================================================
+
+178 [Sad] I don't wanna be rude or anything, but I'm kinda—I mean, I'm getting a migraine? [Sigh] I just need to go lie down.
+
+============================================================
+
+ITEM 179 - BASIC SCENARIO (20 words)
+
+============================================================
+
+179 [Angry] [Fast] No, no, no, we're not doing the whole story again—I heard it the first time! [Groan] I'm leaving!
+
+============================================================
+
+ITEM 180 - BASIC SCENARIO (22 words)
+
+============================================================
+
+180 [Happy] Oh my god, wait—is that the time? [Laugh] [Fast] I totally forgot I'm supposed to pick up my kid from school!
+
+============================================================
+
+ITEM 181 - BASIC SCENARIO (18 words)
+
+============================================================
+
+181 [Slow] [Whisper] So, um, this is awkward, but my ex just walked in and I really can't—yeah. [Tsk]
+
+============================================================
+
+ITEM 182 - BASIC SCENARIO (26 words)
+
+============================================================
+
+182 [Sarcastic] Let me just, uh, let me just stop you right there—fascinating as your cousin's wedding drama is... [Sigh] [Disappointed] I've got actual work to do.
+
+============================================================
+
+ITEM 183 - BASIC SCENARIO (10 words)
+
+============================================================
+
+183 [Shout] [Happy] ANYWAY! Great talk! Gotta bounce! [Laugh] See ya!
+
+============================================================
+
+ITEM 184 - BASIC SCENARIO (22 words)
+
+============================================================
+
+184 [Slow] I'm gonna be honest with you here—I stopped listening about ten minutes ago? [Chuckle] [Sad] My brain's just completely fried today.
+
+============================================================
+
+ITEM 185 - BASIC SCENARIO (21 words)
+
+============================================================
+
+185 [Fast] [Angry] Y'know what, I'm just gonna—I'm walking away now, like literally walking away, because apparently saying "bye" doesn't work! [Groan]
