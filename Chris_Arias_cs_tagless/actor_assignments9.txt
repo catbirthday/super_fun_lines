@@ -1,0 +1,547 @@
+ACTOR LINE ASSIGNMENTS - 92 ITEMS (~2279 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  463 words ( 20.3%)
+
+  monologues_selftalk :  198 words (  8.7%)
+
+  conversation        :  360 words ( 15.8%)
+
+  cs_alpha            :  376 words ( 16.5%)
+
+  cs_noalpha          :  302 words ( 13.3%)
+
+  basic_scenarios     :  322 words ( 14.1%)
+
+  monologues          :  258 words ( 11.3%)
+
+  TOTAL               : 2279 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (57 words)
+
+Script: 49e92188_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So you told Marcus about the promotion.
+
+713 Character 2: Oh god, okay—wait wait wait, let me explain. I didn't mean to tell him, it just—it kinda slipped out when we were talking about work stuff and I was so excited for you that I—
+
+Character 1: It slipped out.
+
+714 Character 2: I know how that sounds! I know, okay? But we were literally just talking about how his job sucks and I wanted to make him feel better so I mentioned—no, that's not an excuse. [groan] I'm such an idiot.
+
+Character 1: I asked you for one thing.
+
+715 Character 2: You did. You absolutely did and I completely—I betrayed your trust. That's what I did, right? I betrayed your trust and I feel horrible about it. Like, genuinely sick to my stomach horrible.
+
+Character 1: Marcus works at my company. Did you forget that part?
+
+716 Character 2: No no no, I didn't forget, I just—I wasn't thinking. Which is like, the story of my life, right? I never think before I—ugh, sorry, this isn't about me. [nervous laugh] I'm making it about me when I'm the one who screwed up.
+
+Character 1: Yeah. You did.
+
+717 Character 2: I wanna fix this so badly. Like, I already told Marcus not to say anything to anyone—not that that helps now, but I tried to do damage control at least? I know that doesn't make it better but—
+
+Character 1: He already told Lisa.
+
+718 Character 2: What? No, he—he promised me he wouldn't tell anyone! I specifically made him promise and he... oh my god. Oh my god, I'm so sorry. This is—this is all my fault.
+
+Character 1: Now everyone's going to know before it's official.
+
+719 Character 2: Maybe not everyone? I mean—no, you're right, Lisa's gonna tell everyone. She always does. God, I really really messed this up for you, didn't I? [sigh] I don't even know what to say except I'm sorry. Like, genuinely, deeply sorry.
+
+Character 1: I trusted you with this.
+
+720 Character 2: I know. And that's—that's what kills me the most, y'know? That you trusted me with something this important and I just... I got careless. No, not even careless, just straight-up stupid. You deserved better from me.
+
+Character 1: I don't know if I can tell you things anymore.
+
+721 Character 2: Please don't say that. I mean—I get it, I do, but please just—give me another chance? I swear I'll never, ever do anything like this again. I'll literally tape my mouth shut if I have to. Whatever it takes to earn your trust back.
+
+Character 1: I need time to think about it.
+
+722 Character 2: Yeah. Yeah, of course. Take all the time you need, honestly. I just—I want you to know that our friendship means everything to me and I'm gonna do whatever I can to fix this. Even if it takes forever. Because you're worth it, okay? You're absolutely worth it.
+
+Script: 19cd8bb0_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: Won the costume contest.
+
+723 Character 2: Wait wait wait—you WON? Oh my god, I knew it, I literally knew you were gonna take it! That armor looked so—like, professional doesn't even cover it, right?
+
+Character 1: Yeah. Took three months.
+
+724 Character 2: Three months of you basically living in your garage with all that foam and—what was it, the heat gun thing? [Laugh] Remember when you texted me at like 2am about the shoulder pieces?
+
+Character 1: The shoulders were a nightmare.
+
+725 Character 2: But you figured it out! That's—honestly that's what kills me, you were so stressed about those stupid shoulders and then boom, you actually won the whole thing.
+
+Character 1: Got a trophy. It's plastic.
+
+726 Character 2: Okay but like—who cares if it's plastic? You beat how many people? There were like, what, fifty entries? And yours was the best one there, period.
+
+Character 1: Forty-three entries.
+
+727 Character 2: Forty-three! See, that's—that's even better actually. Did they say anything specific about why yours won? Like what the judges were thinking?
+
+Character 1: Something about "attention to detail" and "authentic weathering." Whatever that means.
+
+728 Character 2: Um, hello? That means you nailed it! The weathering was literally—I remember you spending forever on that, with the sandpaper and the paint and... [Sigh] god, you worked so hard on this.
+
+Character 1: It was fine. Just followed some tutorials.
+
+729 Character 2: No no no, don't—don't do that thing where you downplay it. Tutorials don't win contests, okay? You do. Your actual skill and like, dedication does that.
+
+Character 1: I guess. People seemed impressed.
+
+730 Character 2: People seemed—okay, understatement much? I saw the photos, everyone was literally crowding around you trying to get pictures. You looked kinda uncomfortable actually [Chuckle] but still!
+
+Character 1: Not great with crowds.
+
+731 Character 2: Yeah but you—you stayed for the whole thing, right? And honestly seeing you up there getting recognized for something you're genuinely good at? That's huge, y'know?
+
+Character 1: Might do another one next year.
+
+732 Character 2: Yes! Oh my god, yes—and this time I'm gonna actually come and see it in person because I'm still—I'm honestly still mad I missed this one. Promise you'll tell me earlier next time?
+
+Script: b951e8a5_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So I won something.
+
+733 Character 2: Wait wait wait—you won something? Like, what kind of something? Because the way you're just casually dropping this makes me think it's either, like, a grocery store gift card or—or something huge.
+
+Character 1: A year of free flights. Anywhere.
+
+734 Character 2: I'm sorry, WHAT? [Gasp] No no no, you can't just—hold on. A YEAR? Of flights? To literally anywhere? That's—that's not real. How is that even real?
+
+Character 1: Some airline raffle thing. I forgot I even entered.
+
+735 Character 2: You forgot?! Oh my god, of course you forgot. This is so—wait, so like, business class? Economy? Because honestly even economy would be insane but I'm just trying to wrap my head around this right now.
+
+Character 1: First class.
+
+736 Character 2: Okay I'm gonna—I might actually pass out. First class! Do you even understand what you're saying? Like, you could literally go to Japan next week! Or—or Paris for lunch! This is the most ridiculous thing I've ever heard and you're just sitting there like [Laugh] like it's nothing!
+
+Character 1: Haven't really processed it yet.
+
+737 Character 2: Yeah no, I mean—that makes sense actually. It's probably like, what do they call it? Shock? Because this is basically winning the lottery except better because money's just money but this is like—this is experiences, y'know?
+
+Character 1: I don't even have a passport.
+
+738 Character 2: Oh my god, okay okay—we're fixing that immediately. Like, tomorrow. Actually no, today if we can because—wait, when does it start? The year of flights?
+
+Character 1: Next month. But I don't know where to go.
+
+739 Character 2: Are you—okay that's actually kinda sweet that you're overwhelmed because like, most people would already have seventeen trips planned but you're just... [Chuckle] you're just you. We're gonna make a list though, right? Together?
+
+Character 1: Yeah. Maybe start small.
+
+740 Character 2: Small? Babe, nothing about this is small! But I mean—yeah, okay, maybe don't do like, Australia for your first trip. Unless you want to! God, you could literally go anywhere. This is so unfair but also I'm so happy for you I could cry.
+
+Character 1: You could come. On some of them.
+
+741 Character 2: Wait—are you serious? Because I was trying really really hard not to invite myself but like, if you're offering... I mean, I'd pay for everything else obviously, hotels and stuff. Oh my god, we could actually do that trip we always talked about!
+
+Character 1: The one to Iceland? Yeah. Let's do that one.
+
+742 Character 2: I'm literally—okay I'm getting emotional now because you've been talking about those hot springs for like three years and now it's actually gonna happen? This is the best thing ever. You deserve this so much, you know that?
+
+Script: f1e94d4f_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: This is the fourth time.
+
+743 Character 2: I know, I know how it looks, but work has been absolutely insane lately. Like, I'm not even exaggerating—I've been pulling twelve-hour days and my boss is breathing down my neck about this project that's due—
+
+Character 1: You always have a project.
+
+744 Character 2: That's not—okay, that's not fair. You're acting like I'm making this up or something. [scoff] I literally sent you a picture of me at my desk at midnight last week, remember?
+
+Character 1: I remember you canceling dinner. Again.
+
+745 Character 2: And I felt terrible about that! But what am I supposed to do, tell my boss "sorry, can't stay late, gotta go"? That's not how it works and you know that. I mean, come on.
+
+Character 1: Other people manage it.
+
+746 Character 2: Other people don't have my job! Look, I'm not saying—[sigh]—I get that you're frustrated, okay? I'm frustrated too. But you're making it sound like I'm choosing work over you on purpose.
+
+Character 1: Aren't you?
+
+747 Character 2: Wow. That's—wow. No, I'm not. I'm trying to keep my job, which, y'know, kinda pays my rent? But sure, make me the villain here.
+
+Character 1: I didn't say you were a villain.
+
+748 Character 2: You're basically implying it though! Like, every time I have to reschedule, you get all cold and—and judgey about it. I'm doing my best here, honestly.
+
+Character 1: Your best keeps changing our plans.
+
+749 Character 2: Yeah, well, my best is all I've got right now. And I'm sorry that's not good enough for you, but I can't just—I can't magically make work disappear. [frustrated laugh] I wish I could.
+
+Character 1: You could try harder.
+
+750 Character 2: Try harder? Are you—I am trying! God, you have no idea what I'm dealing with right now. The pressure, the deadlines, my manager who's basically—whatever, you don't wanna hear it anyway.
+
+Character 1: You're right. I don't.
+
+751 Character 2: Fine. Fine fine. But y'know what? You could also try being a little more understanding instead of just—instead of acting like I'm doing this to hurt you or something.
+
+Character 1: Understanding only goes so far.
+
+752 Character 2: Yeah, well, apparently so does friendship. Look, I'm—I'm sorry I keep having to reschedule, okay? But I'm not gonna apologize for having a demanding job. That's just my life right now.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (59 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (49 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (298 words)
+
+============================================================
+
+============================================================
+
+ITEMS 42-51 - CONVERSATION (360 words)
+
+Script: 47c52980
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+753 Character 1: [nervously] Mom, we need to talk about something important. [clearing throat] I've been researching some places that could help with your daily needs. [quieter] Sunrise Manor has excellent reviews, and they have a beautiful garden you'd love.
+
+Character 2: [sharp] I know exactly what this is about. [slower] You want to put me away somewhere, don't you? [voice breaking] After everything I've done, raising you alone, this is how you repay me?
+
+754 Character 1: [defensive] That's not fair, Mom! [softer] I'm worried about you living alone. [pleading tone] Last week you left the stove on for hours. What if I hadn't stopped by? Please, just consider looking at the place.
+
+Character 2: [bitterly] One mistake and suddenly I'm incompetent? [Long sigh] I've managed this house for forty-seven years, David. [trembling] These walls have memories—your father's laugh, your first steps. How can you ask me to leave?
+
+755 Character 1: [strained voice] Because I can't sleep at night worrying! [more desperately] What happens when you fall again and can't reach the phone? [whispered] I'm scared, Mom. I can't lose you because we waited too long.
+
+Character 2: [quietly] You think I'm not scared too? [voice rising] Every morning I wake up wondering if today's the day I forget something important. [Soft sob] But this is my home, sweetheart. It's all I have left.
+
+756 Character 1: [gently] You'd still have me, Mom. [more firmly] I'd visit every single day, I promise. [rushed words] They have art classes, book clubs, people your age to talk to. You wouldn't be so isolated anymore.
+
+Character 2: [sarcastically] Oh, how wonderful—forced friendships with strangers. [wearily] You used to beg me not to leave you at daycare, remember? [accusatory] Now you're the one doing the leaving. How the tables have turned, haven't they?
+
+757 Character 1: [frustrated shout] This isn't about abandoning you! [voice cracking] It's about keeping you safe when I can't be here. [exhausted] Sarah and I both work sixty hours a week. We're drowning, Mom. We need help too.
+
+Character 2: [coldly] So it's about convenience then. [more softly] I'm becoming a burden to you and Sarah. [Bitter laugh] I always wondered when this day would come. I just thought I'd have more time before I became unwanted.
+
+758 Character 1: [angrily] Stop twisting my words! [choking up] You're not unwanted—you're everything to me. [desperately] But I'm failing you here. I can't give you what you need, and watching you struggle alone is killing me inside.
+
+Character 2: [shakily] What I need is my dignity, David. [stronger] What I need is to make my own choices while I still can. [wavering voice] Don't take that away from me. It's the last thing I truly own.
+
+759 Character 1: [pleading whisper] Then help me find a compromise. [steadier] Maybe we start with day programs, or a part-time aide? [hopefully] We don't have to do everything at once. Just please, work with me here, Mom. Please.
+
+Character 2: [long pause] [thoughtfully] Your father would have hated this conversation. [sadly] He promised I'd never have to leave this house. [Shaky breath] But he also made me promise to not be stubborn about accepting help when needed.
+
+760 Character 1: [relieved exhale] Dad always was the practical one. [tenderly] He'd want you safe and cared for, Mom. [voice strengthening] That's all I want too. Can we at least visit Sunrise Manor together? No commitments, just looking?
+
+Character 2: [reluctantly] I suppose looking wouldn't hurt. [firmer] But I'm not promising anything beyond that, you hear me? [softening slightly] And you're coming with me to every single tour. I won't do this alone, David. Not this.
+
+761 Character 1: [gratefully] Of course, Mom. Every tour, every meeting. [emotional] We're in this together. [quickly] I'll call tomorrow and schedule something for next week. We'll take our time, go at your pace. Thank you for considering it.
+
+Character 2: [wistfully] You know, I changed your diapers in this very room. [chuckling sadly] Fed you breakfast at that table for eighteen years. [Sigh] Now you're trying to feed me sales pitches about "senior communities." Life's funny, isn't it?
+
+762 Character 1: [laughing softly] You also taught me to ride a bike in that driveway. [meaningfully] Letting go was hard then too, remember? [gentle tone] But you did it because you loved me. Now it's my turn to love you.
+
+Character 2: [tearfully] Come here, you manipulative child. [sniffling] Using my own lessons against me. [warmly] Your father would be proud of the man you've become. Even if you are trying to ship me off to old folks' home.
+
+============================================================
+
+ITEMS 52-61 - CS ALPHANUMERIC (376 words)
+
+Script: c953ff64
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [angrily] Look, I've been calling for three weeks about this brown water at 4527 Maple Street! [raises voice] My account number is 78B-9043-K and I'm sick of—of this runaround. [frustrated grunt] You people keep saying it's fixed but nothing changes!
+
+763 Customer Support: [apologetically] I understand your frustration, Mr. Thompson, let me pull up your account. I see here we've had technicians out on the 14th and the 22nd. They reported completing a flush of the lines in your area, specifically grid sector M-7.
+
+Character 1: [sarcastically] Oh, they flushed the lines, did they? [louder] Then why is my bathtub still looking like chocolate milk every morning at 6:30 AM? [exasperated sigh] My daughter won't even brush her teeth with it!
+
+764 Customer Support: [sympathetically] That's certainly not acceptable, sir. [more firmly] According to our water quality report from station 12-B, the turbidity levels should be at 0.3 NTU. Has this been happening consistently or—or just during certain times?
+
+Character 1: [shouting] Every single day! [groans loudly] I've documented it all—photos, videos, timestamps! [accusingly] Invoice 2024-0892 shows I paid $287.43 last month for what, contaminated water?
+
+765 Customer Support: Sir, our water meets all EPA standards under regulation 40-CFR-141. However, I can schedule another technician for tomorrow between 8 AM and noon. [hesitantly] Would you be available at the property then?
+
+Character 1: [incredulously] Another technician? [bitter laugh] That's what Sandra in extension 2041 said last Tuesday! [demanding] I want a supervisor, someone from management, not another useless visit that won't—won't fix anything!
+
+766 Customer Support: My supervisor Janet Miller is in a meeting until 3:30 PM. But I can escalate this to our Water Quality Division, case number WQ-7789-X. They handle serious contamination issues within 24 to 48 hours.
+
+Character 1: [mockingly] Oh wonderful, another case number to add to my collection! [frustrated] I've got TK-4421, SR-8896, and now this! [desperately] Can't someone just come today and actually test the water at my house, unit 4527-A specifically?
+
+767 Customer Support: Let me check our emergency dispatch... Actually, I can get someone there by 4:45 PM today, technician badge number E-7734. They'll need access to both your main shut-off valve and the meter at space 23-C.
+
+Character 1: [skeptically] And this technician, they'll actually have testing equipment this time? [irritated] Because the last guy, employee 5502, just looked at the pipes and said "seems fine." [scoffs] Real professional diagnosis there!
+
+768 Customer Support: Yes sir, they'll bring the portable testing kit, model PTK-200. They'll test for iron, manganese, and sediment levels right there on-site. You'll get results immediately, not in two weeks like before.
+
+Character 1: [slightly calmer] Fine, but I'm recording everything on my phone this time. [firmly] And if this isn't resolved, I'm calling the health department, report number pending. [sighs] My neighbor at 4529 Maple is having the same issue, by the way.
+
+769 Customer Support: Oh, that's actually very helpful information, multiple addresses indicate a main line issue. [thoughtfully] Let me flag this entire block, zones M-7 through M-9. This might qualify for priority status under code 14-A.
+
+Character 1: [sarcastically] Priority status, imagine that! [exhausted] Look, I just want clean water for my $89.50 monthly bill, account 78B-9043-K. [pleading] Is that really too much to ask from a municipal water department?
+
+770 Customer Support: No sir, it's absolutely not, and I apologize for this ongoing situation. I'm putting a credit of $45.00 on your account right now, confirmation C-9982. The technician will also bring bottled water, case number BW-445, for immediate use.
+
+Character 1: [surprised] Oh... well, that's—that's something at least. [cautiously optimistic] And you're sure someone will be here at 4:45 PM? [quietly] Because I'm taking off work early for this, again.
+
+771 Customer Support: [assuringly] Yes sir, technician Rodriguez, ID number E-7734, is already assigned. You'll get a text to 555-0147 when he's on the way. Is there anything else I can document in ticket WQ-7789-X for you?
+
+Character 1: [resigned] Just... just make sure they know it's the whole street, not just me. [tiredly] Unit 4527-A, 4529, probably 4531 too. [mutters] Three weeks of brown water is three weeks too long, you know?
+
+772 Customer Support: Absolutely sir, I've noted the entire 4500 block of Maple Street in the report. You'll receive a follow-up call tomorrow morning from extension 3022. Thank you for your patience, Mr. Thompson, we'll get this resolved.
+
+============================================================
+
+ITEMS 62-71 - CS NO-ALPHANUMERIC (302 words)
+
+Script: e3b8caaf
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+773 Customer Support: Thank you for calling Extended Shield Warranty Services, how can I— yes, I see your claim here. Unfortunately, your transmission failure isn't covered under your basic powertrain plan.
+
+Character 1: [confused] Wait, what? The transmission IS the powertrain! [frustrated] I've been paying you people ninety dollars a month for three years, and now— [voice rising] now you're telling me it's not covered?
+
+774 Customer Support: Sir, I understand your frustration, really, but the CVT transmission in your vehicle falls under a different category— it's specifically excluded on page forty-seven of your contract.
+
+Character 1: [sarcastically] Oh, page forty-seven, of course! [groans] Nobody mentioned that when they sold me this— [pause] [angrily] this useless piece of paper that apparently covers nothing.
+
+775 Customer Support: It's not useless, sir, it covers many components like— water pumps, alternators, starter motors. Just not continuously variable transmissions manufactured after 2018.
+
+Character 1: [incredulous] Are you seriously— [stutters] I mean, the whole reason I bought coverage was for the expensive stuff! [desperately] Seven thousand dollars to fix this, and you're worried about water pumps?
+
+776 Customer Support: I can transfer you to our retention department who might— they sometimes have upgrade options available. Though I should mention there's a ninety-day waiting period for pre-existing issues.
+
+Character 1: [laughs bitterly] Pre-existing? It just broke yesterday! [accusingly] You know what, I bet you deny everything— [pause] probably got a script right there telling you exactly how to say no.
+
+777 Customer Support: Sir, I don't work from a script, I'm trying to— Look, let me check with my supervisor. Sometimes we can file an exception for long-term customers.
+
+Character 1: [skeptically] Oh, now there's exceptions? [mutters] Funny how those appear when I mention lawyers. [more firmly] Just tell me straight—will you cover this repair or not?
+
+778 Customer Support: [hurriedly] The supervisor says we can offer a one-time courtesy credit of— five hundred dollars toward your repair. It's not full coverage, but it's something we don't normally do.
+
+Character 1: [outraged] Five hundred? [voice cracking] That's not even ten percent! [pleadingly] Come on, I've never made a claim before this, doesn't that count for anything?
+
+779 Customer Support: I really wish I could do more, but— the underwriters set these limits, not me. Have you considered our platinum plan for future coverage?
+
+Character 1: [incredulous] You're trying to UPSELL me? [laughs angrily] While I'm sitting here with a dead car? [slowly] This is exactly why people hate insurance companies.
+
+780 Customer Support: That's not what I— [more calmly] Sir, I'm documenting everything in your file for the review board. Sometimes they overturn initial decisions within five business days.
+
+Character 1: [exhausted] Five more days without a car, fantastic. [mutters] You know what, just— [resignedly] just send me whatever paperwork I need for this supposed review.
+
+781 Customer Support: [quickly] I'll email those forms right now, and— actually, I just noticed you might qualify for our hardship provision. [cautiously] It requires additional documentation though.
+
+Character 1: [suspiciously] Hardship provision? [sarcastically] Let me guess, it covers everything except actual hardships? [sighs] What documentation are we talking about here?
+
+782 Customer Support: Three months of bank statements, two repair estimates, and— a notarized affidavit stating this failure impacts your ability to work. But it could increase coverage to seventy percent.
+
+Character 1: [defeated] Fine, whatever, I'll do it. [mutters] Seventy percent is better than— [pause] [bitterly] better than the nothing you wanted to give me initially. [tiredly] Just email me everything, please.
+
+============================================================
+
+ITEM 171 - BASIC SCENARIO (16 words)
+
+============================================================
+
+783 [Angry] [Fast] Oh come ON, the speed limit is forty-five, not—not twenty, for crying out loud!
+
+============================================================
+
+ITEM 172 - BASIC SCENARIO (20 words)
+
+============================================================
+
+784 [Sarcastic] Yeah, no, take your time, it's not like some of us have, um, actual places to be today. [Tsk]
+
+============================================================
+
+ITEM 173 - BASIC SCENARIO (17 words)
+
+============================================================
+
+785 [Disappointed] [Sigh] I should've just taken the back roads, I mean, this always happens on this stretch.
+
+============================================================
+
+ITEM 174 - BASIC SCENARIO (11 words)
+
+============================================================
+
+786 [Whisper] Please turn, please turn, please just—okay, they're not turning. [Groan]
+
+============================================================
+
+ITEM 175 - BASIC SCENARIO (16 words)
+
+============================================================
+
+787 [Happy] [Laugh] You know what, this is so ridiculous it's actually kinda funny at this point.
+
+============================================================
+
+ITEM 176 - BASIC SCENARIO (13 words)
+
+============================================================
+
+788 [Shout] The left lane is for PASSING, not for your Sunday cruise! [Angry]
+
+============================================================
+
+ITEM 177 - BASIC SCENARIO (18 words)
+
+============================================================
+
+789 [Sad] [Slow] I'm gonna lose this job if I'm late again, and it's not even—I left so early...
+
+============================================================
+
+ITEM 178 - BASIC SCENARIO (22 words)
+
+============================================================
+
+790 [Fast] [Disappointed] My boss literally said "don't be late" and here I am stuck behind grandpa going, what, fifteen miles an hour?
+
+============================================================
+
+ITEM 179 - BASIC SCENARIO (17 words)
+
+============================================================
+
+791 [Sarcastic] [Chuckle] Oh good, now they're slowing down even more, that's—that's exactly what I needed right now.
+
+============================================================
+
+ITEM 180 - BASIC SCENARIO (16 words)
+
+============================================================
+
+792 [Angry] I swear, if I miss my daughter's recital because of this—ugh, I can't even... [Groan]
+
+============================================================
+
+ITEM 181 - BASIC SCENARIO (17 words)
+
+============================================================
+
+793 [Whisper] [Tsk] Okay, deep breaths, it's just, um, it's just five more minutes, maybe ten, you're fine.
+
+============================================================
+
+ITEM 182 - BASIC SCENARIO (16 words)
+
+============================================================
+
+794 [Happy] [Fast] Oh thank god, there's a passing zone coming up in, like, half a mile!
+
+============================================================
+
+ITEM 183 - BASIC SCENARIO (16 words)
+
+============================================================
+
+795 [Slow] [Sigh] This is karma, isn't it, for all the times I've been the slow driver?
+
+============================================================
+
+ITEM 184 - BASIC SCENARIO (12 words)
+
+============================================================
+
+796 [Shout] [Angry] Are you SERIOUSLY braking on a straight road right now?!
+
+============================================================
+
+ITEM 185 - BASIC SCENARIO (16 words)
+
+============================================================
+
+797 [Disappointed] You know, I actually woke up early to avoid this exact—this exact situation, so... [Tsk]
+
+============================================================
+
+ITEM 186 - BASIC SCENARIO (16 words)
+
+============================================================
+
+798 [Sarcastic] [Slow] Wow, twenty-two in a fifty zone, we're really breaking speed records today, aren't we?
+
+============================================================
+
+ITEM 187 - BASIC SCENARIO (17 words)
+
+============================================================
+
+799 [Sad] [Whisper] Please don't let them notice I'm late, please don't let them—oh, who am I kidding?
+
+============================================================
+
+ITEM 188 - BASIC SCENARIO (13 words)
+
+============================================================
+
+800 [Fast] Is that—are they actually on their PHONE right now?! [Angry] [Shout] Unbelievable!
+
+============================================================
+
+ITEM 189 - BASIC SCENARIO (19 words)
+
+============================================================
+
+801 [Chuckle] I mean, honestly, at this rate I might as well just, um, call in sick or something. [Disappointed]
+
+============================================================
+
+ITEM 190 - BASIC SCENARIO (14 words)
+
+============================================================
+
+802 [Happy] [Laugh] [Fast] YES, finally, they're turning off, oh my god, freedom at last!

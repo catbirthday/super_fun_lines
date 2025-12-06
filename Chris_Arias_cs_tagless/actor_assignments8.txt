@@ -1,0 +1,599 @@
+ACTOR LINE ASSIGNMENTS - 102 ITEMS (~2115 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  299 words ( 14.1%)
+
+  monologues_selftalk :  215 words ( 10.2%)
+
+  conversation        :  350 words ( 16.5%)
+
+  cs_alpha            :  304 words ( 14.4%)
+
+  cs_noalpha          :  314 words ( 14.8%)
+
+  basic_scenarios     :  395 words ( 18.7%)
+
+  monologues          :  238 words ( 11.3%)
+
+  TOTAL               : 2115 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (44 words)
+
+Script: e49d7e87_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: They called about the marketing position.
+
+613 Character 2: Wait wait wait—are you serious? The one at that, um, that startup you were obsessing over? Oh my god, did they—did they actually call you?
+
+Character 1: Interview's Thursday.
+
+614 Character 2: Thursday! That's like—that's in three days! [Gasp] Holy shit, I knew that cover letter was gonna work. You spent what, like six hours on it?
+
+Character 1: Seven. Seven hours.
+
+615 Character 2: Okay but it paid off though, right? I mean—god, I'm so proud of you. Like, genuinely. You've been wanting this for months.
+
+Character 1: It's just a first interview.
+
+616 Character 2: No no no, don't—don't do that thing where you downplay everything. This is huge! They get like, what, hundreds of applications? And they picked yours. [Chuckle] That's not nothing.
+
+Character 1: What if I bomb it?
+
+617 Character 2: You're not gonna—okay, first of all? You're literally the most prepared person I know. Remember when you practiced your elevator pitch until I could recite it myself?
+
+Character 1: That was different.
+
+618 Character 2: How is it—how is it different? You're gonna walk in there, be your usual competent self, and they're gonna love you. Have you, um, have you thought about what you're gonna wear?
+
+Character 1: My blue suit. The boring one.
+
+619 Character 2: The boring—okay, it's not boring, it's professional. Classic. Very, like, I-know-what-I'm-doing vibes. Are you doing it over Zoom or—?
+
+Character 1: In person. Downtown office.
+
+620 Character 2: Oh that's—that's actually better, right? You can get a feel for the place, see if the vibe is good. God, I'm literally so excited for you I could scream. [Laugh]
+
+Character 1: Don't scream.
+
+621 Character 2: I'm gonna—I'm totally gonna scream. But like, quietly? This is just... after all those rejections and those automated emails, you finally—finally—got through. You did that.
+
+Character 1: Haven't got the job yet.
+
+622 Character 2: Yet! Exactly—yet! See, even you're thinking positively now. That's the energy, that's—that's what they're gonna see on Thursday. Someone who knows they belong there.
+
+Script: 0f2f3dcd_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: They translated my book into Japanese.
+
+623 Character 2: Wait wait wait—what? Your book got—oh my god, that's incredible! Like, Japanese? That's so... I mean, how does that even feel right now?
+
+Character 1: Strange. Can't read my own book anymore.
+
+624 Character 2: Oh that's—that's actually kinda trippy, isn't it? Like your words are there but they're not... yours? Did they send you a copy yet?
+
+Character 1: Yeah. It's sitting on my desk. Looks wrong.
+
+625 Character 2: Wrong like—wait, wrong how? Because honestly I'd probably just stare at it for hours [Laugh] like, that's my brain but in symbols I don't understand, y'know?
+
+Character 1: The cover's different. Pink cherry blossoms. My thriller has cherry blossoms.
+
+626 Character 2: No no no, that's—okay that's actually hilarious though? Like someone read your dark murder mystery and thought "needs more flowers." Did they at least keep the title scary?
+
+Character 1: No idea. Could say "Happy Springtime Murder Friends" for all I know.
+
+627 Character 2: [Gasp] Stop, I'm gonna—that mental image is killing me. But seriously, this is huge! Are you gonna do like, I dunno, any press stuff over there?
+
+Character 1: They want me to. Video calls with translators.
+
+628 Character 2: Oh god, the time zones alone would—actually wait, that sounds kinda cool? Meeting the person who basically rewrote your whole brain in another language?
+
+Character 1: She emailed me. Used seventeen exclamation points. Seventeen.
+
+629 Character 2: Okay okay, so she's—she's enthusiastic, that's... I mean, better than someone who hates it, right? [Chuckle] What'd she say?
+
+Character 1: That my "sardonic voice translates beautifully." Whatever that means.
+
+630 Character 2: Um, hello? That means you're internationally sardonic now! That's like—that's a whole new level of dry humor. Global snark, babe.
+
+Character 1: My mom thinks I'm famous now. Keeps telling her book club.
+
+631 Character 2: Oh no, oh no—your mom's gonna be impossible about this. She's probably already planning your Nobel Prize speech, isn't she?
+
+Character 1: She asked if I can sign the Japanese version. I can't write in Japanese.
+
+632 Character 2: Just—just scribble something [Laugh] she won't know! But honestly though? This is like, actually really amazing. Your words are literally living in a whole other language now. That's... kinda beautiful?
+
+Script: abc85cc8_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So. It happened.
+
+633 Character 2: Wait wait wait—what happened? Oh my god, did they—did they actually play it? The song? On actual radio?
+
+Character 1: Yeah. Drive time. Peak hours.
+
+634 Character 2: Shut up shut up shut UP! Are you—holy crap, that's literally insane! Which station? Wait, how did you even find out?
+
+Character 1: I was in the car. Almost crashed.
+
+635 Character 2: You heard your own—oh my GOD [Gasp] you heard your own song just like, randomly? That must've been so surreal! I'm actually getting chills right now.
+
+Character 1: It was weird. Really weird.
+
+636 Character 2: Okay but like—good weird or bad weird? Because honestly, I'd probably cry. No, I'd definitely cry. Did you cry?
+
+Character 1: Maybe a little.
+
+637 Character 2: Stop it, that's—that's so sweet! I mean, you worked so hard on that track, like literally months and months in your bedroom just... grinding, y'know?
+
+Character 1: Still doesn't feel real.
+
+638 Character 2: No no no, it's real—it's so real! Did you record it? Please tell me you got like, a video or something [Laugh] for posterity?
+
+Character 1: I was too shocked. Just sat there.
+
+639 Character 2: That's so—honestly that's so you though. Most people would be like, screaming and posting everywhere but you're just... sitting there processing. Did they say your name?
+
+Character 1: Yeah. Butchered it completely.
+
+640 Character 2: Of course they did! [Chuckle] But still, like—your name! On the radio! That's gotta count for something, right? Even if they murdered the pronunciation?
+
+Character 1: Mom heard it too. Called crying.
+
+641 Character 2: Oh my god, your mom—wait, she must be like, totally losing it! That's her baby on the radio! She's probably told everyone at work already, you know she has.
+
+Character 1: The whole neighborhood knows by now.
+
+642 Character 2: Good! Let them all know! This is—ugh, I'm just so proud of you. Like genuinely, actually proud. You did it, babe. You actually did it.
+
+Script: 46a70e48_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You were rude to my mom.
+
+643 Character 2: Okay, wait—that's not—I wasn't rude, exactly. She started asking me all these questions about my family and I just... I dunno, I got defensive. You know how she can be sometimes.
+
+Character 1: How she can be?
+
+644 Character 2: Come on, don't—don't do that. You've literally complained about her being nosy before. I'm not saying I handled it great, but she was kinda pushing boundaries and I—[sigh] I just wanted her to back off.
+
+Character 1: So you snapped at her.
+
+645 Character 2: I didn't snap! I just... okay okay, maybe my tone was a little sharp, but honestly? She was asking about my dad's job situation, which—you know that's complicated right now. I wasn't gonna stand there and explain our whole mess.
+
+Character 1: You could've just changed the subject.
+
+646 Character 2: I tried! I literally tried three times and she kept—she kept circling back. Look, I'm sorry if I hurt her feelings, I am, but I'm also kinda frustrated that you're acting like I'm the only one who did something wrong here.
+
+Character 1: She's my mother.
+
+647 Character 2: And I'm your best friend! That's gotta—that should count for something, right? [scoff] I've dealt with her comments about my clothes, my career choices, my dating life for years. One time I set a boundary and suddenly I'm the bad guy?
+
+Character 1: You embarrassed her in front of her book club friends.
+
+648 Character 2: Oh. Oh, you didn't—you didn't mention there were other people there. That's... okay, that makes it worse, I get that. But I mean, she shouldn't have been grilling me about personal stuff in front of them either, y'know?
+
+Character 1: She was trying to include you.
+
+649 Character 2: By asking about my unemployed father? That's—come on, that's not inclusion, that's... I dunno what that is. [frustrated laugh] Look, I'm sorry it went down like that, okay? But I'm not gonna pretend she was being totally appropriate either.
+
+Character 1: Right. It's her fault.
+
+650 Character 2: That's not what I'm—ugh, you're twisting everything I say. I'm trying to apologize but also explain that there were two sides to this. Can you at least—can you try to see where I'm coming from here?
+
+Character 1: You made her cry.
+
+651 Character 2: She... what? She cried? [quieter] Okay, I didn't—I didn't know that. That's... shit. I mean, I still think she crossed a line, but I didn't mean to make her cry. That wasn't—that wasn't what I wanted.
+
+Character 1: No. You just wanted to make your point.
+
+652 Character 2: That's—okay fine, maybe I did. Maybe I'm tired of smiling through her passive-aggressive comments about my life. But I am sorry she cried. I'll—I'll apologize to her, alright? Even though I still think... never mind. I'll apologize.
+
+Script: 08ebc560_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: So. Got the call today.
+
+653 Character 2: Wait wait wait—what call? Oh my god, is this about the—the thing you interviewed for last week? The one you wouldn't tell me about because you didn't wanna jinx it?
+
+Character 1: Yeah. They offered it to me.
+
+654 Character 2: SHUT UP. Shut up shut up shut up. Are you—[Gasp] oh my god, you got it? The actual dream job? Like, THE job?
+
+Character 1: Senior Creative Director. Starting next month.
+
+655 Character 2: I'm gonna—I'm literally gonna cry. This is the one at that agency, right? The one with the, um, the rooftop office and everything? The place you've been stalking on LinkedIn for like... forever?
+
+Character 1: That's the one.
+
+656 Character 2: Okay okay okay, so like—how are you feeling? Because you're being weirdly calm about this and I'm kinda freaking out FOR you right now, honestly.
+
+Character 1: I don't know. It doesn't feel real yet.
+
+657 Character 2: No no, that's—that's totally normal though. Like when something you've wanted for so long actually happens? Your brain just... doesn't compute, y'know? [Laugh] God, I'm so proud of you.
+
+Character 1: What if I'm not ready?
+
+658 Character 2: Oh, babe—okay, stop. You're gonna do that thing where you psych yourself out, aren't you? Listen, they wouldn't have picked you if you weren't ready. These people know what they're doing.
+
+Character 1: It's triple my current salary.
+
+659 Character 2: TRIPLE? Did you just—did you say triple? Holy shit. That's like—I mean, that's life-changing money. You could finally get that stupid expensive coffee machine you're always talking about. [Chuckle]
+
+Character 1: Already ordered it.
+
+660 Character 2: Of course you did, you absolute—wait, you already ordered it? So you ARE excited! See, I knew there was something happening under all that... whatever this calm thing is you're doing.
+
+Character 1: My parents don't know yet.
+
+661 Character 2: Oh man, your mom's gonna—she's gonna lose it. In the best way, obviously. Are you gonna tell them tonight or...? Actually, y'know what, take your time. This is YOUR moment.
+
+Character 1: Think I'll wait. Process it first.
+
+662 Character 2: That's—yeah, that's actually really smart. But like, we're definitely celebrating this weekend, right? I'm thinking champagne, I'm thinking that fancy place downtown, I'm thinking... basically going completely overboard because hello? Dream job! [Sigh] You did it, babe.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (73 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (65 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (67 words)
+
+============================================================
+
+============================================================
+
+ITEMS 41-50 - EMPATHETIC PARTIAL (50 words)
+
+============================================================
+
+============================================================
+
+ITEMS 52-61 - CONVERSATION (350 words)
+
+Script: 06ff50eb
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+663 Character 1: [Shouting] Command, we have visual on survivors! [more desperately] There's at least three people clinging to debris down there—we can reach them in two minutes! [voice cracking] Don't you dare tell us to turn back now!
+
+Character 2: [furious] Negative on that abort order! [Snarling] We didn't fly through this storm to abandon civilians now. [louder] Protocol be damned—I see a kid down there, Command. [through gritted teeth] A kid!
+
+664 Character 1: [Bitter laugh] Oh, now they care about fuel reserves? [building rage] Where was this concern when they sent us into hurricane conditions? [spitting words] We have enough for the rescue—I've done the calculations twice!
+
+Character 2: [Cold fury] Listen carefully, Control. [slower, menacing] I'm recording this transmission for the inquiry that'll follow when those people die. [Sharp exhale] Your names, badge numbers—everything goes on record. How's that for protocol?
+
+665 Character 1: [trembling with rage] Seven years flying rescue ops, and this— [voice breaking] this is what breaks me. [Growling] We're forty meters above them! [pleading] Their faces—God, I can see their faces looking up at us!
+
+Character 2: [Quiet menace] You want us back for a weather warning? [Hysterical laugh] The weather that's already here, killing those people below us? [shouting] We're already in it! The danger you're worried about—we're living it right now!
+
+666 Character 1: [defeated whisper] Fine. Mark the coordinates. [Choking up] Maybe someone else can collect their bodies when this clears. [venomous] I hope you sleep well knowing we could have saved them. [Bitter snort] Heroes follow orders, right?
+
+Character 2: [barely controlled] Two minutes, Command. [steadier] Give us two damn minutes to attempt the winch. [desperately fast] If it fails, we leave—but at least we tried. [begging] Please. Don't make us murderers by inaction.
+
+667 Character 1: [Screaming] Override code seven-seven-alpha! [fierce determination] I'm declaring captain's emergency authority! [more calmly] Court martial me later if you want. [Grunt] Right now, I'm dropping this bird down whether you like it or not.
+
+Character 2: [proud defiance] That's my captain. [urgently] Deploying rescue basket now, screw their orders. [laughing darkly] What are they gonna do—fire us mid-air? Let them explain to the press why we had to leave.
+
+668 Character 1: [hollow voice] Command's cutting our comm channel. [Disgusted scoff] Cowards can't even listen to what they're doing. [with grim satisfaction] Good thing I don't need their permission to save lives. Descending to fifteen meters now.
+
+Character 2: [determined] Basket's in the water! [triumphant] First survivor secured—she's coming up! [mocking sing-song] Oh Command, shame you cut comms—you're missing the rescue you tried to stop! [fiercely] Two more to go!
+
+669 Character 1: [strained concentration] Fighting crosswinds here—keep that winch steady! [Gasping breath] Command can take their sanctions and shove them. [proudly] We're pilots, not politicians. [softer] Always have been, always will be. Hold on, almost there!
+
+Character 2: [yelling over wind] Second one's up! [emotional] It's the kid—he's breathing! [voice cracking] Tell me this wasn't worth a violation! [angrier] Tell me fuel matters more than this boy's life! God, I hate them!
+
+670 Character 1: [exhausted] Last survivor coming aboard. [Weak laugh] We did it—all three alive. [bitterly] Wonder if Command will mention this part in our disciplinary hearing. [sarcastic] "Pilots saved three lives against direct orders." Monsters, aren't we?
+
+Character 2: [quietly satisfied] Setting course for medical base. [growing stronger] Let them write us up. [Sharp laugh] I'll frame that reprimand next to the thank-you cards from these families. [contemplative] Sometimes the job isn't following orders—it's knowing when not to.
+
+671 Character 1: [weary] You know we're done after this. [sighing] They'll ground us permanently, maybe worse. [more firmly] But seeing that kid's eyes when you pulled him up? [peaceful] Worth every consequence coming our way. No regrets here.
+
+Character 2: [reflective] Twenty years wearing these wings. [Sad chuckle] If this is how it ends, at least it means something. [angrily] Unlike those desk jockeys who nearly made us accessories to manslaughter. [prouder] We're pilots—real ones.
+
+672 Character 1: [sudden realization] Wait—comms are back online. [shocked whisper] Command's... congratulating us? [Bitter laugh] Apparently, media caught the whole thing on satellite. [sarcastically sweet] Now we're heroes. Funny how public pressure changes their tune, isn't it?
+
+Character 2: [disgusted] Heroes when convenient, criminals when not. [Tired sigh] I need a new job—one where saving lives doesn't require permission from cowards. [quieter] But tomorrow. [firmly] Today, three people go home to their families. That's enough.
+
+============================================================
+
+ITEMS 62-71 - CS ALPHANUMERIC (304 words)
+
+Script: c86aea27
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [panicked] Someone's hacked my account—order number 7B4X9M2! [voice breaking] There's, uh, three thousand dollars worth of charges [gasps] from yesterday at 2:47 AM that I never made!
+
+673 Customer Support: [concerned] I'm so sorry to hear about this situation with your account. Let me pull up your information—could you please verify your email and the last four digits of card ending in 8924?
+
+Character 1: [frustrated] It's j.thompson447@email.com, and yes, 8924. [more urgently] Look, they changed my shipping address to—to somewhere in Nevada, [voice shaking] 4521 Desert Palm Road, and I live in Ohio!
+
+674 Customer Support: I can see the unusual activity here, Mr. Thompson. I'm immediately flagging these transactions—orders 7B4X9M2, 7B4X9M3, and [pause] 7B4X9M4—and initiating our fraud protocol.
+
+Character 1: [desperately] How did they even get in?! [louder] My password was—well, it was Buddy2019!—which [groans] I guess wasn't that secure, but still!
+
+675 Customer Support: We'll need to secure your account right away. [more firmly] I'm generating a temporary password—X7#mP9@kL2—please write this down and change it within 24 hours to something unique.
+
+Character 1: [anxiously] But what about my money? [voice cracking] The credit card company said I need—need proof from you guys, [sighs heavily] some kind of official fraud report or reference number?
+
+676 Customer Support: Absolutely, your fraud case number is FR-20240315-8847. I'm also emailing you a detailed report to j.thompson447@email.com that you can forward to your bank immediately.
+
+Character 1: [slightly calmer] Okay, okay... FR-20240315-8847. [worried again] But they also got into my rewards points—had like [pause] twelve thousand points, [dejectedly] probably gone forever, right?
+
+677 Customer Support: Actually, good news there! [cheerfully] Your 12,847 points are still intact—they're frozen but safe. [reassuringly] Once we verify your identity through our two-factor system, [more gently] we'll restore full access within 48 hours.
+
+Character 1: [relieved] Oh thank God, that's—that's something at least. [more focused] So what's this two-factor thing? [nervously] Do I need to download something or go somewhere?
+
+678 Customer Support: I'll text a verification code to your phone ending in 6792 right now. Just read me the six-digit code when you receive it, [pause] and we'll have you secured in minutes.
+
+Character 1: [quickly] Got it—it's 294851! [anxiously] Wait, that's the right one, right? [more worried] You're not gonna lock me out completely if I mess this up?
+
+679 Customer Support: [reassuringly] Perfect, that's correct—you're verified! I've just enabled our enhanced security protocol, which includes login alerts and automatic IP tracking from suspicious locations.
+
+Character 1: [curiously] So will you catch whoever did this? [angrily] Because someone in Las Vegas—ZIP code 89109—is [voice rising] probably sitting there with my stuff right now!
+
+680 Customer Support: Our fraud team works with law enforcement on these cases. The Nevada address and IP data we've collected—198.51.100.42—will be forwarded to the appropriate authorities today.
+
+Character 1: [exhaustedly] This is just... overwhelming. [sighs deeply] I've been a member since—what, 2015?—account ID TH4470921, [quietly] and nothing like this has ever happened before.
+
+681 Customer Support: I completely understand your frustration, Mr. Thompson. Your eight-year loyalty means everything to us, so I'm adding a $200 credit and expedited shipping on your next five orders.
+
+Character 1: [surprised] Oh, wow, that's—that's actually really nice. [more hopefully] So everything gets reversed, the charges, [pause] and I just wait for the new cards and [nervously chuckles] try not to panic?
+
+682 Customer Support: Exactly right—full refund processing within 3-5 business days. [reassuringly] Your new card ending in 4455 ships tomorrow via overnight delivery, and I'll personally monitor your case until everything's resolved.
+
+============================================================
+
+ITEMS 72-81 - CS NO-ALPHANUMERIC (314 words)
+
+Script: 5f57a68d
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+683 Customer Support: Thank you for coming in today, Mrs. Chen. I understand you have some concerns about the—the frequency of calls regarding Emma? Let's discuss how we can work together on this.
+
+Character 1: [frustrated] Concerns? That's putting it mildly. [voice rising] I've been called THREE times this week alone! [exasperated sigh] My boss is threatening to fire me because I keep leaving for a runny nose—a runny nose!
+
+684 Customer Support: I completely understand your frustration, and believe me, we don't make these calls lightly. [more firmly] However, our policy requires us to contact parents when symptoms appear that could indicate illness.
+
+Character 1: [sarcastically] Could indicate? [scoffs] Yesterday you called because she sneezed twice. [getting faster] The day before, a slight cough, and Monday—Monday was because she seemed "less energetic than usual."
+
+685 Customer Support: I know it seems excessive, but we're dealing with twenty-two other children here. One contagious illness can spread like wildfire, parents complain, staff gets sick, and suddenly we're understaffed for weeks.
+
+Character 1: [pleading] But she's not actually sick! [groans] Her pediatrician says she's perfectly healthy—just adjusting to daycare germs. [more desperately] Can't we find some middle ground here?
+
+686 Customer Support: Well, perhaps we could... Actually, have you submitted the doctor's note stating she's not contagious? That would certainly help our assessment process.
+
+Character 1: [incredulous] I've submitted four notes! [louder] Four! [voice breaking] Every single time, your staff still calls me for the tiniest sniffle. Do you even read them?
+
+687 Customer Support: [defensive] Of course we read them, Mrs. Chen. But our teachers aren't medical professionals—they have to err on the side of caution. It's liability, you understand?
+
+Character 1: [bitterly] Liability. Right. [quieter] So my job is less important than your liability? [building anger] Because that's essentially what you're telling me here.
+
+688 Customer Support: No, no, that's not what I'm saying at all. Your job is absolutely important. Let me... [thoughtful pause] What if we set up a specific symptom threshold for Emma?
+
+Character 1: [skeptically] A threshold? [curious but cautious] What exactly would that look like? Because frankly, I'm running out of sick days and patience. [exhausted sigh]
+
+689 Customer Support: We could document specific symptoms that don't require immediate pickup—like clear runny nose without fever. I'll personally brief the staff, ensure everyone's on the same page about Emma's situation.
+
+Character 1: [hopefully] That... that actually sounds reasonable. [more firmly] But I need this in writing. [determined] And I need ALL the teachers to follow it, not just the morning shift.
+
+690 Customer Support: Absolutely, I'll draft that today and email it to you. We'll require fever over 100.4, persistent vomiting, or obvious contagious symptoms before calling. [reassuring] Sound fair?
+
+Character 1: [relieved] Yes, thank God, someone who finally gets it. [chuckles tiredly] You know, I love this daycare, Emma loves her teachers, but this—this was becoming impossible.
+
+691 Customer Support: We love having Emma here too, she's such a bright little one. These transition months are hard—kids building immunity, parents adjusting. We'll figure this out together.
+
+Character 1: [gratefully] Thank you for actually listening. [sighs] Her last daycare just kept saying "policy is policy" until I had to pull her out. [more optimistically] This gives me hope.
+
+692 Customer Support: We're not that kind of facility, Mrs. Chen. I'll have that document ready by end of day, and we'll start the new protocol Monday. Let's check in next week, see how it's going?
+
+Character 1: [appreciatively] Perfect. Yes, let's do that. [lighter tone] Maybe I'll actually get through a full week of work! [laughs softly] Emma will be thrilled she doesn't have to leave her friends early anymore.
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (19 words)
+
+============================================================
+
+693 [Disappointed] So basically, everything I've been working toward for the past, what, three years? [Sigh] It's just—gone, I guess.
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (22 words)
+
+============================================================
+
+694 [Happy] Wait wait wait, you're telling me I actually got it? [Laugh] Oh my god, I gotta call my mom right now!
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (19 words)
+
+============================================================
+
+695 [Sarcastic] Oh perfect, just perfect—exactly what I needed to hear today, really. [Tsk] [Slow] Thanks for that wonderful update.
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (23 words)
+
+============================================================
+
+696 [Angry] Are you kidding me with this? [Fast] I turned down two other opportunities for this and now they're just—they're pulling the plug?
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (19 words)
+
+============================================================
+
+697 [Whisper] I, um, I kinda knew this was coming, but hearing it out loud is... [Sigh] different, you know?
+
+============================================================
+
+ITEM 86 - BASIC SCENARIO (21 words)
+
+============================================================
+
+698 [Sad] [Slow] I don't even know what I'm supposed to do now, honestly—like, where do I even start over from here?
+
+============================================================
+
+ITEM 87 - BASIC SCENARIO (17 words)
+
+============================================================
+
+699 [Happy] [Fast] This changes everything—I mean literally everything—and I'm actually okay with that? [Chuckle] Who would've thought?
+
+============================================================
+
+ITEM 88 - BASIC SCENARIO (14 words)
+
+============================================================
+
+700 [Disappointed] Well, there goes my five-year plan, just... [Tsk] whoosh, right out the window.
+
+============================================================
+
+ITEM 89 - BASIC SCENARIO (14 words)
+
+============================================================
+
+701 [Shout] You couldn't have told me this BEFORE I signed the lease? [Angry] Seriously?
+
+============================================================
+
+ITEM 90 - BASIC SCENARIO (23 words)
+
+============================================================
+
+702 [Slow] So let me get this straight—they're moving the whole thing to, uh, to next year? [Disappointed] [Groan] That's gonna mess up everything.
+
+============================================================
+
+ITEM 91 - BASIC SCENARIO (24 words)
+
+============================================================
+
+703 [Happy] I mean, this is kinda terrifying but also, like, exactly the push I needed? [Laugh] [Fast] Time to finally take that leap, right?
+
+============================================================
+
+ITEM 92 - BASIC SCENARIO (19 words)
+
+============================================================
+
+704 [Sarcastic] [Slow] Oh sure, no problem, I'll just completely rearrange my entire life—again. [Sigh] Third time's the charm, right?
+
+============================================================
+
+ITEM 93 - BASIC SCENARIO (16 words)
+
+============================================================
+
+705 [Sad] I already told everyone about it, and now I have to—[Whisper] God, this is embarrassing.
+
+============================================================
+
+ITEM 94 - BASIC SCENARIO (21 words)
+
+============================================================
+
+706 [Fast] Okay so basically you're saying if I don't decide by tomorrow, I lose both options? [Angry] [Groan] That's completely unfair!
+
+============================================================
+
+ITEM 95 - BASIC SCENARIO (21 words)
+
+============================================================
+
+707 [Chuckle] You know what? [Happy] Maybe this is the universe telling me to, I dunno, try something completely different for once.
+
+============================================================
+
+ITEM 96 - BASIC SCENARIO (17 words)
+
+============================================================
+
+708 [Disappointed] I literally just bought all the—ugh, never mind, it doesn't matter now. [Tsk] What a waste.
+
+============================================================
+
+ITEM 97 - BASIC SCENARIO (18 words)
+
+============================================================
+
+709 [Whisper] [Slow] Should I be, um, should I be more upset about this? Because honestly, I'm kinda... relieved?
+
+============================================================
+
+ITEM 98 - BASIC SCENARIO (21 words)
+
+============================================================
+
+710 [Shout] This is amazing! [Happy] [Fast] Do you understand what this means—I can actually go, I can actually do the thing!
+
+============================================================
+
+ITEM 99 - BASIC SCENARIO (22 words)
+
+============================================================
+
+711 [Angry] Six months of preparation, and they spring this on me with—what, two days notice? [Sarcastic] [Slow] How very professional of them.
+
+============================================================
+
+ITEM 100 - BASIC SCENARIO (25 words)
+
+============================================================
+
+712 [Sad] I guess I always knew it was a long shot, but I really thought—[Sigh] I dunno, I thought maybe this time would be different.

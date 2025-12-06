@@ -1,0 +1,365 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: bce574d9_script | Role: Character 2 (B)
+
+Character 1: They gave me some award thing at work today.
+
+962 Character 2: Wait wait wait—what? An award? Oh my god, that's—that's amazing! What kind of award? Like employee of the month or something bigger?
+
+Character 1: Employee of the year, apparently.
+
+963 Character 2: Are you—[Gasp] okay, no, that's huge! Employee of the YEAR? Out of like, what, hundreds of people? That's not just some random thing!
+
+Character 1: It's fine. They made me stand in front of everyone.
+
+964 Character 2: Oh no no no, I know you hate that stuff. But like—can we just talk about how you literally crushed it this year? I mean, honestly, you deserve this.
+
+Character 1: I was just doing my job.
+
+965 Character 2: Uh, yeah, except most people "just doing their job" don't get—y'know—giant awards for it. Did they give you anything good at least? Like a bonus or...?
+
+Character 1: Five hundred dollar gift card. And a plaque.
+
+966 Character 2: Okay okay, the plaque is kinda whatever but five hundred bucks? That's—I mean, that's actually decent. [Chuckle] What're you gonna do with it?
+
+Character 1: Probably just groceries.
+
+967 Character 2: Groceries? Are you—no! That's celebration money! You gotta like, treat yourself or something. Get that fancy coffee maker you've been talking about forever.
+
+Character 1: Maybe. My boss seemed surprised I won.
+
+968 Character 2: Wait, what? Your boss was surprised? That's so—ugh, typical. You basically carry that entire department and they're "surprised"? Whatever, their opinion literally doesn't matter.
+
+Character 1: She nominated me, actually.
+
+969 Character 2: She—oh. Oh! So she was like, good surprised? Not bad surprised? Because that's totally different, that's actually kinda sweet that she fought for you.
+
+Character 1: I guess. The whole thing was awkward.
+
+970 Character 2: Yeah but like—awkward for twenty minutes versus having actual proof you're killing it at work? I dunno, seems worth it to me. [Sigh] You're gonna put the plaque up, right?
+
+Character 1: It's in my car. Might stay there.
+
+971 Character 2: Oh my god, you're—you're impossible! At least take a picture of it before it like, melts in there or something. Your mom's gonna wanna see it, y'know?
+
+Script: 1ddc6dea_script | Role: Character 2 (B)
+
+Character 1: You forgot.
+
+972 Character 2: I—okay, yes, I forgot about dinner, but honestly, I've had like three deadlines this week and my mom's been calling me every five minutes about the surgery thing, so I'm kinda drowning here.
+
+Character 1: We made these plans two weeks ago.
+
+973 Character 2: I know, I know we did, and I'm sorry, but you're acting like I deliberately stood you up when—[sigh]—when literally my entire life is falling apart right now. That's not exactly fair.
+
+Character 1: I waited for an hour.
+
+974 Character 2: Okay, that's—that sucks, and I should've called, but my phone died at work and I didn't even realize what day it was until I got home. You could maybe cut me some slack here?
+
+Character 1: This is the third time.
+
+975 Character 2: Come on, that's—the third time in what, two years? And one of those was when my car literally broke down. You're keeping score now? [frustrated laugh] That's great.
+
+Character 1: I'm just tired of being forgotten.
+
+976 Character 2: You're not being—okay okay, I get that you're upset, but "forgotten" is kinda dramatic. I've been there for you through everything, y'know? One bad month doesn't erase all that.
+
+Character 1: Feels like it does.
+
+977 Character 2: Well that's—[scoff]—that's really nice to hear. Super understanding of you while I'm dealing with my mom possibly having cancer and trying not to lose my job.
+
+Character 1: You could've texted. Takes five seconds.
+
+978 Character 2: Yeah, you're right, I could've. But I was in back-to-back meetings until seven and then—I mean, honestly? I just crashed. I'm barely keeping my head above water here.
+
+Character 1: So am I.
+
+979 Character 2: Okay but—wait, what? You never said you had stuff going on. How am I supposed to know if you don't tell me anything?
+
+Character 1: You never asked.
+
+980 Character 2: That's not—come on, that's not fair. I've been asking how you are, but you always just say "fine" and change the subject. I can't read your mind, y'know?
+
+Character 1: Whatever. Forget it.
+
+981 Character 2: No, don't—don't do that. Look look, I messed up tonight, I did, but you shutting down like this isn't gonna fix anything. Can we just—I dunno, can we talk about this properly?
+
+Script: b57e6cf5_script | Role: Character 2 (B)
+
+Character 1: So I got into grad school.
+
+982 Character 2: Wait wait wait—what? You applied? When did you even—oh my god, which program? This is huge!
+
+Character 1: The one at State. For psychology.
+
+983 Character 2: Okay, um, I'm literally trying not to scream right now because—State? That's like, that's one of the best programs in the country, right? You must be freaking out!
+
+Character 1: I don't know. Maybe. It's expensive.
+
+984 Character 2: Oh no no no, don't do that thing where you—[Sigh] where you downplay everything. This is incredible! Have you told your parents yet?
+
+Character 1: Not yet.
+
+985 Character 2: Are you... are you actually gonna go? Because like, I mean, you don't sound super excited about it, which is kinda throwing me off honestly.
+
+Character 1: I should be excited. I worked hard for this.
+
+986 Character 2: Okay but—wait, "should be"? That's different from actually being excited. What's really going on? Because this is supposed to be like, your dream, right?
+
+Character 1: It was. Two years ago when I applied.
+
+987 Character 2: Oh. Oh shit, okay, so you're—you're having second thoughts? That's totally normal though! Like, big life changes are [Chuckle] terrifying, trust me.
+
+Character 1: What if I'm not smart enough? What if everyone there is better?
+
+988 Character 2: Um, hello? They literally chose you. Out of probably hundreds of people, they picked you because—because you're brilliant, okay? You gotta know that.
+
+Character 1: You have to say that. You're my friend.
+
+989 Character 2: No no, I really—look, remember when you helped me understand that whole neuroscience thing for my presentation? You made it sound so easy, and I was like, completely lost before.
+
+Character 1: That was basic stuff.
+
+990 Character 2: Basic to you! Which is exactly my point. You're gonna—[Laugh] you're gonna be that annoying smart person that makes everyone else feel dumb without even trying.
+
+Character 1: Great. So I'll have no friends.
+
+991 Character 2: Okay first of all, rude, because you have me. Second, you're gonna find your people there, I promise. The other weirdos who think analyzing brain scans is fun or whatever.
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+992 SCENARIO: waiting for someone who's running late
+
+==================================================
+
+[checking the time, slightly impatient]
+
+Okay, so, um, they said they'd be here at, what, two-thirty? And it's now— it's now two forty-five, so that's, uh, that's fifteen minutes. Which isn't, like, terrible, but still. I mean, I got here on time, so—
+
+[muttering]
+
+Maybe I should text them? But I don't want to be, um, I don't want to be that person who's like, constantly checking up on— you know what I mean? Like, traffic happens, right? Or maybe they're, uh, maybe they're just running behind.
+
+[slightly defensive]
+
+I mean, I'm not mad or anything, it's just— okay, I'm a little annoyed because I, um, I specifically left early to get here and now I'm just, like, standing here looking— [sigh] looking like I don't have anything better to do.
+
+[brightening slightly]
+
+Oh wait, is that— no, that's not them. That's just some random person with the same, uh, same jacket or whatever. [laugh] Great, now I'm like a detective trying to spot—
+
+[resigned, checking phone again]
+
+Okay, five more minutes and then I'll text. That's, um, that's reasonable, right?
+
+--- CONVERSATION ---
+
+Script: 23a72a25 | Role: Character 1 (A)
+
+993 Character 1: [exhausted] I haven't slept more than four hours in weeks. [quieter] Between Jamie's ear infection and the overnight shifts at the diner, [deep sigh] I'm basically a walking zombie. How do you manage everything so perfectly?
+
+Character 2: [uncomfortable] Perfect? [nervous laugh] You should see my anxiety medication collection. [defensively] Sure, the house looks pristine and we vacation twice a year, but Mark and I barely speak anymore except through our shared calendar app.
+
+994 Character 1: [bitter] At least you have someone to not speak to. [voice breaking] Yesterday, Jamie asked why daddy never visits anymore, and I just [choked up] stood there washing dishes, pretending I didn't hear her question through my tears.
+
+Character 2: [gently] Oh honey, I'm so sorry. [more firmly] But you're stronger than you know. [wistful] Sometimes I watch you with Jamie and feel jealous of how close you two are—we've been trying for three years now.
+
+995 Character 1: [shocked] You're trying? [softer] You never mentioned that. [frustrated growl] God, here I am complaining about no sleep when I have the one thing you actually want. Life's twisted joke, right?
+
+Character 2: [tearfully] The fertility treatments are killing me. [harsh whisper] Forty thousand dollars and counting, plus Mark's mother constantly asking about grandchildren. [bitter laugh] Your struggles are just as valid—don't minimize them because mine look different.
+
+996 Character 1: [firmly] You're right, I'm sorry. [getting louder] It's just hard watching everyone's highlight reels on Facebook while I'm counting quarters for gas money. [deflated] Jamie deserves so much more than mac and cheese five nights a week.
+
+Character 2: [quietly] She deserves love, and she has that in abundance. [more animated] You know what? [determined] Let me help—not charity, but real help. I need someone I trust to manage my online business while I do treatments.
+
+997 Character 1: [suspicious] Are you serious? [voice rising hopefully] Because I can't handle pity right now, but an actual job? [rushed words] That would change everything—Jamie could finally get those dance lessons she keeps asking about!
+
+Character 2: [warmly] Completely serious. [businesslike tone] Twenty-five an hour, work from home, flexible schedule around Jamie. [emotional] Maybe we both need each other more than we realized. Sisters shouldn't compete—we should be each other's safety net.
+
+998 Character 1: [crying softly] Thank you. [stronger] You know, Mom always said we were two sides of the same coin. [thoughtful pause] Maybe she meant we'd need each other to feel whole, not to measure our worth against.
+
+Character 2: [reflective] She was smarter than we gave her credit for. [lighter tone] Remember how she'd make us share that single piece of cake? [laughing] We'd argue for hours about whose half was bigger, missing the sweetness entirely.
+
+999 Character 1: [laughing through tears] And now look at us—still comparing portions. [more seriously] But maybe it's time we shared the plate instead. [hopeful] Your stability, my flexibility—together we might actually build something better than either life alone.
+
+Character 2: [enthusiastically] Yes! [contemplative] You could bring Jamie to the house while you work—she'd love the pool. [getting excited] And maybe having a kid around will help me remember why we're doing all these treatments in the first place.
+
+1000 Character 1: [overwhelmed] This is really happening? [steadier] After two years of drowning, I forgot what hope felt like. [soft sob] Jamie's going to flip when she sees your pool—she's been practicing holding her breath in the bathtub.
+
+Character 2: [tenderly] Of course it's happening. [matter-of-fact] Family means nobody drowns alone, right? [choking up] God, I've missed having real conversations instead of networking events where everyone pretends their marriage is perfect and their lives are Instagram-worthy.
+
+1001 Character 1: [relieved sigh] Those events sound like torture. [sarcastically] My social life consists of other exhausted moms at the laundromat. [more genuine] But at least we're honest about our disasters—there's something freeing about having nothing left to pretend about.
+
+Character 2: [longingly] That actually sounds refreshing. [quiet admission] I haven't been honest with anyone in months—not even myself. [stronger] But talking to you now, I remember who I was before I started keeping score of everything.
+
+1002 Character 1: [determined] Then let's stop keeping score. [building energy] Your pool, my honesty, your money, my time—we'll throw it all in together. [firm] Our kids, whenever they come, will grow up knowing family means sharing everything, especially the struggles.
+
+Character 2: [emotional] Deal. [through happy tears] Mom would be so proud of us right now. [whispered] Two sides of the same coin, finally figuring out we're worth more together than apart. Let's go make something beautiful from all these broken pieces.
+
+--- CS ALPHANUMERIC ---
+
+Script: cc693fa8 | Role: Customer Support
+
+Character 1: [confused] Hi Mr. Peterson, I'm looking at section 4B of my lease and, um, [hesitantly] it says something about "quiet enjoyment hours" between 10pm and... wait, [frustrated sigh] is that 8am or 8pm?
+
+1003 Customer Support: Good morning! The quiet hours are 10pm to 8am, as stated in section 4B. However, I believe you might be looking at section 4C, which discusses the pool area restrictions from 10am to 8pm.
+
+Character 1: [embarrassed] Oh god, you're right, but then... [trails off uncertainly] what about this $75 fee mentioned in paragraph 12A? [more anxiously] Does that apply monthly or just when I, uh, violate something?
+
+1004 Customer Support: The $75 fee in section 12A is only for noise violations during quiet hours. It's not monthly—it's per incident. [clarifying tone] Your monthly fees are just the $1,850 rent plus $25 for parking spot B-47.
+
+Character 1: [relieved giggle] Okay, that makes more sense. [suddenly worried] But wait, I saw something about "guest registration" and a 48-hour rule? [confused again] My boyfriend stays over like three nights a week, is that... illegal?
+
+1005 Customer Support: Any guest staying more than 14 consecutive days needs to be registered. [reassuring] Three nights a week is perfectly fine! Just fill out form G-2019 if he ever stays two weeks straight, which is available at the office.
+
+Character 1: [skeptical] Form G-2019? [groans] I thought it was form G-2018 that Sarah from 4B told me about. [frustrated] Also, what's this about a $200 deposit for... [squinting sound] "amenity access card"?
+
+1006 Customer Support: Sarah's referring to last year's form—we updated it. The $200 is refundable when you move out, and [cheerfully] it covers your key fob, pool access, and gym entry for unit 7-C.
+
+Character 1: [defensive] Well nobody told me about updates! [sighs heavily] And another thing—section 9F says something about "prorated utilities" but [confused whisper] my lease says utilities are included up to $150?
+
+1007 Customer Support: You're correct—utilities are included up to $150 monthly. Section 9F explains that anything over $150 gets prorated among units. Last month your portion was only $12.50 extra, remember?
+
+Character 1: [embarrassed laugh] Oh right, that email from accounting@oakwood-management.com. [suddenly panicked] Wait, is my rent due on the 1st or the 3rd? [nervously] Because section 2A says "first business day" but my payment portal shows the 3rd?
+
+1008 Customer Support: Rent is always due on the 1st. The portal shows the 3rd because that's your grace period deadline. After the 3rd, there's a $50 late fee, as outlined in section 2B, subsection 4.
+
+Character 1: [overwhelmed groan] This is so confusing! [desperately] Can't you just give me like a simple one-page summary? [pleading] My lease is 47 pages and references addendums A through J!
+
+1009 Customer Support: I understand it's overwhelming. I'll email you our tenant quick-reference guide to apartment7c@gmail.com. It covers all the main points in just two pages, including important dates and fees.
+
+Character 1: [grateful] Oh thank god, yes please! [suddenly remembering] Also, um, what's the deal with subletting? [worried whisper] My friend wants to take over for two months while I travel.
+
+1010 Customer Support: [cautiously] Subletting requires approval 60 days in advance, per section 15D. You'll need to submit form SL-2024, provide their credit check, and they'll need to meet our 650 minimum credit score requirement.
+
+Character 1: [defeated] Sixty days?! [frantically] But I'm leaving in three weeks for that work thing in Phoenix! [desperately] Can't we expedite it somehow, maybe pay an extra fee?
+
+1011 Customer Support: There is a $300 expedited processing fee for rush subletting requests. If you get me the paperwork by noon today, I might be able to push it through in 10 business days.
+
+Character 1: [relieved exhale] Okay, okay I can do that. [determined] I'll get form SL-2024 filled out and... wait, [confused again] where do I even GET these forms?
+
+1012 Customer Support: [patiently amused] All forms are on our tenant portal at oakwoodapts.com/tenant. Use your login—it's your unit number 7C and the password you created. Or just stop by the office, we're open until 6pm today!
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: bdf84266 | Role: Customer Support
+
+1013 Customer Support: Good afternoon, this is Sarah from PowerGrid Utilities, how can I assist you today? [warmly] I see you're calling from the account registered to—let me just pull that up for you.
+
+Character 1: [frustrated] This is the THIRD time I'm calling about estimated bills. [louder] Four months straight of estimates, no actual meter readings! [exasperated sigh] My last bill was double what I usually pay—how is that even possible?
+
+1014 Customer Support: I completely understand your frustration, sir, and I'm—I'm truly sorry about this ongoing issue. Let me check your account history right away to see what's been happening with those meter readings.
+
+Character 1: [sarcastically] Oh great, checking the system again. [bitter laugh] That's what the last two agents said before telling me to just... wait. [firmly] I need this fixed TODAY, not another runaround.
+
+1015 Customer Support: [more reassuringly] Sir, I can see the pattern here and—yes, you're absolutely right, this shouldn't have gone on this long. I'm escalating this immediately to our field service team, and here's what we'll do differently this time.
+
+Character 1: [skeptically] Differently? [scoffs] Like what, exactly? Because I've heard promises about sending technicians before, and somehow my meter is apparently [mockingly] "inaccessible" even though it's right by my front door.
+
+1016 Customer Support: Right, so—listen, I'm scheduling a priority appointment for tomorrow between 8 and 12. The technician will call you thirty minutes before arrival, and if they can't access it, they'll need to document exactly why with photos.
+
+Character 1: [slightly calmer] Tomorrow? [pause] [cautiously] Okay, but what about these inflated bills I've been paying? I want my money back if you've been overcharging me based on these wild estimates.
+
+1017 Customer Support: Absolutely, once we get the actual reading, we'll do a full reconciliation going back four months. [confidently] Any overcharges will be credited to your account immediately, or—or we can issue a refund check if you prefer.
+
+Character 1: [more firmly] I want it in writing. [determined] Email me this guarantee about the refund and tomorrow's appointment. [sighs] I'm done with verbal promises that mysteriously vanish when I call back.
+
+1018 Customer Support: Already typing it up as we speak—you'll have that confirmation email within five minutes. It'll include my direct extension, case number 78432, and the service manager's contact as backup.
+
+Character 1: [surprised] Your direct extension? [softer] That's... actually helpful. [still wary] But if this doesn't get fixed tomorrow, I'm filing a complaint with the utility commission.
+
+1019 Customer Support: That's completely fair, and honestly, you have every right to do that. Between us, sometimes that's what it takes to get things moving properly around here.
+
+Character 1: [chuckles dryly] Did you just admit your company needs threats to function? [lighter tone] At least you're honest about it. Fine, I'll be home tomorrow morning waiting for this miraculous technician appearance.
+
+1020 Customer Support: I prefer to call it... external motivation. But seriously, I've flagged this as critical, and I'll personally follow up tomorrow afternoon to confirm everything went smoothly.
+
+Character 1: [resigned] Alright, Sarah, I'm trusting you here. [firmly] But just so we're clear—if I get another estimated bill next month, I'm switching providers and posting about this everywhere.
+
+1021 Customer Support: You won't need to, I promise you that. [quickly] I'm also adding a note for monthly manual reads for the next three months, just to ensure this never happens again.
+
+Character 1: [genuinely surprised] Manual reads for three months? [appreciatively] Now that's something nobody else offered. Maybe you actually know what you're doing over there.
+
+1022 Customer Support: Thank you, sir—I've been doing this for eight years, and trust me, I've seen it all. Your email confirmation just went through; check your inbox and let me know if you need anything else.
+
+Character 1: [relieved sigh] Got it, yeah, I see the email now. [more calmly] Thanks, Sarah. [genuinely] You're the first person who actually seemed to care about fixing this mess.
+
+--- BASIC SCENARIOS ---
+
+1023 [Shout] No way, no way, NO WAY! [Fast] He was the killer the whole time and I just—I literally called this in episode two!
+
+1024 [Slow] So you're telling me... she's been dead for, like, three seasons? [Whisper] That's actually kind of brilliant.
+
+1025 [Disappointed] I mean, time travel, really? [Sigh] They couldn't come up with anything more original than that?
+
+1026 [Happy] Oh my god, they're siblings! [Laugh] I totally shipped them earlier and now I'm, uh, I'm feeling pretty weird about that.
+
+1027 [Sarcastic] Wow, the butler did it. [Tsk] How incredibly unexpected and not at all cliché.
+
+1028 [Angry] Are you kidding me right now? [Fast] Six years of watching this show and they just—they literally just erased everything!
+
+1029 [Whisper] Wait, wait, go back. [Slow] Did he just say what I think he said about her mother?
+
+1030 [Sad] I can't believe they actually killed him off like that—I mean, he was basically the heart of the whole series. [Sigh]
+
+1031 [Chuckle] Okay so the dog was actually, um, was actually an alien this whole time? [Happy] That's so stupid it's kinda genius!
+
+1032 [Fast] Hold up, hold up—if she's from the future then how did she—actually, y'know what, I don't even care anymore. [Groan]
+
+1033 [Disappointed] The whole thing was a dream? [Angry] I wasted forty hours of my life for "it was all a dream"?
+
+1034 [Slow] I'm gonna need to, like, rewatch everything now because this changes literally every single interaction they had. [Tsk]
+
+1035 [Sarcastic] Oh great, another secret twin plot twist. [Chuckle] What's next, evil clones?
+
+1036 [Whisper] Did anyone else see that coming or am I just really, really bad at picking up clues? [Sad]
+
+1037 [Happy] YES! I KNEW IT! [Shout] My theory was right and everyone said I was reading too much into things! [Laugh]
+
+1038 [Fast] Okay but wait—if he knew all along then why didn't he just—ugh, this makes no sense whatsoever. [Disappointed]
+
+1039 [Angry] They brought her back from the dead? [Sigh] Death means absolutely nothing in this show anymore, does it?
+
+1040 [Slow] That's... actually heartbreaking when you think about it. [Sad] He basically sacrificed everything for nothing.
+
+1041 [Chuckle] The narrator was unreliable this whole time and I fell for it like a complete idiot. [Happy] Honestly, respect.
+
+1042 [Whisper] So the good guys were actually—I mean, they weren't really the good guys at all, were they? [Slow] Kinda makes you think.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1043 SCENARIO: Frustrated about a rainy wedding, then the venue looks magical with the rain
+
+==================================================
+
+[frustrated]
+
+Oh my God, you should have seen this morning. So you know how Sarah's been planning this wedding for like two years? Every detail perfect, outdoor ceremony, the whole thing. And I wake up and it's just— [sigh] it's pouring. Like absolutely dumping rain.
+
+[stressed]
+
+And Sarah is, she's just losing it, right? Like completely falling apart. The tent's not gonna fit everyone, half the decorations are gonna be ruined, and I'm trying to be supportive but honestly I'm thinking this is gonna be a disaster. Like a total, soggy disaster.
+
+[annoyed]
+
+The flowers are all droopy, people are showing up with umbrellas and wet shoes, and I'm just— I'm standing there in my heels getting soaked thinking this poor girl, you know? This is supposed to be her perfect day and it's just...
+
+[quieter] [realizing]
+
+But then— okay wait, so they're doing the ceremony and I actually look around for the first time instead of just complaining in my head about my wet dress, and...
+
+[amazed] [warm]
+
+It was like— it was magical. The rain on the tent sounded like this soft drumming, and all the string lights were reflecting in the puddles, and everyone looked so cozy and intimate under the tent. Like we were all sharing this beautiful secret moment.
+
+[soft] [emotional]
+
+Sarah looked radiant. Absolutely radiant. Sometimes the imperfect moments are the most perfect ones, you know?

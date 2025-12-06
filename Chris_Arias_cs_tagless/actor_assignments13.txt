@@ -1,0 +1,373 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 2f2eee54_script | Role: Character 2 (B)
+
+Character 1: Got promoted today.
+
+1044 Character 2: Wait wait wait—what? You got—oh my god, are you serious? That's like, that's incredible! I mean, finally, right? They've been making you wait forever for this.
+
+Character 1: Yeah. Senior analyst now.
+
+1045 Character 2: Senior analyst! Okay okay, we're definitely—we're celebrating this weekend, no arguments. How do you feel though? Like, honestly?
+
+Character 1: Fine. More money, I guess.
+
+1046 Character 2: Fine? You're gonna give me "fine"? [Laugh] Come on, this is huge! Did they like, did they tell you why now? What changed?
+
+Character 1: Davidson quit. They needed someone.
+
+1047 Character 2: Oh. Oh wait, so it's not—I mean, it's still good though, right? Like regardless of why, you're moving up and that's... that's what matters?
+
+Character 1: Sure.
+
+1048 Character 2: You don't sound—okay, what's really going on? Because like, I dunno, most people would be kinda more excited about a promotion? [Sigh] Talk to me.
+
+Character 1: It's just more work. Same people.
+
+1049 Character 2: Ah. Yeah, no no no, I get it now. It's like—you wanted out, not up, right? That's totally valid, honestly.
+
+Character 1: Maybe. I don't know anymore.
+
+1050 Character 2: Have you been—actually wait, have you been applying other places? Because I remember you were gonna update your resume like, what, two months ago?
+
+Character 1: Haven't had time.
+
+1051 Character 2: Right, of course not. They work you like—ugh, it's ridiculous. But okay, real talk though, is the money at least good? Like significantly better?
+
+Character 1: Twenty percent raise. It's something.
+
+1052 Character 2: Twenty percent is—that's actually really solid! You could like, you could save that extra and then figure out your next move without the pressure, y'know? [Chuckle] Silver lining?
+
+Character 1: Yeah. That's the plan.
+
+1053 Character 2: Good. That's—that's smart. And hey, "Senior Analyst" looks pretty great on that resume you're definitely gonna update soon, right? I'm just saying.
+
+Script: 54f963be_script | Role: Character 2 (B)
+
+Character 1: Everyone knows about the promotion thing now.
+
+1054 Character 2: Wait, what? I—okay, I know how that sounds but it wasn't like I meant to tell anyone. We were all at lunch and Mark was going on about his interview and it just... slipped out.
+
+Character 1: It slipped out.
+
+1055 Character 2: Yeah, it did. I'm not gonna stand here and lie to you. But come on, you know I didn't wake up this morning planning to spill your business to the whole office.
+
+Character 1: Yet here we are.
+
+1056 Character 2: Okay okay, I get that you're pissed. [Sigh] But honestly? You're acting like I did this to sabotage you or something. It was literally just a stupid mistake—I was trying to relate to Mark's situation and I—
+
+Character 1: My situation wasn't yours to share.
+
+1057 Character 2: I know that! God, I know that. But you're being kinda unfair here. Like, I've had your back for three years, covered for you a million times, and one screw-up means I'm suddenly the worst friend ever?
+
+Character 1: This wasn't just any screw-up.
+
+1058 Character 2: No, it wasn't, you're right. But I mean—look look, I'm sorry it happened, okay? I am. But I'm also getting a little frustrated that you won't even [scoff] let me explain or anything. Just standing there all cold and judgy.
+
+Character 1: What's there to explain? You talked. They listened.
+
+1059 Character 2: That's—wow, that's really reductive. You know what? Fine. Be mad. But don't pretend like you've never accidentally said something you shouldn't have. Remember when you told Jake about my thing with HR?
+
+Character 1: That was different.
+
+1060 Character 2: How? How was it different? Because it was you? Look, I'm trying to apologize here but I'm not gonna grovel when you're being this—I dunno, this sanctimonious about it.
+
+Character 1: I asked you specifically not to say anything.
+
+1061 Character 2: And I didn't mean to! Jesus, how many times do I have to—[frustrated laugh] You know what? I messed up. Fine fine, I own that. But you standing there acting like I'm not even worth talking to? That hurts too, y'know?
+
+Character 1: Now you know how it feels.
+
+1062 Character 2: Okay, that's—that's actually pretty harsh. I said something by accident in a conversation. You're deliberately trying to make me feel like garbage right now. There's a difference.
+
+Character 1: Is there?
+
+1063 Character 2: Yeah, there is. And if you can't see that, then maybe—I dunno, maybe we've got bigger problems than me accidentally mentioning your promotion thing. Because friends are supposed to at least try to understand each other, not just... whatever this is.
+
+Script: 696a8a0a_script | Role: Character 2 (B)
+
+Character 1: We need to talk.
+
+1064 Character 2: Oh—oh no, that's never good. Um, did I do something? Wait, obviously I did something or you wouldn't be—sorry, I'm just trying to figure out what's going on.
+
+Character 1: You know what? Forget it.
+
+1065 Character 2: No no no, please don't—don't do that. Just tell me what's wrong. I can't fix it if I don't know what I did, right? And I really wanna fix whatever this is because you seem really upset.
+
+Character 1: I'm always there for you. Always.
+
+1066 Character 2: You are! You totally are, and I'm so grateful for that, like you have no idea how much—wait. [nervous laugh] Is this about me being needy? Because I know I can be a lot sometimes.
+
+Character 1: When have you ever asked how I'm doing?
+
+1067 Character 2: I—that's not—I do ask! Don't I? Oh god, I don't, do I? I mean, I think about it all the time but maybe I just—maybe I never actually say it out loud? Shit.
+
+Character 1: Three anxiety spirals this week. Three.
+
+1068 Character 2: I know, I know, it's been a really bad week and you've been—you've been amazing, honestly. But hold on, are you saying I never check on you? Because that can't be right. Can it? [groan] Oh my god, it is.
+
+Character 1: I had a panic attack yesterday.
+
+1069 Character 2: You—what? When? Why didn't you tell me? I would've—actually no, that's literally the whole point, isn't it? You shouldn't have to tell me. I should've just known to ask.
+
+Character 1: You texted me about your coffee order for twenty minutes.
+
+1070 Character 2: Oh god. Oh god, I did. I was freaking out about whether oat milk was pretentious and you were—you were having a panic attack? I'm the worst friend ever, aren't I? Like genuinely the absolute worst.
+
+Character 1: I just needed someone to ask if I was okay. Once.
+
+1071 Character 2: I'm so—I'm so sorry. That's not even enough but I don't know what else to say. You're always taking care of me and I just—I get so wrapped up in my own head that I forget other people have stuff too, y'know?
+
+Character 1: Yeah. I noticed.
+
+1072 Character 2: No, you're right to be mad. Like, completely right. I've been treating you like my personal therapist instead of my friend and that's—that's really messed up. [sigh] I wanna do better. I need to do better. Will you let me try?
+
+Character 1: I'm just... tired.
+
+1073 Character 2: I know. God, of course you are. Can I—would it be okay if I listened this time? Like actually listened? No interrupting, no making it about me, just... how are you doing? For real?
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1074 SCENARIO: realizing they're out of coffee
+
+==================================================
+
+[drowsy]
+
+Okay, so, um, coffee time. Just gonna— just gonna make my usual morning, uh, my usual morning cup and then I can, like, actually function like a human being. [yawn] Where's the, um— where's the coffee?
+
+[slightly more alert]
+
+Hm. That's... that's weird. I could've sworn there was, like, at least half a bag left? Maybe it's, um, maybe it's behind the— no, that's just the sugar. And the, uh, the tea that I never drink but keep buying for some reason.
+
+[realization dawning]
+
+Oh. Oh no. No no no, this is— this is not happening right now. I'm out. I'm actually out of coffee. On a Monday. [groan] Of course it's a Monday, because why would I run out of coffee on, like, a Saturday when I could actually go to the store without wanting to, um, to crawl back into bed?
+
+[slightly frantic]
+
+Okay, think think think. Do I have any of those instant packets? The ones that taste like, uh, like sadness and regret but technically contain caffeine? Let me just— [tsk] no, I used the last one during that, um, that late night last week when I was—
+
+[resigned but problem-solving]
+
+Right. So. Options. I can either go to the store looking like I got hit by a truck, or I can, um, I can just accept that today is gonna be one of those days where I move really, really slowly until I find caffeine somewhere. [sigh] Maybe the corner place is open? They're usually— yeah, okay, pants first, then coffee mission.
+
+--- CONVERSATION ---
+
+Script: c840e810 | Role: Character 1 (A)
+
+1075 Character 1: [nervously] Oh, hi Mr. Davidson! [higher pitch] I was just finishing up the quarterly reports. [clearing throat] Did you need something before I head out? I'm happy to stay a bit longer if there's anything urgent that needs attention today.
+
+Character 2: [commanding tone] Perfect timing actually. [slower pace] I need the entire marketing deck redone by Monday morning. [dismissively] The client changed their mind—typical, right? Should only take you the weekend if you really focus on it without distractions.
+
+1076 Character 1: [strained cheerfulness] The whole weekend? [nervous laugh] Sure, I mean, I did have some plans but... [trailing off] work comes first, right? I'll just reschedule my sister's birthday dinner. She'll understand that these things happen sometimes in our industry.
+
+Character 2: [casually] Great, knew I could count on you. [Chuckle] While you're at it, loop in the data from Q3. [more firmly] Oh, and make it pop more—you know what I mean? The last one was a bit boring.
+
+1077 Character 1: [hesitant] Pop more, absolutely. [forced enthusiasm] I'll add some animations and maybe restructure the whole flow? [quieter] Though I should mention my laptop's been crashing lately. But I'm sure it'll hold up through the weekend work sessions somehow.
+
+Character 2: [impatiently] Just use the office computers then. [Scoff] Building's open 24/7 for a reason. [patronizing tone] This is how you climb the ladder, kid—showing dedication when it matters. The executive team will definitely notice your commitment to excellence.
+
+1078 Character 1: [exhausted whisper] Right, dedication. [trying to sound upbeat] I'll grab my sleeping bag—kidding! [hollow laugh] Though I basically live here anyway, don't I? My plants at home are probably wondering if I've abandoned them permanently at this point.
+
+Character 2: [jovially] That's the spirit! [loud and fast] Hey, since you'll be here anyway, mind reviewing Johnson's budget proposal too? [more casual] It's only 200 pages. Consider it a learning opportunity—exposure to high-level financial planning and strategy.
+
+1079 Character 1: [voice cracking] Two hundred pages? [Deep breath] Of course, Mr. Davidson, happy to help. [mumbling quickly] I love learning opportunities, especially ones that consume my entire existence and leave me questioning my life choices while eating vending machine dinners alone.
+
+Character 2: [oblivious] What was that last part? [briskly] Anyway, text me updates every few hours. [cheerful] My golf game's at noon Sunday, but I'll check between holes. Don't hesitate to reach out with any questions or concerns!
+
+1080 Character 1: [defeated] Every few hours, got it. [sarcastic undertone] I'll make sure to time my mental breakdowns between your updates. [perking up falsely] Actually, would you prefer hourly updates instead? I want to make sure you're fully informed throughout the process.
+
+Character 2: [laughing heartily] Hourly's excessive! [Snort] You're so eager—I love it. [condescending] Though let's add the competitor analysis while we're being thorough. Just a quick fifty-slide comparison. Nothing fancy, but make it comprehensive and visually stunning.
+
+1081 Character 1: [barely audible] Fifty slides. [hysterical giggle] Why not make it a hundred while we're at it? [getting louder] I mean, I'm already sacrificing my weekend, my sanity, and my vitamin D levels for this wonderful opportunity to excel!
+
+Character 2: [missing the sarcasm] Hundred slides? [thoughtfully] That's ambitious but I like where your head's at! [excited] Let's stick with seventy-five though. [Clap] We don't want to overwhelm them. Save some energy for next weekend's project too.
+
+1082 Character 1: [voice breaking] Next weekend too? [shaky laugh] Mr. Davidson, you're so funny! [desperately cheerful] I actually love that my calendar is just work, work, work, and more work. Who needs a personal life when spreadsheets love you unconditionally, right?
+
+Character 2: [dismissive] Personal life's overrated anyway. [sage-like tone] When you're my age, you'll appreciate these sacrifices. [quickly] Speaking of which, can you also train the new intern remotely while you work? She starts Monday, needs the full onboarding.
+
+1083 Character 1: [high-pitched] Train the intern! [Nervous giggle] From here! While doing everything else! [frantically upbeat] Absolutely, I'm basically a superhuman multitasking machine who doesn't need sleep, food, or basic human connection to function at peak performance levels!
+
+Character 2: [pleased] Now you're talking like management material! [Hearty laugh] This dedication's exactly why you're my go-to person. [casual] Oh, bring coffee Monday—early meeting at 6 AM. The good stuff from downtown, not that office swamp water.
+
+1084 Character 1: [deliriously happy] Six AM meeting after my weekend here! [manic giggle] I'll get the fancy Colombian roast that costs my hourly wage! [sing-song voice] Because nothing says "valued employee" like being a barista-analyst-designer-trainer hybrid who never leaves the building!
+
+Character 2: [walking away] Perfect, knew you'd understand. [calling back] Don't forget to lock up Sunday night! [cheerfully] Or Monday morning, whenever you finish. [Chuckle] The security guard gets lonely on weekends, so you're doing him a favor too!
+
+--- CS ALPHANUMERIC ---
+
+Script: dcfe8f7e | Role: Customer Support
+
+Character 1: [breathless] Hi, yes, I'm calling about my winning ticket—[stammering] ticket number J-47829-B—and I just found out about the taxes? [voice rising] Nobody told me I'd lose almost forty percent to the government when I bought it!
+
+1085 Customer Support: Congratulations on your win, sir. Let me pull up your file here... Yes, I see your claim for the $2.8 million prize from October 15th at the Riverside Avenue location.
+
+Character 1: [frustrated] That's the one, yeah, but—but look, [more desperately] the advertised jackpot said 2.8 million, not 1.7 million! [groans] How is this even legal to advertise it that way?
+
+1086 Customer Support: [patiently] Sir, the $2.8 million represents the annuity value over 29 years. Your lump sum cash option, which you selected, comes to $1,680,000 before federal withholding of 24% and state taxes of 8.82%.
+
+Character 1: [shocked] Eight point eight two percent?! [voice cracking] Wait, wait, so you're telling me—[calculating] that's like over $500,000 just gone? [sighs heavily] My wife is going to absolutely lose her mind about this.
+
+1087 Customer Support: I understand your frustration, Mr... Thompson, is it? The withholdings are automatic—we're required by law to send $403,200 directly to the IRS and $148,176 to the state revenue department.
+
+Character 1: [sarcastically] Oh fantastic, so you already sent it? [more angrily] Without even asking me first? [muttering] I had plans for that money—my mortgage balance is exactly $487,000, and now I can't even pay it off completely!
+
+1088 Customer Support: The withholdings were processed when you claimed your prize on October 22nd. However, depending on your total income and deductions, you might receive some back when filing your 2024 tax return. Have you spoken with a tax professional yet?
+
+Character 1: [exasperated] A tax professional—[laughs bitterly] that's another expense now, isn't it? [quieter] Look, can you at least send me documentation showing exactly where every penny went? [firmly] I need something to show my accountant at H&R Block on Madison Street.
+
+1089 Customer Support: Absolutely, I can email you Form W-2G and the withholding statements to... Is your email still robert.thompson.1975@email.com? You should receive those documents within 24 hours, reference number LC-2024-10-8847 for your records.
+
+Character 1: [defeated] Yeah, that's... that's the right email. [sighs deeply] You know what the worst part is? [bitterly] I already told my brother-in-law I'd invest $300,000 in his restaurant—now I'll look like a complete fool.
+
+1090 Customer Support: Sir, you're still receiving over one million dollars after taxes. That's a life-changing amount of money, even if it's not the full advertised jackpot. Many winners find financial planning services helpful for managing their windfall responsibly.
+
+Character 1: [grudgingly] I suppose you're right about that. [more thoughtfully] It's just—when you dream about winning for thirty years, buying tickets every week at the same 7-Eleven... [trails off] You don't imagine Uncle Sam as your business partner, you know?
+
+1091 Customer Support: That's a common reaction, Mr. Thompson. If it helps, you can reduce next year's tax burden by making charitable contributions or maxing out retirement contributions to your 401k—[pause] the limit for 2024 is $23,000, or $30,500 if you're over 50.
+
+Character 1: [perking up] Actually, I just turned 49 last month, so... [calculating] wait, next year I could do the full thirty thousand? [more interested] That would reduce my taxable income by quite a bit, wouldn't it?
+
+1092 Customer Support: [encouragingly] Exactly, and if your spouse works, she can contribute the same amount to her plan. [helpfully] Between that and mortgage interest deductions on your Riverside property, [pause] you might see a significant refund when you file.
+
+Character 1: [sighs] Alright, alright, you're making me feel a bit better about this whole mess. [chuckles nervously] My wife Sarah—she's the smart one—she'll probably have a whole spreadsheet ready by tonight. [more seriously] Should I be expecting any other surprise deductions?
+
+1093 Customer Support: No more surprises from our end—everything's been processed. Your net payout of $1,128,624 was direct deposited to your Chase account ending in 7792 on October 24th. [pause] The funds should have cleared by now.
+
+Character 1: [relieved] Yeah, I saw that hit the account—nearly gave me a heart attack seeing that many zeros! [laughs genuinely] Even with the taxes, it's... [emotionally] it's more money than my dad made in his entire lifetime working at the Ford plant.
+
+1094 Customer Support: That's wonderful perspective, Mr. Thompson. Enjoy your winnings, and don't forget—that documentation with reference number LC-2024-10-8847 will arrive shortly. Congratulations again, and thank you for calling the State Lottery Commission!
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 11b7b895 | Role: Customer Support
+
+1095 Customer Support: Mr. Harrison, I understand your frustration about the lack of updates. We've been, um, experiencing some internal delays with case reviews lately. Let me pull up your file right now to see exactly where things stand.
+
+Character 1: [irritated] Internal delays? [louder] I've been waiting three months without a single email or call! [exasperated] My tax situation is—it's getting worse every day, and I'm paying you premium rates for what exactly?
+
+1096 Customer Support: [calmly] You're absolutely right to be upset. The partner assigned to your case should have contacted you weeks ago. I'm escalating this immediately to our managing attorney, and you'll hear from someone within twenty-four hours, guaranteed.
+
+Character 1: [skeptically] Twenty-four hours? [sighs heavily] That's what your paralegal said last time I called. [frustrated] Do you people even talk to each other over there, or am I just shouting into the void?
+
+1097 Customer Support: Sir, I can assure you we do communicate, but clearly something fell through the cracks with your case. I'm personally taking ownership of this—not passing it off—and will follow up myself tomorrow morning.
+
+Character 1: [sarcastically] Oh, personally taking ownership, how refreshing. [groans] Look, the IRS is breathing down my neck here. [anxiously] Can you at least tell me if anyone's even looked at my documents?
+
+1098 Customer Support: Yes, I can see here that your documents were reviewed on... October 15th. The analysis is actually complete; it just hasn't been communicated to you, which is unacceptable on our part.
+
+Character 1: [shocked] October 15th? [incredulous] That was six weeks ago! [demanding] What kind of law firm completes work and then just, what, forgets to tell the client about it?
+
+1099 Customer Support: [embarrassed] I genuinely don't have a good answer for that. What I can do is email you the preliminary findings right now—this minute—while we're on the phone. Then schedule a proper consultation for tomorrow to discuss strategy.
+
+Character 1: [cautiously] Fine, but I want it in writing that someone will actually show up this time. [exhausted] I've taken three days off work already for meetings that never happened. [firmly] This better not be another empty promise.
+
+1100 Customer Support: I'm sending you a calendar invite right now with a written commitment. If the attorney doesn't show, you'll receive a fifty percent discount on your next invoice. That's how serious I am about fixing this.
+
+Character 1: [surprised] Fifty percent? [thoughtfully] Well, that's... actually something. [sighs] Alright, I'll check my email for those documents. [warily] But if this falls through again, I'm finding new representation.
+
+1101 Customer Support: [understanding] That's completely fair, Mr. Harrison. The documents should be hitting your inbox in about thirty seconds. We value your business, and I'm sorry we've failed to show that until now.
+
+Character 1: [relieved] Okay, I see them coming through. [muttering] Finally, some actual progress here. [curiously] So who exactly will I be meeting with tomorrow—not another paralegal, right?
+
+1102 Customer Support: You'll be meeting with Jennifer Walsh, our senior tax attorney. She literally wrote the book on IRS negotiations—well, a book anyway. She's already reviewing your case as we speak.
+
+Character 1: [impressed] Jennifer Walsh? [more optimistically] I've actually heard of her. [chuckles dryly] Maybe you guys aren't complete disasters after all. What time is this meeting supposed to happen?
+
+1103 Customer Support: Two PM sharp, and she's blocking ninety minutes just for you. I've also added myself as a backup contact, so if anything changes—which it won't—you'll know immediately. We're getting this back on track.
+
+Character 1: [cautiously hopeful] Ninety minutes sounds thorough at least. [sighs] Look, I'm sorry for getting heated earlier, it's just been incredibly stressful watching deadlines approach with radio silence from you guys.
+
+1104 Customer Support: No apology necessary—you had every right to be upset. We dropped the ball, plain and simple. Tomorrow at two, Jennifer will have a complete action plan ready for your review.
+
+Character 1: [resigned] Alright, I'll be there at two. [firmly] But this is really the last chance I'm giving you folks. [quietly] The documents look comprehensive, so... I guess we'll see what happens tomorrow.
+
+--- BASIC SCENARIOS ---
+
+1105 [Slow] Every single time I've ignored that little voice in my head, I've, um, I've regretted it. [Sigh] Every time.
+
+1106 [Happy] Look, my gut literally saved me from taking that job—turns out the company went under like three months later! [Laugh]
+
+1107 [Fast] [Angry] People keep telling me I need "evidence" and "logic" but y'know what? My instincts have never—and I mean never—been wrong about someone being sketchy.
+
+1108 [Whisper] It's kinda hard to explain, but I just... I feel things before they happen sometimes. [Slow] Like this weird energy shift, you know?
+
+1109 [Sarcastic] Oh sure, I should totally ignore millions of years of evolution that gave us these survival instincts—what could possibly go wrong? [Tsk]
+
+1110 [Disappointed] I used to second-guess myself constantly, but then I realized—wait, why am I trusting everyone else more than myself? [Sigh]
+
+1111 My body literally tenses up when something's off—like, uh, like right now actually, and I'm gonna listen to it.
+
+1112 [Shout] That feeling in my stomach has saved my life before! [Fast] I'm not being dramatic—I mean literally saved my life!
+
+1113 [Sad] [Slow] The one time I didn't trust myself was when... when I lost everything that mattered, so yeah.
+
+1114 [Chuckle] Call it whatever you want—intuition, sixth sense, spidey sense—but mine's basically never let me down.
+
+1115 [Fast] Okay so basically our brains process like thousands of tiny details we don't even consciously notice, right? [Happy] That's what instincts are!
+
+1116 [Angry] [Groan] I'm so tired of people telling me I'm being "irrational" when my gut feelings keep being proven right!
+
+1117 You ever just walk into a room and immediately know you gotta get out? [Whisper] That's happened to me twice, and both times—yeah.
+
+1118 [Sarcastic] [Slow] Sure, let me just ignore this screaming alarm bell in my head because someone else thinks they know better.
+
+1119 [Disappointed] I dunno, maybe I'm weird, but I can literally feel when someone's lying to me—it's like this, this buzzing sensation. [Tsk]
+
+1120 [Happy] [Fast] My therapist actually told me that trusting your instincts is, like, super important for mental health—so I'm totally validated here!
+
+1121 [Sad] After what happened with my ex, I promised myself I'd never—absolutely never—ignore those red flag feelings again. [Sigh]
+
+1122 [Shout] Why would I not trust the thing that's kept humans alive for thousands of years? [Laugh] [Fast] That's just basic survival, people!
+
+1123 Honestly? [Slow] [Whisper] Sometimes I know things I shouldn't know, and I've just... I've learned to accept that and go with it.
+
+1124 [Chuckle] My mom always said I had "the gift"—which sounds dramatic but, um, she wasn't wrong about my track record here.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1125 SCENARIO: Calmly describing a spot on the ceiling they noticed, then looking closer, then seeing it's moving and it's bugs, ending in infestation realization horror
+
+==================================================
+
+[casual]
+
+So I'm lying in bed this morning, just scrolling through my phone, you know? And I notice this little dark spot on my ceiling. Like, right above where I sleep.
+
+[matter-of-fact]
+
+At first I'm thinking it's just— I don't know, a stain or something. Maybe from when it rained last week and there was that leak upstairs. [light sigh] Nothing major.
+
+[slightly curious]
+
+But then I'm looking at it more, because it's kind of an weird shape, you know? Not really like a water stain. More... I don't know, clustered? Like little dots all grouped together.
+
+[concerned]
+
+So I get up to look closer, and— wait. Wait, that's... [pause] that's not a stain. One of those dots just— did that just move?
+
+[alarmed]
+
+Oh my god, they're moving. They're all moving. Those aren't spots, those are— [sharp exhale] those are bugs. There are bugs on my ceiling. Like, a lot of bugs.
+
+[horrified]
+
+And now that I'm really looking, it's not just that one spot. There's another cluster over there, and there, and— [whimper] oh no, oh no, they're everywhere.
+
+[panicking]
+
+The whole ceiling is covered! How did I not see this before? I've been sleeping under this for— [groan] how long have they been up there? Watching me sleep?
+
+[frantic]
+
+I can't— I need to call someone. An exterminator, the landlord, I don't know! [defeated whimper] I'm never sleeping again.

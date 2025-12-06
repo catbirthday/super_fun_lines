@@ -1,0 +1,297 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 5efc593f_script | Role: Character 2 (B)
+
+Character 1: You forgot.
+
+895 Character 2: What? No, I—wait, what do you mean? I didn't forget anything, I don't think? Unless—oh god, did I miss something important?
+
+Character 1: Ten years. Today.
+
+896 Character 2: Ten years of—oh. OH. Oh no no no, our friendship anniversary. That's—that's today? [groan] I'm such an idiot, I can't believe I—I had it in my calendar and everything.
+
+Character 1: Right.
+
+897 Character 2: No, seriously, I did! I swear I did. I just—this week has been absolutely insane with work and I've been so scattered, but that's not an excuse. I know it's not.
+
+Character 1: We've celebrated it every single year.
+
+898 Character 2: I know, I know we have. And it means—god, it means everything to me, you know that, right? Like, you're literally my best friend and I just completely spaced on the most important—I'm the worst. [nervous laugh] I'm actually the worst friend ever.
+
+Character 1: Yeah. Kinda feels that way.
+
+899 Character 2: Please don't—okay, I deserve that. But like, can I just—let me make it up to you? We can go to that place you love, the one with the really good pasta? Tonight, my treat, obviously.
+
+Character 1: That's not the point.
+
+900 Character 2: No, you're right, it's not. It's not about—I mean, it's about me forgetting something that matters. Something that should've been the first thing on my mind today. I just... I dunno, I've been so caught up in my own stuff lately.
+
+Character 1: I noticed.
+
+901 Character 2: Have I been—oh god, have I been a terrible friend lately? Not just today but like, in general? Because if I have, you need to tell me. Please.
+
+Character 1: You've been pretty absent, yeah.
+
+902 Character 2: [sigh] I didn't realize—actually no, that's a lie. I think I did realize, I just kept telling myself it was temporary, y'know? Like "oh, after this project" or "after this deadline" but there's always another one.
+
+Character 1: There always is with you.
+
+903 Character 2: That's fair. That's—that's completely fair. And I hate that I've become that person who just... forgets what actually matters. You matter. You matter so much and I've been taking that for granted, haven't I?
+
+Character 1: Little bit. But at least you see it now.
+
+904 Character 2: I do. I really do. And I'm gonna—I wanna fix this. Not just with dinner or whatever, but like, actually being present again. Being the friend you deserve. Because ten years is—it's huge, and you've been there through literally everything, and I just... I'm sorry. Really, genuinely sorry.
+
+Script: 6f49b05f_script | Role: Character 2 (B)
+
+Character 1: We were supposed to go to the concert Saturday.
+
+905 Character 2: Oh my god, I—wait, that's this Saturday? I thought it was next—no no no, you're right, it's this Saturday. I'm such an idiot.
+
+Character 1: You made other plans.
+
+906 Character 2: I didn't—okay, yeah, I did, but I honestly forgot about the concert. My cousin called and she's only in town for like one day and I just—I wasn't thinking. [nervous laugh] That's not an excuse, I know.
+
+Character 1: Right. Your cousin.
+
+907 Character 2: I know how that sounds! I know, okay? But she literally just told me yesterday she was coming and I got all excited and—god, I completely blanked on our plans. I'm so sorry.
+
+Character 1: I already bought the tickets.
+
+908 Character 2: Oh no. Oh no no no, I'll—I'll pay you back, obviously. Or maybe I can—wait, what time is the concert? Maybe I can do both? Like, I could meet my cousin earlier and then—
+
+Character 1: Don't bother.
+
+909 Character 2: Please don't be like that. I really—I really wanna go with you. We've been talking about this band for months, I know. [sigh] I just completely messed up the dates in my head.
+
+Character 1: You always do this.
+
+910 Character 2: That's not—okay, that's kinda fair. I have done this before. But I'm trying to be better about it, I swear. I even got that planner app you recommended and everything.
+
+Character 1: Clearly it's working great.
+
+911 Character 2: I deserve that. I do. Look, what if I—what if I reschedule with my cousin? I'll just tell her something came up. Because honestly, you're more important and we planned this first and I should've remembered.
+
+Character 1: I don't want you to come if you don't want to be there.
+
+912 Character 2: But I do want to! That's what I'm trying to—I genuinely forgot, it wasn't that I didn't wanna go. [groan] I'm just really bad at keeping track of stuff, but that doesn't mean I don't care.
+
+Character 1: Then why is this the third time?
+
+913 Character 2: Because I'm—because I'm a disaster, basically? I don't mean to be. I get overwhelmed and then I say yes to everything and then—then this happens. And I hate that I keep disappointing you. I really, really hate it.
+
+Character 1: I just wanted to see the band with you.
+
+914 Character 2: I know. And we're gonna, okay? I'm—I'm texting my cousin right now. Literally right now. There, sent. Saturday is ours, just like we planned. And I'm gonna put like five reminders in my phone so this never happens again. I promise.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+915 SCENARIO: debating whether to take leftover food home
+
+==================================================
+
+[contemplative]
+
+Okay, so, um, there's like half this sandwich left, and I'm— I'm pretty full, but it's a really good sandwich, you know? Like, I don't want to just— I mean, it seems wasteful to just leave it here, right? But then again, am I actually gonna eat it later, or is it just gonna sit in my fridge and, uh, and get all sad and soggy?
+
+[slightly indecisive]
+
+I could ask for a box. That's— that's normal, right? People do that. But it's just, um, it's just half a sandwich, not like a whole meal or whatever. [sigh] I don't know, maybe that's weird? Like, "excuse me, can I get a to-go container for my, uh, for my sandwich remnants?"
+
+[muttering]
+
+But I paid twelve dollars for this thing, so— I mean, that's like six dollars just sitting there. Six dollars! That's, um, that's a coffee. That's a really good coffee, actually.
+
+[resigned but practical]
+
+Okay, you know what? I'm doing it. I'm taking the sandwich home. Future me will probably thank current me, or, uh, or future me will find mystery sandwich in the fridge and be confused, but— [laugh] but that's future me's problem, right?
+
+--- CONVERSATION ---
+
+Script: de65608b | Role: Character 2 (B)
+
+Character 1: [breathless] Did we just—? [voice cracking] Oh my god, we actually did it! [louder, triumphant] The lift, the impossible lift that broke my ribs in rehearsal—we nailed it perfectly on opening night!
+
+916 Character 2: [shaking voice] I can't stop trembling. [Sobbing laugh] When you landed, the audience gasped and I thought we'd failed, but then— [getting louder] they erupted! My legs are jelly but my heart is soaring through the ceiling!
+
+Character 1: [whispered awe] Six months of bruises. [more intensely] Six months of ice packs and doubt and our director screaming we'd never get it. [Shriek] Look at us now! Champions of gravity, defying every single law!
+
+917 Character 2: [slow, disbelieving] Your hands found my waist at exactly the right millisecond. [faster now] Like magnets clicking into place after searching forever. [Gasp] I flew! Actually flew for those three seconds—weightless, fearless, infinite!
+
+Character 1: [choked up] My mother is in row five. [quieter] She watched me fail this a hundred times on video. [building excitement] Tonight she saw her daughter become art, become impossible, become everything I promised myself!
+
+918 Character 2: [hysterical giggle] The spotlight hit us perfectly too! [in wonder] Like the universe conspired for this exact moment. [Whimper] I'm crying into my costume and makeup is everywhere but who even cares anymore? We're legends!
+
+Character 1: [urgent whisper] Feel my pulse—it's insane! [more loudly] Two hundred beats per minute of pure adrenaline and joy. [softening] This is why we destroy our bodies, for this singular moment of absolute transcendence.
+
+919 Character 2: [quavering] Remember when I dropped you last month? [stronger] You got a concussion and I thought you'd quit. [Sob] But you came back the next day, trusting me completely. That trust just paid off!
+
+Character 1: [giddy] We should frame this costume! [in disbelief] No, bronze it! [Cackle] The exact leotard that witnessed history, still damp with triumph sweat and these beautiful tears that won't stop falling down my face!
+
+920 Character 2: [reverent tone] Opening night magic is real. [building energy] Every superstition, every ritual, every prayer to the dance gods worked. [explosive joy] We transformed impossible into inevitable! My whole life led to these three seconds!
+
+Character 1: [hoarse whisper] My ankles are screaming but my soul is singing. [more intensely] That moment of suspension, when time stopped— [Gasp] Did you feel it too? Like we bent reality itself to our will?
+
+921 Character 2: [trembling] The other dancers are crying too. [steadier] Even Marcus, who never shows emotion, has tears streaming. [Whispered scream] We inspired them! We showed everyone that impossible is just another word for not yet!
+
+Character 1: [rapid words] Quick, before we forget—remember every micro-second! [slower, desperate] The angle, the momentum, the exact way the air felt. [Whimper] I need to hold this feeling forever, bottle it, never let go!
+
+922 Character 2: [laughing through tears] Your face during the lift! [quieter] Pure concentration then sudden joy, like sunrise breaking. [getting louder] The audience saw it too—that's when they started screaming! We gave them magic tonight!
+
+Character 1: [soft wonder] Three seconds that erased three years of rejection letters. [building strength] Every "you're not good enough" just got deleted. [Shriek] This lift is my answer to everyone who said I should quit!
+
+923 Character 2: [shaky exhale] I can't feel my legs anymore. [more solidly] Doesn't matter—I could float home on this feeling alone. [Sob-laugh] We're going to remember this forever, when we're old, we'll still remember!
+
+Character 1: [fierce whisper] Tomorrow every dance company will know our names. [louder, prouder] The duo who conquered the unconquerable lift on opening night. [Breaking voice] But tonight, right now, it's just ours to feel!
+
+924 Character 2: [overwhelmed] My hands are still shaking—look! [steadying] But not from fear anymore, from pure electricity. [Gasp] We channeled lightning through our bodies and survived! We're made of stars and stubborn dreams!
+
+Character 1: [exhausted joy] I love you so much right now. [more intensely] My partner, my trust-fall, my co-conspirator against gravity! [Whimper-laugh] We really did it. We really, actually, impossibly did it on opening night!
+
+925 Character 2: [peaceful exhaustion] Let's just stand here one more minute. [deeper, satisfied] Before the reviews, before tomorrow's show, before reality returns. [whispered triumph] Right now we're infinite, we're perfect, we're exactly who we dreamed we'd become!
+
+--- CS ALPHANUMERIC ---
+
+Script: 45ccc9fc | Role: Customer Support
+
+Character 1: [dizzy] Hi, I'm calling about my contact lens prescription—I think there's something wrong. [confused] The numbers on my box say, um, negative 2.75 and negative 3.00, but [groans] everything's been spinning since I put them in this morning.
+
+926 Customer Support: Oh dear, that doesn't sound right at all. Can you please provide me your customer ID number? It should be on your account card—starts with CL and then eight digits.
+
+Character 1: [struggling] Yeah, it's... wait, let me find it. [pause] CL-4-5-8-2-9-0-3-1. [woozily] Sorry, I keep having to close one eye to read anything right now.
+
+927 Customer Support: Perfect, I've got your account pulled up here, Ms. Thompson. I see your last prescription update was three months ago—Doctor Reynolds at 4521 Oak Street, correct?
+
+Character 1: [frustrated] That's right, but I swear these can't be the right strength. [breathlessly] I've been wearing contacts for, like, fifteen years and [sighs heavily] never felt like I'm on a boat before.
+
+928 Customer Support: I completely understand your concern. [carefully] According to our records, your prescription shows right eye negative 2.25, left eye negative 2.50. The numbers you mentioned don't match what we have on file.
+
+Character 1: [shocked] Wait, what? [more urgently] But the box clearly says OptiClear brand, batch number QX-7749-B, and those other numbers I told you!
+
+929 Customer Support: OptiClear? Ma'am, our records show we sent you AquaVision Plus lenses last month. Could you check if maybe you received someone else's order by mistake?
+
+Character 1: [embarrassed laugh] Oh my god, you know what? [sheepishly] I just realized—these might be my roommate's contacts. [groans loudly] She uses the same bathroom cabinet and, um, we apparently need better labeling.
+
+930 Customer Support: That would definitely explain the dizziness! Please remove those immediately and rinse your eyes with saline solution. Would you like me to rush-ship your correct prescription to arrive tomorrow at no extra charge?
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 06d0337f | Role: Customer Support
+
+931 Customer Support: Good afternoon, tech support, I see you have ticket number 45782 open. Let me just pull that up—okay, yes, the printer issue from last Tuesday. How can I help you today?
+
+Character 1: [exhausted] Last Tuesday? [groans] It's been two weeks actually. [sighs heavily] I've called four times, emailed twice, and nobody—nobody has fixed this thing, it's still showing the same error code.
+
+932 Customer Support: Oh, I see there's been some... miscommunication in our system. [rapidly] Let me check the previous notes—printer error, driver reinstall attempted, firmware update. Did you complete all these troubleshooting steps?
+
+Character 1: [frustrated] Yes, yes, I did everything your colleagues asked. [slower] The firmware update, the driver thing, I even—[exasperated sigh] I unplugged it for thirty minutes like Jeff suggested. Still broken.
+
+933 Customer Support: Right, Jeff's notes here say the issue was resolved. But you're saying it's not working? [more briskly] Can you tell me exactly what happens when you try to print now?
+
+Character 1: [sarcastically] Oh, resolved, that's rich. [tired] When I print, it makes this grinding noise, then—[groans] then it jams halfway through every single page. Every. Single. One.
+
+934 Customer Support: [hurriedly] Okay, grinding noise indicates a mechanical issue, not software. This should've been escalated to hardware support immediately. I'm going to transfer you to—actually, wait, let me handle this myself.
+
+Character 1: [desperately] Please don't transfer me. [quieter] I've been transferred three times already today. [pleading] Can't you just... send someone to fix it or replace the printer?
+
+935 Customer Support: I understand your frustration completely. Here's what I'll do—I'm scheduling a technician for tomorrow morning, between 9 and 11. No more phone tag, no more transfers, just someone at your door.
+
+Character 1: [skeptically] Tomorrow morning? [sighs] They said that last week too, and guess who never showed up? [worn out] I took the whole morning off work for nothing.
+
+936 Customer Support: That's unacceptable, and I apologize. I'm putting a priority flag on this ticket, linking all previous attempts, and—I'm giving you my direct extension: 4421. Call me if they don't show.
+
+Character 1: [slightly hopeful] Your direct line? [cautiously] That's... that's actually helpful. [tiredly] But what if they come and can't fix it, like what happened to my coworker last month?
+
+937 Customer Support: [briskly] If they can't fix it on-site, I've already approved a replacement unit. It'll be delivered the same day, pre-configured with your network settings. We should've done this two weeks ago.
+
+Character 1: [relieved sigh] Finally, someone who gets it. [more energized] So tomorrow, 9 to 11, and if they don't show or can't fix it, I call you directly at extension 4421?
+
+938 Customer Support: Exactly right, and I'm sending you a confirmation email now with everything documented. My name's Maria, by the way. [firmly] I'll be monitoring this ticket until it's completely resolved.
+
+Character 1: [gratefully] Maria, thank you. [sighs] I was ready to just buy my own printer and expense it. [quietly] This whole thing has been such a nightmare for my productivity.
+
+939 Customer Support: I completely understand, two weeks is far too long for a basic printer issue. The email should be in your inbox now—confirm you received it? [determined] We're getting this fixed tomorrow.
+
+Character 1: [checking] Yes, got it, ticket priority escalated, technician scheduled. [cautiously optimistic] This actually looks official, not like the generic responses I've been getting. [tired chuckle] Maybe there's hope after all.
+
+940 Customer Support: [briskly] There absolutely is, and if anyone gives you trouble, reference case number PR-45782-ESCALATED. That'll flag it in our system as a management-monitored issue. Anything else before we wrap up?
+
+Character 1: [wearily] No, I think—I think we're good. [sighs] Just... please make sure this actually happens tomorrow, Maria. [quietly] I really can't handle another week of this printer drama.
+
+--- BASIC SCENARIOS ---
+
+941 [Happy] Oh wow, this is—this is really something! [Laugh] I mean, I've never seen anything quite like it before, honestly.
+
+942 [Fast] No no no, I love it, I really do! [Nervous laugh] It's just, um, I'm kinda overwhelmed right now, you know?
+
+943 [Slow] You shouldn't have gone to all this trouble... [Sigh] Really, this must've taken you, what, like hours to find?
+
+944 [Happy] [Shout] Are you kidding me right now? This is exactly what I—well, it's definitely a surprise!
+
+945 [Whisper] I'm gonna put this somewhere really special, like, right where everyone can see it. [Chuckle] Obviously.
+
+946 [Disappointed] Oh, you actually remembered I mentioned this that one time... [Fast] That's so thoughtful of you, seriously!
+
+947 [Sarcastic] How did you even know I needed another one of these? [Laugh] I mean, psychic much?
+
+948 [Happy] [Slow] This is so... unique, I guess is the word I'm looking for?
+
+949 [Angry] Wait, you kept the receipt, right? [Fast] Not that I'd return it or anything—I just, um, like to have them.
+
+950 [Sad] I can't believe you spent money on me when you're—[Sigh] I mean, thank you, this is really nice.
+
+951 [Chuckle] You know what's funny? [Slow] I was literally just thinking about getting myself one of these... sort of.
+
+952 [Happy] It's perfect! [Tsk] Well, I mean, it's gonna be perfect once I figure out where to, uh, where to put it.
+
+953 [Whisper] [Fast] Is everyone watching me open this? Because I feel like—okay, yeah, they're definitely all staring right now.
+
+954 [Disappointed] This is exactly like the one my ex gave me—[Laugh] But yours is way better, obviously!
+
+955 [Shout] Mom, come look at what I got! [Sarcastic] You're gonna absolutely love this, I promise.
+
+956 [Happy] I'm literally speechless right now, which is—[Groan] Okay, that's not true, but you know what I mean.
+
+957 [Slow] So this is what you were being all secretive about last week? [Chuckle] I honestly thought you were planning something else entirely.
+
+958 [Fast] [Angry] No, I'm not crying, it's just—these are happy tears, alright? Totally, completely happy.
+
+959 [Sigh] You really didn't have to—I mean, we said no gifts this year, but... [Happy] whatever, rules are meant to be broken, right?
+
+960 [Sarcastic] I've been dropping hints about this for months! [Slow] Well, not this exactly, but, um, something in this general... category?
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+961 SCENARIO: Annoyed their order came in the wrong color, then it looks better than what they ordered
+
+==================================================
+
+[annoyed]
+
+So I got that throw pillow I ordered online and of course— of course they sent me the wrong color. I ordered the sage green one, you know, the one I showed you? And they send me this like, dusty blue thing instead.
+
+[frustrated]
+
+I was so ready to just, like, immediately box it back up and write some passive-aggressive email about how hard is it to read an order form, you know? Like I specifically picked sage green because it would go with my couch and now I have to deal with returning it and waiting another week...
+
+[irritated] [sigh]
+
+And I'm sitting there holding this thing, getting ready to— to take photos for the complaint email, and I'm like looking at it next to my couch and I'm just—
+
+[surprised] [trailing off]
+
+Oh. Wait, actually... this looks... this actually looks really good? Like better than I thought it would?
+
+[contemplative]
+
+The blue is like, it's picking up that accent color in my rug that I totally forgot about. And with the throw blanket it's like— oh wow, it actually ties the whole room together way better than the green would have.
+
+[sheepish] [small laugh]
+
+God, I almost sent that angry email. This is like, this is actually perfect. Sometimes the universe knows better than you do, I guess? [chuckle] I should probably send them a thank you instead.

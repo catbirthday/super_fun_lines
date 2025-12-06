@@ -1,0 +1,417 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 46f3adf3_script | Role: Character 2 (B)
+
+Character 1: Made my last student loan payment yesterday.
+
+803 Character 2: Wait wait wait—are you serious? Like, you're done done? No more payments ever? Oh my god, that's—that's actually huge! How do you even feel right now?
+
+Character 1: Weird. Keep checking my bank account.
+
+804 Character 2: No no no, I totally get that. It's like—when something's been hanging over you for so long, right? And then suddenly it's just... gone? [Laugh] Must be surreal.
+
+Character 1: Ten years. Hundred and twenty payments.
+
+805 Character 2: Jesus, when you put it like that—I mean, that's literally a decade of your life! Do you know how much you ended up paying total? Actually wait, maybe I don't wanna know.
+
+Character 1: Forty-seven thousand. Started at thirty.
+
+806 Character 2: The interest is just—ugh, it's criminal, honestly. But hey, you did it! You're free! We should like, we should celebrate or something. This is massive!
+
+Character 1: It's just money.
+
+807 Character 2: Okay but it's not though—it's not just money. It's like, freedom? Peace of mind? You can actually save now, or travel, or I dunno, buy stupid stuff without feeling guilty about it! [Sigh] God, I've got like eight more years on mine.
+
+Character 1: You'll get there.
+
+808 Character 2: Yeah but you—you actually did it. That takes serious discipline. Were you doing like, extra payments and stuff? Or just grinding it out?
+
+Character 1: Lived cheap. Really cheap. Ramen cheap.
+
+809 Character 2: Oh man, the sacrifices though—I bet you're gonna go wild now, right? Like, finally get that nice apartment or—wait, what's the first thing you're gonna do?
+
+Character 1: Sleep better, probably.
+
+810 Character 2: [Chuckle] That's so real though. The weight of it, y'know? My sister paid hers off last year and she said she literally cried when she hit submit on that last payment.
+
+Character 1: Almost did. Almost.
+
+811 Character 2: Wait, you—aww, babe. That's actually really sweet. I mean, you deserve to feel all the feelings about this! It's been like, what, since you graduated? That's your entire twenties basically.
+
+Character 1: Don't remind me. Feels like I just started living.
+
+812 Character 2: No but that's—that's exactly it though! You're starting fresh, no debt, nothing holding you back. That's gotta feel... I mean, incredible doesn't even cover it, right? You're literally free.
+
+Script: bfd813bb_script | Role: Character 2 (B)
+
+Character 1: You talked to me like I was five years old.
+
+813 Character 2: What? I was just trying to help you with the presentation stuff. You said you were stressed about it, so I thought—I mean, I was literally just giving you advice.
+
+Character 1: I didn't ask for it.
+
+814 Character 2: Okay okay, but you were clearly struggling with the formatting, and I've done like fifty of these before. I wasn't trying to be—[scoff] I was being a good friend.
+
+Character 1: You explained how to open PowerPoint. PowerPoint.
+
+815 Character 2: Because you kept saying you didn't know where to start! I was trying to be thorough, not—god, this is so frustrating. You're making it sound like I think you're stupid or something.
+
+Character 1: Don't you?
+
+816 Character 2: Are you—are you serious right now? No! Obviously not! I just thought you wanted help, and now you're acting like I committed some crime by trying to be useful. That's really unfair.
+
+Character 1: You literally said "let me break this down simply for you."
+
+817 Character 2: I say that to everyone! That's just how I explain things! Look look, I get that maybe my tone was—but honestly, you're reading way too much into this. [frustrated laugh] I can't believe we're even fighting about this.
+
+Character 1: It's every time. Every single time I mention anything.
+
+818 Character 2: That's—no, that's not true. You're exaggerating because you're mad. And fine, maybe sometimes I over-explain, but it's because I wanna make sure you have all the information. That's not condescending, that's caring.
+
+Character 1: Right. Sure.
+
+819 Character 2: Don't do that. Don't just dismiss what I'm saying. I'm trying to—[sigh] okay, maybe I could've been less detailed or whatever, but you could also just tell me to stop instead of bottling it up and exploding.
+
+Character 1: I have told you. Multiple times.
+
+820 Character 2: When? When have you—okay, maybe you've hinted at it, but you've never actually said "hey, stop helping me" directly. I'm not a mind reader, y'know?
+
+Character 1: Shouldn't have to spell it out.
+
+821 Character 2: But apparently you do! Because I genuinely thought I was being supportive! And now I find out you've been secretly hating me for it? That's—that's kinda hurtful too, actually.
+
+Character 1: Not the same thing.
+
+822 Character 2: Fine fine, it's not the same, but I'm just saying—I dunno, maybe we both need to communicate better. Because I really wasn't trying to talk down to you. I just... I guess I didn't realize how it came across.
+
+Script: 6cbd9e53_script | Role: Character 2 (B)
+
+Character 1: Three cancellations. In a row.
+
+823 Character 2: I know, I know—look, I can explain, okay? It's just been really, really complicated lately and I—I meant to go, I swear I did. The first time my car literally wouldn't start, and then—
+
+Character 1: You took an Uber to that concert last week.
+
+824 Character 2: That's—okay that's different though? I mean, not different different, but like... [nervous laugh] God, that sounds bad. I'm not saying therapy isn't important, because it is, it totally is.
+
+Character 1: Apparently not important enough.
+
+825 Character 2: No no no, that's not—please don't think that. I'm just... scared? Like genuinely terrified actually. Which is so stupid because you were right, I need this, I know I need this.
+
+Character 1: I spent weeks convincing you to go.
+
+826 Character 2: I know you did. And I'm being such a—I'm being awful, aren't I? You put in all this effort finding me someone who takes my insurance and has evening slots and I just... [sigh] I keep chickening out.
+
+Character 1: Why didn't you just tell me that?
+
+827 Character 2: Because I didn't wanna disappoint you! Which—yeah, I realize how badly that backfired now. But you were so proud when I made that first appointment and I thought I could just... push through it, y'know?
+
+Character 1: Instead you lied. For a month.
+
+828 Character 2: I didn't mean to lie, I just—okay no, you're right, I did lie. Not telling you is basically the same thing. God, I'm really—I'm really sorry. Like genuinely, truly sorry.
+
+Character 1: Do you even want to get better?
+
+829 Character 2: Yes! Yes, I do, I really really do. It's just harder than I thought it would be? Like talking about all that stuff with a stranger is—it's terrifying. But I know I gotta do it. [quieter] I know.
+
+Character 1: Then stop wasting everyone's time. Including yours.
+
+830 Character 2: You're right. You're completely right and I'm—I'm gonna go to the next one. This Thursday, 6 PM, I promise. Actually, wait—would you maybe... would you come with me? Just to the waiting room?
+
+Character 1: You want me to babysit you?
+
+831 Character 2: No! No, not babysit, just—moral support? I dunno, having you there might make it less scary. But if that's too much to ask after everything, I totally get it, I do.
+
+Character 1: Fine. But if you cancel again, we're done talking about this.
+
+832 Character 2: I won't. I promise I won't. Thank you—seriously, thank you so much. [sigh] I know I don't deserve it but... yeah. Thursday, 6 PM. I'll pick you up at 5:30?
+
+Script: 09aea509_script | Role: Character 2 (B)
+
+Character 1: You said you were sick.
+
+833 Character 2: I—okay, yeah, I wasn't technically sick, but I wasn't feeling great either. Like, mentally, y'know? That's still a kind of sick, isn't it?
+
+Character 1: You lied to me.
+
+834 Character 2: That's—that's such a harsh way to put it. I just needed some space, and I didn't know how to say that without it becoming this whole thing. Which, [scoff] apparently it became anyway.
+
+Character 1: So you chose lying instead.
+
+835 Character 2: Look look, I know how it sounds, but sometimes when I tell people I need alone time, they take it personally. Like I'm—I'm rejecting them or something. I didn't wanna hurt your feelings.
+
+Character 1: How's that working out for you?
+
+836 Character 2: Okay, fine, not great. But honestly? You're kinda proving my point right now. I needed one night to myself and you're acting like I committed some huge betrayal.
+
+Character 1: You could've just told me the truth.
+
+837 Character 2: Could I though? Because every time I've tried to cancel plans before, you get all—you make me feel guilty about it. "But we planned this weeks ago" or "I already moved stuff around." [frustrated laugh] It's exhausting.
+
+Character 1: That's not fair.
+
+838 Character 2: Isn't it? I mean, come on, you literally showed up at my place last month when I said I was too tired to hang out. You brought soup because you thought I was "probably getting sick."
+
+Character 1: I was being a good friend.
+
+839 Character 2: And I—I appreciate that, I do, but sometimes being a good friend means giving people space when they ask for it. Or even when they don't know how to ask for it properly.
+
+Character 1: By lying about it.
+
+840 Character 2: I'm not saying it was right, okay? I'm not. But I'm also not gonna stand here and pretend like you make it easy to set boundaries. You get so—[sigh] you take everything so personally.
+
+Character 1: Because we had plans. That I was looking forward to.
+
+841 Character 2: And I'm sorry about that, I am. But I was drowning, alright? I needed to just—to not be "on" for anyone. Not even you. Especially not you, actually, because you always wanna talk about deep stuff and I just couldn't that night.
+
+Character 1: You still should've told me.
+
+842 Character 2: Yeah. Yeah, probably. But honestly? The fact that you're this upset about it kinda shows why I didn't. Sometimes I just—I dunno, I need to not be anyone's friend for a minute. And that shouldn't be this hard.
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+843 SCENARIO: debating whether to finish the last episode or go to sleep
+
+==================================================
+
+[drowsy but contemplative]
+
+Okay, so, um— so I could totally just watch the last episode. It's only, like, what, forty-five minutes? Maybe an hour? I mean, I've already— I've already made it through the entire season, so it's not like I can just, uh, just stop now, right?
+
+[slightly more animated]
+
+But then again, it's already— [yawn] it's already past midnight, and I have that, um, that thing tomorrow morning. What was it? Oh right, the dentist. Which is not, uh, not exactly something I want to be tired for.
+
+[wavering]
+
+I mean, I could probably— I could probably function on, like, six hours of sleep. That's, um, that's not terrible. People do that all the time, right? Although, uh, although I was pretty useless last time I tried that.
+
+[more conflicted]
+
+But it's the finale! And I've been waiting to see how this whole, um, this whole thing with Marcus and— and whoever— [trailing off] I mean, what if there's a cliffhanger and I spend all day tomorrow thinking about it anyway?
+
+[resigned]
+
+Ugh, okay, no, I should— I should probably just go to sleep. Be responsible and all that. The episode will still be there tomorrow, right? [sigh] Right. Sleep it is.
+
+--- CONVERSATION ---
+
+Script: c2a62506 | Role: Character 1 (A)
+
+844 Character 1: [high-pitched squeal] It's open, it's actually open! [breathless] Look at all that beautiful, beautiful money just sitting there waiting for us. [Nervous giggle] I can't believe we pulled this off—my hands won't stop shaking!
+
+Character 2: [hushed panic] Keep your voice down! [trembling] Someone could still hear us even through these walls. [Sharp exhale] But holy hell, there must be millions in here—more than we ever dreamed of stealing tonight.
+
+845 Character 1: [whispered urgency] Start grabbing the stacks, the big ones first! [getting faster] We've got maybe three minutes before the silent alarm triggers the backup system. [Manic laugh] My heart's going to explode right out of my chest!
+
+Character 2: [strained voice] These bags are heavier than I thought they'd be. [more frantically] Why didn't we bring bigger duffels? [Gasping] Wait—did you hear that? Was that footsteps or just my paranoid brain playing tricks on me?
+
+846 Character 1: [dismissive hiss] It's nothing, just the air conditioning kicking on. [gleefully] Focus on the cash, not the ghosts in your head! [louder] Two minutes left and we're set for life—no more convenience store jobs!
+
+Character 2: [barely breathing] The weight sensor's blinking red now. [slow terror] That's not supposed to happen until we take more than— [Panicked shout] Oh God, we calculated wrong! The system's already compensating for the missing weight!
+
+847 Character 1: [forceful whisper] Then we run NOW! [urgently] Forget the rest, we've got enough to disappear forever. [Heavy breathing] The escape route through the kitchen—remember the plan? Don't look back, just move your legs and follow me!
+
+Character 2: [voice cracking] My knees feel like jelly! [more shakily] This was supposed to be smooth, in and out, no complications. [Hysterical giggle] Instead we're about to sprint through a casino carrying forty pounds of stolen cash!
+
+848 Character 1: [determined growl] Stop whining and start running! [cheerfully manic] Think about the beach house in Costa Rica, the new identities, the freedom! [Whooping] We're actually doing this—we're actually getting away with the score of the century!
+
+Character 2: [quiet amazement] The door's still clear—no guards yet. [building excitement] I can see the van from here, engine running just like we planned. [Explosive laugh] We're going to make it! We're really going to make it out alive!
+
+849 Character 1: [victorious scream] The parking lot's empty! [breathlessly fast] Throw the bags in back and gun it before anyone realizes what happened! [Cackling] They'll be telling stories about us for decades—the phantom thieves who vanished!
+
+Character 2: [shaking voice] Keys are sticking—why are they sticking now? [more desperately] Come on, come on, not when we're this close! [Relief flooding] Got it! Door's open, get in, we're thirty seconds from total freedom!
+
+850 Character 1: [commanding tone] Drive normal, don't speed! [nervously] Cops look for people driving crazy after heists. [Suppressed squeal] Turn left at the light, nice and easy, just two regular people heading home from a late shift.
+
+Character 2: [tense whisper] There's a patrol car behind us. [steadying breath] Don't turn around, don't make eye contact, just act natural. [Quiet sob] He's passing us—he's actually passing us without even slowing down to look!
+
+851 Character 1: [exhausted laugh] We did it, partner. [emotionally] Five years of planning, all those nights studying blueprints, learning the guard rotations. [Soft crying] It actually worked—we're rich and we're free and nobody got hurt!
+
+Character 2: [disbelieving tone] The highway's just ahead. [growing stronger] Once we cross state lines, we switch cars and disappear forever. [Giddy shriek] I still can't process this is real—pinch me so I know I'm not dreaming!
+
+852 Character 1: [suddenly serious] Wait, pull over here first. [cautiously] We need to check for tracking devices before we go any further. [Nervous muttering] The casino's too quiet—they should've sounded the main alarms by now.
+
+Character 2: [defensive shout] Don't jinx it now! [pleading] We're so close to getting away clean, don't start second-guessing! [Shaky inhale] But you're right, better safe than sorry—let's do a quick sweep and keep moving.
+
+853 Character 1: [relieved sigh] Nothing—the bills are clean. [joyfully] No dye packs, no trackers, just beautiful untraceable cash! [Getting louder] Start the car, we're burning moonlight! Next stop, our brand new lives as millionaire ghosts!
+
+Character 2: [pure ecstasy] Floor it! [screaming happily] We're the luckiest criminals alive, you beautiful genius! [Uncontrolled laughter] They'll never catch us now—we're already legends! Kiss this city goodbye because we're never, ever coming back!
+
+--- CS ALPHANUMERIC ---
+
+Script: c86aea27 | Role: Customer Support
+
+Character 1: [panicked] Someone's hacked my account—order number 7B4X9M2! [voice breaking] There's, uh, three thousand dollars worth of charges [gasps] from yesterday at 2:47 AM that I never made!
+
+854 Customer Support: I'm so sorry to hear about this situation with your account. Let me pull up your information—could you please verify [calmly] your email and the last four digits of card ending in 8924?
+
+Character 1: [frustrated] It's j.thompson447@email.com, and yes, 8924. [more urgently] Look, they changed my shipping address to—to somewhere in Nevada, [voice shaking] 4521 Desert Palm Road, and I live in Ohio!
+
+855 Customer Support: I can see the unusual activity here, Mr. Thompson. I'm immediately flagging these transactions—orders 7B4X9M2, 7B4X9M3, and 7B4X9M4—and initiating our fraud protocol.
+
+Character 1: [desperately] How did they even get in?! [louder] My password was—well, it was Buddy2019!—which [groans] I guess wasn't that secure, but still!
+
+856 Customer Support: [gently] We'll need to secure your account right away. I'm generating a temporary password—X7#mP9@kL2—please write this down and change it within 24 hours to something unique.
+
+Character 1: [anxiously] But what about my money? [voice cracking] The credit card company said I need—need proof from you guys, [sighs heavily] some kind of official fraud report or reference number?
+
+857 Customer Support: [helpfully] Absolutely, your fraud case number is FR-20240315-8847. I'm also emailing you a detailed report to [carefully] j.thompson447@email.com that you can forward to your bank immediately.
+
+Character 1: [slightly calmer] Okay, okay... FR-20240315-8847. [worried again] But they also got into my rewards points—had like [pause] twelve thousand points, [dejectedly] probably gone forever, right?
+
+858 Customer Support: Actually, good news there! [cheerfully] Your 12,847 points are still intact—they're frozen but safe. Once we verify your identity through our two-factor system, we'll restore full access within 48 hours.
+
+Character 1: [relieved] Oh thank God, that's—that's something at least. [more focused] So what's this two-factor thing? [nervously] Do I need to download something or go somewhere?
+
+859 Customer Support: [patiently] I'll text a verification code to your phone ending in 6792 right now. Just read me the six-digit code when you receive it, and we'll have you secured in minutes.
+
+Character 1: [quickly] Got it—it's 294851! [anxiously] Wait, that's the right one, right? [more worried] You're not gonna lock me out completely if I mess this up?
+
+860 Customer Support: Perfect, that's correct—you're verified! I've just enabled our enhanced security protocol, which includes login alerts and automatic IP tracking from suspicious locations.
+
+Character 1: [curiously] So will you catch whoever did this? [angrily] Because someone in Las Vegas—ZIP code 89109—is [voice rising] probably sitting there with my stuff right now!
+
+861 Customer Support: Our fraud team works with law enforcement on these cases. The Nevada address and IP data we've collected—198.51.100.42—will be forwarded to the appropriate authorities today.
+
+Character 1: [exhaustedly] This is just... overwhelming. [sighs deeply] I've been a member since—what, 2015?—account ID TH4470921, [quietly] and nothing like this has ever happened before.
+
+862 Customer Support: I completely understand your frustration, Mr. Thompson. Your eight-year loyalty means everything to us, so I'm adding a $200 credit and expedited shipping on your next five orders.
+
+Character 1: [surprised] Oh, wow, that's—that's actually really nice. [more hopefully] So everything gets reversed, the charges, [pause] and I just wait for the new cards and [nervously chuckles] try not to panic?
+
+863 Customer Support: [confidently] Exactly right—full refund processing within 3-5 business days. Your new card ending in 4455 ships tomorrow via overnight delivery, and I'll personally monitor your case until everything's resolved.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 75547fd9 | Role: Customer Support
+
+864 Customer Support: Hello! Welcome to ShopMax customer support, I'm here to help you today. I see you're reaching out about loyalty points—how can I assist you with your account?
+
+Character 1: [exhausted] Yeah, hi, I've been trying to figure out why my points just... disappeared? [sighs heavily] I had like 8,000 points last week, and now [frustrated] the app shows zero.
+
+865 Customer Support: Oh no, that's definitely concerning! Let me pull up your account right away—can you provide your email or member ID? We'll get this sorted out quickly for you.
+
+Character 1: [wearily] It's... uh... janet.miller at something-mail. [groans] Sorry, I can't even remember—everything's been such a blur lately. [defeated] Maybe it's jmiller87?
+
+866 Customer Support: No worries at all, take your time! [helpfully] I can also look you up by phone number if that's easier? [brisk tone] Just need to verify a few details to access your account securely.
+
+Character 1: [flatly] Five five five, eight seven... [long pause] ...six four. [sighs] I think that's right—honestly, I've been shopping here for years and [bitterly] this is what I get?
+
+867 Customer Support: [quickly] Perfect, found you! Janet Miller, premium member since 2019. I can see there was a points adjustment on October 15th—looks like they expired due to twelve months of inactivity.
+
+Character 1: [incredulous] Inactivity? I literally—I mean, I bought stuff last month! [exhausted laugh] Unless buying $300 worth of stress-shopping doesn't count as [sarcastically] "activity" anymore?
+
+868 Customer Support: [apologetically] I completely understand your frustration! [quickly] Let me check those recent purchases—ah yes, I see them here. [confused] That's strange, they should have kept your points active, but the system might not have registered them properly.
+
+Character 1: [defeated] Of course it didn't. [muttering] Nothing ever just... works anymore, does it? [louder] Can you just—is there any way to get them back?
+
+869 Customer Support: Actually, yes! Since this appears to be a system error, I can absolutely restore those points. I'm crediting 8,000 points back right now, plus adding 500 bonus points for the inconvenience!
+
+Character 1: [surprised] Wait, really? You can just... do that? [softer] I was expecting to fight about this for an hour. [relieved sigh] Thank you, I guess I'm just not used to things going right.
+
+870 Customer Support: It's my pleasure, truly! The points should appear within 24 hours, and I've added a note to prevent future expiration issues. Is there anything else weighing on you today that I can help with?
+
+Character 1: [tiredly] No, that's... that's actually really nice of you. [chuckles weakly] Sorry for being such a downer, it's just been one of those [pause] years, you know?
+
+871 Customer Support: Oh, I absolutely understand—we all have those seasons! Sometimes a little win with loyalty points can brighten things up. I've also emailed you a 20% off coupon for your next purchase.
+
+Character 1: [genuinely touched] You didn't have to do that... [quietly] but thank you. Really. [more steadily] Maybe I'll actually use those points on something nice for myself instead of just... necessities.
+
+872 Customer Support: That sounds like a wonderful idea! Self-care is important. Our wellness section has some great items, and your points work on everything except gift cards.
+
+Character 1: [thoughtfully] Wellness section, huh? [lighter tone] Maybe a massage gun for all this tension I'm carrying around. [small laugh] My shoulders are basically concrete at this point.
+
+873 Customer Support: [brightly] Excellent choice! We actually have those on special this week. With your points and coupon, you'd get an amazing deal. [warmly] Take care of yourself, Janet—you deserve it!
+
+Character 1: [softly] Thanks for being so... human about this. [more firmly] Most customer service just reads scripts, but you actually [pause] listened. [sincerely] Have a good rest of your day.
+
+--- BASIC SCENARIOS ---
+
+874 [Angry] I didn't, um, I didn't ask for your input on my—actually, you know what? [Shout] Just stop talking!
+
+875 [Sarcastic] Oh wow, thanks so much for that, like, totally life-changing observation about my face. [Tsk] Really needed that today.
+
+876 [Disappointed] My mom does this too, y'know, the whole "helpful suggestions" thing about how I dress. [Sigh]
+
+877 [Happy] You think my hair looks weird? [Laugh] Good! That's kinda the whole point, actually.
+
+878 [Fast] I mean, I get it, okay, everyone has opinions, but like—why do people think I wanna hear them?
+
+879 [Whisper] Did she really just say that to me? [Slow] In front of everyone at the meeting?
+
+880 [Sad] I was feeling, um, pretty confident this morning before you—never mind. [Sigh] It doesn't matter.
+
+881 [Angry] Listen, my body is not up for discussion, alright? [Groan] We've been over this like fifty times!
+
+882 [Chuckle] Wait wait wait, you're giving ME fashion advice? [Sarcastic] Have you, uh, looked in a mirror lately?
+
+883 [Slow] So basically what you're saying is—hold on, let me get this straight—you think I should change everything about myself?
+
+884 [Disappointed] I thought we were past this kind of, you know, superficial nonsense. [Tsk] Guess not.
+
+885 [Happy] Actually, that "flaw" you're pointing out? [Chuckle] It's literally my favorite thing about how I look.
+
+886 [Fast] Okay so here's the thing—I didn't wake up wondering what random strangers think about my outfit, but thanks anyway!
+
+887 [Whisper] Could we maybe, I dunno, talk about literally anything else? [Sad] Please?
+
+888 [Shout] It's my face! [Angry] I've had it for thirty years and I'm kinda attached to it, okay?
+
+889 [Sarcastic] Mm-hmm, fascinating, tell me more about how I should, like, completely reinvent myself for your comfort. [Groan]
+
+890 [Slow] You know what's funny? [Disappointed] Nobody asked—literally nobody asked for your hot take on my weight.
+
+891 [Happy] I'm gonna take that as a compliment even though you definitely—yeah, you didn't mean it that way. [Laugh]
+
+892 [Sad] Every single time we hang out, it's something about my—I can't do this anymore, honestly. [Sigh]
+
+893 [Fast] Sorry, what was that? [Sarcastic] I couldn't hear you over the sound of me not caring about your beauty standards.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+894 SCENARIO: Excited about moving, then stressed about packing, then friends offer to help
+
+==================================================
+
+[excited]
+
+Oh my God, I'm actually doing it! I'm— I'm really moving to Portland next month. I signed the lease this morning and I just keep staring at the keys like, holy shit, this is real. 
+
+You know how long I've been talking about getting out of this city, and it's finally happening.
+
+[excited] [slightly overwhelmed]
+
+The apartment is perfect too, like it has this little balcony that overlooks this tree-lined street, and there's a coffee shop right downstairs that smells like— [small laugh] okay I'm being ridiculous but I'm just so pumped about this.
+
+[stress creeping in]
+
+But oh God, the packing though. I started looking at my closet last night and I was like, how did I accumulate so much stuff? 
+
+Like when did I become a person who owns three different sets of measuring cups? I don't even cook that much, what is wrong with me?
+
+[increasingly stressed]
+
+And I have like two weeks to get everything sorted and I haven't even started with the books yet, or the kitchen, or— [groan] the storage unit, Jesus, I forgot about the storage unit.
+
+I'm gonna have to take time off work and I don't even know where to rent a truck and—
+
+[surprised] [phone buzzing]
+
+Oh wait, hold on, Sarah's texting me... 
+
+[touched] [relieved]
+
+Oh wow. She's asking if I need help packing this weekend, and she's got like a whole group chat going with Mike and Jenny and... 
+
+[warm] God, I have really good friends. Yeah, okay, I think I'm gonna be fine.

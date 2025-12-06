@@ -1,0 +1,825 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: d93692d6_script | Role: Character 2 (B)
+
+Character 1: You knew Jake was going to be there.
+
+1126 Character 2: I—okay, yes, technically I knew, but I didn't think he'd actually show up? Like, he said maybe, and you know how he is with maybes, they're usually nos, so I just assumed—
+
+Character 1: You assumed.
+
+1127 Character 2: Wait wait wait, that came out wrong. I mean, I should've told you, obviously I should've told you. I just—everything happened so fast and then we were already there and I kept trying to find the right moment to pull you aside but—[nervous laugh] god, I'm making this worse, aren't I?
+
+Character 1: I had to see him with her. In front of everyone.
+
+1128 Character 2: I know. I know, and that was—that was horrible. I saw your face when you walked in and I just... I wanted to die, honestly. Like literally wanted the floor to open up and swallow me whole because I realized how badly I'd messed up.
+
+Character 1: Three weeks, Emma. You knew for three weeks.
+
+1129 Character 2: No no no, not three weeks—okay, maybe like... two and a half? But I didn't know know, y'know? People were just talking and I didn't wanna spread rumors or make you upset over nothing if it wasn't even true—
+
+Character 1: So instead you let me walk in blind.
+
+1130 Character 2: That's not—[sigh] okay, yeah. Yeah, that's exactly what I did. I thought I was protecting you but I wasn't, I was just... being a coward, I guess. I didn't wanna be the one to tell you because I knew it would hurt and I just—I'm so sorry.
+
+Character 1: I looked like an idiot.
+
+1131 Character 2: No! No, you didn't, I promise you didn't. Everyone was on your side, literally everyone thought he was being a complete ass for bringing her there. And honestly? You handled it way better than I would've—I would've probably cried or thrown something or both.
+
+Character 1: I almost did. Throw something.
+
+1132 Character 2: Would've been justified, honestly. Like completely, one hundred percent justified. [groan] I should've—as soon as I heard he might be there, I should've texted you. Or called. Or literally sent a carrier pigeon, anything except just... hoping it would work out somehow.
+
+Character 1: I trusted you to have my back.
+
+1133 Character 2: I know. And I—I do have your back, I swear I do, I just... I handled this completely wrong. Like catastrophically wrong. I kept telling myself I was waiting for the right time but really I was just—I dunno, scared? Which is such a stupid excuse because you're my best friend and you deserved to know.
+
+Character 1: Yeah. I did.
+
+1134 Character 2: Can I—can I make it up to you? Somehow? I mean, I know I can't undo it, but... maybe we could go get terrible ice cream and plot revenge or something? I'll even let you pick the most embarrassing photo of me to post if you want. The one from Halloween with the—y'know.
+
+Character 1: The penguin costume?
+
+1135 Character 2: [nervous laugh] Oh god, yeah, even that one. I mean, I'll hate it, but I kinda deserve some public humiliation right now. Just—please don't stay mad forever? I really am sorry. Like, genuinely, deeply, groveling-on-my-knees sorry.
+
+Script: f66bcb87_script | Role: Character 2 (B)
+
+Character 1: We need to talk about Ryan.
+
+1136 Character 2: Oh! Um, okay—wait, is this about last night? Because I can explain, I really didn't mean to—I know I was being kinda pushy but I just thought you two would be so perfect together, y'know?
+
+Character 1: Stop.
+
+1137 Character 2: No no no, you're right, I'm sorry. I just—I get excited sometimes and I don't think about how it might make you feel. [nervous laugh] Which is like, really selfish of me, I know.
+
+Character 1: This is the fourth time.
+
+1138 Character 2: I know! God, I know, and I—honestly I don't even realize I'm doing it half the time? That's not an excuse though, I'm not trying to make excuses. I just genuinely think you'd be happy if you gave him a chance—sorry! Sorry, I'm doing it again.
+
+Character 1: I said I wasn't interested.
+
+1139 Character 2: You did. You absolutely did, and I just—I kept ignoring that, didn't I? [sigh] I'm like one of those awful people who thinks they know better than everyone else about their own lives.
+
+Character 1: Yeah. You are.
+
+1140 Character 2: Okay, I deserve that. Totally deserve that. I've been treating you like you don't know what you want, which is so—that's so disrespectful, oh my god. I'm literally the worst friend.
+
+Character 1: I'm exhausted. Every time we hang out, it becomes about him.
+
+1141 Character 2: You're right, you're—you're completely right. I've been making everything about my little matchmaking project instead of just, like, enjoying time with you? That's messed up. That's really, really messed up of me.
+
+Character 1: I don't want to avoid you, but I was starting to.
+
+1142 Character 2: Wait, really? Oh god, I—[groan] I didn't realize it was that bad. I mean, obviously it was bad, but I didn't know I was actually pushing you away. That's like, the opposite of what I wanted.
+
+Character 1: What did you want?
+
+1143 Character 2: I dunno, I guess I just—I wanted you to be happy? You've been kinda down lately and I thought maybe—but that's so stupid, right? Like dating someone isn't gonna magically fix everything. And you never even asked for my help.
+
+Character 1: No. I didn't.
+
+1144 Character 2: I'm gonna stop. Like, completely stop, I promise. No more bringing up Ryan, no more "accidental" run-ins, no more—god, I've been so annoying, haven't I? I'm surprised you didn't tell me off sooner. [quieter] I'm really, truly sorry.
+
+Character 1: I just want my friend back. Without the agenda.
+
+1145 Character 2: You have me. You—you always had me, I just got way too caught up in this stupid idea and I... yeah. I'm done with it. Completely done. Can we maybe, um, start over? Like just be normal friends who don't make everything about some guy you're not even interested in?
+
+Script: 798459c2_script | Role: Character 2 (B)
+
+Character 1: Everyone knows.
+
+1146 Character 2: Oh god, okay—I can explain. I didn't tell everyone, I swear, it was just—I mentioned it to like two people and then somehow it just... spread? I dunno how it happened.
+
+Character 1: You promised me.
+
+1147 Character 2: I know, I know! And I'm—I'm literally the worst friend ever. It just kinda slipped out when we were talking about the whole job thing and I wasn't thinking—wait no, that's not an excuse. [nervous laugh] There is no excuse.
+
+Character 1: My mom called me about it. My mom.
+
+1148 Character 2: Oh no. Oh no no no, that's—okay that's really bad. I didn't think it would—I mean, how did she even—? Actually, doesn't matter. This is my fault. Completely, totally my fault.
+
+Character 1: Yeah. It is.
+
+1149 Character 2: You trusted me with something really personal and I just—I blew it. Like, spectacularly. I've been trying to figure out why I even opened my mouth and honestly? [sigh] I think I was just trying to make conversation and I'm an idiot who doesn't think before speaking.
+
+Character 1: That's supposed to make me feel better?
+
+1150 Character 2: No! No, it's not. I'm not—I'm not trying to make excuses, I'm just... I wanna be honest with you, y'know? About how badly I screwed up. Because I did. I really, really did.
+
+Character 1: I specifically asked you not to tell anyone. It was humiliating enough without this.
+
+1151 Character 2: I know. And now I've made it like a thousand times worse and I just—god, I hate myself for this. You were already going through so much and I just piled on more crap. That's not—that's not what friends do.
+
+Character 1: No. It's not.
+
+1152 Character 2: Is there any way I can—wait, that's stupid, I can't undo it. But like, going forward? What do you need from me? Space? Should I try to do damage control? I'll literally do whatever you want. [groan] I just wanna fix this somehow.
+
+Character 1: You can't just fix this.
+
+1153 Character 2: You're right. You're totally right. I just—I keep thinking about how you must've felt when people started asking you about it and I... I feel sick about it, honestly. Like physically sick.
+
+Character 1: Good.
+
+1154 Character 2: I deserve that. I do. Um, for what it's worth—which is probably nothing right now—but you're gonna bounce back from this, y'know? The job thing, I mean. You're literally the smartest, most capable person I know and this one thing doesn't—doesn't define you.
+
+Character 1: Just... don't do it again. To anyone. Ever.
+
+1155 Character 2: I won't. I swear I won't. And I'm gonna—I'm gonna work really hard to earn your trust back, if you'll let me. However long it takes. Because you mean... you mean everything to me and I'm so, so sorry I hurt you.
+
+Script: 7de16090_script | Role: Character 2 (B)
+
+Character 1: Three months. You've been dealing with this for three months.
+
+1156 Character 2: I—okay, yeah, I know how it looks. But it's not that I didn't trust you, I swear, it's just—I didn't know how to bring it up? Like every time I tried to tell you, something would come up or I'd just... chicken out.
+
+Character 1: Right.
+
+1157 Character 2: No no no, wait—please don't do that. Don't shut down on me. I wanted to tell you so many times, honestly, but it got harder the longer I waited and then—[nervous laugh] then it became this whole thing where I'd waited too long, y'know?
+
+Character 1: I had to find out from your mom.
+
+1158 Character 2: Oh god. Oh god, she told you? I specifically asked her not to—okay, that's not the point. You're right, you shouldn't have found out that way. That's... that's literally the worst way you could've found out.
+
+Character 1: Did everyone else know?
+
+1159 Character 2: No! No, absolutely not. Just my parents and—um, well, my therapist, obviously. But that's it. I didn't tell anyone else, I promise. You're actually the person I wanted to tell most, I just... I dunno, I kept messing it up.
+
+Character 1: Your therapist. Because you couldn't talk to me.
+
+1160 Character 2: That's not—[sigh] okay, I see how it sounds. But the anxiety stuff, it got really bad, like really really bad, and I needed professional help. It wasn't about not trusting you, it was about me being a complete mess and not wanting to burden you with it.
+
+Character 1: Burden me? Are you serious?
+
+1161 Character 2: I know I know, that's stupid, but you were dealing with your job stuff and your dad's surgery and I just—I thought I was protecting you? Which sounds so dumb now that I'm saying it out loud. God, I'm such an idiot.
+
+Character 1: Yeah. You are.
+
+1162 Character 2: I deserve that. I really—I really messed this up, didn't I? Like, we've been friends for eight years and I just... I got so stuck in my own head about it. I kept thinking I was doing the right thing by handling it myself but I wasn't. [quieter] I really wasn't.
+
+Character 1: Eight years, and you thought I couldn't handle it.
+
+1163 Character 2: No, that's—that's not what I thought at all. I knew you could handle it, of course you could, you're literally the strongest person I know. I was the one who couldn't handle telling you. I was scared you'd—I dunno, worry too much? Try to fix everything? And I already felt so broken.
+
+Character 1: That's what friends do. They worry. They help.
+
+1164 Character 2: You're right. You're completely right and I'm—god, I'm so sorry. Like genuinely, deeply sorry. I should've trusted you with this, I should've let you in instead of just... shutting down and pretending everything was fine. That wasn't fair to you. To us.
+
+Character 1: No. It wasn't. But you're getting help?
+
+1165 Character 2: Yeah, I am. The meds are helping and therapy is—it's good, actually. Really good. And I wanna—if you're willing, I wanna be honest with you about all of it now. No more hiding stuff, I promise. I just... I really need my best friend back. [pause] If you'll still have me.
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1166 SCENARIO: trying to figure out the serving size on a nutrition label
+
+==================================================
+
+[muttering]
+
+Okay, so, um, serving size is— let me just— [sigh] why is this so tiny? Like, servings per container... two and a half? Two and a half servings in this little, uh, this little bag of chips that I could literally finish in like five minutes.
+
+[slightly exasperated]
+
+So wait, if there's, um, if there's 150 calories per serving, and there's two and a half servings, then that's— that's what, like 375 calories total? For this tiny— [huh] that seems like a lot for something this small.
+
+[slower, working it out]
+
+But okay, so if I eat, like, half the bag, that would be... one and a quarter servings? So that's, um, 150 times— no wait, that's not— [tsk] why can't I just do math in my head anymore?
+
+[resigned]
+
+You know what, I'm just gonna— I'm just gonna eat some chips and not think about it too hard. Like, it's not that serious, right? It's just— it's just a snack.
+
+[trailing off]
+
+Although I guess I should probably... I mean, if I'm trying to—
+
+--- CONVERSATION ---
+
+Script: dc7f89fb | Role: Character 1 (A)
+
+1167 Character 1: [breathless] I can't—I can't believe the soap actually melted through! [hysterical giggling] Three months of collecting bars from the commissary, [louder] and it WORKED! The drain cover just... dissolved like butter!
+
+Character 2: [wheezing laugh] And the guards! [gasping] Did you see Henderson's face when he checked our beds? [higher pitch] He actually believed those pillows were us! The man needs glasses worse than my grandma!
+
+1168 Character 1: [whispered excitement] We're actually out. [building volume] We're standing in a field, Marcus! [explosive laughter] Not concrete, not bars—GRASS! I haven't touched grass in four years!
+
+Character 2: [slow disbelief] Twenty-three nights of digging with plastic spoons. [speeding up] My hands are destroyed, my back is killing me, [cackling] but we're FREE! Those idiots never checked behind the Rita Hayworth poster!
+
+1169 Character 1: [shrieking] The warden's toupee! [more controlled] Remember when it flew off during inspection? [snorting laugh] That's when I knew—if he couldn't keep his hair on, he couldn't keep us in!
+
+Character 2: [trembling voice] My heart's still racing from the tunnel. [steadier] Thought I was gonna get stuck at that turn. [nervous giggle] But your butter trick from kitchen duty? Genius, absolute genius!
+
+1170 Character 1: [mock serious] "Inmates Johnson and Marcus, report for morning count." [breaking into laughter] They're counting empty beds right now! [gleeful shout] By tomorrow we'll be in Mexico eating tacos!
+
+Character 2: [quiet amazement] The laundry truck was there. [growing louder] Just like Timothy said it would be! [whooping] Five years of planning, and that beautiful, stinking truck was exactly where promised!
+
+1171 Character 1: [choked up] We did it, man. [stronger] After all their "maximum security" talk, their cameras, their dogs. [triumphant laugh] Two guys with soap and spoons beat their million-dollar system!
+
+Character 2: [rapidly] Can you imagine the news tomorrow? [slower, dramatic] "Daring escape from state prison." [bursting] We're gonna be legends! My nephew's gonna think I'm cooler than Batman!
+
+1172 Character 1: [hushed urgency] Wait, wait—do you hear that? [relieved exhale] Just a rabbit! [hysterical] I thought it was bloodhounds! A rabbit! I'm scared of woodland creatures now!
+
+Character 2: [delirious giggling] Your face! [more seriously] You looked ready to surrender to a bunny! [loud cackle] From hardened criminal to Peter Cottontail's prisoner in two seconds flat!
+
+1173 Character 1: [philosophical tone] You know what's crazy? [speeding up excitedly] We complained about the meatloaf every Tuesday for three years. [wistful laugh] I'd kill for that garbage meatloaf right now!
+
+Character 2: [sarcastically] Oh sure, miss the cuisine! [genuine warmth] Not the armed guards or the solitary confinement. [chuckling] You miss mystery meat! Your priorities are absolutely backwards, Johnson!
+
+1174 Character 1: [shaky whisper] My legs are jello. [getting stronger] Adrenaline's wearing off and I can barely stand. [giddy laughter] But I'd crawl to Canada if it meant staying free!
+
+Character 2: [monotone disbelief] We actually did it. [increasingly animated] Every movie makes it look impossible, but we actually did it! [screaming joy] SHAWSHANK'S GOT NOTHING ON US!
+
+Character 2: [tired but happy] My mom always said I'd never amount to anything. [perking up] Well, I just accomplished the impossible! [soft chuckle] Granted, she probably didn't mean this, but still!
+
+Character 2: [determined] We're never going back. [quieter] I don't care if we have to live in caves. [fierce whisper] Die before going back. [explosive laugh] But first—let's find some real food!
+
+--- BASIC SCENARIOS ---
+
+============================================================
+
+ITEM 563 - MONOLOGUE SELFTALK (203 words)
+
+Source: e052a9a9
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1175 SCENARIO: debating whether to text happy birthday or call
+
+==================================================
+
+[muttering]
+
+Okay, so it's, um— it's Sarah's birthday today and I should, uh, I should probably reach out. But do I text or do I call? I mean, texting is easier, right? Just a quick "happy birthday" with maybe, like, a little cake emoji or something.
+
+[thoughtful]
+
+But then again, calling is more, um, more personal? Like, it shows I actually, uh, I actually took the time to— to dial her number and have a real conversation. Which is nice. That's a nice thing to do.
+
+[slightly anxious]
+
+Except what if she's, like, what if she's busy? What if I call and she's in the middle of something and then I'm just— I'm just interrupting her birthday with my awkward phone voice. [nervous laugh] God, I hate my phone voice.
+
+[faster]
+
+Okay, but texting feels so— so impersonal, you know? Like I'm just checking her off a list. "Happy birthday Sarah, check, done." That's not— that's not very thoughtful.
+
+[decisive, then wavering]
+
+Calling. I should call. That's what friends do, they call each other on birthdays and have actual conversations about— 
+
+[trailing off, uncertain]
+
+Unless... unless everyone texts now and calling is weird?
+
+
+============================================================
+
+ITEM 564 - MONOLOGUE (242 words)
+
+Source: 7a5c972d
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1176 SCENARIO: Casually recounting a casual mention of someone's age, then remembering the context, then realizing they guessed way wrong in an offensive direction, ending in age-related social cringe
+
+==================================================
+
+[casual]
+
+So I was at the grocery store earlier, and I'm in line behind this woman who's having trouble with her card reader, you know? And the cashier's being super patient, walking her through it step by step.
+
+[conversational]
+
+And I'm just standing there thinking, like, oh that's sweet, she's probably not great with technology. I figured she was maybe, I don't know, seventy-something? Just based on, you know, the whole vibe.
+
+[a bit awkward]
+
+So when she finally gets it working, I make some casual comment to the cashier about how nice it was that she helped out. And the cashier goes, "Oh yeah, she's actually only fifty-two, she just started a new medication that makes her a bit foggy."
+
+[realizing] [slight panic]
+
+Wait. Fifty-two? I— [nervous laugh] Oh no. I definitely... I definitely treated her like she was ancient. I was doing that thing where you talk a little louder and slower?
+
+[mortified]
+
+Oh my god, I probably came across like such a condescending jerk! [groan] She was probably thinking, "Why is this person talking to me like I'm decrepit?" 
+
+[spiraling] [horrified]
+
+I literally aged her by twenty years in my head and then acted accordingly! [whimper] What is wrong with me? I'm never making assumptions about anyone ever again. Ugh!
+
+
+============================================================
+
+ITEM 565 - MONOLOGUE (258 words)
+
+Source: 7bde8a47
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1177 SCENARIO: Calmly recounting a time they borrowed something, then trying to remember if they returned it, then becoming increasingly sure they didn't and it's been months, spiraling into borrower guilt
+
+==================================================
+
+[casual]
+
+Oh, you know what's funny? I was cleaning out my bag earlier and I found this receipt from when I borrowed Jake's car charger a while back. [light laugh] You remember, that day my phone died right before I had to drive to that interview?
+
+[conversational]
+
+I think I returned it though. Yeah, I'm pretty sure I did. I mean, I would have, right? That's like, basic borrowing etiquette.
+
+[slight uncertainty]
+
+Actually, wait... when did I give it back to him? [pause] Hmm. I remember using it, obviously, and I remember being super grateful, but the actual returning part is... [trails off] kind of fuzzy?
+
+[growing concern]
+
+Oh no. [nervous laugh] When was that interview again? That was... that was back in March, wasn't it? [sharp exhale] It's June now. Oh god.
+
+[increasingly worried]
+
+I don't think I returned it. I— [groan] I definitely didn't return it. It's probably still in my glove compartment! Jake probably thinks I'm this terrible person who just steals car chargers!
+
+[spiraling]
+
+Three months! I've had his charger for three months and he's been too polite to ask for it back! [frustrated laugh] What kind of friend am I? He probably had to buy a new one! 
+
+[mortified] [frantic]
+
+Oh my god, I'm the worst borrower alive. I'm never living this down. [whimper] How do I even bring this up now?
+
+
+============================================================
+
+ITEM 566 - MONOLOGUE (248 words)
+
+Source: 7bf80876
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1178 SCENARIO: Mad about a wrong coffee order, then realizes they ordered it wrong on the app
+
+==================================================
+
+[frustrated] [agitated]
+
+Okay so I'm already running late this morning, right? And I swing by that coffee place on Fifth—you know the one—and I mobile order like I always do. Oat milk latte, extra shot, the usual.
+
+[annoyed]
+
+So I get there and they hand me this drink and it's like— it's regular milk, no extra shot, just completely wrong. And I'm like, seriously? [scoff] Like how hard is it to read an order?
+
+[getting more worked up]
+
+So I'm standing there being like "excuse me, this isn't what I ordered," and the barista is giving me this look like I'm the problem. And she's like "well that's what the app says" and I'm like— ugh, no, that's not what I ordered, I order the same thing every day.
+
+[irritated]
+
+She pulls out her little tablet thing to show me and I'm about to just lose it because I know what I— wait, hold on. 
+
+[pause] [quieter]
+
+Oh. Oh no.
+
+[embarrassed] [deflated]
+
+Um, so... I'm looking at the screen and it's— yeah, it's exactly what she made. Like I apparently hit regular milk instead of oat milk and forgot to add the extra shot.
+
+[sheepish] [half laugh]
+
+God, I was so mean to that poor girl. I'm definitely going back there with a tip later because wow, I was— yeah, I was completely wrong. [groan] I felt like such an ass.
+
+
+============================================================
+
+ITEM 567 - MONOLOGUE (250 words)
+
+Source: 7bff6e3c
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1179 SCENARIO: Offhandedly mentioning a vaccination their pet is due for, then checking when, then realizing it's way overdue, spiraling into pet parent guilt
+
+==================================================
+
+[casual]
+
+Oh yeah, and I need to take Milo to the vet soon. He's due for his rabies shot or something. You know how it is with all those pet vaccines.
+
+[conversational]
+
+Actually, let me check when that's supposed to be. [pause] I think it was like... sometime this month? I usually write it down but I can't remember if I did.
+
+[a bit concerned]
+
+Hmm, okay, so I'm looking at his vaccine record and... [pause] wait. Wait, this says his rabies was due in... March? That can't be right.
+
+[growing worried]
+
+Oh no. Oh no no no. It's July. It's literally July and his rabies vaccine was due in March. How did I— [groan] how did I miss this by four months?
+
+[panicking]
+
+What kind of dog mom am I? Four months! He could get rabies! He could get sick! What if he bites someone and he's not vaccinated? Oh my god, what if they take him away?
+
+[spiraling] [voice getting higher]
+
+I had one job! Feed him, love him, keep his shots up to date! And I can't even— [sharp exhale] I can't even manage a calendar reminder! 
+
+[frantic] [near tears]
+
+He probably thinks I don't care about him! My poor baby! What if something happens to him because I'm the worst pet parent in the world? [whimper] I'm calling the vet right now!
+
+
+============================================================
+
+ITEM 568 - MONOLOGUE (244 words)
+
+Source: 7c334f2f
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1180 SCENARIO: Frustrated about a friend canceling, then gets a text they're actually on their way
+
+==================================================
+
+[frustrated]
+
+So Jake totally bailed on me today and I'm just— ugh, I'm so annoyed right now. Like we had plans to go see that movie, the one that's only playing for like two more days? And he texts me literally twenty minutes before we're supposed to meet up.
+
+[irritated]
+
+Twenty minutes! Like what am I supposed to do with that? I already drove halfway there, I'm sitting in this parking lot like an idiot. [scoff] And his excuse is just "something came up" — like what does that even mean?
+
+[building anger]
+
+I swear he does this all the time, like he thinks my time doesn't matter or something. I could've stayed home, I could've done laundry, I could've— I don't know, literally anything else instead of getting dressed and driving out here for nothing.
+
+[surprised]
+
+Oh wait, he's— he's texting me again. Hold on, let me just... 
+
+[confused] [hopeful]
+
+Wait, what? He says he's actually on his way now? Like he's in his car, he'll be here in five minutes. Something about his sister needing help moving something but now his dad's handling it?
+
+[relieved] [slightly embarrassed]
+
+Oh. Okay so we can still catch the seven-thirty showing. [half laugh] God, I was ready to like write him off as the worst friend ever. I guess I should probably not murder him when he gets here, huh?
+
+
+============================================================
+
+ITEM 569 - MONOLOGUE (243 words)
+
+Source: 7c9f82e2
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1181 SCENARIO: Mad about a friend spoiling a surprise, then finding out it was a decoy surprise
+
+==================================================
+
+[frustrated]
+
+Oh my God, I am so mad at Jessica right now. Like, I cannot believe she just— she just blurted it out like that, you know? We've been planning this surprise party for Alex for like three weeks, and she just goes and tells him about it at lunch today.
+
+[angry]
+
+I was like, "Jessica, what the hell?" And she's all like "Oh, I thought he already knew" — how would he already know? It's a surprise! [scoff] That's literally the whole point.
+
+[irritated]
+
+So now I have to text everyone and be like, "Hey, the surprise is ruined, maybe we just do dinner instead?" Which is so lame compared to what we had planned. We got the decorations, we booked the whole back room at—
+
+[confused]
+
+Wait, Alex is... he's texting me right now. Um, he says "Thanks for keeping the secret about the real party." What? "Keeping the secret about the real party?"
+
+[realization dawning]
+
+Oh. Oh my God. [half laugh] Jessica was... she was telling him about a fake surprise? Wait, so there's still— there's still the actual surprise happening?
+
+[embarrassed] [amused]
+
+I just spent like two hours being furious at her and she was actually, like, being a genius. She made up a decoy surprise so he'd think it was ruined. [chuckle] God, I feel like such an idiot right now.
+
+
+============================================================
+
+ITEM 570 - MONOLOGUE (234 words)
+
+Source: 7cd4d6d6
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1182 SCENARIO: Frustrated about a delayed shipment, then it arrives at the door mid-complaint
+
+==================================================
+
+[frustrated]
+
+Okay so you know that package I ordered like two weeks ago? The one with my— with the skincare stuff and those boots I showed you? It was supposed to be here Monday, then Tuesday, now it's Thursday and still nothing.
+
+[annoyed]
+
+And I keep getting these like useless updates, "Your package is on the way!" Like okay, where? Where is it on the way to, because it's not here. I literally took a half day yesterday because they said it would be delivered by noon and I didn't want it sitting on my— 
+
+[irritated] [getting worked up]
+
+Like I paid for the faster shipping too, which was not cheap, and now they're just— I don't know where my stuff is and customer service keeps giving me the same copy-paste responses about "unforeseen delays" and—
+
+[surprised]
+
+Oh wait, hold on. Someone's at my door right now, I can hear— let me just—
+
+[amazed] [half laugh]
+
+You have got to be kidding me. It's literally the delivery guy. Right now. As I'm complaining about it to you.
+
+[sheepish] [chuckling]
+
+Okay well, um, never mind I guess? [laugh] The universe was apparently listening to me whine and decided to shut me up. 
+
+[warm] [slightly embarrassed]
+
+I should probably go sign for this before he leaves. But wow, talk about timing, right?
+
+============================================================
+
+ITEM 571 - MONOLOGUE SELFTALK (200 words)
+
+Source: bb5fffa8
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1183 SCENARIO: noticing the battery warning on their laptop
+
+==================================================
+
+[muttering]
+
+Oh, come on, really? Uh, battery's at like— what is that, fifteen percent? I just, um, I just plugged this thing in yesterday, didn't I? Or was that— no, wait, that was my phone. [sigh] Okay, so where did I— where did I put the charger?
+
+[slightly annoyed]
+
+It's not by the couch, it's not on the, uh, on the kitchen counter. I mean, how does a laptop charger just, like, disappear? It's not exactly small, right? It's got that whole, um, that whole brick thing going on.
+
+[thinking out loud]
+
+Wait wait wait, did I leave it at— no, I haven't been anywhere. Unless it's still in my bag? But I don't think I— [tsk] let me just check the bedroom. Maybe I was, um, maybe I was working in there and just left it plugged in by the nightstand or something.
+
+[brighter]
+
+Oh! There it is. Under the bed, somehow. How did it even— [laugh] okay, whatever, crisis averted. Just gotta, um, just gotta remember where I put things, apparently.
+
+[resigned]
+
+Twelve percent now. Cool. This is, uh, this is gonna be one of those days, isn't it?
+
+
+============================================================
+
+ITEM 572 - MONOLOGUE SELFTALK (199 words)
+
+Source: bc7796e7
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1184 SCENARIO: waiting for paint to dry
+
+==================================================
+
+[muttering]
+
+Okay, so, um, how long has it been now? Like, twenty minutes? Thirty? I should've, uh, I should've checked the time when I finished that last coat, but I was just so— I was so focused on getting those, um, those corner bits right.
+
+[slightly impatient]
+
+The can says, what, two hours? But that's like, that's for full cure, right? Or is that— is that just touch dry? [sigh] I can never remember the difference between, um, between touch dry and actually dry dry.
+
+[contemplative]
+
+I mean, it looks dry. It looks pretty dry from here, but I'm not gonna— I'm not gonna risk it and then have, like, finger prints all over the, uh, the trim work. That would be so— [groan] that would just be typical.
+
+[slightly restless]
+
+Maybe I should just, um, should just do something else for a bit? But then I'll forget about it and it'll be, like, tomorrow morning and I'll be like "oh right, the paint." Which is— which is fine, I guess, but—
+
+[resigned]
+
+You know what? I'll just... I'll just wait. Better safe than, um, than having to do touch-ups later, right?
+
+
+============================================================
+
+ITEM 573 - MONOLOGUE SELFTALK (220 words)
+
+Source: c1a806ec
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1185 SCENARIO: waiting for the dryer to finish
+
+==================================================
+
+[muttering]
+
+Okay, so, um, how long has it been? Like, twenty minutes? Thirty? I feel like it's been— it's been forever, but it's probably, uh, probably not even close to done yet.
+
+[slightly impatient]
+
+These things always take, what, like an hour? Maybe more? I should've, um, I should've checked the timer when I started it, but I was just— I was in a rush to get it going and now I'm just, uh, just standing here like an idiot.
+
+[conversational]
+
+I mean, I could go do something else, right? Like, I don't have to just— just hover around the laundry room like some kind of, um, some kind of dryer stalker. [laugh] That's weird. That's a weird thing to say.
+
+[second-guessing]
+
+But what if it's almost done and I miss it? Then my clothes are just gonna sit there getting all wrinkled and— and I hate ironing. I really, really hate ironing.
+
+[listening intently]
+
+Wait, is it— is it slowing down? It sounds different. Or maybe I'm just, uh, maybe I'm just imagining things because I want it to be done.
+
+[resigned]
+
+You know what, I'm just gonna— I'm gonna go make some coffee and check back in like fifteen minutes. Yeah. That's, um, that's the adult thing to do here.
+
+
+============================================================
+
+ITEM 574 - MONOLOGUE SELFTALK (192 words)
+
+Source: c2a6a44f
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1186 SCENARIO: noticing a weird smell they can't identify
+
+==================================================
+
+[confused, sniffing]
+
+Okay, what is— what is that smell? That's, um, that's definitely not normal. It's like, I don't know, it's not bad exactly, but it's just... [inhale] weird? Like, um, like if you mixed vanilla with, uh, with something musty maybe?
+
+[muttering, moving around]
+
+Is it coming from the kitchen? I mean, I didn't cook anything weird today, just— just the usual stuff. But maybe something went bad in the, um, in the fridge? [sniff] No, no that's not it. It's not that kind of smell.
+
+[slightly puzzled]
+
+Wait, is it— is it coming from upstairs? [pause] Huh. It's like, it's following me around, which is, um, which is either really concerning or I'm just, uh, I'm just being paranoid about it now.
+
+[realization creeping in]
+
+Oh wait. Wait wait wait. [sniff sniff] Is this my sweater? Did I, um— [laugh] oh my god, did I grab the wrong fabric softener or something? That would be so—
+
+[relieved, slightly embarrassed]
+
+Yep. Yep, it's definitely the sweater. Mystery solved. I'm just, uh, I'm just wearing weird-smelling laundry. [chuckle] Cool. Very detective of me.
+
+
+============================================================
+
+ITEM 575 - MONOLOGUE SELFTALK (205 words)
+
+Source: c3e0a553
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1187 SCENARIO: debating whether to return something that's slightly wrong
+
+==================================================
+
+[muttering]
+
+Okay, so, um, this shirt is— it's navy, right? But I ordered black. I definitely, uh, I definitely clicked black because I needed a black shirt for, um, for that thing next week. But this is... [sigh] this is clearly navy.
+
+[slightly annoyed]
+
+I mean, it's not— it's not that different, right? Like, navy's close to black, it's just, um, it's just a little more blue-ish? But the thing is, I specifically— I specifically needed black, so this is, uh, this is kind of useless to me.
+
+[uncertain]
+
+But then again, returning it is such a, um, such a hassle. I'd have to find the— the receipt thing, print out a label, go to the post office... [groan] That's like a whole afternoon of, uh, of running around for one shirt.
+
+[trying to convince herself]
+
+Maybe I could make navy work? I mean, people probably won't even notice the difference. It's dark, it's professional-looking, it's— wait, no, that's not— that's not the point. I paid for black.
+
+[resigned]
+
+Ugh, okay, fine. I'll return it. I'll just, um, I'll do it this weekend when I have time to deal with all the... the return nonsense.
+
+
+============================================================
+
+ITEM 576 - MONOLOGUE SELFTALK (217 words)
+
+Source: c465b54a
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1188 SCENARIO: debating whether to finish the last episode or go to sleep
+
+==================================================
+
+[drowsy but contemplative]
+
+Okay, so, um— so I could totally just watch the last episode. It's only, like, what, forty-five minutes? Maybe an hour? I mean, I've already— I've already made it through the entire season, so it's not like I can just, uh, just stop now, right?
+
+[slightly more animated]
+
+But then again, it's already— [yawn] it's already past midnight, and I have that, um, that thing tomorrow morning. What was it? Oh right, the dentist. Which is not, uh, not exactly something I want to be tired for.
+
+[wavering]
+
+I mean, I could probably— I could probably function on, like, six hours of sleep. That's, um, that's not terrible. People do that all the time, right? Although, uh, although I was pretty useless last time I tried that.
+
+[more conflicted]
+
+But it's the finale! And I've been waiting to see how this whole, um, this whole thing with Marcus and— and whoever— [trailing off] I mean, what if there's a cliffhanger and I spend all day tomorrow thinking about it anyway?
+
+[resigned]
+
+Ugh, okay, no, I should— I should probably just go to sleep. Be responsible and all that. The episode will still be there tomorrow, right? [sigh] Right. Sleep it is.
+
+
+============================================================
+
+ITEM 577 - MONOLOGUE SELFTALK (222 words)
+
+Source: c6617204
+
+============================================================
+
+This must be read out in a single delivery as one file
+
+1189 SCENARIO: attempting to take a good selfie
+
+==================================================
+
+[muttering]
+
+Okay, so I just need to, um, I just need to take one good photo for my profile. How hard can it be, right? I mean, everyone else seems to, uh, seems to figure this out just fine.
+
+[slightly exasperated]
+
+Ugh, okay, that's— that's terrible. Why does my face look so, um, so lopsided? Is my face actually lopsided or is it just the— the camera thing where it flips everything? [sigh] Let me try holding it higher.
+
+[concentrating]
+
+Right, so they say you're supposed to, uh, supposed to hold it above your eye level, and then— oh god, now I look like I have no chin. That's worse. That's definitely worse.
+
+[frustrated but trying]
+
+Maybe if I just— if I smile with my eyes more? What does that even mean, smile with your— [laugh] okay, now I look like I'm having some kind of medical episode.
+
+[resigned but determined]
+
+You know what, let me just take like twenty of these and, um, and hope one of them doesn't make me look like a— like a confused potato. [exhale] Natural lighting. That's the thing I'm missing, right?
+
+[trailing off, slightly defeated]
+
+Or maybe I should just, uh, maybe I should just use that one from six months ago where I actually looked human...
+
