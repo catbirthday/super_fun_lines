@@ -133,109 +133,78 @@ Character 1: That's exactly what you're supposed to do.
 22 Character 2: That's—come on, that's not realistic. We were both at Mark's birthday thing, standing in the same circle and—I mean, everyone would've noticed if I just [scoff] turned my back or whatever. That would've made it worse.
 
 Character 1: You seemed pretty comfortable.
-
-23 Character 2: I was being polite! There's a difference between being polite and—look look, I get that you're hurt, okay? But you're acting like I betrayed you when I was literally just trying not to make things weird for everyone else.
-
-Character 1: It's already weird. You made it weird.
-
-24 Character 2: No, you know what? This whole situation where I have to pick sides in a breakup when we all hang out together—that's what's weird. And honestly? [frustrated laugh] I'm kinda tired of being put in the middle of this.
-
-Character 1: Nobody put you anywhere. You chose.
-
-25 Character 2: I chose to—to what, not be a complete asshole at a mutual friend's party? Yeah, guilty. But you're making it sound like I'm, I dunno, hanging out with them behind your back or something, which I'm not.
-
-Character 1: How would I know?
-
-26 Character 2: Because I'm telling you! God, when have I ever—okay okay, fine. Be like that. But I've been your friend for like six years, and if you seriously think I'd do that to you, then maybe you don't know me at all.
-
-Character 1: I thought I did.
-
-27 Character 2: That's—wow. That's really unfair. You're basically asking me to be rude to someone in front of all our friends, and when I don't, suddenly I'm this terrible person? [sigh] I'm sorry you're hurting, I really am, but this isn't fair.
-
-Character 1: You could've walked away.
-
-28 Character 2: And gone where? It was a small apartment! Look, I kept it short, I didn't—we talked about the weather and Mark's new job, that's it. I didn't bring up anything about you or the relationship or anything like that.
-
-Character 1: That's supposed to make me feel better?
-
-29 Character 2: I dunno what's supposed to make you feel better anymore! I'm trying here, but you're not—you're not even listening. You just wanna be mad at me, and honestly? That's starting to feel pretty shitty from my end too.
-
-Character 1: Then maybe you should've thought about that before.
-
-30 Character 2: Before what? Before existing in the same space as your ex? Yeah, okay. Fine fine. But y'know what? I'm not gonna apologize for refusing to make every social situation into some big dramatic thing just because you two couldn't work it out. That's not my job.
-
-Script: 6168073c_script
+23 Character 1: Braised short ribs. Changed it last minute.
+Character 2: You changed—okay that's so brave though, like seriously. I would've been way too scared to just... switch it up like that, y'know?
+24 Character 1: The duck wasn't working. Too dry every time.
+Character 2: But still, that's—I mean, that takes guts. How many people were there? Was it like, super intimidating with everyone watching and stuff?
+25 Character 1: About two hundred people. Twelve chefs competing.
+Character 2: Two hundred—[Laugh] oh my god, I would've literally died. Like my hands would be shaking so bad I'd probably drop everything. Weren't you nervous at all?
+26 Character 1: My knife slipped twice. Nobody noticed.
+Character 2: See, that's—that's what I mean though! You just kept going? Like nothing happened? That's so... professional, honestly.
+27 Character 1: Had to keep plating. No time to panic.
+Character 2: Okay but like—what happens now? Is there prize money or, um, do you get to compete somewhere bigger? This is huge!
+28 Character 1: Five thousand dollars. And some knife set.
+Character 2: Five thou—are you kidding me right now? That's like, that's actual money! What're you gonna do with it? [Chuckle] Please tell me you're gonna celebrate at least?
+29 Character 1: Might fix my car. Or save it.
+Character 2: No no no, you gotta—I mean, obviously it's your money but like... you just won a whole cooking competition! That's not nothing, y'know?
+30 Character 1: It was fine. Lucky the judges liked meat.
+Character 2: Lucky? Babe, no—that's not luck, that's literally talent. You're gonna, you're gonna downplay this whole thing, aren't you? Classic.
 
 ============================================================
+ITEMS 31-40 - EMPATHETIC PARTIAL (89 words)
+Script: d2ec1670
+============================================================
 
-You are B; your role: Character 2
+You are Character (A); your role: Character 1
 
 --- FULL SCRIPT ---
-
-Character 1: We need to talk about the constant preaching.
-
-31 Character 2: Oh. Oh no, is this about—wait, are you talking about the meditation thing? Or the veganism? Because I wasn't trying to preach, I swear, I was just—I thought I was sharing, y'know?
-
-Character 1: Every conversation. Every single one.
-
-32 Character 2: That's not—okay maybe that's a little true. [nervous laugh] But like, I genuinely didn't realize I was doing it that much? I just get excited about stuff and then I can't shut up about it.
-
-Character 1: I asked you to stop. Multiple times.
-
-33 Character 2: You did. You totally did and I—god, I'm such an idiot. I thought I was being helpful? Like, when you mentioned your stress, I immediately went into the whole meditation spiel and I should've just—I should've just listened.
-
-Character 1: But you didn't.
-
-34 Character 2: No. No, I didn't. And then with the diet stuff too, right? When you were just trying to enjoy your lunch and I started going on about—ugh, I can see it now. [groan] I'm that person. I became that annoying person.
-
-Character 1: Yeah. You did.
-
-35 Character 2: I'm sorry. Like, really really sorry. It's just—these things helped me so much that I wanted to share them with you because I care about you? But that's not an excuse to be pushy and I—I get that now.
-
-Character 1: Do you though? Because you said that last month too.
-
-36 Character 2: I know I know, but this time—okay, that sounds bad. Um. This time I actually hear you? Like really hear you. You're not my project to fix, you're my friend who just wants to hang out without getting a lecture.
-
-Character 1: Exactly. That's all I want.
-
-37 Character 2: And you deserve that. God, you must've been so frustrated with me. Like every time we'd get together you're probably thinking "here we go again" and that's—that's not what friendship should be, right?
-
-Character 1: It was exhausting, honestly.
-
-38 Character 2: I bet. I bet it was. [sigh] Look, I'm gonna—I'm gonna work on this. Really work on it. Maybe put like a rubber band on my wrist or something to snap when I start doing it again?
-
-Character 1: That might actually help.
-
-39 Character 2: Right? And you can totally call me out if I slip up. Just be like "rubber band" and I'll know to shut up immediately. I mean it—I don't wanna lose you over my big mouth.
-
-Character 1: I don't want to lose you either. Just... be my friend, not my life coach.
-
-40 Character 2: Yes. Yes, absolutely. Just your friend who talks about normal stuff like TV shows and gossip and—and whatever you wanna talk about. I can do that. I want to do that.
+31 Character 1: We need to talk about what you said yesterday.
+Character 2: Oh. Oh no, um—what did I say? I mean, I said a lot of things, I was kinda rambling about the party and—wait, is this about the thing with Marcus?
+32 Character 1: And Sophie. And your cousin. And literally everyone else you know, apparently.
+Character 2: I don't—hold on, what? I was just making conversation, y'know? Like, I thought I was being—actually no, you're right. [nervous laugh] I can see how that came across. That's not what I meant though.
+33 Character 1: "Why can't you be more like Marcus with his startup?" Ring any bells?
+Character 2: Okay okay okay, that sounds—that sounds really bad out of context. I wasn't comparing you to him! I was just saying that you're both creative and—no wait, that's still comparing. Shit. Um, I meant it as a compliment?
+34 Character 1: Right. And Sophie's "amazing work ethic that I should learn from"?
+Character 2: I—god, I really said that, didn't I? I'm such an idiot. I honestly didn't realize I was doing it, like I genuinely thought I was being helpful or—no, that's not an excuse. [sigh] I wasn't thinking about how it sounded.
+35 Character 1: You never do.
+Character 2: That's fair. That's—yeah, that's totally fair. I have this really bad habit of just... talking without filtering anything, and I know I know, that's my problem to fix, not yours to deal with. I just get excited about people's accomplishments and then I—I dunno, word-vomit everywhere.
+36 Character 1: It's exhausting. Being constantly measured against everyone else in your life.
+Character 2: Oh my god, I've been—I've been doing this a lot, haven't I? Not just yesterday. This is like, a whole thing I do. Jesus, no wonder you're pissed at me.
+37 Character 1: Three years of it, actually.
+Character 2: Three YEARS? You've been—wait wait wait, you've been dealing with this for three years and never said anything? That must've been... I mean, I'm so sorry. Like genuinely, from the bottom of my heart sorry. I had no idea I was making you feel like—like you weren't enough or something. Because you are! You're literally one of my favorite people.
+38 Character 1: Hard to tell when you're always talking about how much better everyone else is at everything.
+Character 2: That's not—okay no, I can see how it feels that way. [groan] I think I just... I admire different things about different people and I get carried away? But that doesn't mean I don't think you're amazing too. I'm just really, really bad at showing it apparently.
+39 Character 1: You think I'm amazing at anything?
+Character 2: Are you kidding? Um, yes? You're like—you're the most genuinely yourself person I know. You don't pretend to be someone else or try to impress anyone, you just... are. And that's—I actually really admire that about you. I guess I never say that part out loud though, do I?
+40 Character 1: No. You don't.
+Character 2: Well I'm—I'm gonna start. No more comparisons, I promise. Like, I'm gonna be so conscious of it now, probably annoyingly conscious actually. But I mean it, I really wanna do better. You deserve better from me. Can we—can we maybe start over? Or not over but like, forward?
 
 ============================================================
-
-ITEMS 11-20 - EMPATHETIC PARTIAL (66 words)
-
+ITEM 41 - MONOLOGUE SELFTALK (182 words)
+Source: 0f3bc74d
 ============================================================
 
+SCENARIO: realizing they've been pronouncing something wrong
+==================================================
+
+41 [muttering to self]
+Wait, did she just say "niche" like "neesh"? I've been saying it like "nitch" this whole time. Oh no. Oh no no no. How long have I been— how long have I been saying it wrong?
+
+[slightly panicked]
+I literally used that word in, um, in my presentation last week. To like forty people. I said "nitch market" and everyone just— they just sat there and didn't say anything. [groan] They were probably all thinking I'm an idiot.
+
+[faster, working through it]
+Okay but wait, wait wait. Maybe both are right? Like, maybe it's one of those— one of those words that has, um, multiple pronunciations? Like "tomato" or whatever? But no, she seemed really confident about the "neesh" thing.
+
+[deflated]
+God, I hate this. It's like when I found out "sherbet" isn't "sherbert." I was, uh, I was twenty-five when I learned that one. Twenty-five! 
+
+[resigned, trailing off]
+I should probably just... look it up. But honestly, I'm scared to know what else I've been saying wrong all this time...
+
 ============================================================
-
-ITEMS 21-30 - EMPATHETIC PARTIAL (67 words)
-
-============================================================
-
-============================================================
-
-ITEMS 31-40 - EMPATHETIC PARTIAL (89 words)
-
-============================================================
-
-============================================================
-
 ITEMS 42-51 - CONVERSATION (344 words)
-
 Script: 124163b3
-
 ============================================================
 
 You are Character (A); your role: Character 1
