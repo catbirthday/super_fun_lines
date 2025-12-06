@@ -1,0 +1,261 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 2922154d_script | Role: Character 2 (B)
+
+Character 1: It's done. Got the settlement.
+
+298 Character 2: Wait wait wait—you got it? Like, the full amount you were asking for? Oh my god, I'm literally—this is huge! How are you feeling right now?
+
+Character 1: Yeah. Full amount.
+
+299 Character 2: I just—I can't even believe it's finally over, y'know? After everything they put you through, all those depositions and the—ugh, the waiting. [Sigh] You must be so relieved.
+
+Character 1: It's weird. Thought I'd feel different.
+
+300 Character 2: No no no, that's totally normal though! Like, you've been in fight mode for what—eight months? Nine? Your brain probably doesn't even know how to, like, process that it's actually done.
+
+Character 1: Nine and a half months. But who's counting.
+
+301 Character 2: [Laugh] Okay, there's the humor I've been missing! But seriously, um, have you thought about what you're gonna do first? Like, celebrate or just... decompress?
+
+Character 1: Sleep. For a week.
+
+302 Character 2: God, yes. Sleep is so—that's actually perfect. You've basically been running on fumes and spite, right? Though honestly, the spite served you pretty well in the end.
+
+Character 1: My lawyer said I was "pleasantly stubborn."
+
+303 Character 2: Pleasantly stubborn! That's—that's amazing. I mean, they basically tried to steamroll you and you just... didn't let them. Do you feel like, I dunno, vindicated at all?
+
+Character 1: Maybe. Still processing.
+
+304 Character 2: Yeah, yeah of course. It's probably gonna hit you in like, weird moments, y'know? Like you'll be grocery shopping and suddenly—boom, it'll sink in that you actually won.
+
+Character 1: Already happened. Cried in the parking garage.
+
+305 Character 2: Oh babe—wait, at the lawyer's office? That's so... [Chuckle] honestly that's kinda perfect though. Better than crying in, like, the cereal aisle or something.
+
+Character 1: It was quick. Security guard pretended not to notice.
+
+306 Character 2: Aw, that's actually really sweet though. But um, for real—you know this was the right outcome, right? Like, they owed you this. You didn't just win, you deserved to win.
+
+Character 1: I know. Just tired.
+
+307 Character 2: Yeah, no, I get that. The kind of tired that's like—it's in your bones, right? But hey, you did it. You literally did the thing. And I'm so, so proud of you.
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+308 SCENARIO: trying to decide between two almost identical products
+
+==================================================
+
+[muttering]
+
+Okay, so, um, so I need laundry detergent. Simple, right? But there's— there's literally two of the exact same thing here and I'm, uh, I'm standing here like an idiot trying to figure out which— [sigh] they're both the same brand, same size, same scent.
+
+[slightly puzzled]
+
+Wait, let me just— okay, this one's $4.99 and this one's... $4.97? Two cents? Really? That's, um, that's what we're dealing with here? I mean, it's two cents, but like, two cents is two cents, right?
+
+[rambling]
+
+But maybe the cheaper one is, uh, is older stock or something? Like, maybe it's been sitting here longer and that's why— no, that doesn't— that doesn't make sense. It's detergent, not, um, not produce.
+
+[deadpan]
+
+Oh wait. [laugh] Oh my god. One of them has a coupon thing stuck to it. A little, uh, a little yellow sticker that says "Save 50 cents!" So it's actually more expensive. Cool.
+
+[resigned]
+
+You know what? I'm just gonna grab this one and, um, and call it a day. My clothes will be clean either way, and I've already spent way too much brain power on— on laundry soap. [exhale] Priorities, right?
+
+--- CONVERSATION ---
+
+Script: 5a16e6fe | Role: Character 1 (A)
+
+309 Character 1: [defensively] I sold another painting last week, Mom. [quieter] That's three this month. [building excitement] The gallery owner says my work has "raw emotional depth" and wants to feature me in their next group show!
+
+Character 2: [dismissive] Three paintings? [scoffing] Your rent is two thousand dollars. [sharp tone] At this rate, you'll be homeless by Christmas while painting your "raw emotions" on cardboard boxes under the freeway overpass.
+
+310 Character 1: [hurt whisper] You've never understood art. [louder] It's not about immediate profit—it's about building a reputation, creating a body of work that matters. [pleading] Van Gogh only sold one painting in his lifetime!
+
+Character 2: [exasperated] Van Gogh died penniless and insane! [slower, emphatic] Is that your five-year plan? [bitter laugh] Your cousin Jennifer makes six figures in accounting—she just bought a house. A real house, with walls.
+
+311 Character 1: [angrily] Jennifer's dead inside! She hates her job, [trembling] takes anxiety medication just to get through Monday meetings. [softer] I wake up excited about my work. [firmly] Isn't happiness worth something to you?
+
+Character 2: [cold] Happiness doesn't pay for health insurance. [rising pitch] What happens when you get sick? [sarcastic tone] Will you paint the hospital a mural in exchange for emergency surgery? This is real life!
+
+312 Character 1: [desperately fast] I'm applying for grants, teaching workshops on weekends, [breath catching] even doing pet portraits for extra cash. [determined] I'm not just sitting around dreaming—I'm working harder than I ever did at that office job!
+
+Character 2: [incredulous shout] Pet portraits! [deflating] My child with a master's degree is drawing poodles for soccer moms. [weary sigh] Twenty thousand dollars in student loans for this. Your father would be spinning in his grave.
+
+313 Character 1: [voice breaking] Dad would have understood. [stronger] He always said to follow your passion. [accusatory] You're the one who crushed his dreams of opening that restaurant, [whispered] made him stay at the bank until he died.
+
+Character 2: [stunned silence] [shaky voice] That restaurant would have bankrupted us. [defensive growl] I saved this family from financial ruin. Someone had to be practical while he chased fantasies. [cracking] Just like you're doing now.
+
+314 Character 1: [gentle] Maybe you're right about Dad. [steadier] But I watched him fade away in that cubicle, Mom. [passionate whisper] I can't become that—another ghost shuffling through life, counting days until retirement.
+
+Character 2: [tired] You think I wanted this fight? [softer] Every mother wants her child to be happy. [voice hardening] But I also want you to eat, to have stability, [pleading] to not struggle like we did.
+
+315 Character 1: [thoughtfully slow] What if I compromise? [hopeful] I'll get a part-time job—something flexible. [eagerly] But I keep my studio, keep creating. [firm] Give me one year to make this work professionally. Just one year, Mom.
+
+Character 2: [skeptical] One year. [long sigh] And then what—another year? Another? [gentler] Baby, I've heard this before. You said the same thing two years ago when you quit Morrison & Associates.
+
+316 Character 1: [frustrated groan] This time is different! I have momentum, [quickly] real connections, actual buyers! [desperately sincere] The art world moves slowly, but it's moving for me. [quiet intensity] Can't you see I'm finally becoming something?
+
+Character 2: [resigned] I see you becoming thinner. [worried whisper] You've lost weight. [more firmly] When did you last see a dentist? Buy new clothes? [breaking] This bohemian lifestyle is eating you alive, sweetheart.
+
+317 Character 1: [defensive laugh] I'm not starving! [warmly] Actually, I've never felt more alive. [contemplative] Sure, things are tight, but I'm building something real here. [passionate] My art is finally authentic because I'm living it fully.
+
+Character 2: [bitter chuckle] Authentic poverty, how poetic. [sharper] Your grandmother escaped real poverty, worked factories to give us better lives. [emotional] And you're choosing to go backward? [bewildered] What would she think of this?
+
+318 Character 1: [quietly confident] She'd understand sacrifice for something you love. [building strength] Grandma always said the biggest risk was living someone else's life. [lovingly firm] I'm not abandoning stability, Mom—I'm just defining it differently than you do.
+
+Character 2: [long exhale] [defeated whisper] Six months. [clearer] You get six months, and I'll stop nagging. [wavering] But you check in weekly, and if you need help—[firmly] real help—you call me immediately. Deal?
+
+--- CS ALPHANUMERIC ---
+
+Script: 77ed6c37 | Role: Customer Support
+
+Character 1: [shouting] This is the THIRD time I've been here about phone model X47-B! [frustrated] The replacement you gave me last week at 2:47 PM is already dead, and [voice cracking] I have seventeen missed calls from work because of this disaster!
+
+319 Customer Support: [apologetically] Sir, I understand your frustration completely. [calmly] Let me pull up your account—can you confirm your member ID starting with JX-5? [reassuring] We'll definitely get this sorted out today, I promise.
+
+Character 1: [sarcastically] Oh great, another promise! [louder] It's JX-5739-Alpha-2, and you know what? [groans] Your manager, Rebecca Chen from store 847, told me the exact same thing when she handed me this... this brick!
+
+320 Customer Support: [more firmly] I see you've had multiple replacements, yes. [sympathetic] The system shows two prior exchanges on October 3rd and October 11th. [confused] But, um, there's no defect report filed for the second unit—did anyone test it here?
+
+Character 1: [exasperated] Test it? TEST IT? [incredulous] Your colleague spent maybe thirty seconds looking at it! [voice rising] Serial number QRX-88902-K, check it yourself—the thing won't even turn on after charging for twelve hours straight!
+
+321 Customer Support: [defensive] Sir, our diagnostic process requires at least fifteen minutes per device. [more calmly] Let me... let me run a quick diagnostic now. [professionally] Could you show me exactly what happens when you press the power button for ten seconds?
+
+Character 1: [mockingly] Oh, I'll show you what happens—absolutely nothing! [frustrated laugh] Look, I've been a Premium Plus member since 2019, account PIN 4782. [desperately] Can't you just give me a different model, maybe the X48-C instead?
+
+322 Customer Support: [hesitant] Unfortunately, the warranty only covers same-model replacements. [more sympathetically] However, I can see your frustration is... is completely justified here. [thoughtfully] Let me call my district manager at extension 5509 for an exception approval.
+
+Character 1: [bitterly] Another phone call, fantastic! [sighs heavily] While you're at it, explain to them how I lost a $50,000 contract yesterday because—[voice breaking] because my client couldn't reach me at the 1400 Broadway meeting!
+
+323 Customer Support: [shocked] Oh my goodness, that's... that's terrible! [more determinedly] You know what, forget the call—I'm authorizing a full refund right now, credit back to card ending in 7734. [confidently] Plus, we'll upgrade you to the X48-C at no extra charge.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: ce0785b0 | Role: Customer Support
+
+324 Customer Support: [briskly] Good afternoon, thank you for calling Skyline Airlines customer service, my name is Rachel. [more quickly] How may I assist you with your reservation today?
+
+Character 1: [calmly] Hi Rachel, um, I'm calling about my flight next Tuesday—flight 447 to Boston. [hesitant] I was hoping to, well, discuss my seat assignment if that's possible?
+
+325 Customer Support: [efficiently] Certainly, I can help you with that. [quickly] May I have your confirmation number please, and [more deliberately] the last name on the reservation?
+
+Character 1: [measured] Yes, it's confirmation K-L-4-9-2-B. [slower] Thompson is the last name. [sighs] I've been trying to select a seat online but the system wouldn't let me.
+
+326 Customer Support: [rapidly] Alright Mr. Thompson, I'm pulling up your reservation now, just one moment. [brisk] I see you're currently assigned to 28B, that's a middle seat. [questioning] Were you looking to change to an aisle or window?
+
+Character 1: [politely] I'd prefer an aisle if possible—my knee has been, um, acting up lately. [more firmly] I don't need extra legroom necessarily, just... [trails off] an aisle would be helpful.
+
+327 Customer Support: [quickly scanning] Let me check availability for you. [faster] We have 15C, 22D, and [slowing down] oh wait, actually 9C just opened up, that's much closer to the front.
+
+Character 1: [thoughtfully] Nine rows from the front sounds good. [pause] That's not in the, uh, premium section though, is it? [cautiously] I'm not looking to pay extra fees.
+
+328 Customer Support: [reassuring] No sir, 9C is standard economy, no additional charge. [briskly] Shall I go ahead and assign that seat to you? [quickly] I just need to confirm before the system locks it.
+
+Character 1: [relieved] Yes, please do that. [grateful] That would be perfect, actually. [chuckles softly] I appreciate you finding something so quickly—I was dreading that middle seat.
+
+329 Customer Support: [rapid-fire] Alright, I've successfully updated your seat to 9C, aisle seat, left side of the aircraft. [efficient] You'll receive an email confirmation within the next five minutes with your updated boarding pass.
+
+Character 1: [satisfied] Wonderful, thank you so much. [curious] Oh, one more thing—is it possible to, um, see if my wife's seat is nearby? [quickly] Her last name is different, it's Martinez.
+
+330 Customer Support: [professionally] I'd need her confirmation number to access that reservation. [quickly] For privacy reasons, I can't search by name alone, but [helpfully] if you have her booking reference, I can check.
+
+Character 1: [understanding] Right, of course, that makes sense. [fumbling] Let me just... I think I have it saved somewhere. [groans] Actually, I'll have her call separately, that's probably easier.
+
+331 Customer Support: [briskly] That works perfectly, sir. [rapid] Just have her mention she wants to sit near passenger Thompson in 9C when she calls. [efficiently] Our agents can check nearby availability.
+
+Character 1: [appreciative] I'll do that, thank you. [pause] You've been very helpful, Rachel. [warmly] This was much easier than I expected it to be, honestly.
+
+332 Customer Support: [cheerfully] My pleasure, Mr. Thompson! [quickly] Is there anything else I can assist you with regarding your flight or [speeding up] any other reservations today?
+
+Character 1: [contentedly] No, that's everything I needed. [chuckles] Well, unless you can guarantee good weather in Boston, but [jovially] I suppose that's beyond your control.
+
+333 Customer Support: [laughing] I wish I had that power, sir! [briskly] But I can confirm your flight is currently showing on-time. [rapid] You'll get text updates if anything changes, since I see you opted in for notifications.
+
+Character 1: [pleased] Perfect, I did forget about that. [graciously] Thanks again for all your help, Rachel. [warmly] Have a great rest of your day.
+
+--- BASIC SCENARIOS ---
+
+334 [Disappointed] Okay so, um, maybe if I just—no, that's making it worse. [Sigh] I should've left it alone.
+
+335 [Fast] [Angry] This is ridiculous, I barely touched the thing and it just completely fell apart! How was I supposed to know it was that fragile?
+
+336 [Whisper] Nobody has to know about this if I can just, uh, get it back together before they notice. [Tsk]
+
+337 [Sarcastic] Oh great, now there's three pieces instead of two—I'm really crushing this whole repair thing, aren't I? [Groan]
+
+338 [Happy] Wait wait wait, I think I actually—yes! [Laugh] That part goes there, I'm a genius!
+
+339 [Slow] [Sad] This was, like, their favorite thing in the world and I just... I completely destroyed it.
+
+340 [Shout] Where's the stupid glue when you actually need it?! [Angry] I swear it was right here yesterday!
+
+341 [Chuckle] You know what, honestly, it kinda looks better broken—gives it character, right? [Sarcastic]
+
+342 [Fast] [Whisper] Quick quick quick, they're gonna be home in like twenty minutes and I still haven't even figured out how this goes back together.
+
+343 [Disappointed] [Sigh] I mean, I tried watching three different YouTube tutorials but none of them are for this exact model.
+
+344 [Slow] So basically what happened was—actually, you don't wanna know what happened, trust me. [Tsk] [Sad]
+
+345 [Happy] [Fast] Oh my god, super glue is literally magic, you can't even tell anything happened to it!
+
+346 [Angry] [Groan] Every single time I try to fix something, I somehow make it ten times worse than before.
+
+347 [Whisper] [Chuckle] If anyone asks, it was already like this when I got here, okay?
+
+348 [Sarcastic] [Slow] Sure, the instructions say "easy assembly" but they probably didn't account for someone reassembling it after, um, an incident.
+
+349 [Sad] I can't believe I'm gonna have to tell them I broke it—they trusted me with this. [Disappointed] [Sigh]
+
+350 [Shout] [Happy] It's working! The thing is actually—oh wait, nope, it just fell off again.
+
+351 [Fast] [Tsk] Maybe duct tape isn't the most elegant solution but at this point I just need it to hold together for like five minutes.
+
+352 [Slow] [Disappointed] Twenty dollars says they notice immediately, even if I do manage to kinda sorta fix it.
+
+353 [Angry] Why do they make these things so impossibly delicate?! [Fast] I mean, who designs something that shatters if you breathe on it wrong?
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+354 SCENARIO: Complaining about a coworker who didn't help with a project, then gets a message mid-rant that the coworker was dealing with a family emergency
+
+==================================================
+
+[frustrated]
+
+Oh my god, I am so done with Sarah right now. Like, we had this huge presentation due today and she basically just— she disappeared for the last three days. Didn't answer emails, didn't show up to our planning meeting yesterday, nothing.
+
+[annoyed]
+
+So I'm scrambling, right? I'm putting together slides at like midnight last night because I thought she was gonna handle the budget section, and then I get to work this morning and she's just— nowhere to be found. I had to wing half of it in front of the clients.
+
+[building frustration]
+
+And the thing is, this isn't like the first time with her. She always does this thing where she's super enthusiastic at the beginning and then just... [sigh] I don't know, checks out when it actually matters?
+
+[irritated]
+
+I probably looked like such an idiot up there. Mr. Chen was asking all these detailed questions about the numbers and I'm like, um, let me get back to you on that because my partner who was supposed to—
+
+[surprised]
+
+Oh wait, she's... she's calling me right now. Hold on.
+
+[quieter] [confused]
+
+She says her dad had a heart attack? Like, yesterday morning, and she's been at the hospital this whole time and her phone died and...
+
+[guilty] [softly]
+
+Oh god. I feel horrible. She's been dealing with that and I was just— [half laugh] I was literally about to go complain to our boss about her.

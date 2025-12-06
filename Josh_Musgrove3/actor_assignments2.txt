@@ -1,0 +1,652 @@
+ACTOR LINE ASSIGNMENTS - 97 ITEMS (~1972 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  271 words ( 13.7%)
+
+  monologues_selftalk :  212 words ( 10.8%)
+
+  conversation        :  373 words ( 18.9%)
+
+  cs_alpha            :  190 words (  9.6%)
+
+  cs_noalpha          :  315 words ( 16.0%)
+
+  basic_scenarios     :  368 words ( 18.7%)
+
+  monologues          :  243 words ( 12.3%)
+
+  TOTAL               : 1972 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (63 words)
+
+Script: 084a9b2e
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+103 Character 1: So I won trivia night.
+
+Character 2: Wait wait wait—you what? Oh my god, that's—that's amazing! Was this at O'Malley's? Because their trivia is like, notoriously impossible, right?
+
+104 Character 1: Yeah. O'Malley's.
+
+Character 2: Okay so like—tell me everything! Were you solo or did you have a team? Because honestly, I can't even imagine [Laugh] winning there by myself.
+
+105 Character 1: Just me and some guy named Derek. He knew all the sports questions.
+
+Character 2: Derek! Of course there's a Derek who knows sports. But um, what was your category? Like what did you absolutely crush?
+
+106 Character 1: Geography. And 90s music.
+
+Character 2: No no no, that's so perfect for you though! Remember when you made me listen to that entire Radiohead album on our road trip? I mean—actually that tracks completely.
+
+107 Character 1: You fell asleep during "OK Computer."
+
+Character 2: I was—okay I was tired! [Groan] But seriously, what did you win? Please tell me it's something good and not like, a gift card to Applebee's or whatever.
+
+108 Character 1: Two hundred dollars. Split it with Derek.
+
+Character 2: A hundred bucks! That's—that's actually legit! Are you gonna go back next week? Because like, now you're basically the reigning champion, right?
+
+109 Character 1: Maybe. Derek wants to.
+
+Character 2: Oh, so Derek's like—is he cool? Are we getting a new trivia buddy situation here? Because honestly I'm kinda jealous I wasn't there to witness this historic moment.
+
+110 Character 1: He's fine. Talks a lot about baseball.
+
+Character 2: Ugh, baseball guys are—well, actually no, that's probably super useful for trivia [Chuckle]. But um, how did it feel? Like when they called your team name?
+
+111 Character 1: Good, I guess. We were "Quiz in My Pants."
+
+Character 2: Quiz in My—oh my god, that's terrible! That's so bad it's good! Wait, was that Derek's idea or yours?
+
+112 Character 1: Derek's. I wanted "The Trivial Pursuits."
+
+Character 2: Okay okay, yours is definitely classier but—I mean, you won, so maybe terrible pun names are like, the secret strategy? Either way, I'm literally so proud of you right now!
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (56 words)
+
+Script: 2d8a8ff9
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+113 Character 1: You always have something to say about what I'm doing wrong.
+
+Character 2: That's not—I don't always—look, I'm just trying to help you. Like, isn't that what friends are supposed to do? Give each other honest feedback?
+
+114 Character 1: There's honest and there's constant criticism.
+
+Character 2: Okay okay, but you're making it sound like I'm just tearing you down all the time, which is—that's not what's happening here. I literally only mention stuff when I think it could genuinely help you.
+
+115 Character 1: Every. Single. Time.
+
+Character 2: That's such an exaggeration and you know it. [Scoff] I mean, come on, last week you asked me what I thought about your presentation and I—what, I'm supposed to lie?
+
+116 Character 1: I asked about the content. Not my speaking voice.
+
+Character 2: But your speaking voice is part of the presentation! I'm sorry, but like—I thought you'd wanna know you were mumbling so you could fix it before the actual thing. That's being supportive.
+
+117 Character 1: That's your definition of supportive?
+
+Character 2: Yeah, actually, it is. Because pretending everything's perfect when it's not—that's not helping you. That's just, I dunno, enabling or whatever. And honestly? I thought you were stronger than this.
+
+118 Character 1: Wow.
+
+Character 2: No no no, don't—I didn't mean it like that. [Frustrated laugh] I just mean, like, we've always been straight with each other, right? That's our thing. Since when did that become a problem?
+
+119 Character 1: Since it became one-sided.
+
+Character 2: One-sided? Are you—okay, that's actually kind of insulting. I ask for your opinion on stuff all the time and you give it to me straight. How is this different?
+
+120 Character 1: Because you ask. I don't.
+
+Character 2: So I'm supposed to just watch you mess up and say nothing? Like when you were gonna wear that outfit to the interview—I should've just let you tank it?
+
+121 Character 1: That was my choice to make.
+
+Character 2: Fine fine, you're right, it was. But I'm also allowed to—y'know what, I care about you succeeding. [Sigh] If that makes me the bad guy here, then I guess I'm the bad guy.
+
+122 Character 1: Not the bad guy. Just exhausting.
+
+Character 2: That's—wow. Okay. Um, I genuinely didn't know you felt that way. I thought I was being a good friend, but apparently I've just been, what, annoying you this whole time? That's really great to know.
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (45 words)
+
+Script: be25afe0
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+123 Character 1: So I won that thing yesterday.
+
+Character 2: Wait wait wait—what thing? Are you—oh my god, the dance competition? You actually went through with it?
+
+124 Character 1: Yeah. First place.
+
+Character 2: Shut up. Shut UP. You're telling me you just—you won? Like, the whole thing? I mean, I knew you were practicing but I didn't even know you were gonna [Gasp] actually compete!
+
+125 Character 1: It wasn't a big deal.
+
+Character 2: Okay no no no, we're not doing this. You literally won a dance competition and you're acting like you just, what, found five bucks on the sidewalk? This is huge!
+
+126 Character 1: There were only twelve people.
+
+Character 2: Only twelve—are you kidding me right now? That's still twelve people who didn't win, y'know? Like, you beat actual dancers. With your body. Moving to music. [Laugh] Sorry, I'm just—I'm processing.
+
+127 Character 1: My mom cried.
+
+Character 2: Of course she did! Oh my god, wait—did she film it? Please tell me someone filmed it because I'm gonna need to see this immediately. Like, right now.
+
+128 Character 1: There's video. It's... not great.
+
+Character 2: Um, excuse me? Not great? You won! That's literally the definition of great! What style was it—wait, let me guess. Contemporary? No no, hip-hop?
+
+129 Character 1: Ballroom, actually.
+
+Character 2: Ballroom? You—okay that's even more insane because that requires like, actual technique and—hold on, did you have a partner? Who was your partner?
+
+130 Character 1: This woman from class. Sandra. She's sixty-three.
+
+Character 2: Stop it. [Chuckle] You're telling me you and a sixty-three-year-old named Sandra just absolutely destroyed the competition? That's—that's literally the best thing I've ever heard.
+
+131 Character 1: She was better than me.
+
+Character 2: Okay but like, together you were obviously amazing, right? I mean, you don't just accidentally win these things. How long have you guys been practicing?
+
+132 Character 1: Three months. Every Tuesday.
+
+Character 2: Three months of Tuesdays and you're out here winning trophies! Wait—there was a trophy, right? Please tell me there's like, a big sparkly trophy sitting in your apartment right now.
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (46 words)
+
+Script: 5a2e9ebb
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+133 Character 1: I got in.
+
+Character 2: Got in? Got in where? Wait—oh my god, is this about that mentorship thing you applied for? The one with like, the super competitive—
+
+134 Character 1: Yeah. That one.
+
+Character 2: Shut up shut up shut UP! Are you—[Gasp] okay I'm literally freaking out for you right now! This is huge! Like, massive! When did you find out?
+
+135 Character 1: This morning. Email.
+
+Character 2: This morning?! And you're just now telling me? I mean—okay okay, I get it, you probably needed time to like, process or whatever. But still! How do you feel about it?
+
+136 Character 1: I don't know. Weird.
+
+Character 2: Weird? Like good weird or—actually, y'know what? I totally get that. It's probably kinda surreal, right? Like you wanted it so bad and now it's actually happening and you're like... now what?
+
+137 Character 1: They picked fifteen people. Out of three hundred.
+
+Character 2: Fifteen out of—jesus, that's like... what, five percent? Less? [Laugh] Okay math isn't my thing but that's insanely selective. You beat out basically everyone.
+
+138 Character 1: Apparently.
+
+Character 2: No no no, none of this "apparently" stuff. You did. You literally—like, they saw something in you that made them go "yep, this one." That's not luck, that's... that's you being amazing.
+
+139 Character 1: What if I'm not ready?
+
+Character 2: Oh babe, nobody's ever ready ready, you know? But like—wait, didn't you say the whole point was to learn from someone who's already done it? That's literally what mentorship is for, right?
+
+140 Character 1: I guess. It starts next month.
+
+Character 2: Next month! Okay so you've got time to like, mentally prepare or whatever. Who's gonna be your mentor? Do you know yet?
+
+141 Character 1: Some VP from their Seattle office. Never heard of her.
+
+Character 2: A VP? That's—honestly that's perfect though, right? Like, you get someone who's actually in it, not just some random person who did it twenty years ago and doesn't remember what it's really like anymore.
+
+142 Character 1: Maybe you're right.
+
+Character 2: I'm definitely right. And hey—you wouldn't have applied if you didn't want this, y'know? Even if you're scared or whatever, that part of you that hit submit? [Softer] Trust that part.
+
+============================================================
+
+ITEMS 41-50 - EMPATHETIC PARTIAL (61 words)
+
+Script: f8a1a518
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+143 Character 1: You gave my number to Alex.
+
+Character 2: Oh god, okay—I can explain! It wasn't—I mean, they were asking about you and I thought maybe you'd be interested? Like, they seemed really nice and I just—I dunno, I thought I was helping.
+
+144 Character 1: By giving out my personal information?
+
+Character 2: No no no, you're right, that sounds—that sounds terrible when you say it like that. I wasn't thinking about it as personal information, y'know? Just your number. But that's—[groan] that's literally what personal information is. I'm an idiot.
+
+145 Character 1: Yeah.
+
+Character 2: I'm sorry. I really—I should've asked you first. Obviously. Like that's just basic respect and I completely ignored it because I got excited about playing matchmaker or whatever. Which is so stupid.
+
+146 Character 1: I had three missed calls before noon.
+
+Character 2: Oh no. Oh no no no, they called you already? I told them—wait, actually I didn't tell them anything about when to call. [nervous laugh] God, I really didn't think this through at all, did I? I'm so sorry.
+
+147 Character 1: And texts. Lots of texts.
+
+Character 2: Shit. I mean—shit. That's... yeah. I can um, I can talk to them? Tell them to back off? I know that doesn't fix what I did but maybe it'll help? I dunno, I'm just—I'm trying to think of something here.
+
+148 Character 1: Don't make it worse.
+
+Character 2: Right. Right, of course. I won't—I won't do anything else without asking you. Promise. I just... I feel terrible about this, honestly. Like you trusted me with your number and I just handed it out like it was nothing.
+
+149 Character 1: It wasn't nothing to me.
+
+Character 2: I know. I mean—I know that now. I should've known it before. You're really private about stuff and I just completely steamrolled over that because I thought—doesn't matter what I thought. [sigh] I messed up bad.
+
+150 Character 1: Why didn't you just ask me first?
+
+Character 2: Because I'm—okay this is gonna sound dumb but I was worried you'd say no? And I thought Alex was perfect for you and I wanted to surprise you with this great thing but instead I just... violated your trust. Basically.
+
+151 Character 1: You thought I'd say no. So you did it anyway.
+
+Character 2: Yeah. Yeah, when you—when you put it like that it sounds really, really bad. Because it is. It is bad. I basically decided I knew better than you about your own life which is so messed up. I'm really, truly sorry. I don't—I don't know how to make you believe me but I am.
+
+152 Character 1: Just... next time? Ask me. About anything that involves me.
+
+Character 2: Yes. Absolutely. I will, I promise. And there's gonna—I mean, I'm gonna work really hard to make sure there is a next time? That you'll still wanna be friends with me after this. Because I know I screwed up but you're—you're really important to me and I promise I'll do better.
+
+============================================================
+
+ITEM 51 - MONOLOGUE SELFTALK (212 words)
+
+Source: 7bba91f0
+
+============================================================
+
+SCENARIO: trying to remember the word that's on the tip of their tongue
+
+==================================================
+
+153 [muttering]
+
+Okay, what is— what is that word? It's, um, it's right there, I can literally feel it, like, sitting right on my— on my tongue and I just, uh, I just can't get it out. This is so, um, so annoying.
+
+[slightly strained]
+
+It's the thing, you know, when you're, uh— when you're really tired but you can't sleep? Like your body's exhausted but your brain is still, um, still going and going and— [tsk] come on, what is it?
+
+[more animated]
+
+It starts with an I, I think? Or maybe— no, wait, maybe it's an E? Insomnia! No, that's not— that's not right, that's different. That's when you, uh, when you actually can't sleep, but this is more like—
+
+[frustrated but focused]
+
+Okay, okay, let me think. It's like when you're wired? But tired? Your eyes are heavy but you're still, um, you're still buzzing with energy and— [groan] this is driving me crazy.
+
+[brightening]
+
+Oh! Overtired! That's— no, wait, that's not quite— [pause] Oh my god, restless! No, that's not— [sigh]
+
+[triumphant but quiet]
+
+Wired. I'm just wired. That's, um— that's probably close enough, right? Sometimes your brain just, uh, just settles for good enough.
+
+============================================================
+
+ITEMS 52-61 - CONVERSATION (373 words)
+
+Script: 08d624a3
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+154 Character 1: [shaky voice] I got the job offer yesterday. [Deep breath] It's in Seattle—the position I've dreamed about for years. [voice breaking] But I can't imagine leaving you, leaving everything we've built here together since college.
+
+Character 2: [stunned whisper] Seattle? That's... that's three thousand miles away. [voice cracking] When would you leave? [Choking sob] God, I knew this day might come, but I kept pushing it out of my mind completely.
+
+155 Character 1: [through tears] They want me there by next month. [quivering] I haven't even said yes yet because every time I try, I picture your face. [Gasping breath] Remember when we promised we'd be each other's maids of honor?
+
+Character 2: [bitter laugh] Of course I remember—we were drunk on cheap wine in your apartment. [more shakily] We planned our whole futures that night. [voice dropping] This wasn't supposed to happen until we were at least thirty-five, remember?
+
+156 Character 1: [pleading tone] You could come with me! [desperately faster] There are tons of marketing jobs in Seattle, and we could get a place together like we always talked about. [Sniffling] Please, just think about it for a second.
+
+Character 2: [firm but sad] My whole family is here, Sarah's here, my job... [trailing off] I can't just uproot everything. [Shuddering breath] But I can't ask you to give up your dream either. This is so unfair.
+
+157 Character 1: [angry suddenly] Why does growing up have to mean growing apart? [louder] This is exactly what happened to my sister and her best friend! [Bitter sob] I swore I'd never let distance destroy us like that, ever.
+
+Character 2: [gentle whisper] Hey, we're not them. [steadier] We've survived your terrible boyfriends, my parents' divorce, that whole disaster with the apartment flood. [warmly through tears] Geography can't break what we have—I won't let it destroy us.
+
+158 Character 1: [laughing while crying] Remember when we got matching tattoos and swore we'd live next door forever? [nostalgic tone] God, we were so naive. [Hiccupping sob] I'm going to miss our Tuesday wine nights more than anything else.
+
+Character 2: [determined] Then we'll have virtual wine nights. [building confidence] Every Tuesday, no exceptions, same terrible reality shows. [voice wavering] And I'll visit so often they'll think I live there. [Soft laugh] You're not getting rid of me.
+
+159 Character 1: [relieved exhale] You really mean that? Even with the time difference and everything? [hopeful whisper] I've been so scared to tell you because I thought you'd hate me. [quickly] I've been carrying this secret for three days.
+
+Character 2: [mock offended] Hate you? [more seriously] I could never hate you, you absolute idiot. [thick with emotion] I'm devastated and proud and terrified all at once. [Watery chuckle] But mostly I'm just going to miss your stupid face.
+
+160 Character 1: [sobbing harder] Stop being so supportive, you're making this worse! [laughing through tears] I had a whole speech prepared about how we'd stay close. [softer] But you already know we will, don't you? You always know everything.
+
+Character 2: [teasing weakly] Well, someone has to be the smart one. [more vulnerable] Promise me you won't replace me with some cool Seattle hipster. [trembling] I know they have better coffee there, but our friendship is irreplaceable, right?
+
+161 Character 1: [incredulous] Replace you? [louder and firm] You're literally tattooed on my ankle, you weirdo! [dropping to whisper] No one else would understand our synchronized period cry sessions or our elaborate revenge plots. You're stuck with me forever, distance be damned.
+
+Character 2: [breathless giggle] Good, because I already bought a plane ticket for your first weekend there. [matter-of-fact] Non-refundable. [Snorting laugh] I figured you'd need help decorating and someone to ugly-cry with while you unpack all our photos together.
+
+162 Character 1: [overwhelmed] You already bought a ticket? [voice rising] Before I even accepted the job? [Soft sob] This is why I love you, you beautiful, presumptuous person. Of course you knew I'd take it before I did.
+
+Character 2: [proudly sad] Someone had to push you toward your dreams when you're too scared. [quieter] That's what best friends do. [Long exhale] Plus, I needed something concrete to hold onto, proof that this isn't really goodbye forever.
+
+163 Character 1: [whimpering] Come here, I need the biggest hug. [muffled against shoulder] We're going to make this work. [fiercely] Long distance friendship is nothing compared to what we've already survived. Seattle doesn't stand a chance against us, I promise.
+
+Character 2: [crying freely] I'm going to miss you so much it physically hurts already. [stronger] But I'm also so ridiculously proud. [whispered promise] You're going to conquer that city, and I'll be cheering from here until I visit.
+
+============================================================
+
+ITEMS 62-66 - CS ALPHANUMERIC (190 words)
+
+Script: 68fc82e5
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [groggy] Hello, is this... uh... Relaxation Plus on Highway 42? [yawns] I bought your model ZX-9000 last month, order number R45-2891, and [confused] honestly, I can't figure out half these buttons.
+
+164 Customer Support: [cheerfully] Good afternoon! Yes, this is Relaxation Plus. [sympathetic] I completely understand the ZX-9000 can be overwhelming at first. [warmly] Let me pull up your account—R45-2891, perfect—what specific features are giving you trouble?
+
+Character 1: [sluggishly] Well, there's this... um... "shiatsu mode 3" thing? [sighs heavily] And something called neural wave therapy at setting 7-B. [bewildered] The manual just shows pictures of happy people, no actual instructions.
+
+165 Customer Support: [reassuring] Oh, those are actually our premium features! [enthusiastically] Shiatsu mode 3 targets your lumbar region with—let's see—approximately 14 pressure points. [more slowly] Neural wave therapy uses rhythmic pulses, kind of like... ocean waves, but for your spine.
+
+Character 1: [drowsily] Ocean waves? [perking up slightly] Wait, is that why there's a button labeled "Pacific" next to "Atlantic"? [mumbles] I pressed Atlantic once and felt like I was being kneaded by... I don't know... an aggressive dolphin.
+
+166 Customer Support: [chuckles] That's actually a great description! [informatively] Atlantic mode operates at 65 RPM with deeper compression—code AT-550 in your settings. [gentler] Pacific is more subtle, about 40 RPM, perfect for when you're feeling, well, benumbed like now.
+
+Character 1: [wearily] Speaking of settings, what's this—hold on—[frustrated] "Memory slot A through F" business? [groans] Do I need to remember six different massage combinations, because honestly, I can barely remember my zip code, 94107.
+
+167 Customer Support: [laughing softly] No, no, the chair remembers for you! [excitedly] You can save your favorite combinations—pressure level, heat intensity, even the foot roller speed. [helpfully] Most customers use slot A for morning wake-up, maybe slot B for post-workout at intensity level 8.
+
+Character 1: [more alert] Oh! That actually sounds... useful. [hesitantly] But there's this weird vibration at frequency—um—the display says 12.5 Hz? [concerned] Is it supposed to make my teeth feel tingly, or should I call that warranty number, 1-800-MASSAGE?
+
+168 Customer Support: [calmly] The 12.5 Hz setting is completely normal—that's our patented VibroCalm technology. [more seriously] However, teeth tingling means you might have the headrest position too high. [instructively] Try lowering it about 2 inches using lever L-4 on your right side.
+
+============================================================
+
+ITEMS 67-76 - CS NO-ALPHANUMERIC (315 words)
+
+Script: fae24d9d
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+169 Customer Support: [briskly] Good afternoon, this is Allied Loan Services, how can I— [quickly] I see you're calling about payment posting. [more warmly] Let me pull up your account right away, what's your loan number?
+
+Character 1: [frustrated] It's 4-4-7-2-9-1. [sighs heavily] Look, I made a payment ten days ago and it's still not showing. [voice breaking] I can't afford another late fee when I actually paid on time.
+
+170 Customer Support: [rapidly] I see the account here, let me just— [pause] [more carefully] Yes, I show a pending payment from the 15th. [apologetically] Sometimes our system takes up to, um, fourteen business days to fully process.
+
+Character 1: [outraged] Fourteen days?! [voice rising] My credit score is tanking because you guys can't— [exhales sharply] How is this even legal? The money left my bank account immediately!
+
+171 Customer Support: [defensive] Sir, I understand your frustration, but the processing time is clearly stated in your loan agreement. [more quickly] Page twelve, section four-B. [softer] Would you like me to expedite this with my supervisor?
+
+Character 1: [sarcastically] Oh, page twelve, of course. [groans] Yes, please get your supervisor because this is— [desperately] I'm drowning here and you're quoting paperwork at me.
+
+172 Customer Support: [hurriedly] Actually, wait, I'm seeing something here. [confused] Did you... did you send the payment to our old processing center? [more gently] We switched banks last month, sent out notices.
+
+Character 1: [quietly] What notices? [increasingly panicked] I never got any— are you saying my payment went to the wrong place? [voice cracking] Where's my money then?
+
+173 Customer Support: [speaking quickly] The payment will bounce back to your account within five to seven— [catching themselves] [more slowly] I mean, it's safe, don't worry. [reassuringly] We can waive the late fee once it's resolved.
+
+Character 1: [bitter laugh] Once it's resolved? [exhausted] My landlord doesn't care about your processing errors. [pleading] Can't you just mark it as received since you know I paid?
+
+174 Customer Support: [sympathetically] I wish I could, I really do. [more firmly] But the system won't let me override without the actual funds. [quickly] Let me create a case number for you, okay?
+
+Character 1: [defeated] A case number. [sighs] That's your solution? [more forcefully] I've got three kids and we might lose our apartment because of your "system."
+
+175 Customer Support: [uncomfortably] Sir, I— [pause] [more determined] You know what, hold on. [typing rapidly] I'm flagging this as urgent hardship, that should escalate it within twenty-four hours instead.
+
+Character 1: [skeptically] Twenty-four hours. [hollow laugh] You people always say that. [quietly] Last time someone promised that, it took three weeks and multiple calls.
+
+176 Customer Support: [earnestly] This is different, I'm putting my employee ID on it. [speaking faster] My direct extension is 4-5-5-1, ask for Marcus. [firmly] I'll personally track this tomorrow morning.
+
+Character 1: [surprised] You're actually— [pause] [cautiously hopeful] Marcus? [sighs] Okay, I'm writing this down. But if this doesn't work...
+
+177 Customer Support: [confidently] It will work. [more quietly] Between you and me, I've seen this exact issue before. [quickly] The old bank still forwards payments, just slowly. Should hit by tomorrow afternoon.
+
+Character 1: [wearily] I want to believe you, Marcus. [emotionally] But I've been calling you guys for two weeks and everyone says something different. [resigned] I just need this nightmare to end.
+
+178 Customer Support: [gently] I've noted everything in your file. [more assertively] When you call tomorrow, even if you don't reach me, any agent will see the urgent flag. [reassuringly] We'll get this sorted, I promise.
+
+Character 1: [quietly] Alright. [pause] [slightly warmer] Thank you for actually listening, Marcus. [exhausted] Most agents just read scripts at me. I'll call tomorrow.
+
+============================================================
+
+ITEM 77 - BASIC SCENARIO (20 words)
+
+============================================================
+
+179 [Fast] Oh hey, I didn't even—I mean, I wasn't expecting to see you here, that's so random! [Nervous laugh] [Chuckle]
+
+============================================================
+
+ITEM 78 - BASIC SCENARIO (22 words)
+
+============================================================
+
+180 [Slow] So, um, do you come to this coffee shop often, or...? [Tsk] [Whisper] That sounded like a pickup line, didn't it?
+
+============================================================
+
+ITEM 79 - BASIC SCENARIO (16 words)
+
+============================================================
+
+181 [Happy] Your dog is literally the cutest thing I've ever—wait, is that weird to say? [Laugh]
+
+============================================================
+
+ITEM 80 - BASIC SCENARIO (18 words)
+
+============================================================
+
+182 [Sarcastic] Yeah, I totally just tripped over nothing back there on purpose. [Sigh] It's my signature move, actually.
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (19 words)
+
+============================================================
+
+183 [Disappointed] I was gonna ask if you wanted to—actually, never mind, you're probably busy anyway. [Fast] It's nothing important.
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (19 words)
+
+============================================================
+
+184 [Whisper] Did you just smell my hair? [Slow] Because I may have used, like, three different shampoos this morning.
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (19 words)
+
+============================================================
+
+185 [Angry] My phone's being so stupid right now—I swear I'm not ignoring your text! [Groan] Technology hates me today.
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (19 words)
+
+============================================================
+
+186 [Chuckle] We keep bumping into each other, it's almost like—I mean, not that I'm keeping track or anything. [Happy]
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (15 words)
+
+============================================================
+
+187 [Sad] Everyone says I get really awkward around people I—um, around new people, y'know? [Sigh]
+
+============================================================
+
+ITEM 86 - BASIC SCENARIO (19 words)
+
+============================================================
+
+188 [Shout] That's my favorite band too! [Fast] Sorry, I didn't mean to yell, I just got kinda excited there.
+
+============================================================
+
+ITEM 87 - BASIC SCENARIO (16 words)
+
+============================================================
+
+189 [Slow] You've got this, uh, this little eyelash on your—can I just...? [Whisper] Make a wish.
+
+============================================================
+
+ITEM 88 - BASIC SCENARIO (15 words)
+
+============================================================
+
+190 [Sarcastic] [Groan] Sure, let's talk about the weather again, because that's not obvious or anything.
+
+============================================================
+
+ITEM 89 - BASIC SCENARIO (19 words)
+
+============================================================
+
+191 [Fast] I should probably go—I mean, unless you wanna hang out more? [Disappointed] But you probably have plans already.
+
+============================================================
+
+ITEM 90 - BASIC SCENARIO (18 words)
+
+============================================================
+
+192 [Happy] [Laugh] You remembered that dumb story I told you last week? That's actually—wow, okay, that's really sweet.
+
+============================================================
+
+ITEM 91 - BASIC SCENARIO (19 words)
+
+============================================================
+
+193 [Tsk] My hands are literally shaking from all this coffee. [Fast] It's definitely the coffee, nothing else, just caffeine.
+
+============================================================
+
+ITEM 92 - BASIC SCENARIO (20 words)
+
+============================================================
+
+194 [Slow] So your friend mentioned you're single—I mean, she mentioned you like hiking! [Angry] [Groan] Why am I like this?
+
+============================================================
+
+ITEM 93 - BASIC SCENARIO (19 words)
+
+============================================================
+
+195 [Whisper] Can I tell you something weird? [Chuckle] I practiced this conversation in my car for like twenty minutes.
+
+============================================================
+
+ITEM 94 - BASIC SCENARIO (18 words)
+
+============================================================
+
+196 [Disappointed] Yeah, I'm totally fine being just friends. [Sigh] [Sarcastic] It's exactly what I was hoping for, honestly.
+
+============================================================
+
+ITEM 95 - BASIC SCENARIO (18 words)
+
+============================================================
+
+197 [Shout] [Happy] No way, you hate pineapple on pizza too? We're basically soulma—I mean, yeah, it's gross, right?
+
+============================================================
+
+ITEM 96 - BASIC SCENARIO (20 words)
+
+============================================================
+
+198 [Fast] Okay so I'm gonna be super casual and just—oh god, you're looking at me, quick, say something normal! [Laugh]
+
+============================================================
+
+ITEM 97 - MONOLOGUE (243 words)
+
+Source: 1c51b4a9
+
+============================================================
+
+SCENARIO: Annoyed about a wrong answer on a test, then sees the grading was wrong and they got it right
+
+==================================================
+
+199 [frustrated]
+
+Ugh, so I'm looking at my history test from yesterday and I'm like— I'm so annoyed because I got this one question wrong about the Treaty of Versailles, and I know I studied that like crazy. Like I literally made flashcards for that whole unit.
+
+[irritated]
+
+And it's asking about the year it was signed, and I put 1919, which is right, but apparently Professor Chen marked it wrong? Like what the hell, you know? That's such an easy point to lose over nothing.
+
+[getting worked up]
+
+I was gonna go to his office hours and be like, look, this is clearly correct, I don't know what— [sigh] I hate having to argue about grades, it's so awkward, but like I earned those points, you know?
+
+[confused] [trailing off]
+
+Wait, let me just... let me look at this again because I want to make sure I'm reading it right before I go marching into his office and...
+
+[surprised]
+
+Oh. Oh wait, that's— that's not an X. That's like a really badly drawn checkmark. [half laugh] Oh my god, I think he actually marked it correct?
+
+[sheepish] [relieved]
+
+Okay yeah, no, looking at it now that's definitely— that's definitely a check. Just a really, really terrible handwriting situation. [small laugh] Crisis averted, I guess. God, I was about to be so embarrassing.
+

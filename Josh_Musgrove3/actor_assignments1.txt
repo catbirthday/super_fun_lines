@@ -1,0 +1,668 @@
+ACTOR LINE ASSIGNMENTS - 102 ITEMS (~2058 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  329 words ( 16.0%)
+
+  monologues_selftalk :  206 words ( 10.0%)
+
+  conversation        :  333 words ( 16.2%)
+
+  cs_alpha            :  296 words ( 14.4%)
+
+  cs_noalpha          :  295 words ( 14.3%)
+
+  basic_scenarios     :  358 words ( 17.4%)
+
+  monologues          :  241 words ( 11.7%)
+
+  TOTAL               : 2058 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (57 words)
+
+Script: e8351094
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+1 Character 1: We need to talk.
+
+Character 2: Um, okay? What's—what's going on? You've been weird all week and now you're doing this whole dramatic thing where you're like... I dunno, being all intense.
+
+2 Character 1: You were on your phone the entire time yesterday.
+
+Character 2: That's—okay, that's not even true. I checked it maybe like three times? Four? And honestly, you're always telling me stuff while I'm trying to work, so—[scoff] sorry if I had to respond to my boss.
+
+3 Character 1: My dad's in the hospital.
+
+Character 2: Wait, what? When did—why didn't you say that? You were just talking about random stuff, I didn't know it was... I mean, you gotta tell me these things.
+
+4 Character 1: I did tell you. Three times.
+
+Character 2: No, you—okay okay, maybe you mentioned something but you didn't say it was serious. You're always so casual about everything, how was I supposed to know this was different? [frustrated laugh] I'm not a mind reader.
+
+5 Character 1: "My dad had a heart attack." Pretty clear.
+
+Character 2: Look, if you said that—and I'm not saying you didn't—but if you did, I obviously didn't hear it properly. Maybe I was distracted, fine, but you could've like, I dunno, made sure I was listening?
+
+6 Character 1: That's my job now?
+
+Character 2: That's not—come on, that's not what I meant. I'm sorry about your dad, I am, that's terrible. But you're acting like I don't care when really I just... [sigh] I literally had three deadlines yesterday.
+
+7 Character 1: Right. Your deadlines.
+
+Character 2: See, this is what you do. You make it sound like—like my stuff doesn't matter at all. Yeah, they're not family emergencies, but I can't just ignore my whole life every time you need to talk.
+
+8 Character 1: Every time? This is my dad.
+
+Character 2: I know, I know! And I'm—I feel terrible about missing that, okay? But honestly? You do this thing where you just expect me to drop everything, and usually I do, but yesterday was literally the worst possible day.
+
+9 Character 1: Good to know where I rank.
+
+Character 2: Oh my god, stop. That's so—you're being so unfair right now. I've been there for you through everything, literally everything, and the one time I'm not perfect, you're gonna—what, throw away our whole friendship?
+
+10 Character 1: You haven't asked how he is.
+
+Character 2: I—okay. You're right. [quieter] How is he? Is he gonna be okay? I should've—yeah, I should've asked that first. I'm just... I'm defensive 'cause I feel like shit about this, y'know?
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (76 words)
+
+Script: 7696fd46
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+11 Character 1: We need to talk about the comments.
+
+Character 2: Comments? What—oh. Oh no. Is this about earlier? Because I didn't mean—I was just trying to be helpful, you know? Like supportive or whatever.
+
+12 Character 1: Supportive.
+
+Character 2: Okay, that came out wrong. Really wrong. I just meant like—when I said that thing about your jeans, I wasn't trying to [nervous laugh] god, this sounds terrible now that I'm saying it out loud.
+
+13 Character 1: It's not just the jeans thing.
+
+Character 2: Wait wait wait, there's more? Oh god, what else did I—actually, no, you're right. I know I've been... I've been doing this a lot lately, haven't I? The gym comment last week and the—the salad thing.
+
+14 Character 1: And the "are you sure you want dessert" thing. And asking if I've been stress eating.
+
+Character 2: Shit. Shit, I'm—I'm that person. I'm literally that person who can't shut up about—god, I'm so sorry. My mom does this to me and I hate it and now I'm doing it to you [groan] I'm the worst.
+
+15 Character 1: Yeah. You are.
+
+Character 2: I deserve that. I do. It's just—okay this isn't an excuse but my sister just started this whole fitness thing and she keeps talking about it and I guess I just internalized all that toxic—that's not your problem though. That's my problem.
+
+16 Character 1: I don't want to hear about your sister's fitness journey either.
+
+Character 2: No no no, of course not. That's not—I wasn't gonna—look, I genuinely didn't realize how much I was doing it until right now. Like hearing you list it all out? I wanna crawl into a hole and die.
+
+17 Character 1: Do you think I don't own a mirror?
+
+Character 2: That's not—oh my god, of course you do. Of course. I'm not trying to—I don't think you need to change or anything. Honestly, I think I was projecting my own weird issues and that's so unfair to you.
+
+18 Character 1: It really hurts. Every single time.
+
+Character 2: I know. Or—actually I don't know, but I can imagine and I'm... I'm really, really sorry. Like genuinely sorry, not just saying-it-to-make-this-stop sorry. I had no idea I was hurting you like that. [quieter] I should've known though.
+
+19 Character 1: I've been dreading hanging out with you.
+
+Character 2: Oh. That's—wow. Okay. That really... yeah. I get it though. I do. Can we—is there a way to fix this? Because I swear I will never, ever comment on your body or your food or anything like that again. Ever.
+
+20 Character 1: I need you to actually mean that. Not just say it.
+
+Character 2: I do mean it. I promise I do. And if I slip up—which I won't, but if I do—you can call me out immediately. Like, just tell me to shut up. I want you to. Because your friendship means way more to me than whatever stupid thing I might wanna say about... anything.
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (85 words)
+
+Script: 469d68ea
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+21 Character 1: So. Hit 100k yesterday.
+
+Character 2: Wait wait wait—are you serious? Oh my god, that's—that's incredible! Like, I knew you were getting close but holy shit, 100k? That's literally insane!
+
+22 Character 1: Yeah. Woke up to all these notifications. My phone crashed twice.
+
+Character 2: Your phone— [Laugh] okay that's actually hilarious. But like, how are you feeling? You must be—I mean, this is huge, right? You've been grinding at this for what, like three years?
+
+23 Character 1: Two and a half. Feels weird.
+
+Character 2: Weird how? Like good weird or—actually no, I kinda get it. It's probably super overwhelming, huh? All those people just... watching you.
+
+24 Character 1: That's the thing. It's just a number on a screen. Nothing's different.
+
+Character 2: Okay but—but it is though? Like, you're gonna get that silver play button thingy! And honestly, the sponsorship opportunities must be— [Gasp] wait, have brands started reaching out already?
+
+25 Character 1: Some. Mostly garbage. One wanted me to promote their "revolutionary" toe spacers.
+
+Character 2: Toe spacers? I'm—no no no, that's too good. Please tell me you're considering it. Actually wait, what even is your audience demographic for that?
+
+26 Character 1: Tech reviews. So... not toe people.
+
+Character 2: Not toe people— [Chuckle] okay yeah, fair point. But seriously though, like, you must have some decent offers too? This is when things really start taking off, y'know?
+
+27 Character 1: Maybe. I don't know. Might just keep doing what I'm doing.
+
+Character 2: Which is—I mean, that's totally valid! You don't have to like, sell out or whatever. But um, you are gonna celebrate somehow, right? This is literally a massive milestone.
+
+28 Character 1: Bought myself a coffee this morning. The large one.
+
+Character 2: A large coffee. You—you absolute madman. No but really, we should—actually, you know what? Let me take you out for dinner or something. Like, proper dinner, not just pizza.
+
+29 Character 1: I like pizza.
+
+Character 2: Okay okay, pizza then! But like, the fancy place with the wood-fired oven and the burrata and all that bougie stuff. Because honestly? You've worked your ass off for this.
+
+30 Character 1: Fine. But you're not making a scene when we get there.
+
+Character 2: Me? Make a scene? I would never—okay actually that's fair, but I promise I won't, like, announce it to the whole restaurant or anything. Maybe just our waiter. [Laugh] Kidding! Mostly.
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (40 words)
+
+Script: 2189820a
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+31 Character 1: Three weeks. I was there for three weeks.
+
+Character 2: I know, I know how long you were—look, I wanted to come, okay? I did. But hospitals are just... [exhale] they're really hard for me. Like, really hard.
+
+32 Character 1: Right.
+
+Character 2: Don't—don't do that. Don't just say "right" like that. You know about my anxiety, I've told you about the whole thing with my mom and—I mean, I literally can't even drive past one without feeling like I'm gonna throw up.
+
+33 Character 1: Everyone else managed to show up.
+
+Character 2: That's not—okay okay, that's not fair. Everyone else doesn't have panic attacks in medical settings. I texted you every day, I sent food, I called—I was trying to be there in the ways I could, y'know?
+
+34 Character 1: It's not the same.
+
+Character 2: No, it's not the same, you're right. But I'm also kinda frustrated that you're acting like I just... forgot about you or something. [scoff] Like I was just hanging out, having a great time while you were there.
+
+35 Character 1: Weren't you?
+
+Character 2: Are you serious right now? I was—I was literally worried sick about you the entire time. I couldn't sleep, I was checking my phone constantly for updates, I was—honestly, this is really unfair.
+
+36 Character 1: I needed you there.
+
+Character 2: And I needed to not have a complete breakdown in your hospital room! That's—that would've made everything worse, wouldn't it? Me hyperventilating while you're trying to recover?
+
+37 Character 1: You could've tried.
+
+Character 2: I did try! I got—I got all the way to the parking garage twice. Twice. And both times I just... I couldn't. [frustrated laugh] But sure, yeah, I guess that doesn't count as trying.
+
+38 Character 1: It doesn't.
+
+Character 2: Wow. Okay. So basically nothing I did matters because I couldn't physically be in that room. The daily check-ins, the—the care packages, asking your sister for updates every few hours, none of that counts.
+
+39 Character 1: You're my best friend. Were.
+
+Character 2: Oh, come on, don't—don't do the past tense thing. Look look, I'm sorry I couldn't be there the way you wanted. I am. But I was drowning in my own stuff and trying—trying really hard to support you anyway.
+
+40 Character 1: I was actually drowning. Alone.
+
+Character 2: That's... [sigh] okay, I get that you're hurt. I do. And maybe—maybe I should've pushed through it somehow, I dunno. But I'm also disappointed that after everything, you can't see that I was doing my best. Even if my best wasn't enough.
+
+============================================================
+
+ITEMS 41-50 - EMPATHETIC PARTIAL (71 words)
+
+Script: 83240cee
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+41 Character 1: We need to talk about this hot and cold thing you do.
+
+Character 2: Oh. Oh no, okay—I know what you're gonna say and you're—you're totally right. I've been really weird lately, haven't I? Like one day I'm all in and the next I just... disappear.
+
+42 Character 1: Yeah. You do.
+
+Character 2: I don't mean to! I swear I don't, it's just—sometimes I get really overwhelmed, y'know? And then I kinda shut down and I—wait, that's not an excuse, I'm not trying to make excuses here.
+
+43 Character 1: Sure sounds like it.
+
+Character 2: No no no, that's not—[nervous laugh] okay, I'm explaining this badly. Um, basically what happens is I get really excited to hang out and then my brain just... does this thing where I panic? And I bail. Which is awful, I know.
+
+44 Character 1: Do you know how exhausting it is? Never knowing which version of you I'm getting?
+
+Character 2: God, I—yeah. Yeah, that must be really frustrating. I wouldn't wanna be friends with me either, honestly. Like who wants a friend who's basically a human coin flip, right? [sigh] I'm really messing this friendship up.
+
+45 Character 1: You are.
+
+Character 2: I know, I know. And you've been so patient with me—like, way more patient than I deserve, probably. I just... I dunno how to be consistent? That sounds so stupid when I say it out loud.
+
+46 Character 1: It's not stupid. It's hurtful.
+
+Character 2: You're right. You're—you're absolutely right and I hate that I've been hurting you. That's literally the last thing I ever wanted to do. I care about you so much and I'm just... terrible at showing it consistently, apparently.
+
+47 Character 1: I can't keep doing this dance with you.
+
+Character 2: Wait wait wait, please don't—I mean, I get it if you need space or whatever but can we—can I try to fix this? I wanna be better. I really, really wanna be the friend you deserve.
+
+48 Character 1: How? You've said this before.
+
+Character 2: I know, but—okay, this time I actually have a plan? Like, I started seeing someone about my anxiety stuff and we're working on it. The whole withdrawal thing, it's—it's apparently a pattern I do when I care too much about something. [quieter] Which is backwards, I know.
+
+49 Character 1: You're seeing someone?
+
+Character 2: Yeah, for like... three weeks now? I didn't wanna tell you until I was sure I'd stick with it, but—but I am. Sticking with it, I mean. Because our friendship is worth figuring my shit out for, y'know?
+
+50 Character 1: That's... actually a real step. I didn't know it was that serious for you.
+
+Character 2: It is. It really is. And I'm—I'm sorry it took me so long to realize how unfair I was being to you. You shouldn't have to guess whether your friend actually wants to be around you. That's—that's basic stuff and I failed at it. But I'm trying now, if that counts for anything.
+
+============================================================
+
+ITEM 51 - MONOLOGUE SELFTALK (206 words)
+
+Source: e58fa57f
+
+============================================================
+
+SCENARIO: trying to figure out which charger goes to what
+
+==================================================
+
+51 [muttering]
+
+Okay, so, um, I've got like— I've got all these chargers here and I have no idea which one goes to, uh, to what. This is— this is ridiculous. How do I have so many random chargers?
+
+[slightly exasperated]  
+
+Alright, so this one's obviously for my phone, that's easy enough. But then there's this— this thick black one that could be for, um, could be for my laptop? Or maybe the, uh, the tablet thing. [sigh] Why don't they just label these things?
+
+[more focused]
+
+Let me just— let me think about this logically. The laptop charger is usually the chunky one, right? So this big rectangular thing is probably— no wait, that doesn't look right either. That might be for the, um, for the old laptop.
+
+[trailing off]
+
+And then there's these two that look exactly the same but I know, I know one of them is for something completely different. One's probably the, uh, the external hard drive and the other is... [hmm] the speaker maybe?
+
+[resigned but amused]
+
+You know what? I'm just gonna start plugging things in and see what happens. Very scientific approach. [laugh] I'm sure nothing will explode.
+
+============================================================
+
+ITEMS 52-61 - CONVERSATION (333 words)
+
+Script: 68c8f49e
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+52 Character 1: [competitive tone] Oh, you're going down tonight, Sarah. [faster] We've been practicing Settlers of Catan for weeks. [Sharp laugh] Tom even built a spreadsheet to track optimal resource combinations—tell them about your probability charts, honey.
+
+Character 2: [dismissively] Spreadsheets? [Snort] How adorable. [in a condescending voice] Mark and I don't need charts when we have pure instinct. We crushed three other couples last month at that tournament—what was it, babe, twelve wins straight?
+
+53 Character 1: [defensive] Those were probably casual players. [muttering] We're talking about real strategy here, not luck. [louder, pointed] Besides, didn't you lose to the Johnsons last week? I heard through the grapevine you rage-quit during Monopoly.
+
+Character 2: [Scoff] [icily] The Johnsons cheated, everyone knows that. [building intensity] And speaking of cheating, remember when Tom "accidentally" knocked over the board when he was losing at Risk? Very convenient timing, wasn't it?
+
+54 Character 1: [Gasp] [indignant] That was completely different! The table was wobbly! [quieter, threatening] You know what, let's just start playing and see who's crying into their wine glass by nine o'clock tonight, shall we?
+
+Character 2: [fake sweet voice] Oh honey, we don't drink and play. [smugly] It keeps our minds sharp—unlike some people who need liquid courage. [Giggle] Mark, set up the board while I grab our lucky dice.
+
+55 Character 1: [sarcastically] Lucky dice? [Bitter laugh] How scientific of you. [mumbling quickly] Tom's algorithm predicted a seventy-three percent win rate for us tonight based on past performance metrics and your tendency to make emotional trades.
+
+Character 2: [slowly, menacingly] Emotional trades? [voice rising] That's rich coming from someone who literally cried over losing Park Place. [Cackle] Mark still has the video on his phone—should we watch it during halftime?
+
+56 Character 1: [through gritted teeth] There is no halftime in Catan! [Exhale] See, this is exactly why we're going to destroy you. [whispered intensely] You don't even know basic board game etiquette, yet you call yourselves competitors.
+
+Character 2: [triumphantly] Etiquette won't save you when I block your longest road. [teasing] What's that face, Tom? [Chuckle] Already realizing your spreadsheet didn't account for psychological warfare? This is going to be easier than expected.
+
+57 Character 1: [nervously] We'll see who's laughing when we control all the wheat. [more confidently] Your weakness has always been resource management, Sarah. [Snicker] Remember Thanksgiving? You traded away three ore for one sheep—one sheep!
+
+Character 2: [angrily] That was strategic! [Hiss] I needed that sheep for the win! [calmer, calculated] Unlike your disaster at New Year's where you built roads to nowhere like some kind of deranged city planner.
+
+58 Character 1: [mock surprise] Oh, we're bringing up New Year's now? [gleefully] Fantastic! Should we discuss how Mark threw the robber at me? [louder] Or how you "accidentally" miscounted your victory points three times?
+
+Character 2: [Deep breath] [controlled fury] Those were honest mistakes. [sarcastically sweet] But hey, if you want to live in the past, that's fine. Mark and I prefer focusing on our current winning streak of seventeen games.
+
+59 Character 1: [skeptically] Seventeen? [Loud laugh] Playing against your parents doesn't count! [smugly] Real competitors play in sanctioned tournaments, which we've actually won, unlike certain people who only play in their living room.
+
+Character 2: [shouting] Sanctioned tournaments? [more quietly, venomous] You placed third out of four teams! [Scornful laugh] The fourth team was literal children! But sure, put that plastic trophy on your mantle, champion.
+
+60 Character 1: [wounded] Those kids were prodigies! [defensively faster] They'd been featured in Board Game Weekly! [Sigh] Whatever, just roll for first placement already. Tom's Excel macro says whoever goes first has the advantage tonight.
+
+Character 2: [mockingly] Excel macro! [Hysterical giggle] [in disbelief] You actually made an Excel macro for family game night? Mark, please tell me we're recording this. The internet needs to see this level of desperate.
+
+61 Character 1: [proudly] It's called preparation! [quieter, intense] Something you'd understand if you took this seriously. [building excitement] When we win tonight, we're posting it everywhere—Facebook, Instagram, your mom's book club group chat, everywhere!
+
+Character 2: [determined whisper] Game on. [normal volume] Mark, get the score pad. [dramatically] By the end of tonight, their precious spreadsheets will be nothing but deleted files of shame and regret. Let's teach them how real champions play.
+
+============================================================
+
+ITEMS 62-71 - CS ALPHANUMERIC (296 words)
+
+Script: 1a13d4b8
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [panicked] My basement is completely flooded! [shouting] There's water everywhere—it's already at, at least eighteen inches high! [desperately] I need someone here NOW, not tomorrow, not in three hours!
+
+62 Customer Support: [calmly] I understand this is an emergency, sir. [reassuring] Let me pull up the next available slot. [professionally] Can you give me your address and account number, if you have it?
+
+Character 1: [frustrated] It's 4782 Maple Drive—M-A-P-L-E—unit B! [more urgently] The account number is... [groans] somewhere in this mess, maybe KL-45892? [exasperated] Just send someone immediately!
+
+63 Customer Support: [apologetically] I'm checking our system now, Mr... [pause] Johnson, is it? [more firmly] Our earliest emergency slot is at 2:30 PM, but there's a, um, hundred-fifty dollar emergency surcharge.
+
+Character 1: [outraged] Two-thirty?! [incredulous] That's four hours away! [shouting louder] My vintage wine collection—worth twelve thousand dollars—is literally drowning down there right now!
+
+64 Customer Support: [sympathetically] I completely understand your frustration. [hopeful] Let me check if tech number 47 can reroute—he's finishing at 1245 Oak Street. [cautiously] Would you be willing to pay the premium rate of $275?
+
+Character 1: [sarcastically] Oh sure, just rob me while I'm drowning! [defeated sigh] Fine, whatever, just—[desperately] can't you people move any faster? This is destroying everything I own!
+
+65 Customer Support: [relieved] Perfect, I've secured Tony, badge ID T-9847. [more confidently] He'll arrive between 12:45 and 1:15 PM. [helpfully] Meanwhile, shut off your main water valve—it's usually near the water heater.
+
+Character 1: [exasperated] I already did that twenty minutes ago! [angrily] The damage is done—my mother's antique rugs, gone! [more quietly] This is... this is a complete disaster, you understand?
+
+66 Customer Support: [empathetically] I'm truly sorry about your belongings, Mr. Johnson. [professionally] Tony will call from 555-0199 when he's ten minutes away. [reassuring tone] He's our best emergency specialist—eighteen years experience with floods.
+
+Character 1: [skeptical] Your "best" better be incredible because I'm calling my insurance—policy number HG-7734521—right after this. [threateningly] If this isn't fixed properly, you'll hear from my lawyer!
+
+67 Customer Support: [calmly] That's completely understandable, sir. [more seriously] Tony will document everything with photos for your claim. [helpful] Do you need our insurance liaison contact? It's extension 4455.
+
+Character 1: [sighs heavily] Yeah, fine, whatever helps. [worried] The water's still rising somehow—it's coming through the, the foundation cracks! [urgently] Are you absolutely sure he can handle this?
+
+68 Customer Support: [confidently] Tony handles three to four floods weekly, especially in your ZIP code, 44126. [reassuring] He'll bring our heavy-duty pump, model XP-500. [warmly] You're in excellent hands, I promise.
+
+Character 1: [slightly calmer] Okay, okay, I'll try to... salvage what I can. [frustrated grunt] This old house—built in 1952—just keeps having problems! [resigned] Should've moved years ago.
+
+69 Customer Support: [sympathetically] Older homes can be challenging, absolutely. [helpfully] Tony specializes in vintage properties actually. [more positively] He'll assess if you need our waterproofing service—warranty code WP-2024—to prevent future issues.
+
+Character 1: [exhausted] Just... make sure he gets here by 1:15, not a minute later. [firmly] I'm losing thousands by the hour here! [softer] Sorry for yelling, I'm just... stressed.
+
+70 Customer Support: [understanding] No apology needed—this is incredibly stressful! [reassuringly] I've marked your case as priority one, reference number EM-78234. [warmly] Tony will take excellent care of you, Mr. Johnson.
+
+Character 1: [resigned] Alright, I'll be waiting by the door. [muttering] Unit B, side entrance, green door—he can't miss it. [sighs] This day just couldn't get any worse.
+
+71 Customer Support: [professionally] Perfect, all noted in the system. [kindly] Tony will text updates to your number ending in 3847. [sympathetic tone] Hang in there, Mr. Johnson—help is on the way!
+
+============================================================
+
+ITEMS 72-81 - CS NO-ALPHANUMERIC (295 words)
+
+Script: 54567cea
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+72 Customer Support: [briskly] Good afternoon, Valley Medical Labs, this is Sarah speaking. [more quickly] How can I help you today—do you have a patient ID number ready?
+
+Character 1: [frustrated] Yes, it's 4-7-2-9-6, and I've been waiting for my blood work for two weeks now. [sighs heavily] My doctor said it would be three days, maybe five at most.
+
+73 Customer Support: [apologetically] Let me just... pull that up for you right away. [pause] [more concerned] Oh, I see there's been a delay with your lipid panel—looks like the sample needed to be re-run.
+
+Character 1: [incredulous] Re-run? Nobody called me about this! [getting louder] I've been checking my patient portal every single day, refreshing it like... like I'm waiting for concert tickets or something.
+
+74 Customer Support: [quickly] I completely understand your frustration, and you're absolutely right—someone should have contacted you. [more firmly] The system shows a notification was sent, but, um, sometimes those get caught in spam filters.
+
+Character 1: [sarcastically] Oh great, so my health results are sitting in spam next to Nigerian prince emails. [groans] When exactly will I get these results then?
+
+75 Customer Support: [reassuring] The good news is the re-test was completed yesterday morning. [speaking faster] Your results should be uploaded within twenty-four to forty-eight hours, definitely by Thursday at the latest.
+
+Character 1: [skeptically] Should be? Or will be? [pause] [more urgently] Because I have a follow-up appointment Friday, and if I don't have these numbers, the whole visit is basically pointless.
+
+76 Customer Support: [more confidently] I'm putting a priority flag on your file right now—actually, let me... [briskly] I'm sending a direct message to the lab supervisor to expedite this for your Friday appointment.
+
+Character 1: [slightly calmer] Well, that's... that's something at least. [sighs] Can you guarantee I'll have them by Thursday evening, though?
+
+77 Customer Support: [carefully] While I can't make absolute promises, the priority flag means your results jump to the front of the queue. [more enthusiastically] In my experience, these usually process within twelve hours once flagged.
+
+Character 1: [resigned] Fine, I'll... I'll wait another day. [more firmly] But if they're not there by Thursday noon, I'm calling back and asking for you specifically, Sarah.
+
+78 Customer Support: [warmly] Please do ask for me—I'll be here nine to five. [quickly] I'm also adding my direct extension to your file notes, it's 2-2-4.
+
+Character 1: [surprised] Oh, that's actually really helpful. [pause] [more appreciatively] Sorry for getting snippy earlier, I'm just stressed about these cholesterol numbers, you know?
+
+79 Customer Support: [understanding] No apologies needed—waiting for health results is incredibly stressful. [more gently] We see it every day, and honestly, two weeks is unacceptable for a standard panel.
+
+Character 1: [curiously] Does this happen often? The whole re-running thing? [more concerned] Because now I'm wondering if the results will even be accurate.
+
+80 Customer Support: [reassuringly] It's actually quite rare, maybe one in two hundred samples. [speaking faster] Usually it's due to temperature issues during transport or, occasionally, insufficient sample volume—but the re-test results are completely reliable.
+
+Character 1: [relieved] Okay, that's... that makes me feel a bit better. [chuckles nervously] I was imagining them just losing my blood somewhere in a giant warehouse of tubes.
+
+81 Customer Support: [laughing gently] I promise we're much more organized than that! [briskly] Is there anything else I can help with while I have your file open—update contact information, anything like that?
+
+Character 1: [decisively] No, I think we're good. [more hopefully] I'll just keep refreshing that portal and, um, hopefully see those results pop up soon—fingers crossed for tomorrow.
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (18 words)
+
+============================================================
+
+82 [Frustrated] Okay, so I definitely came in through the—no wait, that was yesterday. [Groan] This is getting ridiculous.
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (18 words)
+
+============================================================
+
+83 [Fast] I'm literally walking in circles here, like, I've passed that same pillar three times already! [Nervous laugh]
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (21 words)
+
+============================================================
+
+84 [Whisper] Maybe if I just, um, close my eyes and try to retrace my steps... [Slow] That's supposed to work, right?
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (16 words)
+
+============================================================
+
+85 [Sarcastic] Oh fantastic, every single car in this lot is silver—that really narrows it down. [Tsk]
+
+============================================================
+
+ITEM 86 - BASIC SCENARIO (18 words)
+
+============================================================
+
+86 [Happy] Wait, wait, I think I see it over—oh never mind, that's not even the right model. [Disappointed]
+
+============================================================
+
+ITEM 87 - BASIC SCENARIO (15 words)
+
+============================================================
+
+87 [Slow] You know what, I'm gonna systematically check every single row, starting from A1. [Determined]
+
+============================================================
+
+ITEM 88 - BASIC SCENARIO (15 words)
+
+============================================================
+
+88 [Shout] Has anyone seen a blue Honda? [Fast] Anyone? It's kinda dented on the side?
+
+============================================================
+
+ITEM 89 - BASIC SCENARIO (26 words)
+
+============================================================
+
+89 [Sad] I can't believe I'm that person who—who loses their car in a parking lot. [Sigh] My kids are never gonna let me live this down.
+
+============================================================
+
+ITEM 90 - BASIC SCENARIO (24 words)
+
+============================================================
+
+90 [Angry] This is what happens when they don't have proper signage! [Fast] Like, would it kill them to put up some landmarks or something?
+
+============================================================
+
+ITEM 91 - BASIC SCENARIO (19 words)
+
+============================================================
+
+91 Was it level 2 or level 3? [Confused] Er, actually, is there even a level 3 in this place?
+
+============================================================
+
+ITEM 92 - BASIC SCENARIO (14 words)
+
+============================================================
+
+92 [Chuckle] I should probably stop hitting the panic button—people are starting to stare. [Embarrassed]
+
+============================================================
+
+ITEM 93 - BASIC SCENARIO (17 words)
+
+============================================================
+
+93 [Disappointed] Twenty minutes. [Slow] I've been wandering around for twenty whole minutes looking for my own car.
+
+============================================================
+
+ITEM 94 - BASIC SCENARIO (19 words)
+
+============================================================
+
+94 [Fast] Okay so basically I remember there was a truck next to me, or wait—was it a van? [Frustrated]
+
+============================================================
+
+ITEM 95 - BASIC SCENARIO (18 words)
+
+============================================================
+
+95 [Sarcastic] Sure, let's make all the sections the same color, that's super helpful for people like me. [Groan]
+
+============================================================
+
+ITEM 96 - BASIC SCENARIO (14 words)
+
+============================================================
+
+96 [Whisper] Please be in this row, please be in this row... [Hopeful] [Sigh] Nope.
+
+============================================================
+
+ITEM 97 - BASIC SCENARIO (17 words)
+
+============================================================
+
+97 [Happy] Oh my god, there it is! [Laugh] I literally just walked past it five seconds ago!
+
+============================================================
+
+ITEM 98 - BASIC SCENARIO (19 words)
+
+============================================================
+
+98 You'd think after, um, after fifteen years of driving I'd remember to—to take a photo or something, y'know? [Tsk]
+
+============================================================
+
+ITEM 99 - BASIC SCENARIO (19 words)
+
+============================================================
+
+99 [Angry] I swear I parked right next to the entrance! [Slow] Unless... unless I came in the other entrance?
+
+============================================================
+
+ITEM 100 - BASIC SCENARIO (18 words)
+
+============================================================
+
+100 [Sad] Maybe someone towed it? [Fast] No wait, that's crazy, I've only been here like an hour, right?
+
+============================================================
+
+ITEM 101 - BASIC SCENARIO (13 words)
+
+============================================================
+
+101 [Chuckle] I'm gonna start dropping breadcrumbs next time, honestly—this is getting embarrassing. [Sigh]
+
+============================================================
+
+ITEM 102 - MONOLOGUE (241 words)
+
+Source: c3d489ff
+
+============================================================
+
+SCENARIO: Complaining about a pointless work task, then realizes it actually taught them something
+
+==================================================
+
+102 [frustrated]
+
+Oh my God, you're not gonna believe what they made me do today. I had to go through every single invoice from the last six months and like, categorize them by vendor. All of them. Manually.
+
+[annoyed]
+
+And I'm like, why can't the system just— you know, sort this automatically? It's 2024, we have AI that can like, write poems and whatever, but I have to sit there with a spreadsheet going "Office Depot, Office Depot, Staples..." for three hours.
+
+[exasperated] [tired]
+
+My eyes are like, burning. And for what? So Janet can have her precious report that she's probably not even gonna— [sigh] I don't know, file away somewhere and never look at again.
+
+[slower] [thoughtful]
+
+Although... actually, wait. I keep saying this was pointless, but I noticed something weird while I was going through everything. We're paying like three different companies for the same exact supplies.
+
+[more alert] [curious]
+
+Like we're getting pens from Office Depot AND Staples AND some random local place, and we're paying totally different prices. The local place is charging us like twice as much for the same— the exact same pens.
+
+[surprised] [slightly excited]
+
+Oh shit, I could actually bring this up in tomorrow's meeting. This could save us like, actual money. Maybe Janet's not as crazy as I— [chuckle] okay, maybe this wasn't completely terrible after all.
+

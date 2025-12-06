@@ -1,0 +1,453 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: aaa25e03_script | Role: Character 2 (B)
+
+Character 1: You forgot my birthday.
+
+196 Character 2: Oh god—I... yeah. I did. But honestly, I've been so underwater with everything that's been happening, I can barely remember what day it is. That's not an excuse, I know, but—
+
+Character 1: It was three days ago.
+
+197 Character 2: I know, I know. Look, I'm sorry, okay? But you're acting like I deliberately chose to forget when I've literally been dealing with my mom's surgery and trying not to lose my job at the same time.
+
+Character 1: You remembered Jake's birthday last month.
+
+198 Character 2: That's—come on, that's not fair. Jake's was before everything went to hell. [Sigh] My life kinda imploded after that, remember? Or are we just gonna pretend that didn't happen?
+
+Character 1: I texted you that morning.
+
+199 Character 2: And I didn't see it until like two days later because I've been at the hospital! I mean, seriously? You think I'm just sitting around ignoring your messages for fun?
+
+Character 1: You could've said something when you did see it.
+
+200 Character 2: I—okay okay, you're right about that part. I should've. But honestly? I was embarrassed and I didn't know what to say that wouldn't sound like a shitty excuse. [frustrated laugh] Guess that worked out great.
+
+Character 1: Twenty years. We've been friends for twenty years.
+
+201 Character 2: Oh, so now we're gonna throw the whole friendship away over this? Look look, I messed up, but you're being kinda brutal here. Like, I get you're hurt, but—
+
+Character 1: I was there for your mom's surgery.
+
+202 Character 2: Yeah, and I appreciate that, I really do. But that doesn't mean I'm suddenly gonna be perfect at everything while my world's falling apart. I'm barely functioning here.
+
+Character 1: Right.
+
+203 Character 2: Don't—don't do that. Don't give me the one-word passive-aggressive thing. If you wanna be mad, be mad, but at least talk to me like I'm still your friend and not some stranger who wronged you.
+
+Character 1: Are you still my friend?
+
+204 Character 2: Are you seriously—[scoff] of course I am. Jesus. One mistake and you're ready to throw everything away? That's what we're doing now?
+
+Character 1: Not one mistake. One important thing.
+
+205 Character 2: Fine fine, one important thing. And I'm sorry I forgot it, alright? I am. But I'm also kinda disappointed that you can't cut me any slack when you know—you literally know—everything I'm going through right now.
+
+Script: 0fb50bd8_script | Role: Character 2 (B)
+
+Character 1: You didn't come.
+
+206 Character 2: Oh my god, wait—what? What didn't I—oh NO. No no no no. The art show. That was last night wasn't it? I'm so—I'm literally the worst person alive right now.
+
+Character 1: Yeah. It was.
+
+207 Character 2: I had it in my calendar for next week, I swear I thought—that's not an excuse though, I know that's not an excuse. You reminded me like three times and I still—[groan] I genuinely wanna crawl into a hole right now.
+
+Character 1: I stood there for two hours waiting.
+
+208 Character 2: You waited for—oh god. I'm so sorry. Like, I don't even know what to say except I'm sorry. This was huge for you, I know it was huge, your first gallery showing and I just—I completely failed you as a friend.
+
+Character 1: Pretty much.
+
+209 Character 2: I've been so scattered lately with work and the move and—no, y'know what? Those aren't excuses. There's literally no excuse for missing this. I should've set like five alarms, I should've—I should've been better. [nervous laugh] I really messed up.
+
+Character 1: My parents asked where you were. Everyone did.
+
+210 Character 2: Oh that's—that makes it worse somehow. I told you I'd be there, I promised I'd be there and then I just... didn't show up. Like what kind of friend does that? I'm honestly disgusted with myself right now.
+
+Character 1: I saved you a spot right up front.
+
+211 Character 2: You saved me a—okay now I actually might cry. Listen, I know—I know saying sorry isn't enough but like, is there any way I can make this right? Can I—I dunno, take you to dinner? Buy one of your pieces? Actually wait, I wanna buy one anyway but—
+
+Character 1: You can't just buy your way out of this.
+
+212 Character 2: No no, that's not—that's not what I meant. I just... I wanna show you that I care, y'know? Because I do care, so much, and I'm furious at myself for making you think I don't.
+
+Character 1: I talked about that show for months.
+
+213 Character 2: You did. You absolutely did and I—god, I even helped you pick which pieces to display, didn't I? [sigh] And then I couldn't even bother to show up. I honestly don't blame you if you hate me right now.
+
+Character 1: I don't hate you. I'm just... disappointed.
+
+214 Character 2: That's somehow worse. But I—I get it. I really do. Look, I know this is gonna sound empty but like, this will never happen again, okay? Important stuff, I'm gonna—I'm gonna put it in my phone with a million reminders. Actually no, I'll get it tattooed on my arm if I have to.
+
+Character 1: Don't be dramatic. Just... show up next time.
+
+215 Character 2: I will. I swear I will. And I—I really am sorry. Like from the bottom of my heart sorry. You deserved better from me, and um... yeah. I'm gonna do better. I promise.
+
+Script: 9f5e976a_script | Role: Character 2 (B)
+
+Character 1: I can't believe you told Marcus about my parents.
+
+216 Character 2: Oh god—okay, I know how this looks but I didn't mean to tell him, it just... it kinda slipped out? We were talking about family stuff and I—I wasn't thinking, I'm so sorry.
+
+Character 1: It slipped out?
+
+217 Character 2: No no no, that's—that's not what I meant. I mean, yes, technically it did but like... Marcus was talking about his own parents divorcing and I just wanted to make him feel less alone, y'know? [nervous laugh] That's not an excuse though, I know that.
+
+Character 1: That was private. Really private.
+
+218 Character 2: I know. God, I know and I feel like such garbage about it. Like literally the second it came out of my mouth I wanted to take it back—I actually tried to backtrack but he'd already heard it and I just... I panicked.
+
+Character 1: You had no right.
+
+219 Character 2: You're right. You're completely right and I—there's literally no good reason for what I did. I broke your trust and that's... [sigh] that's not the kind of friend I wanna be. I swear I've never done anything like this before.
+
+Character 1: Really? Because you seem pretty comfortable sharing my business.
+
+220 Character 2: That's not—okay, I deserve that. But honestly? I've been feeling sick about this for like three days straight. I kept wanting to text you but I didn't know how to even start apologizing for something this bad.
+
+Character 1: Three days. You've known for three days and didn't tell me?
+
+221 Character 2: I was gonna tell you! I just—I kept typing out messages and deleting them because nothing sounded right, nothing could fix it, y'know? And then Marcus said he ran into you yesterday and I figured—oh god, did he say something to you?
+
+Character 1: He asked how I was "handling everything."
+
+222 Character 2: Shit. Shit shit shit. I'm so—I told him not to bring it up to you! I specifically said—actually that doesn't matter. What matters is I messed up and I hurt you and I don't... I don't know how to make this right but I want to try.
+
+Character 1: I don't know if you can.
+
+223 Character 2: Please just—give me a chance? Like, I know I don't deserve it but our friendship means everything to me and I can't—[groan] I can't lose you over my stupid mouth. Tell me what to do. Anything.
+
+Character 1: I need time to think about this.
+
+224 Character 2: Yeah. Yeah of course, take all the time you need. I just... can I just say one more thing? I know I talk too much—that's literally the problem here—but I need you to know that you can trust me. Or, I mean, I know you can't right now but I'm gonna earn it back. However long that takes.
+
+Character 1: We'll see. I have to go.
+
+225 Character 2: Wait—I mean, okay. Yeah. I'll... I'll be here whenever you're ready to talk. And I really am sorry. Like, more sorry than I've ever been about anything.
+
+Script: d490f47a_script | Role: Character 2 (B)
+
+Character 1: You forgot.
+
+226 Character 2: What? No, I—wait, what did I forget? Oh my god, did we have plans today? I'm so sorry, I've been completely out of it lately and—
+
+Character 1: My birthday. Yesterday.
+
+227 Character 2: Oh no. Oh no no no. [groan] I'm—I'm the worst friend ever, aren't I? I literally had it in my calendar and everything, I just—this week has been absolutely insane with work and I wasn't even looking at dates, just trying to survive, y'know?
+
+Character 1: Right.
+
+228 Character 2: Please don't—okay, I know that's not an excuse. There is no excuse. Your birthday is like, the one thing I should never forget and I just... I completely spaced it. I'm so, so sorry.
+
+Character 1: You promised you wouldn't forget this year.
+
+229 Character 2: I know, I know I did. And that makes it even worse, doesn't it? Like last year I was traveling so at least I had a reason—not that it was a good reason—but this year I was literally here and I still managed to screw it up. [nervous laugh] I'm actually terrible.
+
+Character 1: Yeah. You are.
+
+230 Character 2: Can I—would you let me make it up to you? I mean, I know I can't really make up for forgetting but maybe we could do something tonight? Or—or this weekend, whatever works for you. I wanna take you out, do the whole thing properly.
+
+Character 1: The whole thing.
+
+231 Character 2: Yeah! Like dinner at that place you love—the one with the, um, the really good pasta? And drinks after, my treat obviously. Or we could—actually, what do you wanna do? It's your birthday, well, was your birthday, so you should pick.
+
+Character 1: I wanted my best friend to remember.
+
+232 Character 2: Oof. Yeah, that's—[sigh] that's fair. That's completely fair. I really hurt you, didn't I? God, I'm sorry. I keep saying that but I genuinely mean it. You're like, one of the most important people in my life and I just... I let you down.
+
+Character 1: You've been "busy" a lot lately.
+
+233 Character 2: I have been, but that's not—I mean, yeah, work's been crazy but that shouldn't matter. You matter more than work stuff, you always have. I've just been really bad at, um, at showing that lately I guess. I need to—I gotta do better.
+
+Character 1: Do you even want to be friends anymore?
+
+234 Character 2: What? Yes! Yes, of course I do! Is that—is that what you think? That I don't wanna be friends? Because that's so far from—I'm just an idiot who can't manage their life properly. But losing you would literally destroy me. Please don't think I don't care about you.
+
+Character 1: I don't know what to think anymore.
+
+235 Character 2: Okay, that's—I get that. I really do. But can we maybe... can we talk about this over coffee or something? I wanna fix this—fix us—if you'll let me. I know I don't deserve it but I'm asking anyway because you mean everything to me and I can't—[quieter] I can't lose you over this.
+
+Script: 61abdb29_script | Role: Character 2 (B)
+
+Character 1: Three extra people. Really?
+
+236 Character 2: Wait, what? You're—you're seriously mad about that? I thought this was just like, a casual thing, not some exclusive guest list situation.
+
+Character 1: I told you it was small.
+
+237 Character 2: You said "small," yeah, but I didn't think that meant—look, when you say "come by Saturday," that usually means it's chill. Like, bring whoever. That's how it's always been with us.
+
+Character 1: Not in my apartment.
+
+238 Character 2: Okay okay, but how was I supposed to know that? You never said "don't bring anyone" or [scoff] "invitation only" or whatever. I'm not a mind reader.
+
+Character 1: Common sense.
+
+239 Character 2: That's—wow, okay. Common sense? Really? Because literally every other time we've hung out, it's been totally fine to bring people. Remember Jake's thing? Or when we went to that concert? You brought like three randoms without asking.
+
+Character 1: That was different.
+
+240 Character 2: How? How is it different? Because—I mean, honestly, it feels like you're just making up rules now and getting mad at me for not [frustrated laugh] magically knowing them.
+
+Character 1: My place. My food. My drinks.
+
+241 Character 2: Oh, so it's about the money? Is that—fine, I'll Venmo you right now if that's what this is about. But I don't think it is. I think you're just pissed and looking for reasons.
+
+Character 1: You don't get it.
+
+242 Character 2: Then explain it! Because from where I'm standing, I brought a couple friends to what I thought was a casual hangout, and now you're treating me like I—like I committed some huge betrayal or something.
+
+Character 1: I wanted it small. Intimate. Just us.
+
+243 Character 2: And I'm sorry, I am, but you didn't—you gotta communicate that stuff. I can't just guess what "small" means to you. To me, small is like, under ten people, y'know? Not... two.
+
+Character 1: Should've asked.
+
+244 Character 2: Yeah, maybe. Maybe I should've. But also maybe you should've been clearer about what you wanted. [sigh] Like, we're both kinda at fault here, but you're acting like it's all on me.
+
+Character 1: You embarrassed me. In my own home.
+
+245 Character 2: I didn't—that wasn't the intention at all. Look look, I get that you're upset, and I'm sorry it went down like this, but I genuinely thought I was just bringing some fun people to make it more lively. I wasn't trying to disrespect you or—or whatever you think I did.
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+246 SCENARIO: waiting in a long checkout line that isn't moving
+
+==================================================
+
+[muttering]
+
+Okay, so, um, this line is definitely not— it's not moving at all. Like, at all. I've been standing here for, what, like five minutes? And we haven't— we haven't moved even one person forward.
+
+[slightly incredulous] 
+
+What is even— what's even happening up there? I can't see, um, I can't see what the holdup is, but there's gotta be something. Maybe it's like a price check or, uh, or someone's trying to use expired coupons or— [sigh] I don't know.
+
+[resigned]
+
+I mean, I could switch lines, but then— but then that's always when this one starts moving again, right? That's like, um, that's like a universal law or something. The second you switch, your old line becomes the fast one.
+
+[contemplative]
+
+Although, honestly, that lady over there looks like she's— she's moving pretty good. Her line's definitely— wait, no, she just stopped too. [tsk] Never mind.
+
+[flat]
+
+Okay, so I guess we're all just, um, we're all just standing here now. Living our best grocery store life. This is fine. This is, uh, this is totally how I wanted to spend my Saturday.
+
+--- CONVERSATION ---
+
+Script: b65dbed2 | Role: Character 1 (A)
+
+247 Character 1: [Roaring] We did it, brother! [breathless] The emperor's finest warriors lay beaten in the sand! [triumphant shout] Twenty years I've fought in this arena, and never have I felt victory taste this sweet upon my tongue!
+
+Character 2: [Wild laughter] Their golden armor couldn't save them! [panting heavily] Did you see Marcus's face when my blade found its mark? [quieter] The crowd chants our names now, not theirs—we are legends born today!
+
+248 Character 1: [Deep growl] Let them remember this day. [building intensity] Two slaves who became gods in this circle of death! [Spitting] The emperor watches from his throne, and for once, his champions taste defeat's bitter dust.
+
+Character 2: [Hushed awe] Look at them flee the arena. [mocking tone] The "invincible" Praetorian Guard, running like children! [Bellowing laugh] My mother always said I'd amount to nothing—if only she could witness her son's glory now!
+
+249 Character 1: [Low and dangerous] This changes everything, you realize? [faster] No more fighting for scraps, no more sleeping in chains. [Victory cry] Freedom tastes sweeter than wine, and we've earned it with blood and steel today!
+
+Character 2: [Whispered excitement] The emperor's jaw clenched when you broke Titus's shield. [growing louder] His precious champion, trained since birth, defeated by arena dogs! [Cackling] We've shattered more than bones—we've broken the myth of their superiority forever!
+
+250 Character 1: [Weary but proud] My wounds sing with purpose now. [steadier] Every scar was worth this moment, every drop of blood a payment. [Thunderous] Rome will speak our names in taverns and temples for generations to come!
+
+Character 2: [Trembling with emotion] Brother, we've survived the impossible. [more firmly] A hundred men have died where we stand victorious. [Sobbing laugh] The gods themselves must have guided our blades through that massacre of steel and fury!
+
+251 Character 1: [Soft wonder] The silence before they cheered felt eternal. [building excitement] Then came the thunder of ten thousand voices screaming our worth! [Hoarse shout] We are no longer property—we are champions who conquered the unconquerable!
+
+Character 2: [Fierce whisper] Tomorrow they'll offer us anything—gold, women, land beyond imagination. [normal volume] But tonight, we stand as brothers forged in combat's furnace. [Roaring] Nothing can break the bond of warriors who've tasted death together!
+
+252 Character 1: [Gravelly voice] The sand beneath our feet holds their blood now, not ours. [lighter] For once, we walk away while others are carried. [Bitter laugh] The mighty emperor must crown slaves as his new champions!
+
+Character 2: [Quick and excited] Did you hear the senators gasping when I took two at once? [slowing down] Their perfect world crumbled in moments. [Shrieking victory] We've proven that birth means nothing when steel meets flesh in honest combat!
+
+253 Character 1: [Exhausted pride] My sword arm burns like fire, but my spirit soars higher. [stronger] We entered as entertainment for nobles. [Quiet intensity] We leave as the men who humbled an empire's greatest warriors before thousands.
+
+Character 2: [Shaking voice] I thought we'd die today, truly. [more confident] Instead, we've written ourselves into Rome's history with blood. [Hysterical laughter] The emperor's champions—defeated by two nameless gladiators who refused to kneel or break!
+
+254 Character 1: [Booming declaration] Let every fighter in every ludus hear this tale! [softer] Hope lives even in chains, brother. [Building roar] We've proven that courage and skill can topple even golden-armored arrogance from its throne!
+
+Character 2: [Breathless wonder] The crowd threw flowers instead of stones. [steadying] Women weep for our victory, children chant our names in streets. [Triumphant cry] We've become what every gladiator dreams—heroes instead of corpses in sand!
+
+255 Character 1: [Grim satisfaction] Their training, their breeding, their noble blood—all worthless. [louder] We learned to fight in desperation's shadow. [Barking laugh] That made us deadlier than any emperor's pampered warriors could ever hope to become!
+
+Character 2: [Reverent whisper] The gods watched us today, I felt it. [normal tone] Mars himself guided my blade through their defenses. [Screaming] We were instruments of divine justice, punishing their hubris with our humble, savage strength!
+
+256 Character 1: [Slow and meaningful] This arena has seen our transformation, brother. [quickening] From nothing to everything in one glorious afternoon. [Choking up] My children will know their father stood tall when the empire tried to crush him.
+
+Character 2: [Final roar] Tonight we feast as free men! [quieter triumph] Tomorrow brings new battles, but nothing can steal this moment. [Whispered intensity] We are gladiators who conquered champions, and Rome herself trembles at what we've done!
+
+--- CS ALPHANUMERIC ---
+
+Script: 7c7da1d7 | Role: Customer Support
+
+Character 1: [furious] Listen, I bought your Model X-700 dishwasher three months ago, and—and now I get this letter saying recall notice 45-B2X, [louder] but no actual instructions! [exasperated sigh] My order number is 8847392-A, when exactly am I getting this fixed?
+
+257 Customer Support: [apologetic] I completely understand your frustration, sir. [calmly] Let me pull up your account using that order number—8847392-A, you said? [more reassuringly] We're processing recalls as quickly as possible, though I know the delays have been... challenging.
+
+Character 1: [sarcastically] Challenging? My wife almost got burned when the door latch failed yesterday! [voice breaking] We have two kids under five, and this—this thing at 4521 Maple Drive is a hazard. [more angrily] I want answers, not corporate speak!
+
+258 Customer Support: [concerned] Oh my goodness, was anyone hurt? [more urgently] If there's been an injury, we need to file report IR-2024-556 immediately. [sympathetic] I'm escalating this right now to priority status—your safety is absolutely our primary concern here.
+
+Character 1: [bitterly] No injuries yet, but that's just luck, isn't it? [groans] I've been calling since September 15th, reference numbers QR-9981, QR-9982, and [frustrated] nobody can tell me if the replacement parts even exist!
+
+259 Customer Support: [professionally] I see all three tickets in our system, and I sincerely apologize for the runaround. [more confidently] The parts—specifically component DW-45X—arrived at our warehouse on October 2nd, but [hesitant] distribution has been... experiencing some logistics issues unfortunately.
+
+Character 1: [incredulous] Logistics issues? You mean sitting in a warehouse while customers risk injury? [voice rising] My neighbor at 4525 Maple, same model, already had his fixed two weeks ago! [demanding] How is that even possible?
+
+260 Customer Support: [uncomfortable] Different regions have different fulfillment centers, and—well, ZIP code 94102 has had some... [sighs heavily] Look, unofficially, our Sacramento facility had a system crash. [more quietly] Your technician slot for November 8th at 2 PM somehow got deleted.
+
+Character 1: [explosive] DELETED? You're telling me my appointment just vanished? [sarcastically laughs] Oh this is rich, absolutely rich. [more controlled] I want compensation—refund code, voucher, something—because this is beyond unacceptable at this point.
+
+261 Customer Support: [quickly] Absolutely, yes, I'm authorizing compensation code RB-7745-COMP right now for $200. [more eagerly] Plus, I'm personally scheduling you for October 28th—that's Thursday—between 10 AM and noon. [firmly] I'll email confirmation to your account ending in 3847 within five minutes, guaranteed.
+
+Character 1: [skeptically] October 28th... that's still a week away though. [sighs deeply] What am I supposed to do until then, hand wash everything like it's 1952? [more reasonably] Can you at least guarantee the technician will actually show up this time?
+
+262 Customer Support: [confidently] I'm assigning senior technician Marcus, badge MT-4493, to your case personally. [reassuring] He's never missed an appointment in eight years, and [more warmly] between you and me, he's the one who should've handled this from the start.
+
+Character 1: [slightly calmer] Fine, Marcus better be as good as you say. [mutters] Though at this point I'd settle for anyone competent... [more firmly] Email me that confirmation to j.davidson at techmail dot com, not the other address you have.
+
+263 Customer Support: [attentively] Updating to j.davidson at techmail dot com right now, got it. [helpful] I'm also including Marcus's direct line—extension 4-8-2—in case you need to confirm morning of. [more personally] Is there anything else I can help resolve today, Mr. Davidson?
+
+Character 1: [tired] Just... make sure this actually happens, okay? [quietly] My wife's been on me about this for weeks, and I'm—I'm running out of excuses here. [sighs] That confirmation better show up, or I'm calling corporate directly.
+
+264 Customer Support: [empathetically] I completely understand the pressure you're under, truly I do. [determined] The confirmation's already generating—reference TK-20241021-B—and I'm CC'ing my supervisor. [more gently] We'll make this right, Mr. Davidson, you have my word on that.
+
+Character 1: [grudgingly] Alright, I'll—I'll give you one more chance here. [mutters] Though your word doesn't mean much after three months of this circus... [clearer] October 28th, 10 to noon, Marcus, badge MT-4493.
+
+265 Customer Support: [professionally] Exactly right—October 28th, 10 AM to noon, Marcus, badge MT-4493. [warmly] I'm also adding priority flag PF-888 to ensure no further delays. [sincerely] Thank you for your patience through this, Mr. Davidson, genuinely.
+
+Character 1: [resigned] Yeah, well, patience is about all I have left at this point. [chuckles bitterly] That and a sink full of dirty dishes... [more firmly] I'll be watching for that email—five minutes, you said?
+
+266 Customer Support: [confidently] Five minutes maximum, likely sooner—it's already in the queue. [professionally] Your ticket number for today's call is CSR-10210847 for your records. [warmly] Have a better rest of your day, Mr. Davidson, and [earnestly] again, our sincere apologies for everything.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: fd0b3493 | Role: Customer Support
+
+267 Customer Support: [briskly] Good afternoon, Enterprise Rentals, this is Sandra speaking. [more quickly] How can I assist you with your reservation today? [cheerfully] We've got several options available this week.
+
+Character 1: [frustrated] Hi, yes, I've been trying to book online for an hour but the site keeps crashing. [sighs heavily] I need a car for tomorrow morning—urgent business trip to Chicago. [anxiously] Please tell me you have something, anything really.
+
+268 Customer Support: [reassuring] Oh absolutely, let me pull up our inventory right away. [rapidly] Tomorrow morning pickup, returning when? [pause] And did you have a particular vehicle class in mind, or are you flexible?
+
+Character 1: [relieved] Thank God. Um, returning Sunday evening, around six-ish. [more desperately] I don't care what kind—sedan, compact, whatever. [groans] Just not a minivan, my ex drove one and I can't... never mind.
+
+269 Customer Support: [sympathetically] I understand completely, no minivans then. [typing quickly] So we have... oh dear, tomorrow's quite booked. [more optimistically] But wait, I do see a mid-size SUV just became available, would that work?
+
+Character 1: [hesitant] An SUV? That's gonna cost me a fortune in gas, isn't it? [sighs] What about something smaller—maybe economy or compact? [hopefully] Even if it's not the nicest one you've got?
+
+270 Customer Support: [apologetically] Unfortunately our compacts are all reserved through the weekend. [more brightly] However, I could offer you the SUV at the compact rate—manager's discretion. [quickly] That's seventy dollars off the regular price, plus unlimited mileage included.
+
+Character 1: [surprised] Really? You'd do that? [chuckles nervously] That's actually... yeah, that would be perfect. [more eagerly] What time can I pick it up tomorrow? I need to leave by eight AM at the latest.
+
+271 Customer Support: [efficiently] We open at seven, so that gives you plenty of time. [rapidly] I'll need your driver's license number and a major credit card to hold the reservation. [warmly] Also, would you like our insurance coverage, or are you covered through your own policy?
+
+Character 1: [quickly] My own insurance is fine, thanks. [rustling] Hold on, let me get my wallet... license number is... [slowly] D-4-5-6-7-8-9-2-1-0. [confidently] Credit card's a Visa, if that matters.
+
+272 Customer Support: [professionally] Perfect, Visa works great. [speaking faster] Ready for the card number when you are. [pause] Oh, and I should mention—we'll need you to return it with the same fuel level, quarter tank currently.
+
+Character 1: [reading] Four-two-one-three... [trails off] Wait, quarter tank? [confused] Don't you usually give them out full? [slightly annoyed] I mean, how am I supposed to know what a quarter tank looks like exactly?
+
+273 Customer Support: [apologetically] I know, it's inconvenient, but with the shortage this week... [more reassuringly] The gauge has clear markings though, and there's a gas station right across the street from us. [helpfully] Most people just eyeball it, we're pretty flexible.
+
+Character 1: [resigned] Fine, whatever, I'll figure it out. [continuing] The card number's 4213-8876-5490-2234. [quickly] Expires next March, security code 445. Name matches my driver's license obviously.
+
+274 Customer Support: [typing rapidly] Excellent, got all that entered. [cheerfully] Your confirmation number is—ready?—R as in Robert, K-7-7-9-9-4. [more slowly] Should I text or email that to you as well?
+
+Character 1: [distracted] Email's fine, it's firstname dot lastname at gmail. [pause] Actually wait, text it too—my phone's 555-0182. [worriedly] Sometimes my email goes wonky when I travel.
+
+275 Customer Support: [efficiently] Both it is then, sending those right... now. [briskly] You'll get the text immediately and email within five minutes. [warmly] The SUV's a nice blue Toyota Highlander, very reliable for highway driving.
+
+Character 1: [sarcastically] Blue, fantastic, my favorite color. [chuckles] Just kidding, I don't care if it's hot pink. [gratefully] Thanks for making this work, Sandra. You've saved my entire presentation.
+
+276 Customer Support: [pleased] Oh, you're very welcome! [quickly] Just bring your license and credit card tomorrow, we'll have everything ready. [cheerfully] The contract takes maybe three minutes to sign, then you're good to go.
+
+Character 1: [relieved] Perfect, I'll be there at seven sharp. [thoughtfully] Actually, make it seven-fifteen—traffic from my place is unpredictable. [appreciatively] Thanks again, really. Have a good rest of your day, Sandra.
+
+--- BASIC SCENARIOS ---
+
+277 [Angry] Look, I don't care what everyone thinks—pineapple on pizza is actually, like, the perfect combination of sweet and savory, okay? [Tsk]
+
+278 [Sarcastic] Oh sure, because the majority is always right about everything. [Laugh] Remember when everyone thought the earth was flat?
+
+279 [Fast] I've done the research, I've looked at the data, and honestly the numbers don't—they just don't lie about this stuff. [Defensive]
+
+280 [Whisper] Between you and me, I think deep down, um, people actually agree but they're too scared to admit it. [Sigh]
+
+281 [Happy] You know what? I'm glad I believe this! [Laugh] It makes me different and I kinda like standing out from the crowd.
+
+282 [Slow] The thing is... nobody wants to hear it because it challenges what they've believed their whole lives, y'know? [Disappointed]
+
+283 [Shout] Would you just let me finish my point before you—before you jump all over me about it? [Groan]
+
+284 [Sad] I used to keep quiet about it, but I'm just, I'm tired of pretending I agree when I really, really don't. [Sigh]
+
+285 [Sarcastic] [Slow] Wow, another person telling me I'm wrong without actually listening to my reasoning—how original.
+
+286 [Fast] [Happy] Actually wait, wait, wait—I found three studies that basically prove what I'm saying, so it's not just me being weird!
+
+287 [Disappointed] I mean, I thought you of all people would at least, like, try to understand where I'm coming from. [Tsk]
+
+288 [Angry] [Fast] This is exactly why I don't usually bring it up because everyone gets all—they get defensive and won't even consider it!
+
+289 [Chuckle] Honestly? In ten years everyone's gonna pretend they believed this all along. [Sarcastic] Mark my words.
+
+290 [Whisper] [Sad] Sometimes I wonder if I'm actually wrong, but then I remember... no, no, the evidence is there.
+
+291 [Slow] You're allowed to disagree, but, um, dismissing it without even thinking about it? [Disappointed] [Sigh] That's just closed-minded.
+
+292 [Happy] [Fast] Oh my god, finally someone who's willing to actually discuss it instead of just laughing at me!
+
+293 [Groan] Here we go again—I mention it once and suddenly I'm the, the crazy person in the room. [Angry]
+
+294 [Sarcastic] [Chuckle] Sure, let's all just believe the same thing forever and never question anything—that sounds super healthy for society.
+
+295 [Sad] [Slow] I dunno, maybe I'm just seeing something that... that other people can't see yet, or won't see.
+
+296 [Shout] It's not stupid! [Angry] [Fast] Just because it's different doesn't mean—ugh, why do I even bother trying to explain anymore?
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+297 SCENARIO: Upset about a dead phone, then finding an outlet right where they are
+
+==================================================
+
+[frustrated]
+
+Oh my god, you have no idea what kind of day I've had. My phone died right when I was supposed to meet Sarah for coffee, and I'm like— I'm standing there like an idiot because I don't even remember where we said to meet exactly.
+
+[annoyed]
+
+And of course it's one of those days where like, everyone's running late, so I'm just wandering around the whole plaza looking for her, checking every single café. My phone's completely dead, can't call her, can't check my messages, nothing.
+
+[increasingly agitated]
+
+I'm thinking she probably texted me the exact spot, you know? Or maybe she's trying to call me right now wondering where the hell I am. [sigh] I felt so disconnected, like— God, when did I become so dependent on this stupid thing?
+
+[still frustrated but hopeful]
+
+So I'm looking around for somewhere to charge it, right? Thinking I'm gonna have to like, go into some store and ask to use their outlet or something awkward like that, and—
+
+[surprised] [relieved]
+
+Wait, oh my god. There's literally a charging station right here. Right where I'm standing. [half laugh] Like, I've been pacing around this bench for ten minutes complaining and there's just— it's right here.
+
+[lighter] [slightly embarrassed]
+
+Okay, crisis averted. [chuckle] Sometimes the universe actually does look out for you, I guess.
