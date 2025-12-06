@@ -1,0 +1,579 @@
+ACTOR LINE ASSIGNMENTS - 97 ITEMS (~2194 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  270 words ( 12.3%)
+
+  monologues_selftalk :  188 words (  8.6%)
+
+  conversation        :  344 words ( 15.7%)
+
+  cs_alpha            :  370 words ( 16.9%)
+
+  cs_noalpha          :  335 words ( 15.3%)
+
+  basic_scenarios     :  448 words ( 20.4%)
+
+  monologues          :  239 words ( 10.9%)
+
+  TOTAL               : 2194 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (49 words)
+
+Script: 67144094_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So. I got engaged.
+
+1 Character 2: Wait wait wait—WHAT? You just—okay you can't just drop that like it's nothing! Oh my god, when did this happen? I need like, I need every single detail right now.
+
+Character 1: Last weekend. At the beach.
+
+2 Character 2: The beach? That's so—wait, wasn't that your anniversary trip? Oh my god, they actually did it! I mean, we all kinda knew it was coming but still, this is like [Gasp] this is huge!
+
+Character 1: You knew?
+
+3 Character 2: I mean, not knew knew, but like... they asked me about ring sizes a while back? And I was trying so hard not to say anything because—god, keeping that secret was literally killing me.
+
+Character 1: Huh. Sneaky.
+
+4 Character 2: But okay okay, how do you feel? Like, are you—I mean obviously you said yes, but are you excited? Freaking out? Both? Because honestly both would be totally normal.
+
+Character 1: It's... a lot. Good, but a lot.
+
+5 Character 2: No no, that makes total sense. It's like, even when you want something, actually having it happen is just—it changes everything, y'know? [Softer] In the best way though, right?
+
+Character 1: Yeah. Mostly. My mom's already planning the whole thing.
+
+6 Character 2: Oh god, already? That's—okay that's actually kinda hilarious but also terrifying? Like, you literally just got engaged and she's probably got spreadsheets and everything.
+
+Character 1: Color-coded binders. Three of them.
+
+7 Character 2: Three—[Laugh] stop it, you're joking. Actually no, wait, this is your mom we're talking about. She totally has binders. Has she mentioned the venue yet? Or like, the guest list?
+
+Character 1: She wants to invite her entire book club.
+
+8 Character 2: Her book club? But they don't even—okay you know what? We're gonna deal with that later. Right now I wanna see this ring because I know it's gorgeous and you're just sitting there not showing me!
+
+Character 1: It's nice. Simple. Here.
+
+9 Character 2: Oh my—babe, that's not just nice, that's perfect. Like, it's so you, if that makes sense? They really paid attention. God, I'm getting all emotional and it's not even my engagement [Laugh].
+
+Character 1: Thanks. It feels weird wearing it.
+
+10 Character 2: Yeah, I bet—I mean, it's gonna feel weird for a while, right? But like, good weird. The kind where you catch yourself staring at your hand randomly and thinking "holy shit, I'm actually doing this."
+
+Script: 4eed9508_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: You called my mom.
+
+11 Character 2: I—okay, yes, but before you freak out, she called me first. She was worried sick about you and I couldn't just—I mean, what was I supposed to say?
+
+Character 1: Nothing. You say nothing about me.
+
+12 Character 2: That's not—come on, that's not realistic. Your mom was literally crying on the phone because you haven't talked to her in weeks. I was trying to help.
+
+Character 1: I didn't ask for your help.
+
+13 Character 2: No, you didn't. You never do. [Sigh] But you're also not dealing with this, and someone had to—I dunno, someone had to do something. You can't just ghost your entire family forever.
+
+Character 1: That's my choice to make.
+
+14 Character 2: Yeah, well, your choices affect other people too, y'know? Your mom thinks she did something wrong, your sister keeps texting me asking if you're okay—I'm stuck in the middle here.
+
+Character 1: Nobody put you there.
+
+15 Character 2: Actually, you kinda did when you made me your emergency contact and then decided to cut everyone else off. What am I supposed to—[frustrated laugh] okay, fine, I shouldn't have told her anything.
+
+Character 1: But you did.
+
+16 Character 2: I told her you were alive and okay! That's it! I didn't—I didn't give her your new address or tell her about the job stuff or anything. Just that you needed space. That's literally all I said.
+
+Character 1: You had no right.
+
+17 Character 2: Maybe not, but honestly? Watching you self-destruct while your family falls apart isn't exactly easy for me either. I'm sorry I went behind your back, I am, but I'm not sorry I tried to help.
+
+Character 1: This isn't helping. This is interfering.
+
+18 Character 2: Fine, fine, it's interfering. But you know what? At least I'm doing something instead of just—instead of pretending everything's gonna magically fix itself if we all just ignore it long enough.
+
+Character 1: It's not your problem to fix.
+
+19 Character 2: No, it's not. [Scoff] But apparently I care more about your family than you do right now, so yeah, I made a judgment call. Sue me.
+
+Character 1: Don't talk to them again.
+
+20 Character 2: I—look, I can't promise that if your mom calls me sobbing again, okay? I won't seek them out, but I'm not gonna lie if they ask me direct questions. That's the best I can do.
+
+Script: 51ed2147_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So you and Jamie. How long?
+
+21 Character 2: I—okay, I was gonna tell you. I swear I was gonna tell you, but we wanted to be sure it was actually something first, y'know? Like, what if it didn't work out and then it was weird for nothing?
+
+Character 1: Three months, Alex says. Three months.
+
+22 Character 2: It's not—it's not three months. [Sigh] Maybe like... two and a half? But look look, we didn't even know if it was serious at first. We were just hanging out and then it kinda... happened.
+
+Character 1: Behind my back.
+
+23 Character 2: That's not fair. We weren't doing anything behind your back, we just—we didn't announce it immediately. There's a difference. You're acting like we were sneaking around plotting against you or something.
+
+Character 1: You were sneaking around.
+
+24 Character 2: No, we were being private. About our relationship. Which—honestly? We're allowed to do that. I'm sorry you found out from Alex instead of us, I really am, but [frustrated laugh] we're adults, we don't need permission.
+
+Character 1: It's not about permission.
+
+25 Character 2: Then what? What is it about? Because I'm trying to understand why you're this pissed and I'm—I dunno, I'm not getting it. Jamie and I like each other. That's... that's not a crime.
+
+Character 1: You're both my best friends.
+
+26 Character 2: Yeah, exactly! Which is why we wanted to be careful! If it went badly—god, can you imagine? The whole friend group would've imploded. We were trying to protect everyone, including you.
+
+Character 1: By lying to me.
+
+27 Character 2: We didn't lie! We just—okay okay, fine, we didn't tell you. But that's not the same as lying. And honestly? The way you're reacting right now is kinda proving we were right to wait.
+
+Character 1: Wow.
+
+28 Character 2: I didn't mean—[groan] that came out wrong. Look, I get that you're hurt. I do. And I'm sorry we didn't handle this better, but you gotta understand, we were scared. Scared of this, scared of ruining everything.
+
+Character 1: So you ruined it anyway.
+
+29 Character 2: Did we though? Did we really ruin everything? Or are you just mad that something changed without you being in control of it? Because that's what this feels like, if I'm being honest.
+
+Character 1: I'm done with this conversation.
+
+30 Character 2: Of course you are. You always—fine. Whatever. But when you're ready to actually talk about this like adults instead of making me the villain, you know where to find me. Jamie too.
+
+Script: 8ca93c0b_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: I saw what you posted in the group chat.
+
+31 Character 2: Oh god, oh no—wait, which—actually, it doesn't matter. I'm so sorry. I didn't think—I mean, I wasn't thinking at all, obviously. I just thought it was funny and I wanted to share but that's not—that's no excuse.
+
+Character 1: You screenshotted our private conversation.
+
+32 Character 2: I know, I know, and that was so wrong of me. Like, completely out of line. I deleted it right away—well, like five minutes later when I realized how messed up it was. [nervous laugh] Not that that makes it better.
+
+Character 1: Five minutes. Great.
+
+33 Character 2: No no no, you're right to be mad. I would be—I'd be furious if someone did that to me. I wasn't even thinking about how it was private, I just—I dunno, I got caught up in wanting everyone to laugh and I totally violated your trust.
+
+Character 1: Did everyone see it?
+
+34 Character 2: Um, I think—I mean, yeah, probably most people saw it before I deleted it. But nobody said anything bad! They just thought it was funny that you—actually, that doesn't matter. [groan] I'm making this worse, aren't I?
+
+Character 1: You think?
+
+35 Character 2: Listen, I—I get that you probably don't wanna talk to me right now, and honestly, fair. But I need you to know that I'm genuinely, genuinely sorry. Like this isn't just me trying to—to make myself feel better or whatever.
+
+Character 1: It was personal, what I told you.
+
+36 Character 2: I know. God, I know, and that makes it so much worse. You were being vulnerable with me and I just—I turned it into entertainment for other people. That's so gross of me. I hate that I did that to you.
+
+Character 1: I trusted you with that.
+
+37 Character 2: And I completely broke that trust, I know. I'm gonna—I already told everyone in the chat that it was wrong of me to share it and asked them not to mention it again. I mean, damage is done, but at least—at least they know it was my fault, not yours.
+
+Character 1: That doesn't fix it.
+
+38 Character 2: No, it doesn't. You're right. Nothing really—nothing can undo it, can it? [sigh] I just, I wanna make this right somehow but I don't know how. Tell me what to do and I'll do it, I swear.
+
+Character 1: Just... don't do it again. To anyone.
+
+39 Character 2: Never. Never ever, I promise. I learned my lesson—well, I should've already known better, but I mean—I will never screenshot anyone's private stuff again. That was such a breach of—of basic friendship rules, y'know?
+
+Character 1: Yeah. It was.
+
+40 Character 2: Are we—I mean, I know we're not okay right now, and that's on me, but like... do you think we can be? Eventually? I really—I really don't wanna lose you as a friend over my stupid mistake.
+
+Script: 273a5d60_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: I saw the presentation. My name wasn't on it.
+
+41 Character 2: Oh—okay, I can explain that. It wasn't like I deliberately left you off, the template only had room for one name and I figured—I mean, everyone knows we worked together on it.
+
+Character 1: Do they?
+
+42 Character 2: Look look, I get why you're upset, but you're acting like I'm trying to steal all the glory here when that's not—that's not what happened. I literally mentioned you in the Q&A.
+
+Character 1: Once. At the end. When someone asked directly.
+
+43 Character 2: That's not—[sigh] okay fine, maybe I could've been more explicit about it, but honestly? You weren't even gonna present. You said you didn't wanna do the talking part.
+
+Character 1: That doesn't mean you erase me from the work.
+
+44 Character 2: I didn't erase you! God, you're making it sound like I'm this—this horrible person who planned this whole thing. It was a mistake, okay? A stupid formatting thing that I—yeah, I should've fixed it, but I didn't think—
+
+Character 1: You didn't think I'd care.
+
+45 Character 2: No! That's not—ugh, you're twisting everything I say. [frustrated laugh] I didn't think it was that big a deal because we both know what we contributed. I did like seventy percent of that project anyway.
+
+Character 1: Seventy percent. Really.
+
+46 Character 2: Yeah, kinda? I mean—look, I'm not saying you didn't help, obviously you did, but I pulled three all-nighters finishing that thing while you were—whatever, that's not the point.
+
+Character 1: No, finish. While I was what?
+
+47 Character 2: While you were dealing with your other stuff! Which is fine, I'm not—I'm not blaming you for having other priorities, but don't act like we split this fifty-fifty when you know that's not true.
+
+Character 1: I gave you all my research. Every source.
+
+48 Character 2: And I used it! I turned it into an actual presentation, I made all the slides, I practiced for hours—I'm sorry, okay? I'm sorry your name wasn't on the title slide, but honestly? I think I deserved the credit I got.
+
+Character 1: All of it?
+
+49 Character 2: That's not what I—[groan] come on, you know that's not what I meant. I'm trying to apologize here but you're not even—you won't even acknowledge that maybe, just maybe, I had reasons for how things went down.
+
+Character 1: Your reasons don't change what you did.
+
+50 Character 2: Fine. Fine fine, you're right, I screwed up. But y'know what? I'm kinda disappointed too, because I thought—I thought you'd at least try to understand where I was coming from instead of just... this.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (59 words)
+
+============================================================
+
+============================================================
+
+ITEMS 21-30 - EMPATHETIC PARTIAL (50 words)
+
+============================================================
+
+============================================================
+
+ITEMS 31-40 - EMPATHETIC PARTIAL (57 words)
+
+============================================================
+
+============================================================
+
+ITEMS 41-50 - EMPATHETIC PARTIAL (55 words)
+
+============================================================
+
+============================================================
+
+ITEMS 52-61 - CONVERSATION (344 words)
+
+Script: 5b580163
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+51 Character 1: [panicked shout] The hull breach—it's in section seven! [breathing heavily] Water's coming in fast, we need to seal it now! [voice cracking] Get the emergency kit before we lose power to the whole compartment!
+
+Character 2: [trembling] I can't reach it—the locker's jammed! [more desperately] The pressure's building too fast. [Sharp gasp] Jesus, it's already at our knees! Try the manual override on the bulkhead door, we have seconds!
+
+52 Character 1: [strained grunt] It won't budge! [voice rising] The hydraulics must be damaged from the impact. [Choking cough] Help me with this valve—if we can redirect the ballast, maybe we can equalize the pressure somehow!
+
+Character 2: [in disbelief] Are you insane? That could flood the entire lower deck! [more firmly] No, we follow protocol—sound the collision alarm first. [Gasping breath] Then we evacuate through the escape trunk while we still can!
+
+53 Character 1: [hoarse whisper] The escape trunk's above the breach. [louder and frantic] Can't you hear that groaning? The metal's buckling! [Whimpering] We're trapped between the water and a sealed hatch—think of something else, quick!
+
+Character 2: [eerily calm] Okay, okay, remember your training. [quickening pace] Emergency blow—we surface the boat, release all ballast tanks simultaneously. [determined shout] I'll handle the controls, you manually open the high-pressure air valves, move!
+
+54 Character 1: [through gritted teeth] The console's shorting out—sparks everywhere! [defeated tone] Half the systems are already dead. [Bitter laugh] So much for state-of-the-art equipment. Wait—the auxiliary pump, is it still operational down here?
+
+Character 2: [urgently] Auxiliary pump's in the next compartment, but the hatch wheel's underwater now. [voice shaking] My hands are going numb from the cold. [Desperate cry] We need another way out—what about the maintenance shaft?
+
+55 Character 1: [weakly] Too narrow with the emergency gear on. [more resolved] Listen, one of us needs to dive under, open that hatch. [quiet determination] I'll do it—you keep trying the radio, maybe someone heard our last transmission.
+
+Character 2: [angrily] Don't be a hero, that's suicide in this temperature! [pleading whisper] We both make it out or neither of us does. [Sobbing breath] There's got to be—wait, the ventilation duct, it leads to engineering!
+
+56 Character 1: [exhausted] The duct's our only shot, but we'll have to swim to reach it now. [firmly] Drop everything that weighs you down. [Shuddering breath] On three, we go together—the water's rising faster, almost at our chests!
+
+Character 2: [teeth chattering] Can't feel my legs anymore. [in growing panic] The emergency lights just died—it's pitch black! [Terrified scream] Something just brushed against me! Is that debris or—God, the hull's splitting more!
+
+57 Character 1: [commanding tone] Focus on my voice, don't think about the dark! [reassuring] I've got your shoulder, we're moving together. [Coughing sputter] The duct should be two meters ahead—keep your hand on the wall, feel for it!
+
+Character 2: [barely audible] Found it—the grate's loose! [straining] Help me pull this thing off! [Triumphant gasp] It's open! You go first, I'll push you up, then you pull me through—hurry, water's at my neck!
+
+58 Character 1: [echoing from duct] I'm through—reaching back for you now! [desperately loud] Grab my hand! [more strained] You're heavier than—no, don't let go! Push with your legs against the wall, I've almost got you up here!
+
+Character 2: [gasping] Made it! [rapid breathing] Crawl forward, don't stop! [fierce whisper] I can hear the water filling the space behind us—this duct better lead somewhere, or we just trapped ourselves in a metal coffin!
+
+59 Character 1: [hopeful] There's light ahead—actual light! [voice breaking] It's the engineering bay access panel! [Nervous laugh] Twenty more meters of crawling and we're out—unless this section's flooded too, but I hear voices down there!
+
+Character 2: [relieved sob] Those are damage control teams! [shouting ahead] Hey! We're in here—two officers from compartment seven! [weakly] Don't close any hatches yet, we're coming through! Thank God, we actually might make it!
+
+60 Character 1: [dazed mumble] My ears won't stop ringing. [gradually steadier] That was too close—thirty more seconds and we'd have drowned. [Heavy exhale] The Captain's going to want answers about how we missed that initial breach warning.
+
+Character 2: [grimly quiet] Seven minutes—that's all it took for our compartment to flood completely. [in shock] Peterson and Kumar were on duty there an hour ago. [Shaky breath] We need to report this immediately—others might still be trapped below.
+
+============================================================
+
+ITEMS 62-66 - CS ALPHANUMERIC (370 words)
+
+Script: d305baa4
+
+============================================================
+
+You are playing a customer service agent; your role: Character 1
+
+--- FULL SCRIPT ---
+
+ Character 1: [confused] Excuse me, um, I'm trying to use this AR thing on my phone but—[frustrated sigh]—nothing's happening when I point it at product SKU-4478B. [hesitantly] Is there like a specific angle I need or something?
+
+61 Customer Support: Hello! I see you're having trouble with our AR feature. First, make sure you've enabled camera permissions in settings—that's under menu ID 3.2A. Are you seeing the blue scanning frame appear at all?
+
+ Character 1: [relieved] Oh wait, yeah, there's a frame now! [excitedly] But it keeps saying "calibration needed" and—[groans]—the percentage just stuck at 47%. Should I try moving to aisle 12-B instead where the lighting's better?
+
+62 Customer Support: Ah, calibration issues are common in low-light areas. Try holding your device exactly 8 to 10 inches from the product barcode. Once it hits 100%, you'll see option code V-2.0 for virtual try-on appear.
+
+ Character 1: [amazed] Whoa, it just—it worked! [laughs nervously] I can see the sofa in my living room now, but um, the color looks weird? [puzzled tone] Like it's showing beige but the tag says item color BLU-445?
+
+63 Customer Support: Sometimes our AR renderer has sync issues with color hex codes. [helpful tone] Can you tap the refresh icon—it's the circular arrow near coordinate X234-Y556? That should load the correct texture file, version 3.1.4.
+
+ Character 1: [frustrated groan] Now the whole thing crashed and there's an error—[reading slowly] "Exception at memory address 0x7B4A." [sarcastically] Super helpful, right? My session ID was, uh, let me check... AS-99412-K if that matters?
+
+64 Customer Support: Oh dear, that's a cache overflow error. Don't worry though—just force-close the app and clear your temporary files. When you restart, use quick-scan mode QS-7 instead of the default enhanced mode.
+
+ Character 1: [skeptically] Okay, it's back up but—[surprised gasp]—wow, there's like twenty different furniture pieces floating everywhere! [bewildered] Is this supposed to happen with multi-scan batch MRX-200, or did I break something at coordinates 41.2, -73.8?
+
+65 Customer Support: You've activated our showroom mode by accident! Double-tap with two fingers to exit, then select single-item view SIV-1. Your location data and all 20 scanned items are saved under profile reference PRF-8823-QM though.
+
+============================================================
+
+ITEMS 67-76 - CS NO-ALPHANUMERIC (335 words)
+
+Script: bdf84266
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+66 Customer Support: Good afternoon, this is Sarah from PowerGrid Utilities, how can I assist you today? I see you're calling from the account registered to—let me just pull that up for you.
+
+Character 1: [frustrated] This is the THIRD time I'm calling about estimated bills. [louder] Four months straight of estimates, no actual meter readings! [exasperated sigh] My last bill was double what I usually pay—how is that even possible?
+
+67 Customer Support: I completely understand your frustration, sir, and I'm—I'm truly sorry about this ongoing issue. [quickly] Let me check your account history right away to see what's been happening with those meter readings.
+
+Character 1: [sarcastically] Oh great, checking the system again. [bitter laugh] That's what the last two agents said before telling me to just... wait. [firmly] I need this fixed TODAY, not another runaround.
+
+68 Customer Support: Sir, I can see the pattern here and—yes, you're absolutely right, this shouldn't have gone on this long. I'm escalating this immediately to our field service team, and here's what we'll do differently this time.
+
+Character 1: [skeptically] Differently? [scoffs] Like what, exactly? Because I've heard promises about sending technicians before, and somehow my meter is apparently [mockingly] "inaccessible" even though it's right by my front door.
+
+69 Customer Support: [decisively] Right, so—listen, I'm scheduling a priority appointment for tomorrow between 8 and 12. The technician will call you thirty minutes before arrival, and if they can't access it, they'll need to document exactly why with photos.
+
+Character 1: [slightly calmer] Tomorrow? [pause] [cautiously] Okay, but what about these inflated bills I've been paying? I want my money back if you've been overcharging me based on these wild estimates.
+
+70 Customer Support: Absolutely, once we get the actual reading, we'll do a full reconciliation going back four months. Any overcharges will be credited to your account immediately, or—or we can issue a refund check if you prefer.
+
+Character 1: [more firmly] I want it in writing. [determined] Email me this guarantee about the refund and tomorrow's appointment. [sighs] I'm done with verbal promises that mysteriously vanish when I call back.
+
+71 Customer Support: [efficiently] Already typing it up as we speak—you'll have that confirmation email within five minutes. It'll include my direct extension, case number 78432, and the service manager's contact as backup.
+
+Character 1: [surprised] Your direct extension? [softer] That's... actually helpful. [still wary] But if this doesn't get fixed tomorrow, I'm filing a complaint with the utility commission.
+
+72 Customer Support: That's completely fair, and honestly, you have every right to do that. Between us, sometimes that's what it takes to get things moving properly around here.
+
+Character 1: [chuckles dryly] Did you just admit your company needs threats to function? [lighter tone] At least you're honest about it. Fine, I'll be home tomorrow morning waiting for this miraculous technician appearance.
+
+73 Customer Support: I prefer to call it... external motivation. But seriously, I've flagged this as critical, and I'll personally follow up tomorrow afternoon to confirm everything went smoothly.
+
+Character 1: [resigned] Alright, Sarah, I'm trusting you here. [firmly] But just so we're clear—if I get another estimated bill next month, I'm switching providers and posting about this everywhere.
+
+74 Customer Support: [confidently] You won't need to, I promise you that. I'm also adding a note for monthly manual reads for the next three months, just to ensure this never happens again.
+
+Character 1: [genuinely surprised] Manual reads for three months? [appreciatively] Now that's something nobody else offered. Maybe you actually know what you're doing over there.
+
+75 Customer Support: Thank you, sir—I've been doing this for eight years, and trust me, I've seen it all. Your email confirmation just went through; check your inbox and let me know if you need anything else.
+
+Character 1: [relieved sigh] Got it, yeah, I see the email now. [more calmly] Thanks, Sarah. [genuinely] You're the first person who actually seemed to care about fixing this mess.
+
+============================================================
+
+ITEM 76 - BASIC SCENARIO (23 words)
+
+============================================================
+
+76 [Slow] Good evening everyone, I'm so honored to be—wait, no, that's too formal. [Tsk] Let me try that again with, like, more energy.
+
+============================================================
+
+ITEM 77 - BASIC SCENARIO (24 words)
+
+============================================================
+
+77 [Happy] Okay, this is it, you've got this! [Fast] Just remember to breathe, make eye contact, and don't forget the joke about the chicken!
+
+============================================================
+
+ITEM 78 - BASIC SCENARIO (25 words)
+
+============================================================
+
+78 [Whisper] Why did I agree to do this? [Sigh] I mean, honestly, I could just call in sick tomorrow and nobody would even—no, stop it.
+
+============================================================
+
+ITEM 79 - BASIC SCENARIO (22 words)
+
+============================================================
+
+79 [Angry] The statistics clearly show that we're—ugh, I sound like a robot! [Groan] Nobody wants to hear numbers for twenty minutes straight!
+
+============================================================
+
+ITEM 80 - BASIC SCENARIO (22 words)
+
+============================================================
+
+80 [Sarcastic] Oh sure, let's open with a quote from Gandhi, because that's never been done before. [Chuckle] Really groundbreaking stuff there, genius.
+
+============================================================
+
+ITEM 81 - BASIC SCENARIO (22 words)
+
+============================================================
+
+81 [Disappointed] I've been practicing for three weeks and I still can't get through the middle part without, um, completely blanking out. [Sigh]
+
+============================================================
+
+ITEM 82 - BASIC SCENARIO (19 words)
+
+============================================================
+
+82 [Fast] [Happy] And that's when everything changed—boom! [Laugh] See, I told you this story would blow your minds, right?
+
+============================================================
+
+ITEM 83 - BASIC SCENARIO (18 words)
+
+============================================================
+
+83 [Slow] In conclusion... [Tsk] No wait, that sounds like I'm wrapping up a high school essay or something.
+
+============================================================
+
+ITEM 84 - BASIC SCENARIO (21 words)
+
+============================================================
+
+84 [Shout] Ladies and gentlemen! [Happy] Welcome to—actually is that too loud? I don't wanna, like, scare people right off the bat.
+
+============================================================
+
+ITEM 85 - BASIC SCENARIO (23 words)
+
+============================================================
+
+85 [Sad] [Whisper] What if I just completely freeze up there and everyone's staring at me and I can't even remember my own name?
+
+============================================================
+
+ITEM 86 - BASIC SCENARIO (20 words)
+
+============================================================
+
+86 [Fast] Um, so basically what I'm trying to say is—no, that's too wishy-washy. [Angry] Just get to the point already!
+
+============================================================
+
+ITEM 87 - BASIC SCENARIO (25 words)
+
+============================================================
+
+87 [Chuckle] You know what, forget the notecards. [Happy] I'm just gonna wing it and see what happens, I mean, how bad could it really go?
+
+============================================================
+
+ITEM 88 - BASIC SCENARIO (25 words)
+
+============================================================
+
+88 [Disappointed] This tie makes me look like I'm going to a funeral, doesn't it? [Sigh] Great, now I gotta figure out what else to wear.
+
+============================================================
+
+ITEM 89 - BASIC SCENARIO (20 words)
+
+============================================================
+
+89 [Slow] [Sarcastic] Thank you sooo much for this incredible opportunity to speak about quarterly revenue projections. [Tsk] Thrilling stuff, truly.
+
+============================================================
+
+ITEM 90 - BASIC SCENARIO (23 words)
+
+============================================================
+
+90 [Whisper] [Sad] Remember when you used to be good at this? When you could just, like, talk to people without your hands shaking?
+
+============================================================
+
+ITEM 91 - BASIC SCENARIO (28 words)
+
+============================================================
+
+91 [Happy] Oh man, they're gonna love the part where I talk about the—wait, did I remember to print the handouts? [Groan] [Fast] Please tell me I printed them!
+
+============================================================
+
+ITEM 92 - BASIC SCENARIO (25 words)
+
+============================================================
+
+92 [Angry] Stop saying "um" every five seconds! [Disappointed] It's literally the one thing the coach told you not to do, and here you are, um—dammit!
+
+============================================================
+
+ITEM 93 - BASIC SCENARIO (21 words)
+
+============================================================
+
+93 [Slow] Before we begin, I'd like to acknowledge... [Chuckle] Nah, that sounds way too presidential for a sales presentation, doesn't it?
+
+============================================================
+
+ITEM 94 - BASIC SCENARIO (21 words)
+
+============================================================
+
+94 [Shout] [Happy] Yes! Nailed that transition! [Laugh] Finally got from point A to point B without sounding like a complete disaster!
+
+============================================================
+
+ITEM 95 - BASIC SCENARIO (21 words)
+
+============================================================
+
+95 [Sarcastic] [Fast] Sure, compare yourself to Steve Jobs, that's not pretentious at all—I mean, you're basically the same person, right? [Tsk]

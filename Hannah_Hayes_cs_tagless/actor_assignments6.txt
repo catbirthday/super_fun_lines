@@ -1,0 +1,309 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 2f550f4b_script | Role: Character 2 (B)
+
+Character 1: You double-booked us.
+
+467 Character 2: I—wait, what? No, I didn't. I mean, I couldn't have. Let me check my—[groan] oh god. Okay, yeah, I see it now. But this wasn't on purpose!
+
+Character 1: I waited for an hour.
+
+468 Character 2: Look look, I know that sucks, and I'm sorry you waited, but it's not like I deliberately stood you up. My calendar app has been glitching all week and I—I genuinely thought we were meeting tomorrow.
+
+Character 1: You could've checked. Or called.
+
+469 Character 2: Okay okay, but you're acting like I'm the only one who's ever made a scheduling mistake. Remember when you forgot my birthday dinner? I didn't—I wasn't this cold about it.
+
+Character 1: That was different.
+
+470 Character 2: How? How is that different? Because honestly, it feels like you're just looking for a reason to be mad at me right now. [frustrated laugh] I messed up, fine, but come on.
+
+Character 1: I rearranged my entire day for this.
+
+471 Character 2: And I get that, I do, but like—I also rearranged my day! I'm literally at another commitment I made weeks ago that I can't just bail on. You think I wanted this to happen?
+
+Character 1: Whatever. It's fine.
+
+472 Character 2: No, don't—don't do that. Don't say it's fine when you're clearly pissed. I'd rather you just yell at me than do this whole ice queen thing, y'know?
+
+Character 1: What do you want me to say?
+
+473 Character 2: I dunno, maybe acknowledge that people make mistakes? That I'm not some—some terrible friend because I accidentally double-booked one time? [sigh] This is exhausting.
+
+Character 1: One time. Right.
+
+474 Character 2: Okay, fine fine, maybe I've done it before, but it's not like—I mean, I'm juggling a lot right now, and yeah, sometimes things slip through. That doesn't mean I don't care about our plans.
+
+Character 1: Clearly.
+
+475 Character 2: That's—wow. Y'know what? I was gonna offer to make it up to you, buy lunch next week or whatever, but if you're gonna be like this about an honest mistake...
+
+Character 1: Don't bother.
+
+476 Character 2: Fine. I won't. But just so we're clear—I am sorry I messed up the scheduling. I'm just not sorry enough for whatever level of groveling you apparently need from me right now.
+
+Script: 829caf47_script | Role: Character 2 (B)
+
+Character 1: We need to talk about yesterday.
+
+477 Character 2: Yesterday? What about—oh. Oh, you mean at dinner. Look, if this is about the story thing, I was just really excited about—everyone was laughing and having a good time, y'know?
+
+Character 1: You cut me off three times.
+
+478 Character 2: Three times? That's—okay, maybe I got a little carried away, but you're making it sound like I do this maliciously. I just get excited when we're all together, and I—I dunno, sometimes I just wanna contribute.
+
+Character 1: I was already contributing. Until you talked over me.
+
+479 Character 2: But that's not—[sigh] I mean, yeah, okay, I probably should've let you finish, but honestly? You kinda just stop talking sometimes and I think you're done. Like, there's these pauses and I'm not sure if—
+
+Character 1: Those are called breaths.
+
+480 Character 2: Okay okay, that's—that's not fair. You're being sarcastic now and I'm trying to actually explain. It's not like I wake up thinking "how can I interrupt my friend today?" I literally just get caught up in the moment.
+
+Character 1: It happens every time we're with people.
+
+481 Character 2: Every time? Come on, that's such an exaggeration. Maybe—maybe sometimes, yeah, but you're acting like I'm this terrible friend who never lets you speak. [frustrated laugh] Which is pretty ironic since you barely talk in groups anyway.
+
+Character 1: Wonder why.
+
+482 Character 2: Oh, so now it's my fault you're quiet? That's—no. No way. You've always been more reserved, even before we were friends. Don't put that on me just because I'm more—I dunno, outgoing or whatever.
+
+Character 1: There's a difference between outgoing and rude.
+
+483 Character 2: Rude? Seriously? [scoff] I'm rude now because I get enthusiastic about stuff? Look look, I'm sorry if I interrupted you, okay? But calling me rude is—that actually kinda hurts, honestly.
+
+Character 1: How do you think I feel?
+
+484 Character 2: I—okay, I get it. I do. But like, you could've just said something in the moment instead of letting it build up to this whole confrontation. I can't read your mind, y'know? I'm not gonna notice every single time if you don't tell me.
+
+Character 1: I've told you before.
+
+485 Character 2: When? When have you—oh. Oh, that time at Jake's birthday. But that was like, months ago, and I thought we were good after that. I've been trying to be better, but apparently that doesn't count for anything?
+
+Character 1: Not if you keep doing it.
+
+486 Character 2: Fine. Fine, you're right, I messed up again. But I'm not—I'm not gonna apologize for being who I am. Yeah, I get excited and maybe I talk too much sometimes, but that's just—[groan] I'll try harder, okay? But you gotta meet me halfway and actually speak up when it happens.
+
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+487 SCENARIO: waiting for someone to finish using the printer
+
+==================================================
+
+[muttering]
+
+Okay, so, um, how long has this been— how long has this been going? Like, I just need to print one thing, just one, uh, one page and— [sigh] I mean, what are they even printing that takes this long?
+
+[slightly impatient]
+
+It's been like, what, five minutes? Ten minutes? I don't— I don't actually know, I wasn't, um, I wasn't really keeping track but it feels like— it feels like forever. Maybe I should just— maybe I should just come back later?
+
+[second-guessing]
+
+But then I'll forget. I'll totally forget and then tomorrow I'll be like, oh crap, I never— I never printed that thing. And it's due, um, it's due soon-ish, so I really should just— I should just wait it out, right?
+
+[resigned]
+
+Okay, yeah, I'm waiting. I'm just gonna— I'm just gonna stand here and, uh, and wait like a normal person. [hmm] Maybe they're printing like a whole book or something. A novel. War and Peace. [snort]
+
+[perking up]
+
+Oh wait, is that— did it just stop? It stopped making noise, so maybe— oh no, no, it's going again. False alarm. [exhale] Cool, more waiting.
+
+[trailing off]
+
+I wonder if there's another printer on the, um, on the third floor? But that's so far and I'm already here, so...
+
+--- CONVERSATION ---
+
+Script: ef84479e | Role: Character 1 (A)
+
+488 Character 1: [resentfully] I changed eight diapers today while you had lunch meetings. [bitter laugh] Eight! [in a slower tone] Meanwhile, you come home and ask why the kitchen isn't spotless, like I've been lounging around eating bonbons all day.
+
+Character 2: [defensive] I work sixty hours a week to keep this family afloat! [exhausted sigh] I'm not criticizing, I just asked about the dishes. [quieter] Can we please not turn every conversation into a scorecard of who does more?
+
+489 Character 1: [sarcastically] Oh, right, because childcare isn't real work. [scoffs] I gave up my career for this family, remember? [building anger] Now I'm invisible—just the help who happens to share your bed occasionally when you're not too tired.
+
+Character 2: [hurt] That's not fair and you know it. [voice cracking] I never asked you to quit! [firmly] We agreed together that someone should stay home with the kids. Don't weaponize a decision we made as partners.
+
+490 Character 1: [mockingly] Partners? [hollow laugh] When did we last make a decision together? You schedule weekend conference calls without asking, [getting louder] buy things without discussing, and I'm here begging for grocery money like Oliver Twist!
+
+Character 2: [frustrated groan] You have full access to our accounts! [incredulous] Stop painting me as some financial dictator. [softer] I'm drowning at work, trying to secure our future, and you act like I'm the enemy here.
+
+491 Character 1: [trembling] Our future? [voice breaking] What about my present? I haven't had an adult conversation in weeks. [desperate whisper] The pediatrician knows me by name, but you missed three school events this month. Three!
+
+Character 2: [guilty] I know I've missed things. [deep breath] But someone has to earn the money, right? [pleading] I hate being away, but this promotion means private schools, college funds—[trails off] everything we dreamed about.
+
+492 Character 1: [coldly] We dreamed about a family, not a business arrangement. [sharp exhale] Remember when we used to laugh together? [wistfully] Now you come home, criticize the mess, eat dinner in silence, and disappear into your office.
+
+Character 2: [shocked] Is that really how you see it? [shaky voice] I'm working myself to death for us! [getting emotional] Maybe if you showed any appreciation instead of constant resentment, I wouldn't hide in my office.
+
+493 Character 1: [explosive] Appreciation? [bitter laugh] For what—being your unpaid nanny and housekeeper? [venomously] You get promotions, adult conversations, lunch breaks! I get goldfish crackers in my hair and judgment from working mothers. Fantastic trade-off!
+
+Character 2: [angrily] Then go back to work! [exasperated huff] Put them in daycare! [sarcastically] See how much of my salary evaporates into childcare costs. We'll both be miserable AND broke. Is that your solution here?
+
+494 Character 1: [defeated whisper] That's not the point. [long pause] I love our children fiercely. [steadier] But I've lost myself completely in this role, and you don't even see it happening. I'm disappearing right in front of you.
+
+Character 2: [softly] I see you. [voice catching] I see how tired you are. [more firmly] But I'm tired too, carrying the financial pressure alone. We're both drowning in different oceans, attacking each other instead of swimming together.
+
+495 Character 1: [hopefully] Then help me feel valued again. [gentle plea] Not with money or gifts—with time, with presence. [stronger] Ask about my day like it matters. Share the mental load of running this household. See me.
+
+Character 2: [thoughtfully] You're right about the mental load. [sighing] I delegate at work and come home expecting everything managed. [determined tone] But I need you to see my stress too, not just dismiss it as "having adult conversations."
+
+496 Character 1: [conciliatory] Maybe we're both right and both wrong. [soft chuckle] God, when did we become these people? [sadly] Keeping score, tallying resentments, forgetting we're supposed to be a team facing the world together.
+
+Character 2: [tenderly] We got scared, I think. [quiet reflection] Scared of failing our kids, each other, ourselves. [more warmly] The pressure made us forget that we chose this life, chose each other, for better reasons than financial security.
+
+497 Character 1: [emotionally] I miss my best friend. [voice thick] The one who used to make me laugh until my sides hurt. [hopeful whisper] Is she still in there, under all those spreadsheets and conference calls? Can we find our way back?
+
+Character 2: [lovingly] She's still here, just buried under exhaustion and guilt. [soft laugh] Maybe we need to stop being CEO and household manager for a while. [warmly] Just be us again—messy, imperfect, but together. Really together.
+
+--- CS ALPHANUMERIC ---
+
+Script: 09477aba | Role: Customer Support
+
+Character 1: [confused] Hi, yes, I'm calling about my account—it's 4792-BX-1138—and I, uh, I keep seeing these fractional shares appearing? [increasingly frustrated] My statement shows 0.347 shares of Microsoft, [pause] how do I even own part of a share?
+
+498 Customer Support: Good afternoon, Mr. Chen, I can help clarify that for you. Those fractional shares are from your dividend reinvestment program, or DRIP, [more slowly] which automatically purchases shares with your dividend payments.
+
+Character 1: [skeptical] But I never signed up for any, what did you call it, DRIP? [sighs heavily] Last quarter I got $247.82 in dividends from my 500 shares, [bewildered] shouldn't that just be cash in my account?
+
+499 Customer Support: Let me check your enrollment date here... Ah, I see you opted in on March 15th, 2023 at 2:47 PM. [more clearly] The form was submitted electronically through our portal at investor.tradecorp.com/reinvest.
+
+Character 1: [defensive] March 15th? That's—that's impossible, I was in Cabo! [groans] Wait, my wife handles some of the investments... [trailing off] Could she have done this from our joint login?
+
+500 Customer Support: Yes, absolutely, joint account holders can make these elections. The IP address shows it was from your home at 1847 Maple Drive, so unless you took Cabo with you...
+
+Character 1: [exasperated] Great, just great, so now I'm stuck with these weird decimals? [more urgently] My portfolio shows 127.893 shares of Apple, 89.421 of Amazon—[frustrated laugh] it's like everything's broken into pieces!
+
+501 Customer Support: You're not stuck at all, Mr. Chen. You can disable DRIP anytime through your account settings, [measured tone] though many investors find it beneficial for compound growth over time.
+
+Character 1: [sarcastically] Oh sure, compound growth with my point-three-four-seven shares! [sighs] Look, just—can you turn it off? [more seriously] Reference number, case ID, whatever you need, just make it stop reinvesting.
+
+502 Customer Support: I'll process that right now, your case number is TRD-2024-789456. The change takes 2-3 business days, and your next dividend payment on December 15th will deposit as cash to your settlement fund.
+
+--- CS NO-ALPHANUMERIC ---
+
+Script: 3ba10162 | Role: Customer Support
+
+503 Customer Support: Good afternoon, thank you for calling Premier Card Services, my name is Rachel. [quickly] How may I assist you today?
+
+Character 1: [frustrated] Yeah, hi, I need to know why—why my card keeps getting declined! [louder] I tried three different stores today, and it's embarrassing. This is ridiculous!
+
+504 Customer Support: I'm so sorry to hear you're experiencing this issue, that must be very frustrating. [briskly] Let me pull up your account right away—may I have your card number and the last four digits of your social?
+
+Character 1: [impatiently] It's 4789-2234-5567-8901, and the social is 4456. [sighs heavily] Look, I have money in my account, I checked twice this morning, so what's—what's going on here?
+
+505 Customer Support: Thank you, Mr. Davidson, I see your account here. It appears there's a security hold due to unusual purchase patterns detected—were you attempting purchases in, um, different states today?
+
+Character 1: [exasperated] Different states? [incredulous] I'm visiting my daughter in Phoenix! Of course I'm in a different state—that's why I brought the card!
+
+506 Customer Support: Ah, that explains it perfectly, sir. Our fraud detection system flagged the geographic change—I can remove that hold immediately, just need to verify two recent transactions first.
+
+Character 1: [sarcastically] Oh great, your system thinks I'm a criminal because I traveled. [groans] Fine, what transactions?
+
+507 Customer Support: Not at all, sir, it's just a precaution. Do you recognize a charge for $47.82 at Walgreens on Tuesday, and $122.50 at, uh, Best Buy on Monday?
+
+Character 1: [calming slightly] Yes, yes those are mine—the Walgreens was prescriptions and Best Buy was a tablet. [urgently] Can you just fix this already?
+
+508 Customer Support: Perfect, removing the hold now, and... done! Your card should work immediately, Mr. Davidson, and I'm adding a travel note through next Sunday.
+
+Character 1: [relieved] Finally, thank God. [muttering] Should've been able to do this online without—without calling and waiting twenty minutes. Will this happen again when I fly home?
+
+509 Customer Support: [confidently] Not at all, the travel note covers your return trip. For future trips, you can actually set travel notifications in our mobile app under 'Account Services'—takes about thirty seconds.
+
+Character 1: [skeptically] Your app? [chuckles dryly] The one that crashes every time I try to log in? Yeah, that's... that's super helpful.
+
+510 Customer Support: Oh, I apologize if you've had app issues. Have you updated it recently? The newest version from last week fixed several login bugs that were affecting some customers.
+
+Character 1: [sighs] I'll... I'll try updating it later. [firmly] But seriously, you guys need to fix this system—people travel, it's not unusual activity, it's normal life!
+
+511 Customer Support: [understanding] You're absolutely right, and I'll note your feedback for our security team. Is there anything else I can help you with while I have you on the line today?
+
+Character 1: [tired] No, just—make sure my card actually works now. [muttering quickly] I need to buy groceries for dinner and I can't face another declined transaction, not today.
+
+512 Customer Support: It's absolutely working now, Mr. Davidson, I guarantee it. The hold is completely removed and you should have no further issues during your trip.
+
+Character 1: [resigned] Alright, fine, thanks Rachel. [quickly] Have a good day, I guess, and hopefully I won't need to call back.
+
+--- BASIC SCENARIOS ---
+
+513 [Disappointed] Of course it's raining—I mean, why wouldn't it rain today of all days? [Sigh] We've been planning this for like three months.
+
+514 [Sarcastic] Oh fantastic, the weather app that said zero percent chance of rain was, uh, really accurate. [Tsk]
+
+515 [Angry] [Shout] Are you kidding me right now? I already paid for everything!
+
+516 [Happy] You know what, actually this is kinda perfect—we can just, um, have a movie marathon instead? [Chuckle]
+
+517 [Slow] [Sad] I guess we're not gonna see the meteor shower after all... I was really looking forward to that.
+
+518 [Fast] Quick, grab the—no wait, get the cooler first, then the chairs, everything's getting soaked! [Groan]
+
+519 [Whisper] Hey, between you and me, I'm sort of relieved we don't have to go camping. [Laugh]
+
+520 [Disappointed] [Slow] The kids are gonna be so upset when they wake up and realize the picnic's canceled.
+
+521 [Sarcastic] [Fast] Sure, let's just pretend the tent's waterproof when it's literally got holes in it, that'll work great.
+
+522 [Angry] I checked the forecast like fifty times yesterday and it said—ugh, this is so frustrating! [Tsk]
+
+523 [Happy] [Shout] Wait, the rain stopped! Maybe we can still salvage this thing!
+
+524 [Sigh] Mom's gonna say "I told you so" about booking an outdoor venue, isn't she?
+
+525 [Sad] [Whisper] I just wanted one nice day, you know? Just one day where everything went right.
+
+526 [Chuckle] Remember last year when we tried to barbecue in the rain and basically, um, set the deck on fire?
+
+527 [Fast] [Angry] No no no, this can't be happening—the wedding's in two hours and there's no backup plan!
+
+528 [Sarcastic] Yeah, 'cause standing under a tiny tent with forty people is exactly how I wanted to spend my Saturday. [Groan]
+
+529 [Disappointed] [Tsk] Should've just listened to my gut and postponed when I saw those clouds this morning.
+
+530 [Slow] [Happy] Actually, dancing in the rain sounds kinda romantic, don't you think?
+
+531 [Shout] [Laugh] Forget it, we're doing this anyway—who cares if we get soaked!
+
+532 [Sad] [Sigh] I dunno, maybe this is the universe telling us to just... stay in bed today or something.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+533 SCENARIO: Casually describing a forwarded email chain, then scrolling down, then finding gossip about the recipient in the original thread they didn't delete, ending in professional horror
+
+==================================================
+
+[casual]
+
+So I get this email this morning from Janet in HR, right? Just a standard thing about the new parking policy changes. You know how these things go - forward, forward, forward down the chain.
+
+[matter-of-fact]
+
+I'm scrolling through to see who else got it, make sure I'm not missing any context or whatever. It's like twelve people deep at this point. [light chuckle] The usual suspects.
+
+[conversational]
+
+But then I keep scrolling because I'm bored, and I see there's more stuff below. Like, way below. And I'm thinking, oh, they probably just didn't clean up the thread before forwarding.
+
+[slight concern]
+
+And then I see my name. Like, my actual name in the conversation. So obviously I'm gonna read it, right? Who wouldn't?
+
+[growing unease]
+
+It's from last week. Janet's talking to... oh god, it's Janet talking to *my boss* about how I've been— [sharp inhale] how I've been "struggling to meet deadlines" and showing "concerning patterns."
+
+[building panic]
+
+Wait, wait, wait. She sent this *to me*. She forwarded me an email chain where she's literally discussing my performance with my manager! 
+
+[horrified] [voice rising]
+
+Oh my god, she doesn't know! She has no idea she just— [groaning] This is career suicide! Mine AND hers! What do I even do with this?!

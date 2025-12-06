@@ -1,0 +1,423 @@
+ACTOR LINE ASSIGNMENTS - 67 ITEMS (~2281 words)
+
+============================================================
+
+WORD COUNT BREAKDOWN:
+
+  empathetic_partial  :  465 words ( 20.4%)
+
+  monologues_selftalk :  210 words (  9.2%)
+
+  conversation        :  326 words ( 14.3%)
+
+  cs_alpha            :  223 words (  9.8%)
+
+  cs_noalpha          :  327 words ( 14.3%)
+
+  basic_scenarios     :  473 words ( 20.7%)
+
+  monologues          :  257 words ( 11.3%)
+
+  TOTAL               : 2281 words
+
+============================================================
+
+============================================================
+
+ITEMS 1-10 - EMPATHETIC PARTIAL (52 words)
+
+Script: 855d9335_script
+
+============================================================
+
+You are B; your role: Character 2
+
+Character 1: So. I won.
+
+96 Character 2: Wait wait wait—you WON? Like, the whole thing? The—oh my god, the competition? That's literally incredible! I mean, I knew you were working on it but—wow!
+
+Character 1: Yeah. Best in show.
+
+97 Character 2: Best in—okay, okay, I'm gonna need you to like, actually tell me stuff here because this is huge! How many people were there? Was it like, super competitive? [Gasp] Did you get a trophy?
+
+Character 1: There's a trophy. And five hundred dollars.
+
+98 Character 2: Five HUNDRED—sorry, what? That's actually insane! You've been sewing for like, what, two years? And you just beat people who've probably been doing this forever?
+
+Character 1: Three years. But yeah.
+
+99 Character 2: Right right, three—still though! I remember when you couldn't even thread that machine thingy. Now you're literally winning conventions. Are you, like... happy about it? You seem kinda flat.
+
+Character 1: I don't know. It's weird.
+
+100 Character 2: Weird how? Like, weird that you won or weird that—actually, y'know what? I get it. Sometimes when something big happens it's like... your brain doesn't know what to do with it. [Chuckle]
+
+Character 1: People kept taking photos with me. For two hours.
+
+101 Character 2: Oh god, that's—yeah, that's a lot of people-ing. Especially for you. But like, they probably just thought you looked amazing! Which, I mean, obviously you did if you won the whole thing.
+
+Character 1: My feet still hurt.
+
+102 Character 2: Those platform boots! I told you—I literally said those things were gonna kill you. But no no no, you were all about "accuracy" and "screen-accurate proportions" or whatever.
+
+Character 1: Worth it though.
+
+103 Character 2: See! There—there it is! [Laugh] You ARE happy about it! You're just being all... you about it. Did anyone you know see you win?
+
+Character 1: My ex was there. In the audience.
+
+104 Character 2: Oh. Oh no. Wait—actually, that's kinda perfect though? Like, ultimate revenge is just... being incredible at something while they watch? How'd that feel?
+
+Character 1: Better than winning, honestly.
+
+105 Character 2: Okay that's—that's the best thing you've said all day. You know what? We're celebrating. I don't care if you're tired, we're getting takeout and you're gonna show me every single photo from today.
+
+Script: 96e3d9f1_script
+
+============================================================
+
+You are B; your role: Character 2
+
+--- FULL SCRIPT ---
+
+Character 1: We need to talk about your comments.
+
+106 Character 2: Oh—um, what comments? I mean, I'm not sure what you're—wait, are you upset with me? Because if I said something wrong, I honestly didn't mean to.
+
+Character 1: Really? You don't know?
+
+107 Character 2: Okay okay, maybe I—I might have an idea? But like, I wasn't trying to be mean or anything, I swear. Sometimes I just say things without thinking and—god, that sounds terrible when I say it out loud.
+
+Character 1: "Must be nice to have free time." "Some of us actually care about our appearance." Ring any bells?
+
+108 Character 2: Oh. Oh no. [nervous laugh] Those weren't—I didn't mean them like that. I was just, y'know, making conversation? But hearing them back like that... yeah, that's pretty bad, isn't it?
+
+Character 1: It's constant.
+
+109 Character 2: I know, I know, you're right. It's like—I dunno why I do it? Maybe I'm jealous or insecure or something and it just comes out all wrong. That's not an excuse though, I'm just trying to—I'm trying to understand why I keep doing this.
+
+Character 1: It hurts.
+
+110 Character 2: God, I'm so sorry. I really—[sigh]—I really am. You're one of my best friends and I've been acting like such a jerk without even realizing it. Or maybe I did realize it? I don't even know anymore.
+
+Character 1: You made me feel like everything I do is wrong somehow.
+
+111 Character 2: No no no, that's not—you're amazing, okay? You literally are. I think maybe I'm just... projecting my own stuff onto you? Which is so messed up and I gotta stop doing that immediately.
+
+Character 1: Why didn't you just talk to me if something was bothering you?
+
+112 Character 2: Because I'm an idiot? Because I didn't even realize I was—actually no, that's a cop-out. I think I was scared to admit I was feeling jealous about stupid things. Like your promotion and your new relationship and just... everything going well for you.
+
+Character 1: So you decided to be passive aggressive instead.
+
+113 Character 2: Yeah. Yeah, that's exactly what I did. And it's—it's toxic and horrible and I hate that I became that person. You deserve so much better than that from me, honestly.
+
+Character 1: I just want my friend back. The real one.
+
+114 Character 2: Me too. I mean—I wanna be that friend again. The one who actually celebrates your wins instead of making snide comments about them. [quieter] Can we—can we try to fix this? I promise I'll work on it.
+
+Character 1: It's going to take time. And you have to actually stop.
+
+115 Character 2: I will. I promise I will. And if I slip up—which hopefully I won't but if I do—please just call me out immediately? Don't let it build up like this again. I never wanna hurt you like this again.
+
+============================================================
+
+ITEMS 11-20 - EMPATHETIC PARTIAL (413 words)
+
+============================================================
+
+============================================================
+
+ITEMS 22-31 - CONVERSATION (326 words)
+
+Script: 2b7e9fab
+
+============================================================
+
+You are Character (A); your role: Character 1
+
+--- FULL SCRIPT ---
+
+116 Character 1: [stern] Let's discuss your performance this quarter. [clearing throat] Your reports have been consistently late, and [slower] I've noticed several errors in the budget projections. [pause] This isn't the standard we expect from someone in your position.
+
+Character 2: [quietly] I understand your concerns. [voice breaking] I've been trying really hard to keep up with everything, but [trembling] the workload has been overwhelming lately. [softer] I know I need to do better.
+
+117 Character 1: [impatiently] Everyone has the same workload here. [sharp exhale] Your colleagues manage to meet their deadlines without issue. [more forcefully] Perhaps you need to reconsider your time management strategies or whether this role suits you.
+
+Character 2: [defensive] I've been staying late every night! [voice cracking] Maybe if I had more support or training on the new systems— [trailing off] I'm doing my best with what I have. [whispered] I really am.
+
+118 Character 1: [dismissively] Excuses won't fix missed deadlines. [louder] The Henderson account specifically complained about your responsiveness. [sigh] How do you explain taking three days to return their calls when our policy is twenty-four hours?
+
+Character 2: [shakily] The Henderson situation was complicated. [speeding up] I was waiting for approval from legal, and they kept sending back revisions, and [sharp breath] I didn't want to give them wrong information. [pleading] Accuracy matters too.
+
+119 Character 1: [sarcastically] Oh, accuracy matters? [bitter laugh] Then explain the calculation errors in last week's presentation. [slower, deliberate] The CEO noticed them immediately. Do you know how that reflects on our entire department?
+
+Character 2: [near tears] I had just learned my mother was hospitalized that morning. [quivering] I should have double-checked, I know. [sniffling] But I was distracted and scared, and [barely audible] I'm sorry I let everyone down.
+
+120 Character 1: [uncomfortable pause] Personal issues can't interfere with work performance. [gentler] While I sympathize with your situation, [returning to stern] we need reliability. [firmly] Your improvement plan starts Monday—non-negotiable.
+
+Character 2: [desperate] An improvement plan? [voice rising] That feels like you're pushing me out! [shaky breath] I've been here for three years without any issues until recently. [stronger] Doesn't my past performance count for anything?
+
+121 Character 1: [coldly] Past performance doesn't erase current failures. [measured tone] You have thirty days to show measurable improvement. [pause] Meet the metrics outlined in the plan, [warning tone] or we'll need to explore other options.
+
+Character 2: [defeated whisper] Thirty days to save my job. [bitter laugh] After everything I've contributed to this team. [steadier] Fine, I'll prove you wrong. [determined] I'll exceed every single metric you throw at me.
+
+122 Character 1: [skeptically] That's the attitude I need to see. [rustling papers vocally] But actions speak louder than words. [businesslike] HR will send the documentation by end of day. [curtly] We'll meet weekly to track progress.
+
+Character 2: [resigned] Weekly meetings it is then. [deep breath] Can you at least tell me one thing I'm doing right? [hopefully] Just something positive to build on? [quieter] It would really help right now.
+
+123 Character 1: [sighing heavily] Your client relationships, when you maintain them, are strong. [reluctantly] People do seem to like working with you. [quickly] But likability doesn't replace competence. [firm] Focus on the metrics, not making friends.
+
+Character 2: [slightly brightening] Thank you for saying that. [more confident] I'll work on balancing both—strong relationships AND meeting deadlines. [determined whisper] Maybe this plan will help me find better systems. [steadying] I won't let you down again.
+
+124 Character 1: [warning tone] See that you don't. [abruptly] Your first deadline is Wednesday's report. [emphasis] No extensions, no excuses. [lighter] Prove to me that keeping you was the right decision.
+
+Character 2: [nervously] Wednesday's report will be perfect. [gaining strength] I'm already halfway through the research, and I've set three alarms to remind myself. [small laugh] Maybe I'll even submit it Tuesday night. [hopeful] Early for once.
+
+125 Character 1: [surprised] That would be a welcome change. [professionally] Remember, this isn't personal—it's business. [softer briefly] I actually want you to succeed here. [returning firm] But wanting isn't enough without results.
+
+Character 2: [emotional] I know it's business. [stronger] But this job means everything to me, and [determined] I'll fight to keep it. [clear voice] Thank you for giving me this chance. I won't waste it.
+
+============================================================
+
+ITEMS 32-36 - CS ALPHANUMERIC (223 words)
+
+Script: b447d902
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+Character 1: [furious] I need to speak to your manager RIGHT NOW about room 347! [voice shaking] There are bed bugs everywhere—I've got bites all over my arms and, and my luggage is probably infested! [disgusted] This is absolutely unacceptable for a supposedly four-star establishment.
+
+126 Customer Support: Oh my goodness, I'm so sorry to hear about this situation, let me pull up your reservation immediately. Can you please confirm your last name and confirmation number? We take these matters very seriously and I'll get our manager involved right away.
+
+Character 1: [sarcastically] Henderson, H-E-N-D-E-R-S-O-N, confirmation BK4729X. [louder] I've been a platinum member for six years—member ID 88291-PLT—and I've never experienced anything this horrific! [trembling with anger] My daughter's wedding is tomorrow and now I have welts all over my face!
+
+127 Customer Support: Mr. Henderson, I completely understand your frustration, this is truly awful. I'm immediately moving you to our premium suite 812, and we'll have housekeeping collect your belongings for professional treatment. Would you like us to arrange medical attention for those bites?
+
+Character 1: [incredulous] Medical attention? [shouting] I want a FULL refund, not just a room change! [bitterly] I've already spent $2,400 on this three-night stay, plus I'll need to replace everything in my suitcase—that's another thousand dollars at least!
+
+128 Customer Support: Sir, I'm authorizing a complete refund to your card ending in 4892. Additionally, we'll cover dry cleaning and replacement costs up to $1,500 with proper receipts. Our general manager, Ms. Rodriguez, will personally meet you in fifteen minutes to discuss further compensation.
+
+Character 1: [skeptically] Fifteen minutes? [groans] I've already been dealing with this nightmare for two hours since 3 AM! [exhausted] And what about the other guests—are you even checking rooms 345, 346, and 349? This could be an entire floor infestation!
+
+129 Customer Support: We've already initiated our emergency protocol and pest control arrives at 6 AM. [reassuringly] All adjacent rooms are being inspected and relocated as we speak—that's twelve rooms total. I know this doesn't undo your experience, but we're treating this as our highest priority incident.
+
+Character 1: [mockingly] Highest priority? [gasps] Then why did the night clerk tell me to just "shake out the sheets" when I first complained? [angrily] I want this documented, I want corporate's number—1-800 whatever—and I want written confirmation of everything you're promising!
+
+130 Customer Support: Absolutely, I'm documenting everything in incident report TX-20241122-BUG-347. Corporate's complaint line is 1-800-555-8200, case reference number will be HC8829M. I'm also personally ensuring you receive email confirmation within ten minutes to JHenderson at gmail dot com, correct?
+
+============================================================
+
+ITEMS 37-46 - CS NO-ALPHANUMERIC (327 words)
+
+Script: 5ad3baf4
+
+============================================================
+
+You are playing a customer service agent; your role: Customer Support
+
+--- FULL SCRIPT ---
+
+131 Customer Support: Tech support, this is Jordan speaking, how can I help you today? I see you're calling about an update issue—let me pull up your account real quick.
+
+Character 1: [exhausted] Yeah, I've been... I've been trying to install this update for three hours now. [sighs heavily] It keeps failing at ninety-two percent, and I'm just—[defeated] I don't know what else to try anymore.
+
+132 Customer Support: Oh, that's incredibly frustrating, I completely understand. [quickly] Let's get this sorted right away—first, can you tell me, um, which version you're currently running? Should be under Settings, then About.
+
+Character 1: [slowly] It's version... eight point four point six. [groans] Look, I've already tried restarting, clearing the cache, even—even factory reset last week. [desperately] Nothing works, and I need this for work tomorrow.
+
+133 Customer Support: Okay, okay, we'll definitely get this fixed before then. Here's what we're gonna do—I'm seeing a known issue with that specific build that affects, uh, about twelve percent of users. [more confidently] There's a workaround though.
+
+Character 1: [sarcastically] A workaround, great, because those always work perfectly. [sighs] Sorry, I'm just... [wearily] What do I need to do now?
+
+134 Customer Support: No worries at all, I get it—technology can be maddening sometimes. [quickly] So first, you'll need to boot into safe mode, then—this is important—disable the security suite temporarily. I'll walk you through each step.
+
+Character 1: [hesitantly] Safe mode... okay, I think I remember how. [muttering] Hold the power button and... wait, no. [frustrated groan] Can you just—can you remind me?
+
+135 Customer Support: [briskly] Absolutely! Power completely off first, then hold volume down while pressing power. Keep holding until you see the logo appear twice—not once, twice—that's the tricky part most people miss.
+
+Character 1: [concentrating] Alright, powering off now... holding volume down and... [excitedly] Oh! There's the safe mode text in the corner! [relieved chuckle] Finally, something actually worked.
+
+136 Customer Support: Perfect! You're doing great. Now navigate to Settings, Security, and toggle off the enhanced protection—just temporarily. After that, retry the update from the beginning.
+
+Character 1: [cautiously] Okay, security is off, starting the download again. [nervously] It's at ten percent... twenty... [increasingly hopeful] Wait, it's actually moving past where it usually freezes!
+
+137 Customer Support: Excellent, that's exactly what should happen! [quickly] While that's running, let me just document this issue for our development team—they really need to push a proper fix. This shouldn't be happening to customers.
+
+Character 1: [amazed] Seventy percent... eighty... ninety! [gasps] It went past ninety-two! [laughing] I can't believe a simple security toggle was the problem all along.
+
+138 Customer Support: [relieved chuckle] Sometimes it's the smallest things that cause the biggest headaches. Once it completes, you can re-enable security—the conflict only happens during installation, not after.
+
+Character 1: [gratefully] It's installing now, says three minutes remaining. [sighs happily] You know, I was about ready to throw this thing out the window. [more sincerely] Thank you so much for your patience.
+
+139 Customer Support: Hey, that's what we're here for! Just remember for future updates—if you hit that same wall, try the safe mode trick first. Saves everyone time and frustration.
+
+Character 1: [curious] Will this bug be fixed in the next version? [hesitantly] Because I really don't want to go through this whole... this whole circus again next month.
+
+140 Customer Support: Actually, yes—the fix is already in beta testing. Version nine point zero should roll out within two weeks, and it completely eliminates this compatibility issue. [reassuringly] Your future updates should be smooth sailing.
+
+Character 1: [relieved] Update complete! Everything's working perfectly now. [chuckles softly] You've been amazing, Jordan—seriously, thank you. [gratefully] I can actually sleep tonight knowing work tomorrow won't be a disaster.
+
+============================================================
+
+ITEM 141 - BASIC SCENARIO (20 words)
+
+============================================================
+
+141 [Sad] I just, um, I've seen what happens when people promise forever and then—then everything falls apart, you know? [Sigh]
+
+============================================================
+
+ITEM 142 - BASIC SCENARIO (29 words)
+
+============================================================
+
+142 [Fast] Okay so basically every time I get close to someone they either leave or I mess it up somehow and I can't—I just can't do that again. [Tsk]
+
+============================================================
+
+ITEM 143 - BASIC SCENARIO (24 words)
+
+============================================================
+
+143 [Whisper] What if I wake up one day and realize I made the wrong choice? [Slow] That terrifies me more than being alone, honestly.
+
+============================================================
+
+ITEM 144 - BASIC SCENARIO (22 words)
+
+============================================================
+
+144 [Angry] You don't get it—my parents stayed together "for the kids" and it was a disaster, okay? [Groan] I'm not repeating that.
+
+============================================================
+
+ITEM 145 - BASIC SCENARIO (24 words)
+
+============================================================
+
+145 [Sarcastic] Oh sure, let me just sign up for potentially losing half my stuff and my sanity. [Laugh] That sounds like a great time.
+
+============================================================
+
+ITEM 146 - BASIC SCENARIO (26 words)
+
+============================================================
+
+146 [Happy] I mean, I'm actually really good at being single—like, I've got my routine, my space, everything's perfect! [Chuckle] Why would I wanna mess that up?
+
+============================================================
+
+ITEM 147 - BASIC SCENARIO (26 words)
+
+============================================================
+
+147 [Disappointed] Every wedding I go to, I just think about how, um, how fifty percent of these people are gonna be divorced in five years. [Sigh]
+
+============================================================
+
+ITEM 148 - BASIC SCENARIO (26 words)
+
+============================================================
+
+148 [Slow] The thing is—wait, how do I explain this—I literally don't know who I'll be in ten years. [Sad] How can I promise someone that person?
+
+============================================================
+
+ITEM 149 - BASIC SCENARIO (16 words)
+
+============================================================
+
+149 [Shout] I'm twenty-eight, not eighty-eight! [Angry] Stop acting like I'm running out of time or something!
+
+============================================================
+
+ITEM 150 - BASIC SCENARIO (28 words)
+
+============================================================
+
+150 [Fast] My therapist says it's because of my "attachment style" or whatever but honestly I think some people just aren't meant for the whole commitment thing, right? [Tsk]
+
+============================================================
+
+ITEM 151 - BASIC SCENARIO (20 words)
+
+============================================================
+
+151 [Whisper] Sometimes I look at couples and they seem so... trapped. [Disappointed] Like they're just going through the motions, y'know?
+
+============================================================
+
+ITEM 152 - BASIC SCENARIO (22 words)
+
+============================================================
+
+152 [Sarcastic] Yeah, 'cause nothing says "romance" like arguing about whose turn it is to clean the bathroom. [Chuckle] [Fast] I'll pass, thanks.
+
+============================================================
+
+ITEM 153 - BASIC SCENARIO (27 words)
+
+============================================================
+
+153 [Sad] I had this friend who completely changed after she got married—like, she became this whole different person and I just... [Sigh] I don't wanna lose myself.
+
+============================================================
+
+ITEM 154 - BASIC SCENARIO (24 words)
+
+============================================================
+
+154 [Happy] But seriously, have you seen how much weddings cost these days? [Laugh] I could travel the world for a year with that money!
+
+============================================================
+
+ITEM 155 - BASIC SCENARIO (21 words)
+
+============================================================
+
+155 [Angry] Look, I tried the whole serious relationship thing once and it was—god, it was suffocating, okay? [Slow] I couldn't breathe.
+
+============================================================
+
+ITEM 156 - BASIC SCENARIO (24 words)
+
+============================================================
+
+156 [Disappointed] My last relationship started out amazing and then it just, um, it kinda slowly turned into this obligation. [Tsk] [Sad] That's not love.
+
+============================================================
+
+ITEM 157 - BASIC SCENARIO (21 words)
+
+============================================================
+
+157 [Fast] What if they cheat, what if I cheat, what if we get bored, what if—there's just too many what-ifs! [Groan]
+
+============================================================
+
+ITEM 158 - BASIC SCENARIO (25 words)
+
+============================================================
+
+158 [Sarcastic] Oh, I'm supposed to believe that this one person is gonna fulfill all my needs forever? [Slow] That's, uh, that's quite the job description.
+
+============================================================
+
+ITEM 159 - BASIC SCENARIO (24 words)
+
+============================================================
+
+159 [Whisper] Honestly? [Sad] I think I'm more afraid of hurting someone else than getting hurt myself—like, what if I can't be what they need?
+
+============================================================
+
+ITEM 160 - BASIC SCENARIO (24 words)
+
+============================================================
+
+160 [Happy] You know what, being commitment-phobic keeps things exciting! [Chuckle] [Fast] Every date could be the last one, so they're all kinda special, right?
