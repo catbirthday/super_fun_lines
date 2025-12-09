@@ -1,0 +1,245 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 3004eadd_script | Role: Character 2 (B)
+
+Character 1: We need to talk about how you've been treating me.
+240 Character 2: Oh—oh no, what do you mean? Did I do something? I mean, obviously I did something if you're—wait, are you upset with me?
+Character 1: You talk to me like I'm five.
+241 Character 2: What? No no no, I don't—that's not— okay, can you give me an example? Because I honestly have no idea what you're talking about.
+Character 1: Yesterday. When you explained how to use email. For twenty minutes.
+242 Character 2: Oh god, that was—I was just trying to help! You said you were having trouble with the attachment thing and I thought—I mean, I wasn't trying to be condescending or anything.
+Character 1: I've been using email since 2005.
+243 Character 2: Right. Right, of course you have. I just—sometimes I get carried away when I'm explaining stuff, y'know? Like I literally cannot stop myself from over-explaining everything. It's not about you, I swear.
+Character 1: It's every conversation. You always assume I don't know things.
+244 Character 2: That's— that's not what I'm trying to do. I think I just—I dunno, maybe I'm trying to be helpful but it comes out all wrong? Like completely wrong, apparently.
+Character 1: It's exhausting.
+245 Character 2: I'm sorry. I'm really, really sorry. I had no idea I was making you feel that way. That's like—that's literally the opposite of what I want, you know?
+Character 1: Do you think I'm stupid or something?
+246 Character 2: What? No! God no, absolutely not. You're one of the smartest people I know—I mean that. I think maybe I just—I talk too much when I'm nervous? And then it comes out like I'm lecturing or something.
+Character 1: Why would you be nervous around me?
+247 Character 2: Because I—okay this is gonna sound dumb but sometimes I feel like you're way smarter than me? So I overcompensate by trying to seem useful or whatever. Which apparently makes me insufferable instead.
+Character 1: That's... actually kind of ironic.
+248 Character 2: Right? Like I'm basically creating the exact problem I was—wait wait, does this mean you're not completely done with me? Because I can definitely work on this. I wanna work on it.
+Character 1: Just... treat me like an equal. That's all I want.
+249 Character 2: Yeah. Yeah, I can do that. I will do that. And if I start doing the thing again—the explaining thing—just like, tell me to shut up? I mean it. Call me out immediately.
+
+Script: b7c55485_script | Role: Character 2 (B)
+
+Character 1: You just stood there.
+250 Character 2: I—oh god, I know. I know how it looked. I was just so shocked when Marcus said that stuff about you, I literally froze up. Like my brain just—it stopped working completely.
+Character 1: Right.
+251 Character 2: No no no, wait—I'm not making excuses, I swear. I should've said something. I should've absolutely said something. I keep replaying it in my head and thinking of all the things I could've—should've said.
+Character 1: But you didn't.
+252 Character 2: I didn't. And that's—that's on me. I'm supposed to be your friend and I just stood there like an idiot while he was being such a jerk to you. I mean, who even says stuff like that?
+Character 1: Apparently Marcus does. With no pushback.
+253 Character 2: You're right. You're totally right. I let you down and I—honestly, I've been feeling sick about it all day. Like physically sick. I texted him after, if that—I mean, it doesn't fix anything but I told him he was way out of line.
+Character 1: After. When I wasn't there.
+254 Character 2: Yeah. Yeah, that's... that's the coward's way out, isn't it? I should've—I needed to say it right then, when it mattered. When you needed me to have your back. I just... I dunno, confrontation makes me panic sometimes, y'know?
+Character 1: So you chose your comfort over defending me.
+255 Character 2: That's not—okay actually, yeah. Yeah, that's exactly what I did. God, when you put it like that it sounds even worse. I basically chose being comfortable over being a good friend and that's—that's terrible. I'm terrible.
+Character 1: I didn't say you were terrible.
+256 Character 2: But I feel terrible. Like, you've defended me so many times, remember when Sam was giving me crap about my presentation? You jumped right in, didn't even hesitate. And I couldn't—I couldn't do the same for you and that's just... I'm so sorry.
+Character 1: I really needed you in that moment.
+257 Character 2: I know. I know you did and I—I failed you. Completely failed you. And I understand if you're like, done with me or whatever, but I wanna—I need you to know that I'm gonna do better. I will. I promise.
+Character 1: How do I trust that?
+258 Character 2: I don't—I guess you can't right now, can you? I have to earn it back. But I swear, if anyone ever—and I mean ever—talks to you like that again, I'm gonna shut it down immediately. No freezing, no panicking, just... I'll be there. The way I should've been today.
+Character 1: Okay. We'll see.
+259 Character 2: Yeah. We'll see. And I—thank you for even talking to me about this. I know you could've just cut me off completely and I would've deserved it. I really am sorry. Like, from the bottom of my heart sorry.
+
+Script: 14f60026_script | Role: Character 2 (B)
+
+Character 1: My sweater. The cashmere one.
+260 Character 2: Oh god, okay—I was gonna tell you about that, I swear. It's not as bad as it looks, and I'm literally getting it fixed. The dry cleaner said they can probably—well, they said maybe they can fix it.
+Character 1: There's a hole in it.
+261 Character 2: I know, I know, it's— okay so basically what happened was, I was at this party and someone's dog just like, came out of nowhere? And I didn't even see it coming, it just jumped and its claw got caught and—that's not an excuse, I'm not making excuses.
+Character 1: This is the third time.
+262 Character 2: No no no, wait—the dress thing wasn't my fault! That was already—okay fine, maybe it was a little bit my fault but the stain was barely visible and I thought... um. Never mind what I thought.
+Character 1: You thought what? That I wouldn't notice?
+263 Character 2: That's not—I mean, kinda? But not in a bad way! I just figured you had so many clothes that maybe—oh god that sounds worse. I'm really really bad at this. Look, I know I've been careless, okay? I know.
+Character 1: Do you?
+264 Character 2: Yes! God, yes, I do. And I feel—I feel like such a terrible friend right now. You're always so generous with your stuff and I just... I dunno, I guess I got too comfortable? Too careless? Both? Definitely both.
+Character 1: That sweater was two hundred dollars.
+265 Character 2: Two hundred—oh. Oh shit. I didn't... um, okay. I'm gonna—I'll pay you back. Every penny, I promise. It might take me like a couple paychecks but I'll absolutely, one hundred percent pay you back.
+Character 1: It's not about the money.
+266 Character 2: Right, no, of course it's not. It's about—it's about respect, right? And trust? And I basically just... trampled all over both of those things. Like, you trusted me with your nice things and I kept messing them up and that's—that's really shitty of me.
+Character 1: Yeah. It is.
+267 Character 2: I'm gonna—from now on, I'm not borrowing anything. Nothing. Not even like, a hair tie. Because clearly I can't be trusted and I need to—I need to earn that back, y'know? If you even want me to try to earn it back, which, honestly? I'd understand if you didn't.
+Character 1: That seems a bit extreme.
+268 Character 2: No but I'm serious! I've been taking advantage and I didn't even—god, I didn't even realize how much until right now. You must've been so frustrated with me and you never said anything until now and that's... you shouldn't have had to say anything.
+Character 1: I should've said something earlier. Before it got this bad.
+269 Character 2: Wait wait, you're not—don't apologize to me right now, are you kidding? I'm the one who ruined your clothes! Multiple times! But I swear, I'm gonna make this right. The sweater, the dress, all of it. And I'll be way, way more careful. Like, obsessively careful. If you ever let me borrow anything again, which... yeah.
+
+--- MONOLOGUE SELFTALK ---
+
+--- CONVERSATION ---
+
+Script: a955fb53 | Role: Character A
+
+270 Character A: [exhausted] I've been here every single day for three months. [voice cracking] Do you know what it's like watching Mom forget my name? [bitter laugh] Meanwhile, you're posting beach photos from your "essential business trip."
+Character B: [defensive] Look, I have responsibilities too. [increasingly agitated] My kids need me, my job is demanding, and [pause] [quietly] I send money every month. That counts for something, doesn't it?
+271 Character A: [sarcastically] Oh, money! [rising anger] Because that's what holds her hand during chemo, right? [voice breaking] That's what cleans up when she has accidents at 3 AM? Your check doesn't even cover her medications!
+Character B: [accusatory] You chose to move back home! [louder] Nobody forced you to quit your job. [sharp exhale] Some of us built lives that can't just be abandoned whenever family gets difficult.
+272 Character A: [trembling with rage] Difficult? [screaming] DIFFICULT? She's dying, Sarah! [quieter, hollow] Not difficult—dying. But sure, protect your perfect suburban bubble while I watch our mother disappear piece by piece.
+Character B: [wounded] That's not fair. [pleading tone] I video call every week, I— [voice catching] I'm doing what I can from here. You think this doesn't tear me apart too?
+273 Character A: [cold laughter] Video calls. [flatly] She thinks you're her dead sister on those calls. [increasingly desperate] I need you HERE. I haven't slept properly in weeks. I'm drowning, and you're worried about disruption.
+Character B: [frustrated grunt] What do you want from me? [frantically] Uproot my entire family? Make my husband relocate? [softer, guilty] The kids barely know her anyway—it would traumatize them seeing her like this.
+274 Character A: [disbelieving whisper] Traumatize them? [building fury] What about MY trauma? [choked sob] I had to sign DNR papers alone last Tuesday. Alone! Where were you when I needed someone to help decide?
+Character B: [defensive shriek] You never asked me! [accusingly slower] You always act like some martyr, shutting me out, then— [pause] [bitterly] then blame me for not reading your mind about when you need help.
+275 Character A: [hysterical laugh] Asked you? [incredulous] ASKED YOU? [worn out] Every unanswered text, every declined call—those were me asking. But asking directly would mean admitting you might actually say no, wouldn't it?
+Character B: [quietly defensive] I said no ONE time. [getting louder] One Christmas, because Emma had pneumonia. [frustrated sigh] Now suddenly I'm the villain who abandoned everyone? That's the story you're telling yourself?
+276 Character A: [mockingly] One time. [venomously] Try seventeen times. [exhausted whisper] I have a spreadsheet of excuses, Sarah. Soccer tournaments, work conferences, kitchen renovations. Should I email it to you?
+Character B: [angrily] Fine! [shouting] I'm selfish! I'm horrible! [voice breaking] Is that what you need to hear? Because clearly nothing I do will ever be enough for Saint Marcus the Perfect Son!
+277 Character A: [hollow laugh] Perfect? [desperately] I'm falling apart. [barely audible] Yesterday I found myself googling "caregiver suicide rates." But yeah, keep thinking this is about being perfect rather than being present.
+Character B: [shocked gasp] Marcus, I— [urgently] Why didn't you say something? [gentler] I can be there Thursday. Not forever, but Thursday. We need to talk about getting you some real help.
+278 Character A: [skeptically soft] Thursday. [tired sigh] You know she has good days and bad days, right? [more firmly] Thursday might be a bad day. You can't just schedule convenient visits with dementia.
+Character B: [determinedly] Then I'll stay through the weekend. [steadier] Longer if needed. [deep breath] You're right—I've been protecting myself from this. From her decline, from... losing her slowly. I'm scared too.
+279 Character A: [wearily] Being scared is fine. [slightly warmer] Being absent isn't. [long exhale] If you really come Thursday, bring that lavender lotion she used to love. Sometimes familiar smells help her remember.
+Character B: [softly] Lavender lotion. [more confidently] I'll bring it. And Thai food from that place on Maple—for you. [emotional pause] We'll figure this out together, okay? [whispered] I'm sorry it took this long.
+
+Script: f872d31e | Role: Character A
+
+280 Character A: [shaking voice] She always said the desert would claim her one day. [Bitter laugh] Guess she was right about that, [quieter] just didn't think it'd be so soon. The sand takes everything eventually, doesn't it, partner?
+Character B: [hoarse whisper] Twenty years riding together, Jake. [Steadier] Twenty goddamn years through dust storms and gunfights, [voice breaking] and it's a rattler that gets her. [Choked sob] Should've watched where she was stepping, should've seen it first.
+281 Character A: [angrily] Don't you dare blame yourself! [Softer now] Martha wouldn't want that. [Deep sigh] Remember how she'd laugh at us when we got all serious? Said we looked like prairie dogs trying to do arithmetic.
+Character B: [weak chuckle] Yeah, she had that way about her. [Growing emotional] Could out-ride, out-shoot, and out-drink both of us combined. [Trembling] My hands won't stop shaking, Jake. Can't even hold this shovel steady anymore.
+282 Character A: [firmly] Here, let me take over for a spell. [Gentler tone] You carved that cross real nice, Sam. [voice cracking] She'd appreciate the effort, even though she always said markers were for folks who stayed put.
+Character B: [desperately] What are we supposed to do now? [Quieter] Can't imagine riding into another town without her between us, [faster speech] keeping us from killing each other over stupid things. She was the glue, Jake.
+283 Character A: [long exhale] We keep going, that's what. [Determined] We take that gold she helped us find to her sister in California, [wavering] just like we promised. [Grunt] Though Lord knows how we'll explain this to Sarah.
+Character B: [bitterly] Sarah never understood why Martha chose this life anyway. [Slower pace] City folk don't get it—the freedom, the stars, [voice rising] the way the horizon calls your name every damn morning until you answer.
+284 Character A: [nostalgic tone] Remember that time in Tucson? [Laughing sadly] Martha convinced that whole saloon she was a traveling preacher's wife. [More quietly] Had them all singing hymns while we robbed the poker game upstairs.
+Character B: [sudden laugh] Lord almighty, I forgot about that! [Slowing down] She wore that ridiculous bonnet, kept calling us her "wayward brothers in need of salvation." [Sniffling] Best con we ever pulled, and the most fun too.
+285 Character A: [gravelly voice] Sun's getting low, Sam. [More urgent] We should say some words before the coyotes start their singing. Martha deserved better than two broken cowboys and a shallow grave, [whispered] but it's all we got.
+Character B: [clearing throat] She didn't need fancy things though. [Stronger] Remember what she said about churches and proper funerals? [Quoting voice] "When I go, just point me toward the sunset and let me ride." That's what she wanted.
+286 Character A: [thoughtfully] You still got that harmonica she gave you? [Hopeful tone] Maybe we could play that tune she loved, [voice fading] the one about the lonesome dove. Seems fitting for a goodbye, don't you think?
+Character B: [rustling sounds] Yeah, I got it here. [Shaky breath] Haven't played since Amarillo, fingers might not remember how. [Determined whisper] But for Martha, I'll make these old hands work one more time, I swear it.
+287 Character A: [reverently] That's beautiful, Sam. [Voice thickening] She's probably up there laughing at us, two grown men crying in the dirt. [Soft chuckle] But she's also probably touched we care this much. Always underestimated how much we loved her.
+Character B: [defensive tone] Nothing wrong with tears, Jake. [Firmly] Even cowboys got the right to grieve. [Breaking down] She was family, the only real family either of us had since we started running from our pasts.
+288 Character A: [steadying voice] Come on, help me move this rock over the grave. [Strained] It'll keep the animals away. [Gentler] We'll come back someday, when things are settled, maybe bring some wildflowers like she always picked for the horses.
+Character B: [resigned] If we make it that long. [Darker tone] Trail to California's full of men who'd love to collect our bounties. [Sighing] Without Martha watching our backs, odds ain't exactly in our favor anymore, partner.
+289 Character A: [fiercely] Then we'll die trying to keep our promise! [Quieter intensity] Martha didn't survive this long for us to give up now. [Measured words] We owe her that much—to finish what the three of us started together.
+Character B: [with resolve] You're right, Jake. [Building strength] We'll ride for California at first light, deliver that gold to Sarah. [Emotional whisper] And we'll tell her that Martha died free, under the biggest sky God ever made. [Pause] That's something.
+
+--- CS TAGFULL ---
+
+--- CS TAGLESS ---
+
+--- BASIC SCENARIOS ---
+
+290 [Whisper] I can't—I literally can't get anything louder than this, and I have a presentation in, like, twenty minutes. [Groan] [Angry] [Fast] This is the third time this year, and I'm so done with getting sick right before important stuff happens! [Sarcastic] Oh great, yeah, perfect timing as always—let me just mime my way through this phone interview. [Tsk] [Sad] [Slow] My throat feels like I swallowed glass, and I just... I can't even call my mom to complain about it. [Happy] [Whisper] Honestly? Kinda nice having an excuse to not talk to anyone today. [Chuckle] [Disappointed] I was gonna sing at the open mic tonight—I mean, I practiced for weeks, y'know? [Sigh] [Whisper] [Fast] Can you, um, can you call the doctor for me 'cause they won't understand me like this? [Angry] [Shout] I'M TRYING TO—oh god, that hurt so bad, never mind! [Groan] [Sarcastic] [Slow] Sure, let's play charades at the drive-through, that'll be super fun and not embarrassing at all. [Sad] It's just—I feel so disconnected when I can't, like, actually communicate properly, you know? [Sigh] [Whisper] [Laugh] My kids think it's hilarious that mommy sounds like a creaky door right now. [Disappointed] [Fast] The honey and tea aren't working, the lozenges aren't working, nothing's working and I'm kinda freaking out here! [Happy] [Chuckle] Text-to-speech is my new best friend—wait, can you make it sound like Morgan Freeman? [Angry] Why do people keep asking me questions when they can clearly see I'm—ugh, just read my lips! [Tsk] [Whisper] [Slow] This is, um, this is actually scary 'cause what if it doesn't come back, y'know? [Sarcastic] [Laugh] My career as a podcast host is really taking off, as you can hear. [Disappointed] [Whisper] I had so much I wanted to say to him, and now I just... I guess I'll text it? [Happy] [Fast] Actually, my partner's been doing all the talking for me and it's kinda sweet how well they know what I'm thinking! [Sad] [Slow] The silence is weird—like, I didn't realize how much I talk to myself until I couldn't anymore. [Sigh] [Angry] [Whisper] Seriously, if one more person tells me to try hot water with lemon, I'm gonna—actually, I can't even yell at them. [Groan]
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+291 SCENARIO: [scenario description]
+==================================================
+
+Source: 1bb28772
+
+SCENARIO: Excited about a new apartment, then worried about the neighborhood, then the neighbors are wonderful
+==================================================
+
+[excited]
+Oh my god, I have to tell you about this apartment! I finally signed the lease today and it's— it's perfect, like everything I wanted. The kitchen has this huge island and there's so much light, and the bedroom actually fits a queen bed without looking like a sardine can.
+
+[excited] [rushed]
+And the rent is like way better than I expected for that area, which I was like, okay this is too good to be true, but the landlord seems legit and— yeah, I'm just so relieved to finally have a place, you know?
+
+[uncertainty creeping in]
+I mean, the neighborhood is... I don't know, I drove through it at like two in the afternoon on a Tuesday, so it's probably not, um... it's probably not representative of what it's actually like to live there, right?
+
+[worried]
+Like what if it gets sketchy at night? What if the neighbors are awful and there's like loud music until three AM or— God, what if I made a huge mistake? I didn't even meet any of the other tenants.
+
+[surprised] [brightening]
+Oh wait, actually— there's someone at my door right now, hold on... 
+
+[warm] [relieved]
+Okay so that was my upstairs neighbor! She brought me cookies and a little plant as a welcome gift. She seems so sweet, and she was telling me about this little community garden behind the building that I totally missed when I— [chuckle] okay yeah, I think I'm gonna like it here.
+
+This must be read out in a single delivery as one file
+
+292 SCENARIO: [scenario description]
+==================================================
+
+Source: 23a3b878
+
+SCENARIO: Frustrated about a pet destroying something, then can't stay mad because the pet is being too cute
+==================================================
+
+[frustrated] [angry]
+Oh my God, you will not believe what Buster did today. I come home from work and my— my favorite throw pillow, the one I got from that boutique place? It's completely shredded. Like, completely destroyed.
+
+[worked up]
+There's stuffing everywhere, the fabric is just hanging in ribbons, and he's just— he's just sitting there wagging his tail like he accomplished something amazing. I was so mad, like I literally spent forty minutes vacuuming up all the—
+
+[annoyed] [exasperated]
+And it's not even the first time! Last week it was my running shoes, before that it was the, uh, the couch cushion. I'm running out of things for him to destroy, you know? [sigh] I was about to really lay into him, like full lecture mode.
+
+[voice softening]
+But then... God, then he does this thing where he tilts his head and his ears go all floppy, and he's looking at me with those big brown eyes like—
+
+[melting] [helpless]
+Oh wait, he's doing it right now. Look at him! He's bringing me his rope toy like it's some kind of peace offering. [small laugh] His tail is going so fast it's like a blur.
+
+[warm] [defeated but happy]
+How am I supposed to stay mad at that face? He probably just missed me or something. Maybe I should get him more chew toys instead of, you know, actually being angry.
+
+This must be read out in a single delivery as one file
+
+293 SCENARIO: [scenario description]
+==================================================
+
+Source: 9768bdcb
+
+SCENARIO: Excited about a presentation, then worried about tech issues, then everything working perfectly
+==================================================
+
+[excited]
+Oh my God, so you know that presentation I've been working on for like three weeks? The one for the Johnson account? I finally gave it today and I was so— like I was practically bouncing off the walls this morning because I knew it was good, you know? Like really good.
+
+[worried]
+But then of course, because the universe hates me, the projector starts acting up right before I'm supposed to go on. Like the screen is just flickering and making this weird buzzing sound, and I'm standing there like— [nervous laugh] like great, this is it, this is how I die professionally.
+
+[increasingly anxious]
+And IT takes forever to get there, and everyone's just sitting around the conference room looking at me, and I'm trying to be all calm and collected but inside I'm just— ugh, I'm panicking. Like what if we have to reschedule? What if they think I'm unprepared or—
+
+[surprised]
+Oh wait, hold on, I'm getting a text from my boss right now... 
+
+[reading, then amazed]
+Oh wow. Okay so apparently after they fixed everything and I did the presentation, the client called him directly to say it was— and I quote— "exactly what they were looking for" and they want to move forward immediately.
+
+[elated] [slightly disbelieving]
+Like they didn't even want to think about it or compare proposals or anything. They just said yes! [laugh] All that stress for nothing!
+
+This must be read out in a single delivery as one file
+
+294 SCENARIO: [scenario description]
+==================================================
+
+Source: 981b36fc
+
+SCENARIO: Calmly talking about a recipe they're trying, then smelling something, then realizing something's burning in the oven right now, ending in frantic panic
+==================================================
+
+[casual]
+So I'm trying this new lasagna recipe I found online, right? It's supposed to be this like, revolutionary technique where you don't pre-cook the noodles. You just layer everything raw and let the moisture from the sauce cook them while it bakes.
+
+[conversational]
+I was skeptical at first, you know, because that sounds too good to be true. But the reviews were amazing, people saying it's the best lasagna they've ever made. So I figured, what the hell, I'll give it a shot.
+
+[light enthusiasm]
+I spent like two hours layering everything perfectly—the ricotta mixture, the meat sauce, the cheese. It looked gorgeous going into the oven. I was feeling pretty proud of myself, honestly.
+
+[slight concern]
+But now I'm second-guessing the timing because— [sniff] wait, do you smell that? That's like... that smells kind of...
+
+[growing alarm]
+Oh no. Oh no, that's not right. That's— [sharp inhale] that's definitely burning. How long has it been? What time did I put it in?
+
+[frantic]
+Oh my god, oh my god! [panicked laugh] I completely lost track of time! It's been in there for like an hour and a half! The recipe said forty-five minutes max!
+
+[full panic]
+My beautiful lasagna! Two hours of work and I— [groan] I've turned it into charcoal! The smoke detector's probably about to— I need to— [whimper] this is a disaster!

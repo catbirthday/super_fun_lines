@@ -1,0 +1,306 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: e0fb2871_script | Role: Character 2 (B)
+
+Character 1: So you think my job is a joke.
+83 Character 2: What? No—that's not what I—look, I never said it was a joke. I just said maybe you could be doing something more, y'know, challenging or whatever. That's not the same thing.
+Character 1: "Waste of potential." Your words.
+84 Character 2: Okay okay, that came out wrong, but I meant— I'm worried about you, alright? You're brilliant and you're just... sitting in that cubicle doing data entry when you could be doing literally anything else.
+Character 1: That's not your call to make.
+85 Character 2: I know that! But I'm allowed to have opinions about my best friend basically giving up on their dreams. Like, sorry for caring, I guess?
+Character 1: You don't get to dress up judgment as concern.
+86 Character 2: That's—come on, that's not fair. You've been miserable for months and every time I try to talk to you about it, you just shut down. So yeah, maybe I said some stuff I shouldn't have, but at least I'm trying to—I dunno, help or something .
+Character 1: By embarrassing me in front of everyone at dinner?
+87 Character 2: Oh my god, I didn't—nobody was judging you! I made one comment about how you used to wanna run your own company and now you're... Look, I'm sorry if that embarrassed you, but honestly? You're being kinda sensitive about this.
+Character 1: Right. I'm the problem.
+88 Character 2: No, that's not—ugh, you're twisting everything I say. I'm literally just worried because you seem depressed and stuck and I don't know how to help you without apparently being the bad guy here.
+Character 1: Maybe don't "help" by constantly bringing up what I'm not doing.
+89 Character 2: Fine fine, but you gotta understand—watching you just... settle? It's hard. And yeah, maybe I don't handle it great, but you won't even talk to me about why you gave up on everything, so what am I supposed to do?
+Character 1: Accept that this is my life now.
+90 Character 2: But it doesn't have to be! That's the whole— that's literally my entire point. You're choosing this, and I don't get why, and when I ask, you act like I'm attacking you.
+Character 1: Because you are.
+91 Character 2: No, I'm—okay, y'know what? Maybe my delivery sucks, but at least I give enough of a shit to say something. Everyone else just watches you fade away and pretends it's fine. I'm sorry if that makes me the asshole.
+Character 1: Your delivery does suck.
+92 Character 2: Yeah, well... I'm not gonna apologize for wanting better for you. But I'll—I'll try to keep my mouth shut about the job thing if that's really what you need. Even though I think you're making a mistake.
+
+Script: 275b4d3e_script | Role: Character 2 (B)
+
+Character 1: You told Marcus about the promotion.
+93 Character 2: I—okay, yeah, but I was completely wasted. Like, you saw how drunk I was. I barely even remember half of what I said that night, and you're gonna hold that against me?
+Character 1: Being drunk isn't an excuse.
+94 Character 2: I'm not saying it's an excuse! I'm just—come on, it's not like I woke up that morning planning to tell him. It just... slipped out. And honestly? You coulda told me it was that big of a secret.
+Character 1: I shouldn't have to specify which secrets are secrets.
+95 Character 2: That's—that's not fair though. We tell Marcus everything. Like, literally everything. How was I supposed to know this one thing was off limits when you never said—
+Character 1: Because I told you not to tell anyone.
+96 Character 2: Yeah, okay, fine. You did. But I was drunk, and he was asking about work stuff, and my brain just—I dunno, it connected the dots wrong. I'm sorry it happened, but you're acting like I betrayed you on purpose.
+Character 1: The result's the same.
+97 Character 2: No, it's really not! Intent matters. Like, there's a difference between me deliberately breaking your trust and me being an idiot when I'm drunk. And you know—you know I'd never hurt you on purpose.
+Character 1: But you did hurt me.
+98 Character 2: I—yeah. Yeah, I did. And that sucks, and I feel like shit about it, okay? But also... you're kinda being—I mean, you've spilled stuff when you were drunk too. Remember Tyler's thing?
+Character 1: That was different.
+99 Character 2: How? How was that different? Because it wasn't your secret? Look look, I'm trying to apologize here, but you're making it really really hard when you won't even acknowledge that people make mistakes.
+Character 1: This wasn't just a mistake. Now everyone at work knows.
+100 Character 2: Everyone—what? No no no, that's not—Marcus wouldn't tell everyone. He probably hasn't told anyone! You're catastrophizing this whole thing when we could just—
+Character 1: He already told Janet. She congratulated me this morning.
+101 Character 2: Oh. Shit. I didn't—okay, that's... that's worse than I thought. But I still don't think it's fair that you're freezing me out like this. I messed up, yeah, but we've been friends for eight years.
+Character 1: And you couldn't keep your mouth shut for one night.
+102 Character 2: You're right. You're right, okay? I fucked up. But I'm also kinda pissed that you're willing to throw away our entire friendship over something I did when I was blackout drunk. Like—that's what's happening here, isn't it?
+
+Script: c949f334_script | Role: Character 2 (B)
+
+Character 1: You said my presentation was great.
+103 Character 2: I—okay, um, I know what you're thinking but I wasn't lying! It was good! Like, there were really strong parts and I just—I focused on those, y'know?
+Character 1: I bombed. Completely.
+104 Character 2: No no no, you didn't bomb, that's not—okay maybe it wasn't your best but I mean, who am I to judge, right? I just thought you needed encouragement more than—god, this sounds terrible now.
+Character 1: I asked for honest feedback.
+105 Character 2: I know. I know you did and I should've—I wanted to be honest, I really did, but you seemed so stressed already and I just... I chickened out. That's on me.
+Character 1: I trusted you.
+106 Character 2: Oh god, please don't—that makes me feel even worse. You're right though, you're totally right. I let you down and I'm— I'm really sorry. I thought I was being a good friend but I was actually being the opposite, wasn't I?
+Character 1: Could've fixed it if you'd told me.
+107 Character 2: Yeah. Yeah, of course you could've, you always—you always figure stuff out when you know what's wrong. I just, um, I hate seeing you doubt yourself and I thought—which was stupid, I know—I thought maybe confidence would help more than criticism?
+Character 1: That's not your call to make.
+108 Character 2: You're right. You're absolutely right and I—I overstepped. I was trying to protect you from feeling bad but that's not what you asked for and it's not what you needed.
+Character 1: Made me look like an idiot.
+109 Character 2: No! Nobody thought—okay wait, that's not the point. The point is I should've been straight with you. I dunno why I always do this, like, I wanna help but then I just make everything worse somehow.
+Character 1: You do this a lot?
+110 Character 2: Not—not a lot, but... yeah, sometimes. With difficult stuff. I hate confrontation so much that I just... avoid it? Even when it's necessary? God, I'm literally the worst friend.
+Character 1: You're not the worst. Just... frustrating.
+111 Character 2: I get that. I really, really do. And I promise—like genuinely promise—I'm gonna work on it. Next time you ask for feedback, you're getting the truth. Even if it's uncomfortable. Especially if it's uncomfortable, actually.
+Character 1: That's all I wanted.
+112 Character 2: I know. And you—you deserved that from the start. I'm sorry it took me messing up this badly to realize it. We're... we're okay though, right? Eventually?
+
+--- MONOLOGUE SELFTALK ---
+
+--- CONVERSATION ---
+
+Script: 43f7a989 | Role: Character A
+
+113 Character A: [weary] Well, this is awkward. [bitter laugh] Twenty years in this business, and here we are—two professionals sent to cancel each other. [slower] Did they really think we wouldn't notice the setup?
+Character B: [amused disbelief] The irony is almost poetic, isn't it? [dry chuckle] Here I was, thinking this would be an easy mark. [quieter] Should've known when they offered triple my usual rate.
+114 Character A: [sarcastically] Triple? [Scoff] They gave me quadruple. [building anger] Guess they really wanted us both gone—two birds, one elaborate stone. We played right into their hands like amateurs.
+Character B: [contemplative] You know what's funny? [Hollow laugh] I actually respected your work—that job in Prague was art. [more bitterly] Now we're supposed to paint these walls with each other's blood.
+115 Character A: [Sharp exhale] Prague was nothing compared to your Cairo masterpiece. [hushed admiration] Three targets, one bullet—still can't figure that out. [louder] But here's the million-dollar question: who wants us both dead?
+Character B: [thoughtfully] Someone with deep pockets and a twisted sense of humor. [Grunt] My money's on Volkov—he never forgave that Moscow situation. [accelerating] Or maybe Chen from the Shanghai incident?
+116 Character A: [dismissive] Chen's too sloppy for this chess move. [Long sigh] This has finesse, planning, someone who knows our methods. [grimly amused] They even booked us the same hotel—talk about confidence.
+Character B: [incredulous] Wait, you're at the Continental too? [Nervous chuckle] Room 1247? [in disbelief] Jesus, they put me right across the hall—1248. We've been neighbors for two days.
+117 Character A: [explosive laugh] This is insane! [quieter realization] We probably rode the same elevator this morning. [building frustration] I held the door for someone with coffee—was that you with the newspaper?
+Character B: [stunned whisper] The Financial Times, yeah. [Hysterical giggle] You complimented my shoes. [normal volume] God, we're idiots—two apex predators circling each other, completely blind to the trap.
+118 Character A: [resigned] So what now? [Tired laugh] We can't exactly shake hands and walk away—we both took the money. [deliberately] The contract is signed; one of us has to die.
+Character B: [philosophically] Or we both do—mutually assured destruction. [Dark chuckle] Though I'd prefer option three: [vengefully] we find whoever orchestrated this and return the favor, extensively and creatively.
+119 Character A: [intrigued] Now you're talking my language. [Soft whistle] Two of the world's best assassins working together? [excitedly building] Whoever set this up won't see tomorrow's sunrise—that's a promise.
+Character B: [calculating tone] I've got contacts who can trace the money. [Pause] [determined] Forty-eight hours, we'll have a name. [coldly] Then we remind them why hiring us was their first mistake.
+120 Character A: [wickedly delighted] Oh, I like this plan. [Chuckle] Temporary truce then? [seriously] No killing each other until we're done painting the town red with our mutual friend's blood?
+Character B: [professionally] Agreed—professional courtesy and all that. [Snort] Besides, killing you now would be anticlimactic. [with anticipation] I want to see their face when we both walk through their door.
+121 Character A: [nostalgic] You know, in another life, we could've been partners. [Wistful sigh] Imagine the chaos—the contracts we could've fulfilled. [sharply] Instead, someone made us enemies for sport.
+Character B: [reflective whisper] Partners. [Bitter laugh] That would've been something. [steadily] But after we finish this, we still have our original problem—only one of us walks away, eventually.
+122 Character A: [accepting] One bridge at a time, my friend. [Heavy exhale] Maybe we'll get lucky—maybe whoever hired us will kill us both. [ironically cheerful] At least then we'd go out as legends.
+Character B: [raising voice] Legends who got played like rookies! [Rueful laugh] But you're right—first things first. [with finality] Let's go hunting. We've got a puppetmaster to bury.
+
+Script: 6e30fc55 | Role: Character B
+
+Character A: [nervously] So, I'm thinking maybe the bridesmaids could wear something... [quieter] modest? [Clearing throat] Like those high-neck, long-sleeve options I showed you? I just want everything to look cohesive, you know, nothing too flashy or attention-grabbing for the photos.
+123 Character B: [confused] Oh, those empire waist ones? [diplomatically] They're definitely... unique. [Slight pause] But won't we all melt in July heat with long sleeves? Maybe we could consider something with a bit more airflow, just for comfort's sake?
+Character A: [defensive] Well, I thought they'd photograph beautifully! [voice cracking] Plus, they cover everything nicely. [Nervous laugh] You'd look stunning in anything anyway, so I figured why not go for something that won't steal focus from, you know, the bride?
+124 Character B: [gently] Sarah, you're going to be radiant no matter what we wear. [reassuringly] How about those gorgeous blush pink ones you bookmarked last week? [warmly] They had that elegant A-line cut that would complement your dress perfectly without competing with it.
+Character A: [hesitant] Those ones show so much skin though. [getting higher] What if everyone's looking at you guys instead? [Sharp exhale] I saw how that sales assistant kept staring when you tried on that strapless gown last time at the boutique.
+125 Character B: [firmly] People stare at wedding parties, that's normal. [softer] But trust me, nobody outshines a bride on her day. [Gentle laugh] Remember Jenny's wedding? Her bridesmaids wore literal sequins and everyone still only had eyes for her walking down that aisle.
+Character A: [mumbling] Jenny's different though, she's naturally confident. [louder, frustrated] I just want one day where I don't feel like the dowdy friend! [Shaky breath] Is it so wrong to want my bridesmaids in something that doesn't scream "look at me"?
+126 Character B: [hurt] You think I'd try to upstage you? [more firmly] Sarah, I've been your friend for twelve years. [controlled] If you want us in potato sacks, we'll wear potato sacks, but please don't think we'd ever intentionally overshadow your moment.
+Character A: [apologetically] No, no, I didn't mean it like that. [sniffling] God, I'm being such a bridezilla, aren't I? [Bitter laugh] It's just Mark's ex is coming and she looks like a Victoria's Secret model even in sweatpants.
+127 Character B: [sympathetically] Oh honey, that's what this is about? [Soft sigh] Mark chose YOU, not her. [encouragingly] He literally cried during your proposal story at the engagement party - that man is completely smitten with exactly who you are.
+Character A: [quietly] You really think the blush ones would work? [hopeful] They did have that beautiful lace detailing. [Deep breath] Maybe if we added little cover-ups for the ceremony? Then everyone gets comfort and I get my traditional church-appropriate look?
+128 Character B: [excited] Yes! That's perfect! [enthusiastically] We could get those delicate shawls that match the groomsmen's ties! [happily] Oh, and with your cathedral veil and that stunning ballgown? Girl, you're going to look like absolute royalty walking down that aisle.
+Character A: [warming up] You always know what to say. [more confidently] Okay, let's do the blush ones. [Giggling] But I'm picking the shoes - and I'm thinking comfortable flats because I need my girls dancing with me all night long!
+129 Character B: [laughing] Thank God, my feet are already thanking you! [playfully] Can we also vote on hair? [teasingly] Because that slicked-back bun idea you mentioned earlier made me look like my strict aunt Margaret who collects ceramic frogs.
+Character A: [amused] Fine, loose curls it is! [mock serious] But I draw the line at the bouquets. [Snorting laugh] Remember when you suggested succulents? My grandmother almost fainted when I mentioned it - "Cactuses at a wedding, Sarah? Cactuses?"
+130 Character B: [defensive] Succulents are trendy! [giggling] But okay, your peonies will be gorgeous. [sincerely] Honestly, I'm just honored to stand beside you. This whole thing is going to be magical, and you're going to be the most beautiful bride.
+Character A: [emotional] Stop, you're going to make me cry and I just did my makeup for the vendor meeting. [shakily] I'm sorry for being weird about the dresses. [Sigh] Wedding planning is making me crazy - yesterday I cried over napkin colors.
+131 Character B: [understanding] Everyone goes a little nuts planning weddings. [jokingly] My sister tried to uninvite our cousin over a plus-one dispute. [more seriously] But you're handling it amazingly. The day will be perfect because it's yours and Mark's, not because of dresses.
+Character A: [relieved] You're the best, you know that? [determined] Alright, let's go order those blush dresses before I change my mind again. [Laughing] And maybe we should grab some wine after - I need to decompress from all this wedding crazy.
+132 Character B: [enthusiastically] Wine sounds perfect! [mischievously] And we can toast to Mark's ex showing up and seeing how insanely happy you two are together. [warmly] Besides, she'll be too busy crying into her champagne to notice our gorgeous bridesmaid dresses anyway!
+
+Script: 888b8d06 | Role: Character A
+
+133 Character A: [softly] Thank you both for coming over tonight. [slower pace] The house has been so quiet lately, I... [trailing off] I actually jumped when the doorbell rang because I'd forgotten what it sounded like.
+Character B: [too cheerful] Well, we're here now to liven things up! [nervous laugh] I brought that casserole you love—the one with the cheese? [quieter] Jim always said it was his favorite at our potlucks.
+134 Character A: [strained] Right. Jim loved that casserole. [long pause] [steadier] He used to sneak bites straight from the dish when he thought nobody was looking, leaving those little spoon marks everywhere in it.
+Character B: [awkwardly loud] Oh god, I'm sorry, I shouldn't have mentioned— [stumbling over words] I mean, we can talk about other things! [forced brightness] Like that new grocery store that opened downtown with the fancy olive bar!
+135 Character A: [gentle exhale] It's okay, really. [warmer tone] I actually like hearing his name. [whispered] Everyone's been so careful not to say it, like he'll disappear completely if we don't talk about him.
+Character B: [relieved rush] Oh thank goodness, because I have about fifty Jim stories and I've been biting my tongue so hard it's practically bleeding! [catching breath] [softer] Should I save them for later or...?
+136 Character A: [small laugh] Please, tell them all. [growing stronger] The stupid ones especially—like when he tried to fix the dishwasher and flooded the entire kitchen. [wistful] God, I was so mad that day.
+Character B: [erupting giggle] And he just stood there with that wrench like he'd betrayed him personally! [dramatically lower] "Martha, the YouTube video lied to me." [snorting] Meanwhile, we're all ankle-deep in suds!
+137 Character A: [shaky breath] You know what's weird? [more controlled] I fixed that same dishwasher myself last week, no flooding, no drama. [bitter laugh] Turns out I just needed him to show me how not to do it first.
+Character B: [tentatively] That's... actually beautiful in a backwards way? [gaining confidence] Like he's still teaching you things. [hushed] My mom said something similar after dad died, about finally understanding his terrible jokes.
+138 Character A: [firmly] Your mom's a smart woman. [cracking slightly] Though I'd trade all my newfound plumbing knowledge just to have one more flood, you know? [soft sob] Just one more disaster to clean up together.
+Character B: [panicking] Oh honey, no, I've made you cry! [frantically] Where are the tissues? [desperate whisper] Should I stop talking about him? I'm so bad at this whole comfort thing!
+139 Character A: [through tears] Don't you dare stop. [fierce whisper] These are the good tears, the ones that actually help. [steadying breath] Not like those awful ones at three AM when the house creaks and I think it's him.
+Character B: [cautiously] Would it help if I stayed over sometimes? [rambling nervously] I mean, not every night, that would be weird, but maybe Fridays? [hopeful upturn] We could watch those terrible reality shows Jim always pretended to hate?
+140 Character A: [surprised warmth] He secretly loved those shows. [confidentially] I caught him watching ahead once and pretending to be shocked at the eliminations. [stronger] Yes, please stay Fridays. The weekends are the absolute worst.
+Character B: [excitedly] Perfect! I'll bring wine and those expensive tissues with lotion! [lowering voice] And we can ugly-cry through the romance episodes without judgment. [thoughtfully] Jim would probably mock us mercilessly for it.
+141 Character A: [laughing properly] He'd do that thing where he'd hover in the doorway pretending not to watch. [imitating deep voice] "How can you watch this garbage?" [normally] Then ask who got eliminated during commercial breaks.
+Character B: [delighted squeal] Yes! And he'd have opinions about their outfits! [mock serious] "That guy's pocket square doesn't match his date's dress." [giggling] Like he didn't wear the same shirt three days straight sometimes!
+142 Character A: [peaceful sigh] This is nice, talking about him like he's just... [searching] in the next room or something. [firmly] Not gone, just elsewhere. [brighter] Thank you for not treating me like I'll shatter.
+Character B: [gently] You're the strongest person I know. [more intently] But even strong people need terrible TV and wine. [whispered affection] And friends who remember that Jim absolutely did wear that shirt three days straight.
+
+--- CS TAGFULL ---
+
+Script: 8d0ce999 | Role: Customer Support
+
+Customer: [frustrated] I've been to three different stores today, and nobody—nobody—has my economics textbook in stock. [groans] The professor said it's required, and [getting louder] classes start tomorrow!
+143 Customer Support: [quickly] Let me check our system right away. [reassuring] We've had, um, supply chain issues lately, but [more optimistically] I might have good news about that particular title.
+Customer: [skeptical] Supply chain issues? [sighs heavily] That's what everyone keeps saying. Look, I just need the Morrison Economics text, third edition—[desperately] is that really so impossible to find?
+144 Customer Support: [briskly] Actually, yes, we do have one copy left! [pause] Well, technically it's... it's the international edition, [more cautiously] which has the same content but different page numbers.
+Customer: [confused] International edition? [slowly] What does that even mean for my assignments? [anxiously] The professor specifically lists page numbers for readings—I can't be flipping around trying to find the right sections!
+145 Customer Support: [sympathetically] I understand your concern completely. [speaking faster] Most students manage fine with a conversion guide, and honestly, [whispers] it's about sixty dollars cheaper than the regular edition.
+Customer: [sarcastically] Oh great, a treasure hunt every time I have homework. [sighs] Fine, whatever, I'll take it. [resigned] Can you at least guarantee it's actually here, not "in transit" or something?
+146 Customer Support: [confidently] It's physically on our shelf right now—I'm looking at it. [more quickly] Would you like me to, uh, hold it at the counter while you come in, [helpfully] or should I start ringing it up?
+Customer: [urgently] Hold it! Please, just—hold it with my name on it. [nervously] I'll be there in twenty minutes, [firmly] and if someone else takes it, I swear I'm switching majors.
+147 Customer Support: [professionally] Consider it done—I'm putting it behind the counter now. [warmly] We'll have it waiting for you, and [chuckles softly] no major life changes necessary today.
+
+--- CS TAGLESS ---
+
+Script: 22ff1d1f | Role: Customer Support
+
+148 Customer Support: Good morning, this is Marcus from First National Construction Lending. I'm calling about your draw schedule review for loan number C-L-F-3-3-9-2-8-A. Do you have a few minutes to go over the disbursement timeline?
+Customer: Oh, uh, yes—wait, draw schedule? I thought we already... I mean, I signed something last week about payments? This is for the house on Maple Street, right, the one with permit P-D-7-7-4-5-1?
+149 Customer Support: Correct, permit PD77451 for 1247 Maple Street. The draw schedule outlines when funds get released during construction—you've got five draws totaling your approved amount of three hundred seventy-five thousand. Let me pull up document reference D-S-0-0-9-4-2.
+Customer: Five draws? But the contractor, he said—he mentioned something about getting paid every two weeks? I don't understand how... is that different from what you're talking about?
+150 Customer Support: Your contractor handles their own payment schedule with subcontractors. Our draws release funds at specific construction milestones—foundation completion triggers draw one for seventy-five thousand, tracking code F-N-D-1-0-1. Make sense so far?
+Customer: So wait, let me—okay, so I don't pay them directly? The money goes... where exactly does it go when you say "release funds"? And who decides when the foundation is actually, you know, done?
+151 Customer Support: Funds go to your project escrow account E-S-C-9-9-0-3-3-B, then to the contractor after our inspector verifies completion. Inspector badge number I-N-S-4-4-2-7 will visit within forty-eight hours of your draw request submission.
+Customer: An inspector? Nobody told me about—I mean, that's another person I need to coordinate with? How do I even request a draw, is there like a form or something, case number, whatever?
+152 Customer Support: You'll submit form F-R-M-2-2-1-A through our online portal using access code W-E-B-8-8-5-5-2. Your contractor typically initiates the request, you approve it electronically, then we schedule the inspection—it's all tracked under your master file M-F-7-7-9-0.
+Customer: The contractor does it first? But then—sorry, I'm confused—if they request the money, what stops them from just... requesting it whenever? Like before the work is actually finished or something?
+153 Customer Support: That's why we require your electronic approval plus the inspection—it's a three-step verification process. Nothing gets released without all three checkpoints cleared, and everything's logged in our system under your loan ID C-L-F-3-3-9-2-8-A.
+Customer: Okay, that makes more—actually, wait, you said five draws earlier? Can you tell me what each one is for, because I'm looking at my paperwork here and I see something about percentages but it's not really clear.
+154 Customer Support: Draw one is foundation at twenty percent, draw two is framing at twenty-five percent, draw three covers rough mechanicals at twenty percent. Draw four is insulation and drywall at twenty percent, final draw five at fifteen percent for completion—reference schedule S-C-H-0-0-1-1.
+Customer: Rough mechanicals? Is that like—what does that even mean? And these percentages, they seem kind of arbitrary... what if my foundation costs more than twenty percent of the total?
+155 Customer Support: Rough mechanicals means plumbing, electrical, and HVAC before walls close up—it's industry standard terminology. The percentages are based on typical cost distributions, but your contractor should've already factored these into their bid document B-I-D-6-6-3-3-1.
+Customer: Right, the bid—yeah, I have that somewhere... So what happens if we're like, I don't know, if we finish framing but haven't started the foundation yet? Can we switch the order around or is it locked in?
+156 Customer Support: The sequence is fixed for lien waiver purposes and code compliance—can't frame without a foundation anyway. Each draw requires completion certificates with code C-O-M-P-9-9-8-8 from the prior phase before proceeding.
+Customer: Lien waiver? That's—is that something I need to worry about? This is getting really complicated and I'm starting to think maybe I should've just bought an existing house instead of building.
+157 Customer Support: Lien waivers protect you from subcontractor claims—we handle all that documentation. Would you like me to email you a simplified timeline to reference S-T-L-4-4-5-5-2 that breaks everything down step by step?
+Customer: Yes, please, that would be—actually yes, definitely send that. My email is in your system, right? And maybe include something about those inspection things, because I still don't really understand when I'm supposed to call who.
+
+--- BASIC SCENARIOS ---
+
+158 [Angry] Look, I'm not trying to be difficult here, but this thing literally broke the first time I—I mean, come on, it's clearly defective. [Groan] [Sarcastic] Oh sure, yeah, because I totally love spending my Saturday afternoon arguing about a receipt that's, what, two days old? [Tsk] [Fast] [Disappointed] I've been shopping here for like fifteen years and you're telling me you can't—won't—help me with this? [Whisper] [Sad] This was supposed to be a gift for my daughter and now I just... I dunno what to do honestly. [Happy] Wait wait wait, you're new here, right? [Chuckle] Maybe we can just, um, start over and figure this out together? [Slow] [Angry] Every. Single. Other. Store. Would've taken this back by now, you know that? [Disappointed] [Sigh] I guess I'll just—actually, no, can I speak to someone else please? [Shout] I'm not leaving until somebody fixes this! [Angry] [Fast] I paid good money and I deserve—I have rights as a customer! [Sarcastic] [Laugh] The "all sales final" sign that's conveniently hidden behind that display rack, you mean? [Sad] [Slow] My husband's gonna be so upset when he finds out I couldn't even... nevermind, forget it. [Fast] [Happy] Okay so what if I exchange it for store credit instead, would that work, could we maybe do that? [Chuckle] [Whisper] There's literally a line forming behind me and you're making me look like the—the problem customer here. [Disappointed] [Tsk] [Angry] [Sigh] Fine, you wanna play hardball, I'll just, uh, I'll post about this online, see how corporate likes that. [Sarcastic] [Slow] Wow, your customer service training must've been really, really thorough, huh? [Disappointed] But the website says—no, look, it literally says right here on my phone that returns are... [Groan] [Fast] Why am I even bothering? [Happy] [Laugh] This is actually kinda funny 'cause my sister warned me about—she said you guys would pull something like this! [Shout] [Angry] Thirty days means thirty days, not twenty-eight, not—it hasn't even been a full month yet! [Whisper] [Sad] Could you at least pretend to care that I'm, um, that I'm having a problem here? [Chuckle] [Sarcastic] I mean, technically if you squint really hard and turn it sideways, it almost looks like it's not completely broken, right? [Slow] [Disappointed] [Sigh] Y'know what, I'm just gonna—I'll take my business somewhere that actually, like, values customers or whatever.
+
+159 [Happy] Finally, I can just—oh my god, I'm gonna sleep until noon tomorrow. [Laugh] [Slow] No alarms, no emails, nothing. [Sigh] You know what, I'm not even gonna, like, plan anything—I'm just gonna exist for once. [Shout] Cancel everything! [Fast] I don't care what it is, I'm not doing it, I'm officially unavailable! [Disappointed] Wait, tomorrow's my day off? [Tsk] I kinda already told my mom I'd help her move that couch thing. [Whisper] Don't tell anyone, but I might actually just stay in bed and watch trash TV all day. [Sarcastic] Oh great, a whole day to remember all the stuff I've been putting off. [Groan] That's exactly what I needed, thanks. [Fast] I'm gonna order takeout, turn off my phone, and—wait, actually no, I gotta keep it on for emergencies but like—whatever. [Chuckle] [Sad] Honestly, I'm so tired I don't even know if I can, um, enjoy it properly, you know? [Happy] [Slow] This is the first time in, what, three months that I've had absolutely nothing scheduled? [Angry] If anyone tries to call me about work stuff tomorrow, I swear I'm gonna—[Groan] I'm blocking everyone tonight. [Chuckle] My boss literally said "take tomorrow off" and I was like, uh, is this a test or something? [Disappointed] [Fast] I mean, it's nice I guess, but now I feel guilty about not being productive or whatever. [Whisper] [Laugh] I already told three different people I was busy tomorrow so they wouldn't ask me for favors. [Slow] You ever get so exhausted that even thinking about relaxing feels like—I dunno, work? [Sarcastic] [Tsk] Sure, give me a day off right when there's literally nothing good on Netflix anymore. [Happy] Wait, are you serious? [Fast] I can actually have breakfast at, like, a normal human time instead of scarfing down a granola bar? [Sigh] [Slow] I should probably do laundry, but honestly, I'm just gonna—nah, laundry can wait another week. [Angry] [Shout] Nobody better wake me up before noon or I'm gonna lose it! [Sad] Kind of pathetic that I'm this excited about literally just, um, one day to myself, right? [Sigh] [Chuckle] [Fast] I've already got my pajamas picked out and I'm not changing out of them for anybody, I don't care who shows up.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+160 SCENARIO: [scenario description]
+==================================================
+
+Source: 97493fc9
+
+SCENARIO: Calmly describing a photo they posted, then checking comments, then seeing their ex commented something, spiraling into confused anxious spiraling about what it means
+==================================================
+
+[casual]
+So I posted that photo from the coffee shop this morning, you know, the one with the latte art? It was actually pretty cute – the barista made this little leaf pattern. I was like, eh, why not share it.
+
+[conversational]
+I wasn't really expecting much, just figured a few people might like it. You know how it is with those mundane life posts. But it actually got some decent engagement.
+
+[pleased]
+Like Sarah commented something sweet, and my coworker Jake left that laughing emoji... [light laugh] Oh, and my mom of course had to comment asking if I'm eating enough breakfast with my coffee.
+
+[stopping short]
+Wait, hold on. I'm scrolling through and— [sharp exhale] Oh my god. Tyler commented.
+
+[confused] [a bit unsettled]
+He just... he wrote "looks good" with a smiley face. That's it. "Looks good." What does that even mean? Like, the coffee looks good? Or...?
+
+[spiraling]
+I mean, we haven't talked in like three months. Three months! And now he's just casually commenting on my coffee photos? [nervous laugh] Is this him trying to be friendly? Is this him missing me? 
+
+[increasingly frantic]
+Oh god, what if he thinks I posted it because I knew he'd see it? What if he thinks I'm trying to look all cute and independent at coffee shops? [whimper] What am I supposed to do with "looks good"?!
+
+This must be read out in a single delivery as one file
+
+161 SCENARIO: [scenario description]
+==================================================
+
+Source: 17169763
+
+SCENARIO: Mad about a delayed train, then meets someone interesting while waiting
+==================================================
+
+[frustrated]
+Oh my God, don't even get me started on today. The 8:15 train was like forty minutes late— forty minutes! And they're just like "signal issues, blah blah" over the intercom but I'm standing there like, I have a meeting at nine, you know?
+
+[annoyed]
+So I'm just pacing around the platform like a crazy person, checking my phone every two seconds, and I'm getting more and more— [groan] I was literally about to just call an Uber and eat the like sixty dollar surge or whatever.
+
+[calmer] [slightly curious]
+But then this woman next to me just starts laughing. Like actually laughing at the whole situation, and I'm like— I turn around and she's got this huge coffee stain down her shirt and she's just like "well, this day's already shot to hell anyway."
+
+[warming up]
+And we just started talking, and she's this— she does ceramics, like actual pottery, and she was telling me about her studio and how she's got this kiln that breaks down all the time, so train delays are like nothing compared to that.
+
+[surprised] [excited]
+Oh wait, she's— she just texted me actually! She said she looked up my company after we talked and she wants to collaborate on something for our lobby space?
+
+[genuinely happy]
+That's... that's actually amazing. Like I went from wanting to scream at the train conductor to maybe landing this cool art project. [small laugh] Weird how that works out.
+
+This must be read out in a single delivery as one file
+
+162 SCENARIO: [scenario description]
+==================================================
+
+Source: 0ca9c333
+
+SCENARIO: Mad their kid didn't do chores, then walks into the room and sees everything is actually done
+==================================================
+
+[frustrated]
+Oh my God, I am so done with Alex right now. Like, we had this whole conversation yesterday about responsibility and doing their part around the house, and what do I come home to? Nothing. Absolutely nothing done.
+
+[annoyed]
+I left a list on the counter this morning — just basic stuff, you know? Take out the trash, load the dishwasher, maybe run the vacuum in the living room. Not asking for miracles here, just— [sigh] just the bare minimum.
+
+[getting more worked up]
+And I'm thinking, okay, they're thirteen, they can handle three simple tasks while I'm at work for eight hours. But no, apparently that's too much to ask. I was ready to march upstairs and be like, "What exactly did you do all day?"
+
+[confused] [quieter]
+Wait, hold on. I'm— I'm looking at the kitchen right now and the dishwasher is... it's running? And there's no trash in the bin.
+
+[surprised]
+Oh. Oh wow, they— they actually did do it. The living room looks... yeah, it's vacuumed. You can see the little carpet lines and everything.
+
+[guilty] [embarrassed]
+God, I feel like such a jerk. I was literally working myself up into this whole lecture about follow-through and— [half laugh] and they actually followed through. I should probably go tell them good job instead of, you know, yelling at them.
+
+This must be read out in a single delivery as one file
+
+163 SCENARIO: [scenario description]
+==================================================
+
+Source: 3c23b008
+
+SCENARIO: Annoyed about a loud commercial, then it ending right away
+==================================================
+
+[annoyed]
+So I'm just trying to watch Netflix, right? Like I finally have a free evening, I made myself some popcorn, got comfortable on the couch, and then this— this insurance commercial comes on and it's like, SO loud. Like ridiculously loud.
+
+[frustrated]
+I'm scrambling for the remote because it's like— it's like they cranked the volume to eleven or something, and I'm thinking great, now I'm gonna have to deal with this for like thirty seconds, maybe a minute of just... assault on my eardrums.
+
+[irritated] 
+And you know how I get about loud noises, especially when I'm trying to relax, so I'm already like tensing up and getting ready to mute it or whatever, and I'm fumbling with the remote—
+
+[surprised]
+Oh wait, it just— it literally just ended. Like right as I found the volume button, it cut to black.
+
+[confused] [half laugh]
+That was like... three seconds? Maybe five? I don't think I've ever seen a commercial that short before. That's actually kind of— 
+
+[amused] [lighter]
+You know what, that's actually perfect. Like they got my attention, I definitely noticed their brand, and then they didn't overstay their welcome. [chuckle] I'm not even mad anymore. That's kind of genius, actually.
