@@ -1,0 +1,265 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 084a9b2e_script | Role: Character 2 (B)
+
+Character 1: So I won trivia night.
+599 Character 2: Wait wait wait—you what? Oh my god, that's—that's amazing! Was this at O'Malley's? Because their trivia is like, notoriously impossible, right?Character 1: Yeah. O'Malley's.
+600 Character 2: Okay so like—tell me everything! Were you solo or did you have a team? Because honestly, I can't even imagine winning there by myself.Character 1: Just me and some guy named Derek. He knew all the sports questions.
+601 Character 2: Derek! Of course there's a Derek who knows sports. But um, what was your category? Like what did you absolutely crush?Character 1: Geography. And 90s music.
+602 Character 2: No no no, that's so perfect for you though! Remember when you made me listen to that entire Radiohead album on our road trip? I mean—actually that tracks completely.Character 1: You fell asleep during "OK Computer."
+603 Character 2: I was—okay I was tired! But seriously, what did you win? Please tell me it's something good and not like, a gift card to Applebee's or whatever.Character 1: Two hundred dollars. Split it with Derek.
+604 Character 2: A hundred bucks! That's—that's actually legit! Are you gonna go back next week? Because like, now you're basically the reigning champion, right?Character 1: Maybe. Derek wants to.
+605 Character 2: Oh, so Derek's like—is he cool? Are we getting a new trivia buddy situation here? Because honestly I'm kinda jealous I wasn't there to witness this historic moment.Character 1: He's fine. Talks a lot about baseball.
+606 Character 2: Ugh, baseball guys are—well, actually no, that's probably super useful for trivia . But um, how did it feel? Like when they called your team name?Character 1: Good, I guess. We were "Quiz in My Pants."
+607 Character 2: Quiz in My—oh my god, that's terrible! That's so bad it's good! Wait, was that Derek's idea or yours?Character 1: Derek's. I wanted "The Trivial Pursuits."
+608 Character 2: Okay okay, yours is definitely classier but—I mean, you won, so maybe terrible pun names are like, the secret strategy? Either way, I'm literally so proud of you right now!
+Script: 2bc04641_script | Role: Character 2 (B)
+
+Character 1: It's done. Everything for the wedding. Finally.
+609 Character 2: Oh my god, wait—you're done? Like done done? All of it? The flowers, the—the seating chart nightmare, everything? I can't believe it's actually happening!Character 1: Yep. Last vendor payment went through this morning.
+610 Character 2: Okay okay, so like... how does it feel? Because honestly, I remember when you started this whole thing and you were just—you were so stressed, y'know? And now it's just... done.Character 1: Weird. Like I should still be doing something.
+611 Character 2: No no no, that's—that's totally normal though! You've been in like, planning mode for what, eight months? Your brain's probably still trying to make spreadsheets and stuff. When do you finally get to relax?Character 1: Two weeks from Saturday. Then it's over.
+612 Character 2: Not over—starting! It's starting, babe. But um, seriously though, are you gonna be able to actually enjoy it? Or are you gonna be all worried about, like, the timeline and—wait, who's managing everything day-of?Character 1: We hired a coordinator. She seems competent.
+613 Character 2: Oh thank god, because I was about to—honestly I was gonna volunteer but like, you know I'd probably cry during your vows and miss half the cues. You'd fire me immediately.Character 1: You would cry. A lot.
+614 Character 2: Okay, rude but fair. But like—can we talk about how you literally planned an entire wedding? That's huge! Most people can't even plan dinner, and you just... did that.Character 1: Had help. The internet. Wine.
+615 Character 2: Wine's basically a wedding planning essential at this point, right? But still, you—you pulled it off. Is there anything you're still worried about? Or is it all just... waiting now?Character 1: The weather. Can't control that one.
+616 Character 2: Ugh, yeah, that's—okay but even if it rains, it's gonna be beautiful. Rain's supposed to be good luck or something? I dunno, I read that somewhere. Plus everyone's there for you two, not the weather.Character 1: That's what everyone keeps saying.
+617 Character 2: Because it's true! And honestly? After everything you've been through with the planning—the venue drama, your mom's whole thing with the menu—you deserve the most perfect day. Like, the universe owes you that.Character 1: The universe doesn't owe anyone anything. But thanks.
+618 Character 2: Okay, maybe not, but— look, I'm just really proud of you, y'know? You did it. You're getting married. Can you believe it? Actually wait, don't answer that, just... let yourself be excited for once!
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+619 SCENARIO: [scenario description]==================================================
+
+Source: a2e3063c
+
+SCENARIO: debating whether to hold the door for someone who's kind of far away
+==================================================
+
+[muttering]
+Oh, um, okay so there's someone coming and I'm— I'm already at the door, so I should probably— but they're like, they're kind of far. Like, how far is too far for the, uh, for the door thing?
+
+[slightly uncertain]
+I mean, if I hold it, they're gonna have to do that awkward little jog, right? That little— that little speed walk thing where they're like, trying to be polite but also— [sigh] but if I don't hold it, then I'm just, um, I'm just the person who let the door slam in someone's face.
+
+[considering]
+Okay, so they're— they're maybe like fifteen steps away? Twenty? That's, um— that's a long time to just stand here holding a door. My arm's gonna get tired, and they're gonna feel all rushed and—
+
+[slightly faster]
+But wait, wait, what if they think I didn't see them? What if they think I'm just— oh god, now I've been standing here too long thinking about it, and now it's weird either way.
+
+[resigned]
+Okay, you know what? I'm just— I'm just gonna hold it. Better awkward than rude, right? [exhale] Here we go.
+
+This must be read out in a single delivery as one file
+
+620 SCENARIO: [scenario description]==================================================
+
+Source: e6ea3dff
+
+SCENARIO: trying to figure out where the weird draft is coming from
+==================================================
+
+[muttering]
+Okay, so there's definitely— there's definitely a draft coming from somewhere and it's, um, it's driving me crazy. Like, I'm just sitting here and I keep feeling this little, uh, this little breeze on my neck and it's— [shiver] there it is again.
+
+[slightly annoyed]
+It's not the window, I already checked the window. The window's closed, so it's gotta be— I mean, where else would it— oh, wait. Wait wait wait. Is it the door? Let me just, um, let me just feel around the door frame here.
+
+[concentrated]
+Hmm. No, that's— that's not it either. The door seems fine. So what the heck is— [pause] oh. Oh, you know what? I bet it's the, uh, the air conditioning vent. I never think about those things but they're always just, like, blowing air around.
+
+[realization dawning]
+Right, so if I'm sitting directly under— yeah, okay, that's— that makes sense. I'm literally sitting right in the path of the AC. [laugh] Mystery solved, I guess. I'll just, um, I'll just move my chair like two feet to the left and—
+
+[satisfied]
+There we go. Much better. Crisis averted. [chuckle] I probably spent, like, ten minutes on that.
+
+This must be read out in a single delivery as one file
+
+621 SCENARIO: [scenario description]==================================================
+
+Source: b363559a
+
+SCENARIO: a prisoner of war in an enemy dungeon, noticing the cellmate next to him is a talker
+==================================================
+
+[muttering]
+Okay, so this guy has been talking for, what, three hours now? About his... his childhood pet goat or something. I mean, I get it, we're probably gonna die in here, but does he have to— [sigh] does he have to tell me every single detail about Buttercup's eating habits?
+
+[weary]
+Maybe he's nervous. People talk when they're nervous, right? But Jesus, I'm trying to think here. There's gotta be a way out of this place, some kind of— wait, what's he saying now? Something about guard rotations?
+
+[perking up slightly]
+Hold on. Hold on, he said something about the guards changing at dawn, didn't he? Between all the goat stories and his... his mother's recipe for bread pudding. [grunt] Actually, maybe I should be listening to this guy.
+
+[resigned but focusing]
+Alright. Alright, I'm gonna— I'm gonna pay attention now. Filter through all the random stuff and see if he's actually giving me intel here. Even if I have to hear about Buttercup one more time.
+
+--- CONVERSATION ---
+
+Script: 75c0699f | Role: Character A
+
+622 Character A: [growling] Three months we've been searchin' for this cursed spot! [louder] Through storms, krakens, and mutinous dogs! [Spits] And what do we find? An empty chest with nothin' but sand and broken dreams inside.Character B: [trembling with rage] Empty? [explosive shout] EMPTY?! [Bitter laugh] I lost me best eye to a parrot for this map! Fought seventeen men at the tavern! And ye're tellin' me it's just wood and rust?
+623 Character A: [in disbelief] Look at these hinges—they're ancient, untouched for decades. [quieter] Someone got here first, mate. [Groans] Probably that scurvy dog Blackbeard himself, laughin' at us from his watery grave.Character B: [seething whisper] Or maybe... [accusingly] maybe someone closer. [Snarl] Where were ye last night when I was sleepin'? Your boots were wet this mornin', and don't tell me it was just the dew!
+624 Character A: [offended gasp] You dare question me honor? [mockingly sweet] After I saved your worthless hide from those navy rats? [venomous] Perhaps ye switched the map yourself, you backstabbing sea weasel!Character B: [cackling madly] Me? Switch the map? [slower, menacing] I can barely read, you fool! [Snorts] Besides, I was too busy keepin' your rum-soaked carcass from fallin' overboard to plan any treachery!
+625 Character A: [desperately] Wait, wait! [more hopefully] There's writin' here on the bottom! [excited whisper] "The real treasure lies beneath where the moon kisses the tide." It's another riddle, another chance at glory!Character B: [exhausted sigh] Not another blasted riddle. [sarcastically] Oh joy, more wanderin' about! [Grunt] Me bones are too old for these games. Let's just steal from merchant ships like normal, respectable pirates do!
+626 Character A: [pleading] Come now, don't give up! [building enthusiasm] Think of the gold, the jewels, the fame! [whispered urgency] We've come too far to turn back now, haven't we, old friend?Character B: [weary chuckle] Old friend, he says. [more firmly] Aye, curse it all. [Heavy sigh] One more hunt then, but if this leads to another empty chest, I'm feedin' ye to the sharks meself!
+627 Character A: [relieved laugh] That's the spirit! [confidently] We'll solve this riddle by dawn! [Whooping] Then we'll be rich enough to buy our own fleet and never dig another hole again!Character B: [grumbling] Dawn? [incredulous] It's already past midnight! [Yawns] Can't we at least sleep first? Me back's killin' me from all this diggin', and me head's poundin' from rage and disappointment.
+628 Character A: [dismissively] Sleep is for landlubbers! [energetically] Look, the moon's already high! [urgent whisper] If we wait, someone else might figure it out first. Do ye want to lose another treasure?Character B: [defeated moan] Fine, fine! [muttering darkly] But I'm takin' extra rum rations for this. [Coughs] And if I die from exhaustion, I'm hauntin' your dreams with sea shanties forever!
+629 Character A: [amused] Ye already do that when you're alive! [more seriously] Here, take me compass. [softly] The moon's reflection points northwest. That's where the tide pools form near the old shipwreck.Character B: [sudden realization] The shipwreck! [excited gasp] That's where we found the map! [Laughing] It's a circle, ye brilliant fool! The treasure was probably there all along, under our noses!
+630 Character A: [triumphant shout] By Davy Jones' locker, you're right! [giddy laughter] We walked right over it! [breathlessly] All this time, searchin' the seven seas, and it was at the beginnin'!Character B: [bitterly amused] Typical pirate's luck, innit? [wryly] Sail around the world to find what's in your own backyard. [Snickering] At least we got some good stories from our stupidity!
+631 Character A: [determined] Well then, what are we waitin' for? [commanding tone] Grab the shovels! [Excited yell] Tonight we either become legends or the biggest fools in pirate history! Either way, we're gettin' drunk!Character B: [rallying cry] Aye, that's more like it! [building energy] To fortune or folly! [Roaring laugh] And if this chest is empty too, we're retirin' to become fishermen—at least they catch somethin'!
+
+Script: 3ab5b556 | Role: Character A
+
+632 Character A: [controlling tone] You're cutting those carrots wrong, dear. [Sharp exhale] Here, let me show you the proper way—my son always loved them julienned, [increasingly patronizing] not these chunky pieces you're making.Character B: [forced politeness] I appreciate the tip, but this recipe specifically calls for rough cuts. [tense pause] It helps them hold their shape during roasting. [quieter] That's what the cookbook says, anyway.
+633 Character A: [dismissive laugh] Cookbooks! [louder] My mother taught me everything by hand, no books needed. [nostalgically] Real cooking comes from the heart, from tradition, from watching and learning—not reading instructions like assembling furniture.Character B: [defensive] Well, times change, and so do cooking methods. [Nervous chuckle] Besides, your son seems to enjoy my cooking just fine. [more firmly] He's never complained about my carrot-cutting technique before.
+634 Character A: [sweetly venomous] Oh, sweetheart, men never complain to their wives about food. [Soft tsk] They just quietly miss their mother's cooking. [whispered] Haven't you noticed how excited he gets when I bring dinner over?Character B: [strained cheerfulness] Actually, he mentioned last week that my pot roast was better than—[catching herself] well, better than anything he'd had before. [Deep breath] Should we check on the potatoes? They might be burning.
+635 Character A: [incredulous] Burning? [Scoff] I set the timer myself, there's still twelve minutes. [lecturing tone] You can't rush good food, dear. Patience is what separates mediocre cooks from exceptional ones, you know.Character B: [muttering] Right, patience. [Louder, brittle] Speaking of which, maybe you'd be more comfortable supervising from the living room? [overly sweet] I wouldn't want you standing too long—must be tiring at your age.
+636 Character A: [offended gasp] My age? [Indignant] I'll have you know I cooked Thanksgiving dinner for twenty people last year, all by myself! [triumphantly] Standing for eight hours straight without a single complaint or burnt dish!Character B: [apologetic rush] I didn't mean—of course you're very capable. [Frustrated sigh] It's just getting crowded in here with both of us. [measured words] Maybe we should divide tasks instead of hovering over each other?
+637 Character A: [suspicious] Hovering? [Hurt tone] I'm trying to help you learn, to pass down family recipes. [getting emotional] These are traditions that have been in our family for generations, precious memories in every ingredient!Character B: [guilt-ridden] Look, I understand that, I really do. [Exhale] But constantly correcting me isn't teaching—it's criticizing. [pleading] Can't we just cook together without turning it into a competition about who knows best?
+638 Character A: [wounded] Competition? [voice breaking] Is that what you think this is? [Bitter laugh] I'm just trying to ensure my grandchildren grow up knowing their heritage, their family's flavors, not just whatever's trending online!Character B: [exhausted] Your grandchildren aren't even born yet! [Hysterical giggle] We're literally cooking dinner for three people, not preserving cultural artifacts! [softer] Can we please just finish this meal without a dissertation on tradition?
+639 Character A: [cold silence] Fine. [Clipped words] Do it your way then. [dramatically resigned] I'll just stand here quietly and watch you massacre that beautiful roast with your "rough cuts" and modern techniques.Character B: [sarcastically sweet] Thank you, that's very generous. [Under breath] And here I thought silence was too much to hope for. [Brighter] Oh look, the timer's going off—shall I get the potatoes?
+640 Character A: [frantically] Wait, use the mitt on the left! [Gasping] Not that one—it has a hole! [exasperated groan] See, this is why I need to supervise. You almost burned yourself right there!Character B: [through gritted teeth] The mitt is fine, there's no hole. [Controlled breathing] I use it every day without incident. [rising pitch] But thank you for your constant vigilance over my apparently dangerous kitchen habits!
+641 Character A: [righteously] Someone needs to watch out for you, clearly. [Sniff] My son works so hard, the least you could do is learn proper kitchen safety. [pointed pause] A good wife protects her hands for her family.Character B: [barely contained rage] You're absolutely right. [Fake brightness] In fact, why don't you take over completely? [walking away] I'll go set the table—with the good china, of course—while you finish everything perfectly.
+
+Script: 7ae07608 | Role: Character B
+
+Character A: [voice breaking] Mom always said she wanted to be scattered here, [quieter] where Dad proposed. [Sharp inhale] I keep thinking she's going to walk up behind us and laugh about how we're doing it all wrong.
+642 Character B: [thick with tears] Remember how she'd sit right there on that rock? [wavering] Every Sunday after church, just watching the water. [Shaky breath] God, I can still smell her perfume when the wind picks up like this.Character A: [firmly] We should say something. [more uncertainly] She deserves words, proper ones. [clearing throat] Though everything I practiced in the car sounds stupid now that we're actually standing here with the urn.
+643 Character B: [bitter laugh] Words were never our thing, were they? [softer] Always her department. [Stifled sob] She could make grocery lists sound like poetry, and here we are, two grown men who can't string a sentence together.Character A: [suddenly urgent] Wait, wait—are we doing this too fast? [panicked] Once she's in the wind, that's it. [voice dropping] No more putting flowers on a grave, no place to visit when we need her.
+644 Character B: [gently] She's not in there, Danny. [more firmly] That's just dust and calcium. [Long exhale] Mom's in your terrible dad jokes and my stubborn streak—she's already everywhere we need her to be.Character A: [defensive] My jokes aren't terrible! [cracking] She laughed at every single one. [whispered] Even the really bad ones about chickens crossing roads. Sometimes I still catch myself saving the good ones to tell her.
+645 Character B: [nostalgic warmth] Tuesday nights, she'd call you first. [gradually sadder] Then me right after, pretending she hadn't already heard all your news. [Quiet laugh] I never told her I knew—seemed important to let her have that.Character A: [rushed words] The wind's picking up—should we do it now? [steadier] Together, like we promised? [Shuddering breath] I can't believe this is really happening, that we're really saying goodbye to her forever.
+646 Character B: [hoarse whisper] On three? [stronger] We'll tip it together, let her fly. [voice catching] She always said she wanted to travel more—guess this is her chance to go absolutely everywhere at once.Character A: [determined] One. [more shakily] This is for all the bedtime stories and band-aids. [Gulping breath] For every time she said she was proud of us even when we didn't deserve it.
+647 Character B: [trembling] Two. [steadying himself] For the light she left on when we stayed out too late. [almost inaudible] For forgiving us for all those calls we should have made but didn't.Character A: [in unison] Three. [Soft gasp] Oh God, look at her go—she's dancing in the sunlight. [through tears] The way the ashes catch the light, it's actually beautiful, like she's becoming part of everything.
+648 Character B: [awed whisper] She's really gone. [normal volume] But look how far she's already traveling. [Choked laugh] Typical Mom, couldn't wait to start her next adventure, probably already bossing God around up there.Character A: [exhausted] My hands won't stop shaking. [quieter] Is it wrong that I already miss having the urn to hold? [Ragged breath] At least that was something solid, something that proved she existed.
+649 Character B: [thoughtfully] She existed in more than objects, Danny. [with conviction] She existed in forty years of Christmas mornings and birthday calls. [voice softening] In every single time we choose kindness because that's what she would do.Character A: [suddenly clear] We should head back before dark. [gentler] But maybe we could stop at that diner she loved? [Sniffling] Order her usual and leave the seat empty—one last meal together.
+650 Character B: [relieved] Yes, God, yes. [warmly] Blueberry pancakes with extra whipped cream. [quiet amazement] How did someone so health-conscious love something so ridiculously sweet? She was always such a beautiful contradiction.Character A: [peaceful] The water's so calm now. [in wonder] Like it was waiting for her. [Deep breath] I think I finally understand why she chose this place—it's not an ending, it's a joining.
+651 Character B: [quietly firm] We did good, Danny. [more emotional] She would've been proud. [Shaky exhale] Come on, little brother—let's go eat too many pancakes and cry into our coffee like real men.
+--- CS TAGFULL ---
+
+Script: 6e8b1218 | Role: Customer Support
+
+652 Customer Support: [professionally] Thank you for contacting SafeGuard Insurance. [quickly] I see you're inquiring about your recent rate increase. [pause] How can I help you understand the changes to your premium today?Customer: [frustrated] My rates just jumped forty percent! [incredulous] I haven't had any accidents, no tickets, nothing—[sighs heavily] so why am I suddenly paying two hundred dollars more every month?
+653 Customer Support: [sympathetically] I completely understand your frustration, Mr. Johnson. [more quickly] Let me pull up your account right away to review the factors. [pause] Sometimes it's, um, market conditions or regional adjustments that affect rates.Customer: [sarcastically] Market conditions? [louder] I've been a loyal customer for twelve years! [exasperated sigh] Shouldn't that count for something more than just... automatic increases?
+654 Customer Support: [apologetically] You're absolutely right about loyalty mattering. [briskly] Looking at your file here, I see there was a comprehensive review in October. [softer] The increase reflects updated risk assessments for your ZIP code, unfortunately.Customer: [skeptically] Risk assessments for my ZIP code? [groans] I live in the same quiet suburb I've lived in for a decade. [more firmly] What exactly changed overnight?
+655 Customer Support: [quickly] Well, there's been increased claim activity in your area—theft, weather-related damages. [pause] [more reassuringly] But wait, I'm seeing you might qualify for some discounts we haven't applied yet.Customer: [hopefully] Discounts? [cautiously] Why weren't these already on my account if I qualified? [frustrated chuckle] Seems like something you'd automatically apply to a twelve-year customer.
+656 Customer Support: [hurriedly] You're right, they should've been flagged. [brightening] I can add our safe driver discount, multi-policy if you bundle, and—[enthusiastically] oh, there's a new loyalty program that could save you fifteen percent!Customer: [relieved sigh] Finally, some good news. [more eagerly] So with all these discounts, what are we actually talking about here? [pause] Can you get me back to my original rate?
+657 Customer Support: [optimistically] Let me calculate everything right now. [typing quickly] With all three discounts applied, you'd be looking at... [pause] [more hesitantly] about twenty dollars above your previous rate.Customer: [disappointed] Twenty dollars more is better than two hundred, I guess. [sighs] But it still feels wrong that I'm paying more for literally nothing changing on my end. [resignedly] When would these discounts kick in?
+658 Customer Support: [briskly] I can backdate them to your renewal date, actually! [more enthusiastically] You'll see a credit on next month's statement for the overpayment. [reassuringly] Plus, I'm adding a note to review your rate again in six months.Customer: [somewhat appeased] Well, that's something at least. [curiously] Is there anything else I should be doing to keep my rates from jumping again? [chuckles dryly] Besides moving to a different ZIP code?
+659 Customer Support: [helpfully] Actually, yes! [speaking quickly] Installing a security system gives you another five percent off, and our usage-based program—where we monitor safe driving—[pause] that could save up to twenty percent more.Customer: [thoughtfully] The monitoring program sounds a bit... invasive. [hesitant] But I suppose if it saves money—[groans softly] fine, tell me more about how that works exactly.
+660 Customer Support: [enthusiastically] It's really simple! [rapidly] We send you a small device, plugs right into your car, tracks things like hard braking, speed, mileage. [more slowly] Most customers actually find it helps them drive more consciously.Customer: [skeptically] And if I'm not a "model driver" by your standards? [concerned] Could my rates go up even more? [pause] Because that seems like a risky gamble right now.
+661 Customer Support: [reassuringly] Great question—no, your rates can only go down with this program, never up. [confidently] Even if you don't qualify for the maximum discount, you're guaranteed at least three percent off. [brightly] Should I enroll you?Customer: [sighs deeply] Sure, why not. [resigned] Sign me up for everything—the monitoring, the discounts, whatever it takes. [more firmly] But I'm definitely shopping around before my next renewal, just so you know.
+
+--- CS TAGLESS ---
+
+Script: 31f5ee59 | Role: Customer Support
+
+662 Customer Support: Price match desk, this is Marcus. I need your rewards number to access our competitor pricing database.Customer: Oh, um, rewards number? It's—wait, let me find my card—okay, R-W-3-3-9-0-1-K. But listen, I found this exact TV at another store for way less!
+663 Customer Support: Account RW33901K verified. What's the model number of the TV and which competitor has the lower price?Customer: It's the, uh, Samsung model S-N-6-5-Q-8-0-0, the 65-inch one. BestMart has it for three hundred dollars less—three hundred! Can you believe that?
+664 Customer Support: I see the SN65Q800 in our system at $1,299. Do you have BestMart's ad or can you provide their item SKU for verification?Customer: Yeah, yeah, I've got their website pulled up here—their SKU is, hold on, B-M-4-4-7-2-9-5. But wait, your policy says you match prices, right?
+665 Customer Support: Our policy matches identical items with SKU verification. I'm showing BM447295 is actually last year's model, the Q-8-0-0-A, not the current Q-8-0-0-B you're looking at.Customer: What? No, that's—that can't be right! The pictures look exactly the same, and the specs—hold on, let me check again—they both say 65-inch QLED!
+666 Customer Support: The Q800A lacks the new anti-glare coating and has HDMI 2.0 instead of 2.1. Would you like our price on the older model Q800A, which is item T-V-9-9-8-8-2?Customer: But I don't—why would I want the older one? This is ridiculous, they look identical! Can I speak to a manager about this policy?
+667 Customer Support: I can escalate to my supervisor, but the model difference will remain the issue. Should I create case number P-M-C-7-7-3-4-1 for management review?Customer: Yes, create the case, whatever—P-M-C-7-7-3-4-1, got it. How is the average person supposed to know about these tiny differences between models?
+668 Customer Support: Case created and noted your concerns about model variations. You'll receive a callback within 24-48 hours at the phone number ending in 8-2-7-5, is that correct?Customer: Yeah, that's right, 8-2-7-5. But seriously, your competitors don't make it this complicated—they just match the price if it's basically the same TV!
+669 Customer Support: I understand your frustration. Per policy section 3.2, we only match exact model numbers to ensure customers receive identical products and warranties.Customer: Policy section 3.2—of course there's a section number for this. Fine, what if I just buy the older model then, the TV-99882 one?
+670 Customer Support: The TV99882 Q800A is $979 in-store, matching BestMart's current price. Would you like me to check inventory at your local store, zip 9-4-1-2-5?Customer: Wait, you already match that price? So I could've just—ugh, yes, check the 9-4-1-2-5 store, please.
+671 Customer Support: We have three units available for pickup today. I can reserve one under confirmation code R-E-S-9-0-3-3-6 for 24 hours.Customer: Yeah, okay, reserve it—R-E-S-9-0-3-3-6. I guess I'm getting the older model then, even though this whole thing seems unnecessarily complicated.
+
+--- BASIC SCENARIOS ---
+
+672 [Disappointed] I can't believe they're—wait, seriously? [Sigh] After twenty years, they're just gonna shut down like that? [Angry] [Fast] This is such garbage, I mean, where else am I supposed to get decent pad thai at 2 AM now? [Sad] My grandpa used to take me there every Sunday when I was little, and now it's just... [Slow] gone. [Sarcastic] Oh great, another chain restaurant moving in, because that's exactly what this neighborhood needs, right? [Tsk] [Happy] You know what though? [Laugh] At least I got to try their secret menu before they closed—that was kinda legendary. [Whisper] I heard the owner's actually retiring to, um, to Italy or something? [Slow] Good for them, I guess, but still. [Shout] No no no, they can't close before my birthday dinner next week! [Groan] I literally made reservations two months ago! [Disappointed] [Fast] So basically my entire dating strategy just went out the window—that was my go-to first date spot, y'know? [Angry] [Sigh] The landlord tripled their rent, can you believe that? It's like they're trying to—ugh, whatever. [Sad] I was gonna propose there next month because that's where we, um, where we first met. [Slow] [Sigh] [Sarcastic] [Chuckle] Sure, let's just bulldoze every place with actual character and replace it with another juice bar. [Happy] Honestly? [Fast] The chef told me she's opening her own place downtown, so like, we're not really losing her! [Disappointed] [Tsk] Their soup dumplings were literally the only thing getting me through this semester, and now what? [Whisper] Between you and me, I kinda saw this coming—the health inspector was there like every other week. [Slow] [Angry] [Shout] Five generations of the same family running that place, and some tech company just—just bought them out! [Sad] My mom's gonna be devastated when she finds out, that's—[Sigh] that's where she went after every chemo session. [Sarcastic] [Fast] I mean, who needs authentic cuisine when we can have our fourteenth smoothie bowl place instead, right? [Happy] [Laugh] Remember when we accidentally ordered everything on the menu that one night? At least we did that before—yeah. [Disappointed] [Slow] Forty-seven Yelp reviews I wrote for them over the years, and for what? For nothing. [Whisper] [Chuckle] I actually stole their menu on the last day—don't tell anyone, but I needed something to remember them by.
+673 [Happy] Oh wow, your mom's garden is just—I mean, those roses are incredible! [Chuckle] My mom would be so jealous right now. [Nervous] [Fast] So, um, should I have brought wine instead of flowers? I kept going back and forth at the store for like twenty minutes. [Whisper] Did your dad just give me the look? [Tsk] [Whisper] The one where he's sizing me up? [Slow] Your childhood photos are, uh... [Laugh] [Happy] You were really into that superhero phase, weren't you? [Disappointed] [Sigh] I practiced this whole introduction speech in the car and I just—I completely blanked the second they opened the door. [Sarcastic] Oh great, they're bringing out the baby album. [Chuckle] This is exactly what I was hoping for tonight. [Fast] [Happy] Yes, I absolutely love golf—well, I mean, I've mini-golfed a couple times, but that counts, right? [Angry] [Whisper] You didn't tell me your ex was gonna be in half these family photos on the wall! [Sad] I'm trying so hard not to mess this up, but I just—I dunno, I feel like everything I say comes out wrong. [Sigh] [Shout] The cat's on fire! [Fast] [Shout] No wait—it's just the candle behind it, sorry, false alarm! [Slow] So when your mom said "casual dinner," she meant, like... [Tsk] [Disappointed] Five courses and actual silverware placement rules? [Happy] [Laugh] Your dad and I actually went to the same college—I mean, twenty years apart, but still, what are the odds? [Sarcastic] Sure, I'd love to hear another story about how perfect you were in high school. [Fast] No really, please continue. [Whisper] [Fast] Is that their priest at the door? You said this wasn't gonna be a whole religious interrogation thing! [Happy] This lasagna is honestly—wait, you made this from scratch? [Slow] Okay, now I get where they learned to cook. [Angry] I can't believe you're taking their side about the—actually, y'know what, let's just drop it. [Groan] [Chuckle] Um, did your mom just slip me her business card? [Sarcastic] Because nothing says "welcome to the family" like networking. [Sad] [Slow] The way they talk about your brother makes me wonder if I'll ever, like... measure up to that standard. [Fast] [Happy] Oh my god, yes, I totally remember that commercial! [Laugh] Your mom and I have the exact same terrible taste in TV! [Disappointed] [Whisper] They keep calling me by your ex's name and I'm just—I'm gonna pretend I don't notice anymore. [Sigh]
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+674 SCENARIO: [scenario description]==================================================
+
+Source: 4a50065a
+
+SCENARIO: Upset about a friend group excluding them, then finds out it was planning a surprise for them
+==================================================
+
+[frustrated]
+So I found out today that like, apparently everyone in our friend group has been hanging out without me? Like Sarah posted this story and I can see Jake and Emma and literally everyone just— just having this great time at that new arcade place.
+
+[hurt] [slightly bitter]
+And I'm just sitting here like, cool, glad to know where I stand, you know? Like I thought we were all close but apparently I'm just... I don't know, the extra person they invite when they feel bad or something.
+
+[getting more upset]
+I've been wracking my brain all day trying to figure out what I did wrong. Like did I say something? Am I annoying them? Because they've been weird for like two weeks now, all these inside jokes and—
+
+[surprised]
+Oh wait, Emma's calling me right now. That's... weird timing. Hold on let me just—
+
+[confused] [cautious]
+Okay so apparently they want me to come over to Sarah's house right now? Like immediately? She sounds all frantic and she's like "just trust me, just come over" and I'm like—
+
+[realization dawning] [sheepish]
+Oh my God. Oh my God, it's my birthday next week. [nervous laugh] They're planning something aren't they? 
+
+[embarrassed] [warm]
+I'm an idiot. I'm literally the worst friend ever, I spent the whole day being bitter about them excluding me when they're probably just trying to— [small laugh] God, I feel so stupid right now.
+
+This must be read out in a single delivery as one file
+
+675 SCENARIO: [scenario description]==================================================
+
+Source: 775e6936
+
+SCENARIO: Casually talking about a lock they've been meaning to change, then thinking about who has the old key, then mentally listing everyone with access, spiraling into security vulnerability anxiety
+==================================================
+
+[casual]
+Oh, so I finally bought that new lock for the front door today. You know, the one I've been talking about getting for like three months? [light laugh] Yeah, I actually did it. Haven't installed it yet, but hey, progress.
+
+[matter-of-fact]
+I mean, the old one works fine, it's just— I don't know, I keep thinking about who has keys to that thing. Like, obviously you do, and my sister, my parents...
+
+[slightly concerned]
+But wait, didn't I give one to Jake when he was watching the place last year? And oh god, what about when I had those contractors come in February? Did they make copies?
+
+[more worried]
+Actually, you know what, I gave a spare to my downstairs neighbor too, the old lady, Mrs. Chen. But what if she— I mean, she could have given it to anyone. Her son comes by all the time, her cleaning lady...
+
+[anxious]
+Oh my god, and the landlord still has the master, right? And property management, they probably have like a whole drawer of keys just sitting there. Anyone could just— [sharp exhale] anyone could just walk into my apartment.
+
+[spiraling] [nervous laugh]
+I'm sitting here with my laptop, my TV, all my stuff, and like half the city probably has access to my front door! Why didn't I change this thing sooner? What is wrong with me?
+
+[panicked]
+I need to install this lock tonight. Right now. This is insane!
+
+This must be read out in a single delivery as one file
+
+676 SCENARIO: [scenario description]==================================================
+
+Source: b7a7ed66
+
+SCENARIO: Mad about a missed call, then they text the information instead
+==================================================
+
+[angry]
+So I'm literally sitting there waiting for this call from my insurance company, right? Like I've been on hold for twenty minutes, and then they finally— they finally say someone's gonna call me back within the hour about my claim.
+
+[frustrated]
+And of course, of course I miss it. I was in the bathroom for like two seconds and I hear my phone ringing and I'm like running, literally running back to grab it, and— [groan] — missed call. No voicemail, nothing.
+
+[irritated]
+So now I have to call back, sit on hold again for God knows how long, probably get transferred three times, explain my whole situation over again to someone new who's gonna be like "oh let me look that up for you" and put me on hold for another—
+
+[surprised]
+Oh wait, hold on. I'm getting a text right now, um...
+
+[reading, confused]
+It's from them? It says... okay, your claim has been approved, reference number whatever, payment will be processed in 3-5 business days. 
+
+[relieved] [slightly sheepish]
+Oh. Well that's— that's actually way better than sitting on another call for an hour. [chuckle] I guess they just texted me everything I needed to know anyway.
+
+[lighter]
+Man, I was so worked up about that. Sometimes the easy way works out, huh?
