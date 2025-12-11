@@ -1,0 +1,210 @@
+--- EMPATHETIC PARTIAL ---
+--- MONOLOGUE SELFTALK ---
+This must be read out in a single delivery as one file
+987 SCENARIO: [scenario description]
+Source: 07dfb307
+SCENARIO: trying to remember if they already shampooed their hair
+[muttering to self]
+Okay, so, um, did I already— did I already shampoo? I feel like I did, but, uh, but my hair doesn't feel like... I mean, it doesn't feel clean? Or does it?
+[slightly confused]
+Wait, let me just— let me think about this for a second. I got in the shower, I got my hair wet, and then I, um, I reached for the— for the bottle, right? But did I actually, uh, did I actually use it or did I just, like, look at it?
+[frustrated huff]
+This is so stupid. [sigh] How do you forget if you shampooed your hair? It's not— it's not rocket science, it's literally just, um, just washing your hair. But now I'm standing here like an idiot trying to remember if I—
+[uncertain]
+Okay, okay, so my hair feels... wet. Obviously it's wet, I'm in the shower. But does it feel, uh, does it feel soapy? I can't tell. This is why I need, like, a routine or something.
+[resigned]
+You know what? I'm just gonna— I'm just gonna do it again. Better to have, um, super clean hair than... whatever this confusion is. [laugh] Problem solved, I guess.
+This must be read out in a single delivery as one file
+988 SCENARIO: [scenario description]
+Source: b3b6fe9d
+SCENARIO: realizing they sent the screenshot to the person they were screenshotting
+[muttering]
+Oh no. Oh no no no. Did I just— did I just send that to— [sharp intake] okay, let me just, um, let me just check my messages here because I think I just, uh, I think I just royally screwed up.
+[increasingly panicked]
+So I was, um, I was screenshotting Sarah's text about the whole drama thing, right? To send to Emma because it's just so— but then I, uh— [groan] oh god, please tell me I didn't send it to Sarah. Please please please don't let me have—
+[flat realization]
+Yep. Yep, there it is. "Sarah" at the top. Not "Emma." Sarah. The person whose message I literally just screenshotted and sent back to her like some kind of, um, like some kind of digital boomerang of awkwardness.
+[resigned rambling]
+Okay so, um, so now what? Do I pretend it was an accident? Which it was, but like, does that make it better or worse? I mean, she's gonna see her own message and be like "why did you—" [sigh] this is so—
+[trailing off uncertainly]
+Maybe I just... maybe I just don't respond for a while and hope she, uh, hope she just thinks it was a weird glitch or something? That's... that's probably not gonna work, is it.
+This must be read out in a single delivery as one file
+989 SCENARIO: [scenario description]
+Source: 91d3a38b
+SCENARIO: a spy in the palace, realizing she sent the coded message to the person she was spying on
+[muttering]
+Okay, so I just— I definitely sent the coded message about the grain shipments to, um, to Lord Vasquez. Which is good, that's what I'm supposed to— [sharp intake] Oh no. Oh no no no.
+[dawning horror]
+Wait, Lord Vasquez is— he's the one I'm supposed to be spying ON. Not reporting TO. The handler is Lord Mendez. Mendez! With an M! How do I mix up— they don't even sound the same!
+[frantic whisper]
+Okay, think. Think think think. So Vasquez now has a coded message that says "grain arrives dawn, east gate vulnerable." He's gonna know that's, uh, that's spy stuff. There's no way he reads that and thinks it's about actual grain.
+[voice cracking]
+Unless— no, wait, maybe he'll think someone ELSE is spying on him? Maybe he'll think it's from one of HIS spies about the castle defenses? [nervous laugh] Right, because I always get this lucky.
+[resigned]
+I should probably just run. Just— just grab my stuff and run before he figures out it came from the new kitchen girl who's been asking way too many questions about guard rotations. [sigh] So much for my first mission.
+--- CONVERSATION ---
+Script: a05fb292 | Role: Character A
+990 Character A: [cheerfully] Sooo, big weekend plans? [getting faster] I saw you checking your phone like crazy earlier. [Giggle] Are you finally going on that trip you mentioned, or is it something more mysterious?
+Character B: [quietly] Just some errands. [slower pace] Nothing special really—grocery shopping, maybe some cleaning. [Clearing throat] You know how it is, weekends fly by when you're catching up on life stuff.
+991 Character A: [disappointed] Oh come on! [more insistently] It's supposed to be gorgeous outside this weekend. [rising pitch] You can't seriously be planning to spend all that sunshine scrubbing floors and buying vegetables, right?
+Character B: [firmly] I actually enjoy the quiet time. [softer] It helps me reset for the week ahead. [Deep breath] Not everyone needs constant excitement to feel fulfilled, you know what I mean?
+992 Character A: [Gasp] Wait, I just remembered! [whispered excitedly] Wasn't your sister coming to visit this month? [louder] Is that why you're being so secretive about everything? I knew something was up!
+Character B: [flatly] She canceled last week. [more curtly] Work emergency or something like that. [Soft sigh] Besides, I already told you my plans—they're exactly as boring as they sound, trust me.
+993 Character A: [skeptically] Uh-huh, sure they are. [Snort] You're probably going to that new escape room downtown! [accusingly] Sarah from accounting said she saw you looking at their website yesterday afternoon.
+Character B: [irritated] Sarah needs to mind her own screen. [calmer] I was checking their hours for a friend, that's all. [monotone] My weekend remains gloriously uneventful, despite your best detective efforts today.
+994 Character A: [hurt tone] I'm just trying to be friendly! [defensive] Everyone else shares their weekend stories on Monday. [Nervous laugh] You always just say "it was fine" and change the subject immediately.
+Character B: [gentler] Look, I appreciate the interest. [measured pace] I'm just more private about my personal time. [warmly] How about you tell me your plans instead? I'm sure they're more interesting.
+995 Character A: [brightening up] Well, since you asked! [rapid speech] My book club is meeting at that new wine bar, and then Saturday there's a street fair. [Excited squeal] Plus my cousin's birthday party!
+Character B: [relieved] That sounds really fun. [more animated] The street fair especially—I heard they have local artists this year. [thoughtfully] Maybe I'll stop by if my errands finish early enough Saturday.
+996 Character A: [triumphant] See! I knew you had secret plans! [playfully loud] The street fair counts as something exciting! [Chuckle] You should totally come—we could grab those amazing tacos from that truck.
+Character B: [amused] It's not a secret plan if I just decided. [more firmly] But yes, maybe I'll see you there. [quick addition] Briefly though—I really do have that cleaning to finish up.
+997 Character A: [teasingly] Right, the very important cleaning. [dramatic whisper] Or maybe you're meeting someone special there? [regular volume] Your ears are turning red! Oh my god, you totally are!
+Character B: [exasperated] They're red because you're embarrassing me. [Sharp exhale] Not everything is a romantic conspiracy, despite what you seem to think. [mumbling] Sometimes people just want tacos in peace.
+998 Character A: [backing off] Okay, okay, I'll stop! [sincerely] But seriously, if you do come Saturday, text me. [hopeful] It would be nice to hang out outside of this office for once.
+Character B: [considering] Maybe I will. [warmer tone] The tacos do sound good, and I suppose some fresh air wouldn't hurt. [cautiously] Just promise me no twenty questions about my life choices.
+999 Character A: [laughing] Deal! [mock serious] I promise to only ask ten questions maximum. [Snicker] But honestly, I'll try to tone it down—I know I can be a bit much sometimes.
+Script: 94f52515 | Role: Character A
+1000 Character A: [nervously] So the bill came to ninety-eight dollars. [clearing throat] I had the salad and water, which was twelve bucks, [quietly] so I figured we could just split it based on what we ordered?
+Character B: [warmly] Oh come on, let's just split it down the middle! [chuckling] It's easier that way, and honestly, [dismissively] who's counting? Life's too short to calculate pennies between friends, don't you think?
+1001 Character A: [defensive] But you had the steak and two cocktails! [voice rising] That's like sixty dollars worth! [pleading] Can't we at least do separate checks? The waiter's right there, it'll only take a second.
+Character B: [sighing deeply] Fine, fine. [resigned] You know what? I'll just cover the whole thing. [more gently] Consider it my treat—you can get the next one when you're feeling more generous with yourself.
+1002 Character A: [quickly] No, no, no, I didn't mean it like that! [flustered] Here, I have a coupon for twenty percent off. [hopeful whisper] We could use this and then split the reduced amount evenly?
+Character B: [amused laugh] A coupon? Really? [teasing] Did you also bring a calculator in that wallet of yours? [softer] Listen, I genuinely don't mind paying. Money comes and goes, but these dinners together matter more.
+1003 Character A: [mumbling] I just hate feeling like I owe people. [more firmly] Plus, I'm saving for that new laptop, remember? [frustrated exhale] Every dollar counts when you're on a budget like mine these days.
+Character B: [understanding tone] I get it, I really do. [thoughtfully] How about this—you pay your twelve, I'll handle the rest, and [cheerfully] we'll call it even? No debts, no guilt, just a nice dinner.
+1004 Character A: [hesitant] Are you absolutely sure? [counting quietly] That means you're paying seventy-something dollars while I'm only— [sharp intake] Wait, did we factor in the tip yet? That adds another twenty percent!
+Character B: [laughing heartily] Yes, the tip too! [exasperated but fond] You're going to give yourself an ulcer over this. [firmly] I'm paying seventy, you're paying twelve, discussion over. Now can we please leave?
+1005 Character A: [relieved sigh] Okay, okay, thank you. [sheepishly] But next time we're going somewhere with a prix fixe menu. [muttering] That way there's no confusion about who ordered what, and we can actually split evenly.
+Character B: [sarcastically] Oh joy, predetermined portions! [snorting] What's next, bringing tupperware for leftovers? [more kindly] Look, I appreciate you trying to be fair, but sometimes you've got to just relax about money stuff.
+1006 Character A: [defensive whisper] I do bring tupperware sometimes. [louder] There's nothing wrong with being practical! [grumbling] Not everyone has your salary. Some of us have to actually think before spending on overpriced restaurant food.
+Character B: [gently] Hey, I didn't mean to sound judgmental. [sincere] You're right—everyone's situation is different. [warmly chuckling] Though I draw the line at you bringing your own salad dressing like last month.
+1007 Character A: [indignant] That dressing was organic and cost eight dollars a bottle! [getting faster] The restaurant charges four dollars for a tiny cup! [proudly] I saved us both money that day by sharing it.
+Character B: [tired voice] You didn't save me anything—I didn't use your dressing. [perking up] But you know what? [affectionately] Your quirks are part of why I love you, even the penny-pinching ones.
+1008 Character A: [softly] Thanks for understanding. [hesitant pause] Actually, since you're being so generous... [quickly excited] would you mind if we stopped at the ATM? I only brought exact change for my portion.
+Character B: [explosive laughter] Exact change! [gasping] Of course you did! [still chuckling] Did you calculate tax to the penny too? Sure, we'll hit the ATM, but only if you promise to actually eat appetizers next time.
+1009 Character A: [muttering defensively] Appetizers are the biggest markup scam in the restaurant industry. [regular voice] But fine, I promise. [quietly hopeful] Maybe we could share one? That's technically still ordering appetizers, right? Half the cost, same experience.
+Character B: [fond exhaustion] You're absolutely hopeless. [laughing] Yes, we can share one appetizer. [mock serious] But I'm choosing it, and no complaining about the price. Now come on, let's pay and get out of here.
+Script: bbd3347d | Role: Character A
+1010 Character A: [terrified scream] Oh my God, oh my God! [voice cracking] That's not possible—it's actually alive! [rapid breathing] The readings were right, but I never thought we'd see a living, breathing dinosaur emerge from those trees like that!
+Character B: [whispered awe] It's magnificent. [trembling] Look at the scale patterns, the muscle definition—[voice rising] this changes everything we know! [nervous laugh] Sixty-five million years of extinction theory just walked out of the jungle.
+1011 Character A: [panicked] We need to get back to the jeep NOW! [whimpering] Those teeth are like railroad spikes. [louder] It's looking right at us—don't move a muscle or we're going to end up as prehistoric lunch meat!
+Character B: [hushed excitement] Wait, wait! [urgently] This is the discovery of the millennium! [shaky voice] We can't run now—imagine the Nobel Prize, the textbooks we'll rewrite. [sharp intake] It's moving closer but seems more curious than aggressive.
+1012 Character A: [hysterical pitch] Curious? CURIOUS?! [stuttering] That thing could sw-swallow us whole! [frantic whisper] My entire body is telling me to run, but my legs feel like concrete blocks stuck to this cursed ground right now.
+Character B: [breathless wonder] The coloration is all wrong though. [more quietly] We predicted browns and grays, but look—[excited squeal] those iridescent greens and blues! [steadier] Evolution continued here somehow, in this isolated pocket of prehistory.
+1013 Character A: [shrill] Stop analyzing and start running! [gasping] It's sniffing the air—I think it caught our scent. [pleading tone] Please, Marcus, we can study it from a safe distance with proper equipment and reinforced barriers!
+Character B: [determined] No, this moment won't come again. [softer] Look how it moves—like a bird, not a lizard. [building enthusiasm] The feathers along its spine are catching the light! [reverent whisper] We're witnessing living paleontology.
+1014 Character A: [voice breaking] Those claws just gouged the tree trunk! [higher pitch] That could've been us! [desperate shouting] I don't care about science anymore—I just want to see my family again, not become a fossil myself!
+Character B: [mesmerized] It's vocalizing—hear that low rumble? [quavering] Almost like it's trying to communicate. [faster] The intelligence in those eyes is undeniable. [barely audible] Maybe it recognizes we're not prey, but something entirely different.
+1015 Character A: [sobbing laugh] Communicate? [sarcastically] Sure, let's have tea with the dinosaur! [voice dropping] My grandfather survived three wars, and I'm going to die because you want to chat with a prehistoric monster.
+Character B: [defensive shout] This IS why we became scientists! [calming slightly] To push boundaries, to discover the impossible. [tremulous] Yes, I'm terrified too, but imagine—[voice cracking] we're the first humans it's ever encountered.
+1016 Character A: [defeated whisper] The first and probably last. [stronger] When they find our bones next to its droppings, I hope they name it after you. [bitter laugh] "Idiotic scientisticus"—has a nice ring to it, doesn't it?
+Character B: [urgent whisper] Shh, it's turning away! [relieved exhale] See? We're not interesting enough to eat. [growing bolder] Now's our chance to document this—where's the camera? [excited] We need proof or no one will believe us!
+1017 Character A: [incredulous] Document this?! [hissing] The only thing I'm documenting is the fastest route back to civilization! [more firmly] That thing just marked its territory—we're standing in a dinosaur's living room uninvited right now!
+Character B: [awestruck] Wait—there's another one! [choking up] A juvenile, behind those ferns. [emotional] They're not extinct, they're thriving! [louder] This ecosystem has been protecting them for millions of years completely undiscovered.
+1018 Character A: [pure panic] TWO of them?! [squeaking] That's it, I'm gone! [shouting back] If you want to be Jurassic jerky, that's your choice, but I'm choosing life over a posthumous publication!
+Character B: [calling out] Sarah, please! [desperately] We need both of us to verify this discovery! [softer] Look, they're moving away into deeper jungle. [reassuring] We're safe now—but we witnessed something absolutely extraordinary today.
+1019 Character A: [exhausted] Extraordinary? [shaking voice] My heart's about to explode from "extraordinary." [gradually calming] Fine, we survived, but next time we bring tranquilizer guns, armor, and maybe a tank for good measure.
+Character B: [triumphant laugh] Next time! [warmly] So you admit there'll be a next time? [contemplative] We just rewrote natural history, Sarah. [whispered awe] Those beautiful, terrifying creatures just gave us the greatest gift imaginable—wonder.
+--- CS TAGFULL ---
+Script: 8861ff93 | Role: Customer Support
+1020 Customer Support: [cheerfully] Good afternoon, ParkEasy support, I'm here to help! [more quickly] How can I assist you with your parking experience today?
+Customer: [frustrated] Yeah, hi, I've been trying to—[sighs heavily]—pay for parking for fifteen minutes now. [angrily] Your stupid meter keeps saying "transaction failed" but it already charged my card twice!
+1021 Customer Support: [apologetically] Oh no, I'm so sorry to hear about that issue. [briskly] Let me pull up your account right away—could you provide me with the meter number or location?
+Customer: [exasperated] It's meter 4782 on Oak Street. [groans] I'm literally standing here watching a parking officer walk towards my car, and I can't—[more urgently] I can't get this thing to work!
+1022 Customer Support: [quickly] Okay, I see the meter in our system, and yes—[concerned] there's a connectivity error on that unit. [reassuringly] Don't worry about the officer; I'm flagging your vehicle as paid right now.
+Customer: [skeptically] You're flagging it? [sarcastically] How does that help when there's a ticket being written on my windshield as we speak?
+1023 Customer Support: [more firmly] Sir, our system sends real-time updates to parking enforcement devices. [rapidly] The officer will see the override before completing the citation—just give me one moment to process this.
+Customer: [desperately] One moment? [louder] They're literally putting it under my wiper! [groans loudly] This is ridiculous—I tried to pay, multiple times!
+1024 Customer Support: [calmly] I've just activated emergency override for your vehicle, license plate ending in... [pause] 7B9, correct? [more quickly] The charges will be reversed within 24 hours.
+Customer: [surprised] Wait, how did you—yes, that's right. [quieter] So what about this ticket that's now on my car?
+1025 Customer Support: [efficiently] Any citation issued will be automatically voided in our system. [briskly] You'll receive a confirmation email within five minutes with a reference number—keep that just in case.
+Customer: [relieved] Okay, okay... [sighs] I'm sorry for yelling, I just—this whole thing has been such a nightmare. [tiredly] Twenty dollars in duplicate charges for parking I couldn't even activate.
+1026 Customer Support: [sympathetically] No apologies necessary—I'd be frustrated too! [more cheerfully] I'm also adding a five-dollar credit to your account for the inconvenience.
+Customer: [grateful] Oh, that's... actually really nice of you. [chuckles nervously] Usually customer service just tells me to restart the app or something useless like that.
+1027 Customer Support: [laughing softly] Well, restarting wouldn't fix a broken meter, would it? [quickly] Is there anything else I can help you with while I have you on?
+Customer: [curiously] Actually, yeah—[hesitantly] is this a common problem with that meter? Because I park here twice a week for work.
+1028 Customer Support: [professionally] We've had three reports today actually. [briskly] I'm escalating this for immediate maintenance—should be fixed by tomorrow morning, but I'd suggest using meter 4780 as backup.
+Customer: [appreciatively] 4780, got it. [sighs with relief] You know what, you've been incredibly helpful—[warmly] what's your name? I want to leave a good review.
+1029 Customer Support: [pleased] That's very kind of you! I'm Sandra, employee ID 4421. [quickly] Your confirmation email just went through—do you see it?
+Customer: [checking] Yes! There it is, perfect. [gratefully] Thanks Sandra, you just saved my entire day—[chuckles] and probably my sanity too.
+--- CS TAGLESS ---
+Script: 17aecbf0 | Role: Customer Support
+1030 Customer Support: Hello, this is TechAssist voice setup support. Please provide your device serial number to begin troubleshooting.
+Customer: Oh, um, the serial... wait, is that the long one on the bottom? It's like S-N-dash-V-X... no wait, that's a Y-X-3-3-9-2-K-L-7.
+1031 Customer Support: I have serial number SN-YX3392KL7 in our system. What specific issue are you experiencing with your voice assistant setup?
+Customer: Well it's—the thing won't, you know, when I say the wake word it just... nothing happens, or sometimes it lights up but then—oh and my router is the R-T-4-5-6 model if that matters.
+1032 Customer Support: The RT456 router is compatible. Let's verify your device is on firmware version 2.7.4—check under Settings, then About Device.
+Customer: Settings, okay so I'm looking at—wait there's so many numbers here—firmware is... two point something point four? Or maybe that's two point seven point four, the screen's kinda small.
+1033 Customer Support: That's correct, version 2.7.4. Now I need you to perform a factory reset using code Delta-Romeo-3-3-1-5 when prompted.
+Customer: Delta what? Can you—slower please—Delta... Romeo... the numbers were three three... fifteen? And do I press something first or just say this out loud to it?
+1034 Customer Support: Enter D-R-3-3-1-5 on your app under Reset Options. Your case number for reference is T-C-8-8-4-4-0-9.
+Customer: The app keeps crashing though—that's another thing—every time I... oh wait, it's working now, entering D-R-3-3... was it 1-5 or 5-1 at the end?
+1035 Customer Support: It's 3-3-1-5. Once entered, you'll receive confirmation code on screen starting with Alpha-Zulu.
+Customer: Okay it says... A-Z-9-9-2-K-M-4, is that right? But nothing's happening with the actual device, it's still just sitting there all dark and unresponsive.
+1036 Customer Support: That confirmation is correct. Now unplug the device for exactly 30 seconds, then reconnect while holding the mute button.
+Customer: Unplugging now—should I count Mississippi's or just regular counting? And the mute button is the one with the... oh that's volume, wait, the circle with the line through it?
+1037 Customer Support: Yes, the circle with line through it. Regular counting is fine—30 seconds, then plug in while holding that button down.
+Customer: It's making a weird buzzing—oh now it's orange! The light turned orange and there's these beeps... should I let go of the button yet or keep holding?
+1038 Customer Support: Keep holding until you see blue light. Then open your WiFi settings and connect to network VXST-temp-4-4-2.
+Customer: Blue light, yes! Okay WiFi... I see like twenty networks here... V-X-S-T temp... four four two, got it, but it's asking for a password now?
+1039 Customer Support: Default password is your serial number's last eight characters, all lowercase: 3-3-9-2-k-l-7, no dashes.
+Customer: Three three nine two... k-l-seven lowercase... oh my god it worked! It's actually talking now—it just said hello—this is amazing, thank you so much!
+--- BASIC SCENARIOS ---
+1040 [Disappointed] I mean, engaged? Already? It's been what—three months? [Tsk] Whatever, I guess some people just move fast. [Happy] [Laugh] Oh my god, wait, to that person from the gym? Good luck with that disaster! [Sad] [Sigh] I thought I'd be okay with this, but, um, seeing the ring on Instagram just kinda... yeah. [Angry] Are you—are you seriously telling me this at my birthday party? [Fast] Like you couldn't have waited literally one more day? [Whisper] Hey, so I heard about the engagement and I just wanted to check if, like, you knew already? [Sarcastic] Wow, engaged, how original—let me guess, Paris proposal? [Chuckle] Called it. [Happy] [Fast] Honestly? Best thing that coulda happened, now my mom will finally stop asking if we're getting back together! [Sad] [Slow] I keep thinking about that time we looked at rings together, and now they're... never mind. [Shout] They're WHAT? [Angry] [Fast] No no no, you're joking, that's the same person from our anniversary dinner! [Disappointed] [Sigh] I dunno, I guess I thought they'd at least wait until—actually, why did I think that? [Sarcastic] [Slow] Oh sure, getting engaged on Valentine's Day, how very... them. [Happy] You know what? Good for them—no really, I mean it! [Laugh] I'm gonna send a toaster or something! [Whisper] [Sad] Can we, um, can we maybe not talk about this right now? I'm still kinda processing, okay? [Angry] [Tsk] So basically everyone knew except me? That's—that's really great, thanks for the heads up, guys. [Disappointed] Their parents must be thrilled—they always said I wasn't, er, "marriage material" anyway. [Groan] [Fast] [Happy] Wait wait wait, engaged to who? The cryptocurrency person? [Laugh] This is literally the best karma ever! [Slow] [Sad] I saw them picking out save-the-dates yesterday and I just... I couldn't even walk into the store. [Sarcastic] Engaged after six weeks—yeah, that'll definitely last forever. [Chuckle] [Fast] Wanna take bets on how long? [Whisper] [Disappointed] I thought when they said they weren't ready for commitment, they meant, y'know, in general. [Angry] [Shout] They're using OUR wedding venue? [Groan] Oh, you've gotta be kidding me right now!
+1041 [Slow] So I was absolutely certain about it, right, but then I read this article and—[Sigh] I mean, how could I have been so wrong? [Fast] Okay okay okay, hear me out—I know I said the opposite yesterday but there's actually new information that completely, um, flips everything. [Laugh] [Disappointed] I really wanted to stick with my original plan, but honestly? [Tsk] The numbers just don't lie. [Happy] You know what's funny is I was so stubborn about it, and then bam—[Chuckle] suddenly it all just clicked! [Whisper] Between you and me, I kinda knew I was wrong all along. [Slow] Just took me a while to, you know, admit it. [Angry] Look, I'm not saying I was completely wrong, but—[Groan] ugh, fine, maybe I was being an idiot about the whole thing. [Sarcastic] Oh sure, I totally love admitting when I'm wrong. [Sigh] But yeah, you were right, congratulations. [Sad] I guess I was just holding onto what I wanted to believe instead of, um, what was actually true. [Slow] That's hard to accept. [Fast] [Shout] Wait wait wait—I just realized something that changes EVERYTHING! Sometimes you gotta, like, swallow your pride and just—[Chuckle] [Happy] honestly, changing my mind was the best decision I've made. [Disappointed] The thing that really gets me is I defended my position for so long, and now I'm just... [Tsk] [Sigh] starting over. [Slow] You ever have that moment where everything you believed just sort of, I dunno, crumbles? [Sad] Yeah, that was me last Tuesday. [Sarcastic] [Fast] No no, it's great, I love finding out I've been confidently wrong for three whole years—really builds character. [Angry] I mean, nobody told me about that crucial detail until—[Shout] how was I supposed to know without all the facts?! [Happy] Actually, can I just say? [Laugh] Being wrong has never felt so liberating! [Whisper] Don't tell anyone, but Sarah's argument actually made sense. [Chuckle] [Fast] I'm gonna pretend I came up with it myself though. [Disappointed] I had this whole theory worked out, diagrams and everything, but then the test results came back and, er... [Groan] back to square one. Basically what happened was—[Slow] okay, this is embarrassing—[Sigh] my five-year-old explained it to me and she was right. [Shout] [Happy] Plot twist—I was looking at the data upside down this entire time! [Sad] It's kinda scary, you know, realizing you've been living with the wrong assumption for—[Slow] [Tsk] God, has it really been that long?
+--- MONOLOGUE ---
+This must be read out in a single delivery as one file
+1042 SCENARIO: [scenario description]
+Source: 9e7fb4b5
+SCENARIO: Calmly describing a noise complaint they filed, then seeing their neighbor, then realizing the neighbor definitely knows it was them, ending in awkward dread about running into them
+[casual]
+So I finally did it - I filed a noise complaint about my upstairs neighbor. You know, the one who's been doing... whatever it is they do at like two in the morning? [light laugh] I figured, hey, I've been patient long enough, right?
+[matter-of-fact]
+It was actually pretty straightforward. Just called the non-emergency line, gave them my address, described the situation. The guy was really nice about it, said they'd send someone over to talk to them. No big deal.
+[conversational]
+And honestly, I felt pretty good about it afterward. Like, I handled it the right way - went through proper channels instead of just banging on the ceiling or whatever. Very mature, very adult of me. [satisfied exhale]
+[slight concern]
+But then, like an hour ago, I'm coming back from the store and I see him. My neighbor. Just... standing by his car in the parking lot.
+[growing unease]
+And he looks at me. Like, really looks at me. Not just a normal "hey neighbor" look, but this... I don't know, this knowing look? [nervous laugh] And he gives me this little nod. This very deliberate little nod.
+[dawning realization]
+Oh god. [sharp intake] He knows. He definitely knows it was me who called. There's no way that was just a coincidence, right?
+[spiraling anxiety]
+What if he's angry? What if he— [groan] What if I have to walk past him every single day now knowing that he knows that I know that he knows? [whimper] This is a nightmare. I should've just bought earplugs.
+This must be read out in a single delivery as one file
+1043 SCENARIO: [scenario description]
+Source: 42dfbbdc
+SCENARIO: Complaining about their boss, then gets a message that the boss is leaving the company
+[frustrated]
+Oh my God, don't even get me started on Richard today. Like, seriously, I cannot— I cannot deal with this man anymore.
+[annoyed]
+So I'm in the middle of prepping for the client presentation, right? The one that's been on the calendar for like three weeks? And he just walks over and he's like "Actually we need to pivot the whole strategy."
+Like, pivot? What are we, a startup? [scoff] It's due tomorrow!
+[getting more worked up]
+And then— and then he has the audacity to be like "I know it's short notice but I have faith you'll figure it out." Oh, you have faith? That's great, Richard, super helpful.
+I was there until like nine-thirty redoing everything, and he just— he just left at five like nothing happened.
+[bitter]
+I swear he does this stuff on purpose just to—
+Oh wait, hold on, I'm getting a Slack message from... oh. From HR actually.
+[surprised] [confused]
+Um. Okay this is weird. They're saying Richard is... he's leaving the company? Like, effective immediately?
+"Pursuing other opportunities"— okay that's definitely corporate speak for something.
+[processing] [slightly stunned]
+Wow. So I guess all that complaining was— [nervous laugh] I mean, I don't have to deal with him anymore?
+That's... actually kind of amazing? I feel like I should feel bad but I really, really don't.
+This must be read out in a single delivery as one file
+1044 SCENARIO: [scenario description]
+Source: a85cd5d1
+SCENARIO: Lightly joking about a plant they thought was fake, then touching it, then realizing it's real and completely dead from neglect, spiraling into plant murder shame
+[casual]
+So I'm at work today and, um, I'm walking past the reception area, and there's this, uh, this plant sitting there. Like, um, like a little fern or something? And I'm thinking, you know, wow, that's— that's actually a pretty good fake plant, like it, uh, it looks really realistic.
+[light] [chuckling]
+So I'm like, um, I'm gonna test this theory, right? Because I— I pride myself on being able to spot, uh, spot fake plants from a mile away. So I just, um, I just reach over and touch one of the, uh, the leaves to see if it's—
+[confused]
+But it's like— it's real? Like it's, um, it's definitely real, but the leaf just... [crumbles] in my hand. Like literally just, uh, just disintegrates. And I'm looking at it and all the, um, all the other leaves are like— they're brown and, uh, and crispy and—
+[dawning realization]
+Oh. Oh no. It's— it's not fake, it's just... it's completely dead. Like, um, like someone has been, uh, has been just letting this thing die for— for weeks probably? And I just— [nervous laugh] I just murdered the last, uh, the last surviving piece of it.
+[spiraling]
+I literally— I literally finished off someone's plant! Like I'm, um, I'm standing there with, uh, with plant dust on my fingers thinking I'm so— I'm so smart for detecting fake plants when really I just, uh, I just committed botanical manslaughter!
+[horrified] [rambling]
+What if someone— what if someone loved that plant? What if it was like, um, like a memorial plant or something and I just— [groans] I just crumbled their, uh, their beloved fern into— into nothing! I'm a plant killer! I'm the, uh, the final blow to some poor, um, some poor neglected office plant!
