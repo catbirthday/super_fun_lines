@@ -1,0 +1,294 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: bd61214a_script | Role: Character 2 (B)
+
+Character 1: My garden won something.
+521 Character 2: Wait wait wait—what? Your garden won—oh my god, was it that neighborhood thing? The one with the, um, with the judging committee that goes around?
+Character 1: Yeah. Best Overall Garden or whatever.
+522 Character 2: Are you kidding me right now? That's—that's huge! I mean, Mrs. Henderson wins like every year, doesn't she? Oh my god, is she pissed?
+Character 1: Haven't seen her yet.
+523 Character 2: Okay but like, you gotta be at least a little bit proud, right? You've been working on that garden for what—three years now? Four?
+Character 1: Five.
+524 Character 2: Five years! See, that's—I mean, that's dedication. Do you get like a trophy or something? Please tell me there's a tacky lawn ornament involved .
+Character 1: There's a plaque. And a gift certificate to the garden center.
+525 Character 2: A plaque! That's so—wait, are you gonna actually display it? Because honestly, you should. You should put it right where Mrs. Henderson can see it every single day.
+Character 1: That seems petty.
+526 Character 2: Petty? No no no, it's called winning gracefully while also, y'know, making sure everyone knows you won. There's a difference.
+Character 1: The tomatoes did most of the work.
+527 Character 2: Oh my god, stop—the tomatoes didn't arrange themselves into that whole, like, that gorgeous trellis situation you built. That was all you, babe.
+Character 1: It's just plants.
+528 Character 2: Just plants? Okay okay, but remember when you literally spent an entire weekend researching soil pH? That's not—normal people don't do that . That's passion.
+Character 1: My dad would've liked it.
+529 Character 2: Oh honey... he would've—he would've been so proud. Like, ridiculously proud. Probably would've taken photos of the plaque to show all his friends, right?
+Character 1: Yeah. Probably would've framed it.
+530 Character 2: Well then you gotta frame it. I mean it—no arguments. We're going shopping for the most obnoxiously ornate frame we can find, and that's that.
+Script: 3178ccae_script | Role: Character 2 (B)
+
+Character 1: So my cover hit a million views.
+531 Character 2: Wait wait wait—WHAT? A million? Like, an actual million? Oh my god, which one? Was it the one you posted last week?
+Character 1: The Radiohead one. From two months ago.
+532 Character 2: I—okay, I knew that one was special, but like... a million? That's not just viral, that's like—that's massive. How are you feeling about it?
+Character 1: Weird. Really weird.
+533 Character 2: Yeah no, I bet. I mean, one day you're just posting stuff for fun and then—boom. Are people like, recognizing you? Oh god, are you getting weird DMs?
+Character 1: So many DMs. Someone wants me to play their wedding in Portugal.
+534 Character 2: Portugal?! That's—wait, are you gonna do it? Actually, sorry, that's probably overwhelming to even think about right now, huh?
+Character 1: My inbox crashed twice yesterday.
+535 Character 2: Oh shit, like literally crashed? That's... I mean, honestly, that's kinda rock star problems though, right? Sorry, I'm just—I'm so proud of you.
+Character 1: Record labels keep calling. Three different ones.
+536 Character 2: Okay okay okay—hold up. Record labels? Like actual, real labels? This is—you're basically living every musician's dream right now. Are you gonna meet with them?
+Character 1: Maybe. I don't know. It's a lot.
+537 Character 2: Yeah, no, totally. Like you went from bedroom recordings to—to this whole thing. Have you talked to anyone who's been through it? Maybe they could help you figure out what's, y'know, legit?
+Character 1: My old guitar teacher knows someone. Might call them.
+538 Character 2: That's smart, that's really smart. Because like, you don't wanna just—I mean, this could change everything for you. God, I remember when you almost didn't even post that cover.
+Character 1: I know. Almost deleted it three times.
+539 Character 2: And now look! It's like—the universe was waiting for it or something. Are you still posting? Or are you kinda frozen with all the attention?
+Character 1: Haven't touched my guitar in four days.
+540 Character 2: Oh babe... that's—okay, I get it. Sometimes when the thing you love suddenly becomes this huge... thing, it's like, where do you even start, right? But your music, it's still yours. Even with a million people watching.
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+541 SCENARIO: [scenario description]==================================================Source: 5d015e9a
+
+SCENARIO: a rescue dog named Biscuit gets adopted by a woman named Tara
+==================================================
+
+[thoughtful, a bit wistful]
+So, um, Biscuit's really gone, huh? I mean, not— not gone gone, obviously, but like, um, like gone from here. From the shelter. Which is— which is good! That's, uh, that's literally the whole point, right? [soft laugh] Getting them adopted.
+
+[second-guessing]
+But I keep thinking, um, I keep thinking about whether Tara knows about the, uh, the thing with thunderstorms? Because Biscuit gets really— he gets really worked up, and I meant to— I meant to mention it, but she seemed so excited and I didn't want to, like, um, to scare her off or anything.
+
+[muttering, working through it]
+She seemed nice though. Really nice. Had that whole list of questions, which is— which is always a good sign. And she, um, she said she works from home, so that's perfect for— for the separation anxiety thing. [hmm] Yeah, okay.
+
+[trying to convince herself]
+I just— I mean, I always get weird about this stuff, right? Like, um, like every time one of them leaves I'm all, "But did I tell them about the weird food thing?" or whatever. It's, uh, it's normal.
+
+[quieter, trailing off]
+He looked happy though. Tail was going crazy when she— when she clipped on that new leash...
+
+This must be read out in a single delivery as one file
+
+542 SCENARIO: [scenario description]==================================================Source: 3b43dda1
+
+SCENARIO: a warlord studying the terrain, debating whether to invade now or wait until the fog lifts
+==================================================
+
+[muttering]
+So the fog's thick as soup down there, can barely see past the first ridge. That's, uh, that's either perfect cover or a complete disaster waiting to happen. Could go either way, really.
+
+[uncertain]
+I mean, they won't see us coming, but we won't see them either. What if they moved their archers? What if there's more of them than we thought? [tsk] This fog could lift in an hour or stick around all day, and I'm supposed to just—
+
+[tenser]
+The men are getting restless. I can hear them shifting around back there, probably wondering why we're just sitting here like idiots. Some of them haven't eaten since yesterday, and if we wait much longer...
+
+[grimacing]
+But charging blind into that valley... [exhale] That's how you lose half your force before you even reach their walls. Remember what happened to Korren at Blackwater? Fog just like this, thought he was being clever.
+
+[steeling himself]
+Right. Okay. We go now. Fog or no fog, we've got the numbers, we've got the high ground. [pause] Mostly. I think we've got the high ground.
+
+[resigned]
+Alright, let's do this before I talk myself out of it again. [sigh] Here's hoping I still have a reputation after today.
+
+This must be read out in a single delivery as one file
+
+543 SCENARIO: [scenario description]==================================================Source: 54b052b7
+
+SCENARIO: a general inspecting the cavalry, trying to decide if that chainmail needs to be polished before the charge
+==================================================
+
+[scrutinizing]
+Alright, so... Thompson's mail there, it's got those spots on the— the rings near the shoulder. Is that rust or just, um, just dirt from the march? Hard to tell from here.
+
+[muttering]
+I mean, we're charging in ten minutes. Ten minutes! Does it really matter if his chainmail looks like it went through a, a pig sty? The enemy's not gonna stop and go "Oh wait, that one soldier's armor isn't shiny enough."
+
+[second-guessing]
+But then again, morale, right? The men see sloppy kit, they think sloppy leadership. And Thompson's right in the front line, everyone's gonna— [tsk] Why is it always Thompson?
+
+[firmer]
+You know what, though? That mail's kept him alive through three battles already. Polished or not, it'll do its job. And we don't have time for, for military parade nonsense right now.
+
+[resolute]
+Besides, in about an hour it's gonna be covered in mud and blood anyway. [exhale] Right. Thompson stays as is. Let's get this charge moving.
+
+--- CONVERSATION ---
+
+Script: 5cea2d6b | Role: Character B
+
+Character A: [Breathlessly] Oh my god, look at that princess cut! [getting louder] It's absolutely stunning on you. [Squealing] I can't believe you're actually getting married—feels like yesterday we were sneaking wine coolers in your parent's basement, planning our futures.
+544 Character B: [Warmly] I know, right? [Soft laugh] Sometimes I catch myself staring at it during meetings. [more quietly] Do you think the band is too thick though? I keep worrying it makes my fingers look stubby or something weird.
+Character A: [Strained cheerfulness] No, no, it's perfect. [Pause] [Flatly] Everything about your engagement is perfect. [bitter edge] The proposal at sunset, the photographer hiding in the bushes, the champagne... must be nice having someone who plans things.
+545 Character B: [Uncertainly] Are you okay? [concerned] You seem a little off today. [Gentle exhale] I thought you'd be excited to help me pick between these settings—you always have the best taste in jewelry, remember?
+Character A: [Sarcastically sweet] Oh, I'm thrilled. [Sharp laugh] Absolutely over the moon about spending my Saturday looking at rings I'll never afford. [mumbling] While my boyfriend of three years still thinks "commitment" means remembering my coffee order.
+546 Character B: [Hurt] That's not fair. [more firmly] This isn't about rubbing anything in your face. [Pleading] You're my best friend—I wanted to share this with you because it wouldn't feel real without you here.
+Character A: [Sighing deeply] You're right, I'm sorry. [Pause] [softer] It's just hard watching everyone move forward while I'm stuck in the same place. [Hollow laugh] Show me the vintage one again—it really does suit you.
+547 Character B: [Hesitant] The art deco one? [brightening slightly] The jeweler said it's from the 1920s. [Whispered excitement] Can you imagine all the love stories this ring has seen? Though James thinks vintage means "someone else's bad juju."
+Character A: [Genuinely laughing] James would think that. [mockingly deep voice] "Babe, we need fresh energy for our fresh start." [Normal tone] [Snort] Remember when he sage-cleansed your apartment before moving his Xbox in? What a priority list.
+548 Character B: [Defensively] Hey, he's gotten better about that stuff. [softer, dreamily] Last week he actually suggested we look at houses—with gardens. [Giggling] Can you picture me gardening? I killed that succulent in two weeks flat, remember?
+Character A: [Wistfully] A house with a garden sounds amazing though. [gradually quieter] White picket fence, Sunday brunches on the patio, kids eventually... [Bitter chuckle] Meanwhile I'm still arguing about whose turn it is to buy toilet paper.
+549 Character B: [Sympathetically] Maybe this is the push Mark needs? [hopefully] Sometimes guys need to see their friends getting married to realize—[Trailing off] [Awkward pause] Sorry, I shouldn't give relationship advice when you didn't ask for it.
+Character A: [Sharply] Mark's not the marriage type. [Pause] [more controlled] He made that crystal clear last Christmas when your engagement announcement sent him into a whole speech about "societal constructs." [Weak laugh] At least he's consistent, I guess.
+550 Character B: [Shocked] He said that at Christmas? [angrier] While everyone was celebrating? [Hissing] What an ass—I had no idea he reacted that way. Why didn't you tell me he was being such a jerk about it?
+Character A: [Exhaustedly] Because you were so happy. [quiet admission] You were literally glowing, and I didn't want to dim that with my drama. [Shaky breath] Plus, what would I say? "Hey, congratulations, my boyfriend's an emotionally stunted man-child"?
+551 Character B: [Firmly] You deserve better than him. [getting heated] You deserve someone who sees your worth and can't imagine a future without you. [Pause] [Softer] Not someone who treats commitment like it's a prison sentence or something.
+Character A: [Voice breaking] Can we just focus on your rings? [Forced brightness] This is supposed to be your special day, not my therapy session. [Steadier] That cushion cut is gorgeous too—very classic, very you actually.
+552 Character B: [Gently insistent] No, we're talking about this. [Determined] After we're done here, we're getting wine and having a real conversation. [lowering voice] Maybe it's time you started shopping for something different than rings—like a new boyfriend.
+Character A: [Laughing through tears] God, I've missed this. [more steadily] The real talk, not the polite friend stuff we've been doing. [Deep breath] You're right, about everything. But first, let's find you the perfect ring, okay?
+553 Character B: [Lovingly] That's my girl. [excited whisper] And just so you know, my cousin Ben is coming to the engagement party—single, successful, and definitely the commitment type. [Regular voice] [Giggling] But first, rings. Then wine. Then plotting your future.
+Script: 83b8d8be | Role: Character A
+
+554 Character A: [trembling voice] We made it, Ana. [Sobbing] After three days walking through that forest, we're finally across. [gasping breath] My feet are bleeding but we're safe—we're actually safe.
+Character B: [choked whisper] I can't believe it's real. [louder, breaking] When those guards turned back yesterday, I thought— [shaky breath] I thought we'd never see this side. Papa would be so proud we made it.
+555 Character A: [urgent] Don't look back now. [softer] We need to keep moving to the checkpoint. [steadying voice] The volunteers said there's shelter two miles ahead—warm beds, food, [cracking] maybe even a phone to call Maria.
+Character B: [exhausted monotone] My legs feel like stones. [more desperately] But thinking about little Tomás waiting for news keeps me going. [bitter laugh] Four months since I've heard his voice. [whimpering] Four months wondering if mama's keeping him safe.
+556 Character A: [firm] She is. You know she is. [gentler] Remember what we promised each other back in that warehouse? [growing stronger] We survive this for them—for all the ones who couldn't run. We're their hope now.
+Character B: [hollow voice] The warehouse. [sharp intake] God, was that only last week? [faster, panicking] It feels like years since the raids started, since Carlos disappeared, since everything— [sob] Since everything we knew just crumbled into dust and fear.
+557 Character A: [soothing tone] Hey, breathe with me. [measured words] In through your nose, out through your mouth. [more firmly] We're not there anymore, Ana. Those men, those guns—they can't reach us here. We won.
+Character B: [bitter] Won? [voice rising] We lost everything—our home, our shop, Papa's books. [quieter, broken] Even Grandmother's ring, sold for bread. [barely audible] What kind of victory leaves you with nothing but the clothes on your back?
+558 Character A: [defensive shout] The kind that keeps you breathing! [softer immediately] I'm sorry, I didn't mean— [weary sigh] You're right, we lost so much. But Ana, [tender] we still have each other. That's not nothing.
+Character B: [sniffling] You jumped in that river for me. [stronger] When I couldn't swim, when the current pulled me under— [voice swelling] you came back. Everyone else just kept running, but you came back for me.
+559 Character A: [quiet certainty] Always. [emotional] We're family now, you and me. [steadier] Blood couldn't make us closer after what we've survived. [determined whisper] And family doesn't leave family behind, no matter how dark the water gets.
+Character B: [wondering tone] Do you think we'll ever stop jumping at loud noises? [slower] Stop checking over our shoulders? [heavy pause] Sometimes I wonder if feeling safe is something I'll have to learn all over again, like walking.
+560 Character A: [thoughtful] Maybe we will. [more hopefully] Or maybe we'll just get better at living with the fear. [philosophical tone] Like a scar that aches before rain—still there, but bearable. [firmly] We're stronger than we know, Ana.
+Character B: [sudden realization] Look—the sun's coming up. [awed whisper] Our first sunrise in freedom. [crying softly] It looks different somehow, doesn't it? [voice lifting] Brighter, like the light itself knows we made it through the darkness.
+561 Character A: [reverent hush] It's beautiful. [normal volume] You know what I want to do first? [excited pitch] Take a shower with hot water. [laughing through tears] A real shower where I'm not afraid someone's listening outside the door.
+Character B: [wistful] I want to sleep. [more animated] Sleep without one eye open, without my shoes on. [dreamy voice] Just sink into a bed and know I can wake up in the same place tomorrow. [sighing] Imagine that.
+562 Character A: [practical tone] The checkpoint's just ahead now. [nervous] They'll have questions, forms to fill out. [reassuring] But the volunteers said they're kind here. [firmly] We tell them the truth—all of it. No more hiding who we are.
+Character B: [scared whisper] What if they send us back? [panicking] What if this was all for nothing and they— [sharp breath] No, no I can't think like that. [more steadily] We have the documents. We have proof.
+563 Character A: [confident] They won't send us back. [softer] We're refugees, Ana, not criminals. [building strength] We had to leave to survive, and now— [emotional break] now we get to start over. However terrifying, [hopeful] it's still a gift.
+Character B: [deep breath] Okay. [stronger] Okay, let's go then. [with growing conviction] Let's walk into whatever comes next, together. [tearful smile in voice] After everything we've survived, a new beginning can't be scarier than what's behind us.
+
+Script: 36b27628 | Role: Character B
+
+Character A: [shaky breath] Look at them out there. [voice cracking] My little Emma in that purple dress she picked out months ago. [quieter] Feels like yesterday I was teaching her to tie her shoes, and now she's gracefully dancing.
+564 Character B: [thick with emotion] I know exactly what you mean. [clearing throat] Sophie practiced her curtsy all week for this. [chuckle breaking into sniffle] She wanted everything perfect, even made me practice spinning her in the living room every night.
+Character A: [laughing wetly] Emma did the same thing! [nostalgic whisper] Remember when they were tiny and stood on our feet to dance? [voice wavering] Now they're out there looking so grown up, so independent, so beautiful.
+565 Character B: [defensive tone] Stop it, man, you're making it worse. [increasingly unsteady] I promised myself I wouldn't cry at this thing. [sharp exhale] But watching Sophie laugh like that, the way she throws her head back, just like her mom.
+Character A: [attempted cheerfulness] They're having the time of their lives though, aren't they? [more softly] Emma keeps looking over here, probably checking if I'm watching. [trembling] Of course I'm watching. I can't look away from my baby girl.
+566 Character B: [gruff voice] Sophie asked me this morning if she looked pretty. [breaking slightly] Pretty? She looks like an absolute princess. [slower pace] How do they grow up this fast? Someone should have warned us about this part.
+Character A: [bitter-sweet tone] The warnings wouldn't have helped anyway. [steadier] You think you're ready for every milestone, but then boom. [voice catching] They're slow dancing in a gymnasium and you're falling apart on the bleachers like a complete mess.
+567 Character B: [hushed admission] I've been dreading this dance for weeks. [sniffling] Not because I didn't want to come, but because I knew. [more intensely] I knew it would hit me that she's not my little baby anymore.
+Character A: [philosophical tone] But she'll always be our babies, right? [hopefully] Even when they're thirty with kids of their own? [gentle laugh] Emma already told me I'll walk her down the aisle someday. [pause] Someday.
+568 Character B: [mock sternness] Don't you dare mention weddings right now. [voice splintering] I can barely handle a father-daughter dance in a decorated gym. [exhale] One emotional catastrophe at a time, please. Let me survive tonight first, then we'll talk futures.
+Character A: [brightening slightly] Look, they're doing the chicken dance now! [nostalgic] Emma loved that song when she was four. [softer giggle] She'd flap around the house for hours, making us all join in until we collapsed laughing.
+569 Character B: [relieved laughter] Thank god for silly songs to break the tension. [more controlled] Sophie's really going for it too, look at those wing flaps! [warmly] This is the part I'll remember most, her pure joy, not giving a single care.
+Character A: [suddenly urgent] Quick, they're calling fathers to join! [nervous energy] Do I look okay? Is my tie straight? [shaky laugh] Why am I more nervous now than at my own wedding? This is just a dance, just a dance.
+570 Character B: [teasing through tears] You look fine, you sap. [encouraging] Come on, our princesses are waiting for us. [deep breath] Time to show these kids that their old dads still have some moves left in them after all these years.
+Character A: [determined whisper] Let's do this before I lose my nerve completely. [stronger] Emma deserves the best dance I can give her. [emotional surge] Even if I'm crying the whole time, she deserves every second of my attention tonight.
+571 Character B: [rallying cry] Together then, on three? [counting slowly] One, two... [trailing off] Wait, is that tissue in your pocket? Pass me one first. Sophie can't see me like this, she'll worry. She always worries about me.
+Character A: [gentle ribbing] Here, take two, you'll need them. [sincere tone] Our girls are lucky to have us, you know? [proudly] Two dads who aren't afraid to ugly cry at a elementary school dance. That's real love right there.
+572 Character B: [mock offense] Speak for yourself about the ugly crying! [laughing] I'm gracefully misting, thank you very much. [dropping to whisper] But yeah, we're doing okay at this dad thing, aren't we? Even when it's absolutely destroying us emotionally.
+Character A: [suddenly delighted] Oh, they're playing our song! [melancholic] "Butterfly Kisses"—Emma requested it specially. [voice dissolving] That's it, I'm done for. If you find me in a puddle later, just mop me up and send me home, okay?
+573 Character B: [brotherly affection] I'll be right there in that puddle with you, friend. [resolute] But first, we dance. [choking up] We dance with our daughters like they're the only people in this room, because tonight, they absolutely are everything.
+--- CS TAGFULL ---
+
+Script: 9104fcf4 | Role: Customer Support
+
+Customer: [frustrated] Hi, yes, I'm calling about my referral to the neurologist? [sighs heavily] It's been six weeks and I haven't heard anything—not even, you know, a confirmation that it went through.
+574 Customer Support: [briskly] Let me pull up your file real quick. [professionally] Can I get your date of birth and the specialist you were referred to? [quickly] Was it Dr. Harrison or Dr. Chen's office?
+Customer: [impatiently] February fifteenth, 1978, and it was Dr. Chen. [more urgently] Look, I'm having these headaches that are getting worse, and my doctor said it was urgent, but apparently [sarcastically] urgent means different things to different people.575 Customer Support: [sympathetically] I see the referral here, sent on... [pause] October third. [more quickly] Unfortunately, Dr. Chen's office has about a twelve-week wait right now, but let me check if there's been any movement.
+Customer: [shocked] Twelve weeks?! [louder] That's three months! [desperately] Is there—can you send it to someone else, anyone else who might see me sooner?576 Customer Support: [calmly] I understand your frustration, I really do. [speaking faster] We can send to Dr. Harrison instead, but honestly, his wait is about the same—maybe ten weeks if there's a cancellation.
+Customer: [groans] This is ridiculous. [firmly] What am I supposed to do in the meantime, just... suffer? [quieter] My vision gets blurry sometimes with these headaches.577 Customer Support: [more concerned] Have you been to the emergency room for the vision issues? [quickly] That's something we should document, and [helpfully] it might actually expedite your referral if we mark it as more urgent.
+Customer: [exasperated] I went once, they gave me migraine medication that doesn't even work. [sighs] Can you at least put me on a cancellation list or [hopefully] maybe call them directly while I'm on the phone?578 Customer Support: [reassuringly] Absolutely, let me call Dr. Chen's office right now. [briskly] I'll conference you in—sometimes, you know, a direct call can shake things loose. [determinedly] Hold on just one moment.
+Customer: [relieved] Thank you, that would be... [gratefully] I really appreciate you actually trying to help instead of just telling me to wait.579 Customer Support: [professionally] Okay, I've got their scheduler on the line. [more quietly] They're checking for any openings—oh, wait, [excitedly] there's a cancellation next Thursday at 2:30!
+Customer: [eagerly] Yes! [quickly] I'll take it, I'll absolutely take it! [worried] They're not going to give it to someone else if I hang up, right?580 Customer Support: [confidently] No, no, I'm confirming it right now while we're on. [speaking rapidly] They'll need you to arrive thirty minutes early for paperwork, and bring your insurance card plus any recent test results.
+Customer: [gratefully] Perfect, I have my MRI results from last month. [curiously] Should I—do I need to bring anything else, like a medication list or...?581 Customer Support: [helpfully] Yes, definitely bring your medication list. [more slowly] Also, they're asking if you can do their pre-visit questionnaire online—it'll save you about [briskly] fifteen minutes of paperwork time.
+Customer: [relieved] I can do that, absolutely. [sighs happily] You have no idea how much better I feel just having an actual appointment instead of waiting in limbo.582 Customer Support: [warmly] I'm so glad we could get this sorted. [quickly] You should get a confirmation call from them within twenty-four hours, but [reassuringly] your slot is definitely secured in their system now.
+Customer: [appreciatively] Thank you so much for going the extra mile. [chuckles softly] I was ready to just give up on the whole medical system, honestly, but you've restored a little faith.583 Customer Support: [cheerfully] That's what we're here for! [professionally] If you don't get that confirmation call by tomorrow afternoon, [helpfully] just call us back and ask for me—I'm Sandra—and I'll follow up directly.--- CS TAGLESS ---
+Script: 37257f66 | Role: Customer Support
+
+584 Customer Support: Good afternoon, I'm Mitchell with Premier Tax Services. I'll need your taxpayer ID and last year's return reference number to get started.
+Customer: Right, um, the ID is—let me check my notes here—T-X-3-3-9-0-K. The reference from last year was... I think R-M-7-7-2-1-Q?585 Customer Support: Perfect, TX3390K is pulled up. I see your 2023 return with adjusted gross income ending in 8-5-0. What specific deductions are we discussing today?
+Customer: Well, I've got some, uh, business expenses that are—how should I put this—not exactly traditional. Receipt numbers B-Z-4-4-5 through B-Z-4-9-2, all cash transactions.586 Customer Support: Cash transactions require form 8300 if over ten thousand. Your receipts BZ445 to BZ492 need proper documentation—vendor tax IDs, dates, and business purpose statements.
+Customer: The vendors, they don't really... they prefer to stay off the books, you know? But I've got invoice I-N-V-0-0-8-1 that shows consulting fees.587 Customer Support: Invoice INV0081 alone won't suffice for audit protection. The IRS requires EIN numbers starting with 9-5 or valid SSNs for all contractors over six hundred dollars.
+Customer: What if I told you these were, um, international consultants? They use different ID systems—I have reference code F-O-R-X-2-2-9 from an offshore entity.588 Customer Support: Foreign contractor payments need form 1042-S and withholding certificates. Your FORX229 reference suggests Cayman registration—that triggers additional reporting under FATCA compliance rules.
+Customer: Okay, okay, so hypothetically speaking—and this is just hypothetical—what if someone had storage unit S-U-1-1-4-7 for inventory that never technically existed?589 Customer Support: Non-existent inventory is fraud, not a deduction strategy. If you're referring to legitimate business storage, unit SU1147 requires monthly statements and actual inventory logs.
+Customer: Right, of course, totally legitimate—I meant inventory that was, uh, lost in transit. Tracking number was T-R-K-9-9-0-0-1-A, never arrived.590 Customer Support: Lost inventory requires insurance claims and carrier documentation. Tracking TRK99001A should have delivery confirmation or loss reports—without those, the deduction gets rejected immediately.
+Customer: So you're saying my charitable donations to the, um, Foundation for Retired Associates—registration C-H-R-5-5-5-X—might raise some red flags too?591 Customer Support: CHR555X isn't in the IRS exempt organization database. Charitable deductions require valid 501(c)(3) status and receipts for anything over two hundred fifty dollars.
+Customer: What if I just, you know, rounded everything to nice even numbers? Like my home office is exactly 5-0-0 square feet, zip code 9-0-2-1-0?592 Customer Support: The IRS algorithms flag perfect round numbers instantly, especially in Beverly Hills 90210. Home office deductions need actual measurements and exclusive business use documentation.
+Customer: You tax people are really no fun, are you? My last guy—license T-P-R-4-4-4-M—he was much more... creative with the guidelines.593 Customer Support: TPR444M lost his license last year for that creativity. I can file extension form 4868 giving you until October, reference number E-X-T-1-0-1-5, to gather legitimate documentation.
+Customer: Fine, fine, I'll get the real receipts—well, most of them anyway. Can we at least discuss that yacht as a second office, registration B-O-A-T-7-7-7?
+--- BASIC SCENARIOS ---
+
+594 [Sad] I know it doesn't feel like it right now, but um, this pain—it gets easier to carry, I promise. [Sigh] [Whisper] Hey, you need to eat something, okay? [Slow] I brought those little sandwiches you like from that place downtown. [Chuckle] Remember when she used to make us laugh so hard we'd—god, she'd be telling us to stop crying right about now. [Sad] [Fast] Look, if you wanna just leave, like right now, we can totally do that—I'll drive, no questions asked. [Whisper] [Disappointed] The flowers are all wrong—I mean, sorry, that's not important. [Sigh] I just know how much the details mattered to you. [Slow] You don't have to be strong for anyone today, y'know? [Sad] [Sigh] [Angry] That aunt of yours had some nerve showing up after—ugh, sorry, I shouldn't. [Fast] Want me to run interference if she comes over? [Happy] Oh honey, your eulogy was absolutely perfect—she would've loved every word. [Slow] [Sad] [Sarcastic] Yeah, because "they're in a better place" is exactly what you needed to hear for the hundredth time today. [Tsk] [Whisper] People mean well, but honestly... [Sad] I keep expecting to see them walk through that door and tell us this was all some kind of—I dunno. [Slow] [Sigh] [Fast] [Whisper] Is that the ex? Should I—want me to accidentally spill something on them or...? [Disappointed] I'm so sorry I was late, the traffic was—no, that's not an excuse. [Sad] I should've been here sooner. [Sigh] [Shout] Everyone just needs to give you some space! [Angry] [Whisper] Sorry, I just—they're crowding you and it's making me kinda crazy. [Slow] The kids are asking where grandpa went, and I just... [Sad] How do you even begin to explain that, right? [Sigh] [Chuckle] I brought tissues, but um, I've basically used them all myself already. [Sad] We're gonna need more supplies. [Happy] [Fast] Oh, the pastor actually got the pronunciation right this time—small victories, y'know? [Whisper] [Slow] Whatever you're feeling—angry, numb, relieved, guilty—it's all normal, okay? [Sarcastic] Great, Uncle Ted's about to make his third trip to the buffet table. [Tsk] [Disappointed] Some things never change, even at—yeah. [Sad] I was gonna say something comforting, but honestly? [Slow] This just sucks, and I'm here to sit in the suckiness with you. [Sigh] [Fast] Your mom's looking for you—wait, actually no, stay here. [Whisper] I'll tell her you needed a minute, or like, twenty minutes, whatever you need.1037 [Disappointed] Oh no, no, no—this can't be right, I mean, I triple-checked these numbers last week. [Sigh] [Fast] How did I miss something this obvious? [Angry] Are you kidding me right now? [Shout] Three months of work and I used the wrong dataset the entire time! [Whisper] Nobody's noticed yet, so maybe I can, um, maybe I can fix this before the presentation tomorrow. [Tsk] [Sarcastic] Oh great, absolutely fantastic—I've been building on a foundation that's basically made of, like, wet cardboard. [Groan] [Sad] I literally don't know how to tell my team that we gotta start over from scratch. [Slow] This is my fault. [Happy] Wait, hang on—if I flip this around, it actually kinda works better? [Laugh] [Fast] This mistake might've just saved the whole project! [Disappointed] [Slow] Every single calculation after page twelve is wrong because I, uh, I forgot to carry the one. [Fast] Okay so basically I've been using last year's requirements this whole time and nobody—I mean nobody—thought to mention it? [Angry] [Tsk] [Whisper] [Sad] I'm gonna lose my job over this, aren't I? [Sarcastic] Sure, let's just pretend that six weeks of my life didn't just, you know, evaporate into thin air. [Sigh] [Disappointed] [Shout] How is the decimal point in the wrong place on every single invoice?! [Groan] [Fast] The client's gonna freak when they see this. [Happy] You know what, honestly? [Chuckle] At least I found it now instead of during the live demo, right? [Slow] [Disappointed] I should've listened when Sarah said something felt off about the, um, about the timeline calculations. [Angry] This stupid software auto-corrected all my formulas and I didn't—ugh, I should've turned that feature off! [Tsk] [Sad] [Whisper] My manager trusted me with this and I just... I completely botched it, didn't I? [Sigh] [Fast] [Sarcastic] Oh this is rich—the backup files are corrupted too, because why would anything go right today? [Laugh] [Disappointed] I mean, technically it's not wrong, it's just, er, it's solving a completely different problem than what we needed. [Groan] [Happy] Actually wait—Mark made the same mistake on his section, so at least I'm not gonna be alone in this mess! [Chuckle] [Fast] [Angry] [Slow] Two hundred thousand dollars over budget because someone—and by someone I mean me—forgot to update the currency conversion rates. [Whisper] If I stay late tonight and basically don't sleep, I might—no, I will fix this before anyone notices. [Sigh] [Fast] Gotta make this work.--- MONOLOGUE ---
+This must be read out in a single delivery as one file
+
+596 SCENARIO: [scenario description]==================================================Source: 290f452f
+
+SCENARIO: Matter-of-factly talking about a thing they threw away, then seeing someone looking for it, then realizing they threw away something that wasn't theirs to throw away, spiraling into disposal guilt
+==================================================
+
+[matter-of-fact]
+So I was, um, I was cleaning out the fridge this morning, you know? And there was this, uh, this container of leftover Chinese food that had been sitting there for like— I don't know, maybe a week? It was, um, it was getting pretty gross so I just, uh, I just tossed it.
+
+[casual]
+Pretty standard Tuesday morning, right? [light laugh] I mean, somebody's gotta, um, gotta keep that fridge from becoming a science experiment. So I'm feeling all, uh, all productive and stuff.
+
+[slight concern]
+But then later I'm, um, I'm in the kitchen and my roommate comes in looking all confused. And she's like, uh, she's like "Have you seen my lo mein?" And I'm just— I'm like, "Your what now?"
+
+[realization dawning]
+Wait. Wait, wait, wait. [nervous laugh] She's, um, she's looking in the fridge, she's moving stuff around, and I'm just— oh no. Oh no, no, no. That wasn't— that wasn't my Chinese food, was it?
+
+[panicked]
+I threw away her, um, her lunch! Her good lunch that she was probably, uh, probably saving for today! [groan] What kind of person just— just throws away someone else's food without asking?
+
+[spiraling]
+Oh my god, I'm a— I'm a monster! I'm the, uh, the worst roommate ever! She trusted me and I just— [defeated whimper] I just violated the sacred fridge code! What if she, um, what if she never forgives me for this?
+
+This must be read out in a single delivery as one file
+
+597 SCENARIO: [scenario description]==================================================Source: 8ac97fc5
+
+SCENARIO: Matter-of-factly recounting a shortcut they took driving, then remembering a camera they passed, then wondering if they ran a red light, ending in ticket anxiety
+==================================================
+
+[casual]
+So I took that back route through downtown today, you know the one that cuts behind the mall? Saved me like ten minutes, which was great because I was already running late for my appointment.
+
+[matter-of-fact]
+There was this one intersection where I had to gun it a little bit because the light was changing, but whatever, that happens. Traffic was moving, I was moving with it.
+
+[slight concern]
+Actually, now that I think about it... [pause] there was this camera thing at that intersection. One of those big flash camera setups? I remember seeing it as I went through.
+
+[a bit worried]
+Wait, was that light yellow or red when I went under it? I mean, I thought it was yellow, but I was focused on the car in front of me, and— [nervous laugh] oh god, what if it was red?
+
+[increasingly anxious]
+Those cameras are like, super sensitive, right? They'll ticket you for being in the intersection even if you're just— [sharp exhale] I can't afford a red light ticket right now. Those are like three hundred dollars!
+
+[spiraling] [panicked]
+Oh my god, what if there's already a ticket in the mail? What if it's sitting in my mailbox right now? [groan] I'm never taking shortcuts again. Never! Why did I think— [whimper] I'm gonna be checking my mail obsessively for the next two weeks!
+
+This must be read out in a single delivery as one file
+
+598 SCENARIO: [scenario description]==================================================Source: be34c05b
+
+SCENARIO: Annoyed their train is packed, then a seat opens up right next to them
+==================================================
+
+[frustrated]
+Oh my god, the train this morning was just— it was a nightmare. Like absolutely packed, people pressed up against each other, and I'm just standing there getting elbowed by this guy with his giant backpack who clearly has no spatial awareness whatsoever.
+
+[annoyed] [groan]
+And you know how I get when I'm squished in with all those people, I just— I can't breathe, everyone's breathing on each other, it's gross. I was literally counting the stops like, okay, just four more, just three more...
+
+[irritated]
+Plus this woman kept pushing past people to get closer to the door even though we weren't even near her stop yet? Like lady, we're all trapped in here together, just— just wait your turn.
+
+[surprised]
+But then— okay, this is weird— right as I'm having this whole internal meltdown about personal space, the seat right next to me just opens up. Like the universe heard me complaining.
+
+[softer] [half laugh]
+And I just... I sat down and suddenly everything felt manageable again. Like I could actually think, I wasn't focused on just surviving the ride anymore.
+
+[thoughtful]
+It's funny how something that small can completely change your whole— your whole mood, you know? One minute I'm ready to push people, next minute I'm like, oh, okay, this is fine actually.
+
+[warm] [small laugh]
+Made me realize I was probably being way too dramatic about the whole thing.
