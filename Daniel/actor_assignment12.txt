@@ -1,0 +1,237 @@
+--- EMPATHETIC PARTIAL ---
+--- MONOLOGUE SELFTALK ---
+This must be read out in a single delivery as one file
+800 SCENARIO: [scenario description]
+Source: 8580dc31
+SCENARIO: an archaeologist in a buried temple, attempting to read the ancient map but it's upside down
+[muttering]
+Okay, so this is definitely a map, that's— that's good. Ancient Sumerian, I think? The symbols look right, but why does everything seem backwards? The river should be flowing toward the mountains, not away from them.
+[frustrated]
+Wait a minute. Wait wait wait. [exhale] Am I holding this thing upside down? That would be— oh, that would be so typical. Thirty years of fieldwork and I'm reading a map like a tourist.
+[sheepish]
+Right, so if I just— [grunt] flip this around, then the temple entrance should be... there. Not there. Which means I've been crawling through the wrong passage for the last two hours. Great.
+[increasingly anxious]
+Okay, but that also means the flood chamber is actually behind me, not ahead, which is— that's actually worse? Because if the water rises, I'm trapped between— [gulp] No, no, focus. Follow the map.
+[resigned]
+The correct map. Right-side up. Like a professional. [sigh] Sometimes I really hate this job.
+This must be read out in a single delivery as one file
+801 SCENARIO: [scenario description]
+Source: cb81a28e
+SCENARIO: waiting for autocorrect suggestions to go away
+[muttering]
+Okay, so I'm just gonna— I'm just gonna type this real quick and, um, and send it. Simple. Just gotta— [sigh] oh come on, really? The little bubble thing is just, uh, it's just sitting there now.
+[slightly impatient]
+I don't want "duck" instead of— I mean, I typed what I meant to type, right? Like, it's not— it's not rocket science. Just let me, um, let me send the message without trying to, uh, to fix things that aren't broken.
+[drawn out]
+Sooo I guess I'm just waiting now. For this little... suggestion box to decide it's done helping me. Which is, um, which is great because I'm totally not in a hurry or anything. [tsk]
+[faster]
+Should I tap somewhere else? Like, will that make it go away? I feel like if I tap the wrong spot it's gonna— it's gonna autocorrect to something weird and then I'll have to, uh, have to explain why I sent "duck you" to my boss.
+[resigned]
+You know what, I'm just— I'm just gonna wait. Like a normal person. Waiting for technology to, um, to finish being helpful. [exhale] There we go. Finally.
+This must be read out in a single delivery as one file
+802 SCENARIO: [scenario description]
+Source: 3f08e82a
+SCENARIO: a village elder reading omens, trying to decide if that rumble means the volcano is erupting or just settling
+[muttering]
+Alright, so that's... that's the third rumble in an hour. Could be nothing, could be— [exhale] could be the mountain finally deciding to kill us all. No pressure or anything.
+[uncertain]
+The smoke's been different lately, hasn't it? More... sulfur-y? Or am I just paranoid because old Marta keeps going on about her dreams with the flaming birds. Dreams, honestly. Like I'm supposed to base evacuation orders on—
+[tenser]
+Oh, that's a big one. That's a— okay, that rattled my teeth. The chickens are going crazy too, which is either a very good sign or a very, very bad sign. I can never remember which.
+[grimacing]
+Where's that damn scroll with the omens? "Tremors lasting more than—" more than what? The mice ate half the thing. Mice. Of course they did. Probably an omen too, knowing my luck.
+[steeling himself]
+Right. Okay. Trust the gut, Aldric. Fifty years of watching this mountain, and my gut says... [gulp] my gut says start moving people to higher ground. Better embarrassed than buried.
+This must be read out in a single delivery as one file
+803 SCENARIO: [scenario description]
+Source: 9dcacced
+SCENARIO: a lord pacing his chamber at night, trying to decide if that creak means assassins or just old floorboards
+[muttering]
+There it is again. That's— that's definitely a creak, right? Not just the wind or, um, or the castle settling. Though this place is old enough that everything creaks when you breathe on it wrong.
+[hushed, strained]
+Okay, think. Think think think. If it's assassins, they'd come from the east wing, that's where the loose window is. But that creak sounded like it came from— [pause] —from the hallway outside my door.
+[increasingly paranoid]
+Which means they're already inside. Or it's just Geoffrey doing his midnight rounds with those ridiculous heavy boots of his. Why does he insist on wearing chainmail to check the pantries? It's not like the cheese is going to revolt.
+[grimmer]
+But what if it's not Geoffrey? What if Lord Harwick finally decided to— [gulp] —to cash in on that whole "you burned down my village" thing from last spring? I mean, that was clearly an accident.
+[resigned, weary]
+Right. So either I'm about to die, or I'm losing my mind over Geoffrey's fashion choices. [sigh] Guess I'll find out which one when I open this door.
+--- CONVERSATION ---
+Script: a4240997 | Role: Character A
+804 Character A: [competitively] Did you see my new smart doorbell? [getting faster] It has facial recognition, night vision, and—oh—it even greets visitors by name! [smugly] Cost me a fortune but it's basically from the future, unlike those old-fashioned knockers.
+Character B: [relaxed] That sounds fancy. [slower pace] I just oil my squeaky hinge sometimes. [Small chuckle] Works pretty well for letting me know when someone's here—plus the squeak scares away those door-to-door salespeople which is honestly a bonus feature.
+805 Character A: [in disbelief] A squeaky hinge? [Scoff] Well, my new landscaping includes automated sprinklers with moisture sensors! [proudly accelerating] They know exactly when to water each zone, and the grass has never looked greener—it's practically a golf course out there.
+Character B: [unbothered tone] I let nature handle mine. [thoughtfully] Rain waters it, sun dries it, and [Soft laugh] the dandelions add these cheerful yellow spots. My neighbor's kid loves picking them for bouquets—saves me the weeding too, actually.
+806 Character A: [exasperated whisper] Dandelions are weeds! [louder now] Speaking of kids, I installed a heated pool with color-changing LED lights and a waterfall feature. [boastfully] The homeowners association president said it's the nicest pool in the entire neighborhood, bar none!
+Character B: [in measured words] Pools are nice. [peacefully] I fill up an inflatable kiddie pool when it's hot—takes five minutes, [Contented sigh] costs about three dollars. The dogs love it, and I can move it wherever there's shade. Pretty perfect setup.
+807 Character A: [frantically] But what about property values? [Nervous laugh] I just had my kitchen completely gutted—marble countertops, professional range, wine fridge! [building intensity] The contractor said it's restaurant quality, and my dinner parties will be absolutely legendary now, absolutely legendary!
+Character B: [casually] Sounds like a lot of cooking. [more slowly] I've had the same cast iron pan for fifteen years—makes everything taste better somehow. [Gentle hum] Made pancakes in it this morning, might do grilled cheese tonight. Simple but satisfying.
+808 Character A: [in strained voice] One pan? [Gasp] My new home theater has a hundred-twenty-inch screen and surround sound that rattles the walls! [rapidly] The seats recline, they're heated, and there's even a popcorn machine—it's better than the actual cinema!
+Character B: [warmly] Movie nights sound fun. [quieter] I watch stuff on my laptop in bed sometimes—screen's close enough that it feels plenty big. [Yawn] Usually fall asleep halfway through anyway. The cat doesn't complain about the small screen either.
+809 Character A: [desperately loud] How are you so calm about this? [quickening pace] I spent sixty thousand on improvements just this year! [Sharp exhale] The smart home system alone cost more than most people's cars—don't you want to keep up somehow?
+Character B: [gently amused] Keep up with what exactly? [in steady rhythm] My mortgage is almost paid off, the house stays dry when it rains, warm when it's cold. [Peaceful sigh] That feels like winning to me, honestly. Really does.
+810 Character A: [deflating] But the neighborhood standards... [mumbling faster] Everyone's upgrading, renovating, competing—my wife says we need a sauna next. [Bitter laugh] A sauna! In this climate! Do you know how much those cost to install and maintain properly?
+Character B: [sympathetically] That does sound stressful. [softer now] You know, my grandmother always said a home just needs love and laughter. [Thoughtful pause] Mine has both, plus a decent coffee maker. Can't really imagine needing much more than that.
+811 Character A: [in wondering tone] Love and laughter? [more quietly] I guess we do laugh, mainly about the credit card bills though. [Uncomfortable chuckle] Sometimes I wonder if all these gadgets actually make us happier or just more worried about breaking them.
+Character B: [encouragingly] Happiness is free, neighbor. [lighter tone] Why don't you come over for that grilled cheese sometime? [Warm laugh] No fancy equipment required, just butter and bread. We can eat outside and watch the dandelions grow. Sound good?
+812 Character A: [hesitantly soft] That actually... that sounds nice. [gradually warming] Maybe I've been overthinking this whole thing. [Self-conscious laugh] Though I already ordered a Japanese soaking tub—it's being shipped from Kyoto. Too late to cancel now, probably.
+Character B: [with humor] A fancy tub sounds relaxing at least. [cheerfully] Better than competitive renovations, right? [Soft chuckle] I just use bubble bath from the dollar store—makes me feel fancy enough. Different paths to the same peaceful evening, I suppose.
+813 Character A: [more relaxed] You're right, you know. [contemplatively] Maybe after the tub arrives I'll take a break from upgrades. [Relieved exhale] Though the smart doorbell is actually pretty useful—it caught a package thief last week. That was satisfying.
+Character B: [in agreement] See? Keep what works, skip what doesn't. [pleasantly] That's my whole philosophy really—life's too short to stress about matching the Joneses. [Content hum] Now about that grilled cheese—Tuesday works for me. Bring your fancy wine if you want!
+Script: 8d49b745 | Role: Character A
+814 Character A: [whispering urgently] Did you hear what just happened in the conference room? [voice rising with excitement] Margaret just announced she's leaving! [Squeals] She's actually resigning next Friday—I can't believe this is real after three years of torture!
+Character B: [stunned silence] [then explosive] WHAT?! [breathless] You're not messing with me right now, are you? [voice cracking with joy] Please tell me this nightmare is actually ending and we're finally free from her micromanaging!
+815 Character A: [giddy laughter] I swear on my mother's lasagna recipe! [lowering voice conspiratorially] She said something about "pursuing new opportunities" but [Snort] we all know she got that offer from her ex-husband's company upstate.
+Character B: [in disbelief] This calls for champagne! [faster and faster] No more weekend emails, no more ridiculous dress code violations, no more— [Sharp exhale] I'm literally shaking right now. Is this what freedom feels like?
+816 Character A: [mock serious tone] We should probably act professional about this. [breaking into giggles] Who am I kidding? [shouting gleefully] Let's throw the biggest goodbye party this office has ever seen—with every food she banned from meetings!
+Character B: [hushed and reverent] Remember when she made Jennifer cry over font choices? [building intensity] Or that time she scheduled mandatory meetings during lunch every day for a month? [Cackle] Karma really does exist!
+817 Character A: [singsongy voice] No more passive-aggressive sticky notes! [dropping to a growl] No more "per my last email" nonsense! [triumphant] I'm updating my LinkedIn right now to say "Survivor of the Margaret Era."
+Character B: [trembling with emotion] Six months ago I almost quit because of her. [more steadily] My therapist said to give it time. [Gasping laugh] I'm sending her a thank-you card—this is better than winning the lottery!
+818 Character A: [dramatically slow] The. Best. Part. Is— [speeding up excitedly] whoever replaces her literally cannot be worse! [voice breaking with joy] A rabid badger would have better people skills than Margaret ever demonstrated in her entire career!
+Character B: [fake crying voice] Oh no, who will reorganize our reorganization of the reorganization now? [normal voice] [Bitter laugh] Who will send fifteen follow-up emails about a simple yes-or-no question that nobody asked?
+819 Character A: [nostalgically] Remember our first week when we thought she was just nervous? [increasingly sarcastic] How naive and innocent we were! [Snorting laugh] Before the coffee maker incident and the great stapler audit of twenty-twenty-two!
+Character B: [in a panic] Wait, we need to delete those group chat messages! [calming down] Actually, no—she's leaving! [celebratory shout] We can finally use the good conference room without signing three forms in triplicate!
+820 Character A: [quietly intense] I'm buying donuts for the entire floor tomorrow. [building excitement] The chocolate ones she claimed were "unprofessional food choices." [Whooping] This is our independence day, and I'm marking it on my calendar forever!
+Character B: [philosophical tone] You know what's crazy? [speeding up] I actually learned so much about what not to do as a manager! [Dry chuckle] She was like a masterclass in destroying morale efficiently.
+821 Character A: [conspiratorial whisper] Should we tell Jake in accounting? [getting louder] He's been hiding in the supply closet during her rounds! [Explosive laughter] Poor guy developed a sixth sense for her heel clicks on the floor!
+Character B: [dreamily slow] Imagine coming to work without that knot in your stomach. [more animated] Actually enjoying Monday mornings again! [voice cracking] I might actually cry—these are definitely tears of pure, unfiltered joy right now!
+822 Character A: [rapid-fire delivery] Quick, let's book the conference room for next Friday afternoon! [steadying] We'll call it a "transition meeting" but [Giggling] really it'll be our freedom celebration with cake and maybe some contraband personal phone calls!
+Character B: [in awe] The parking spot drama is finally over. [building anger] Three years of her taking two spaces! [then joyful] Someone normal can park there now—someone who doesn't key cars that get too close!
+823 Character A: [fading voice] I keep thinking I'm dreaming and [suddenly loud] I'll wake up to another memo about proper email signatures! [Nervous laugh] Pinch me so I know this beautiful reality is actually happening right now!
+Character B: [solemnly] Let's make a pact right now. [warming up] If either of us ever becomes that kind of boss, [passionate] the other has full permission to stage an intervention! [Triumphant laugh] Here's to new beginnings!
+Script: 04ceb3e6 | Role: Character B
+Character A: [defensive] She's not even leaving for three more months. [voice rising] Why are you already turning her room into an office? [Scoff] Can't we just wait until she's actually gone before we start erasing every trace of her childhood?
+824 Character B: [enthusiastically] Think about it though—we'll finally have space for that home gym! [getting faster] Treadmill by the window, weights in the corner, maybe even a yoga area. [Chuckle] We've been talking about getting healthy for years, honey.
+Character A: [trembling] What if she needs to come home? [quieter] Kids move back all the time these days. [Sharp exhale] I read that sixty percent of college graduates return home at least once—we should keep her room exactly as it is.
+825 Character B: [gently] Sweetheart, she's going to Berkeley, not Mars. [more firmly] She'll visit for holidays, sure, but she needs to spread her wings. [warmly] And we deserve to rediscover who we are without scheduling around soccer practice and SAT prep.
+Character A: [bitterly] Oh, so eighteen years of parenting and now you're ready to just—what—pretend it never happened? [Bitter laugh] Sorry our daughter's existence has been such an inconvenience to your workout schedule. [softer] I didn't realize you'd been counting down the days.
+826 Character B: [hurt] That's not fair and you know it. [steadier] I love Emma just as much as you do. [Sigh] But remember when we used to take spontaneous weekend trips? When we could eat dinner at nine without worrying?
+Character A: [sarcastically] Right, because nothing says "romantic dinner" like eating takeout in your converted gym-office. [more seriously] Those spontaneous trips were before we had responsibilities, before we became actual adults. [whispered] Before we became the people she needed us to be.
+827 Character B: [excitedly] We could travel to Europe next summer! [breathlessly] Paris, Rome, that little vineyard in Tuscany you bookmarked years ago. [Soft laugh] No more "Mom, can you drive me to Sarah's?" Just us, exploring the world like we always dreamed.
+Character A: [voice breaking] She still calls me every night from sleepovers. [shakily] What happens when she stops calling? When she doesn't need my advice about friend drama or boy troubles? [Sniff] I don't know how to be myself without being her mom first.
+828 Character B: [tenderly] You'll always be her mom, love. [reassuring] But you're also an incredible artist who stopped painting, a marathon runner who hasn't laced up in years. [hopeful whisper] Maybe it's time to remember those parts of yourself too.
+Character A: [angrily] Don't psychoanalyze me! [louder] I chose to prioritize Emma, and I'd do it again. [Harsh breath] Not everyone needs to rediscover themselves the second their kid leaves—some of us actually enjoyed being parents, imagine that.
+829 Character B: [frustrated] I enjoyed it too! [more intensely] But Jesus, can't you see this as an opportunity instead of an ending? [pleading] We're forty-five, not dead. There's still so much life ahead of us to live together.
+Character A: [mockingly] Together? [slower] You've already planned our entire empty nest life without asking me once what I want. [Dry laugh] Home gym, Europe trips, dinner at nine—did it occur to you I might have different dreams?
+830 Character B: [defensively] Then tell me what you want! [exasperated] Because all I hear is how we shouldn't change anything, shouldn't move forward, shouldn't dare imagine life beyond carpools. [quieter] It's like you're afraid of who we'll be without her here.
+Character A: [quivering] Of course I'm afraid. [barely audible] For eighteen years, I've known exactly who I am and what I'm supposed to do. [stronger] Now you're asking me to just reinvent myself overnight like it's some exciting adventure.
+831 Character B: [softly] Not overnight, sweetheart. [measured tone] We have time to figure it out together. [Gentle sigh] But hiding in her empty room, keeping it as a shrine—that won't bring her back or stop time from moving forward.
+Character A: [resigned] A shrine. [hollow laugh] That's what you think I'm doing. [Shaky breath] I'm just trying to hold onto something while everything changes too fast—is that really so wrong, so pathetic to you?
+832 Character B: [urgently] You're not pathetic—you're scared, and that's okay. [warmly] But I'm scared too, scared we'll drift apart if we don't actively choose each other again. [whispered] Emma leaving is happening whether we're ready or not, love.
+Character A: [crying softly] What if I'm terrible at being just us? [through tears] What if without her here, without someone needing me, I realize I don't know who I am anymore? [Sob] What if you realize you don't actually like that person?
+833 Character B: [lovingly] Then we'll figure it out together, one day at a time. [firmly] I fell in love with you before Emma, remember? [gentle whisper] That person is still in there, and I can't wait to meet her again.
+--- CS TAGFULL ---
+Script: a09c67a8 | Role: Customer Support
+834 Customer Support: [briskly] Good afternoon, I see you're calling about your account ending in 4782. [more quickly] You're currently at your credit limit of—let me see—twelve thousand dollars, and [sighs] you've been over the limit twice this quarter.
+Customer: [nervously] Yeah, I know, I know it looks bad. [defensive] But listen, I've been a customer for eight years, never missed a payment, and [pleading] I really need you to keep my limit where it is.
+835 Customer Support: [firmly] I understand your history with us, sir. [more apologetically] However, our system has flagged your account for a mandatory review, and [clears throat] we're looking at reducing your limit to eight thousand.
+Customer: [shocked] Eight thousand?! [louder] That's a third of my limit gone! [desperately] I have automatic payments set up that'll bounce if you do this—my kids' tuition, the mortgage insurance.
+836 Customer Support: [sympathetically] Sir, I can hear this is stressful. [speaking faster] The thing is, your utilization has been at ninety-eight percent for six months straight, and [more gently] that's... that's considered high risk.
+Customer: [frustrated] High risk? [incredulous] I pay two hundred over the minimum every single month! [groans] Look, what if I make a payment right now—would that change anything?
+837 Customer Support: [quickly] Let me check what options we have available. [more hopefully] If you can bring the balance down to seventy percent of your current limit—that's, um, about eight-four hundred—[cautiously] we might be able to reconsider.
+Customer: [sarcastically] Oh great, just pay four thousand dollars right now. [bitter laugh] If I had four thousand lying around, would I be maxed out? [quieter] This is going to destroy my credit score, isn't it?
+838 Customer Support: [reassuringly] Not necessarily, sir. [speaking rapidly] A limit decrease only affects your score if it changes your utilization ratio, which—well, yours is already high, so [hesitant] the impact might be less than you think.
+Customer: [resigned] Fine, whatever. [muttering] Can we at least do ten thousand instead of eight? [more firmly] I've never been late, not once in eight years—that has to count for something.
+839 Customer Support: [typing quickly] I'm putting in a special review request right now. [more optimistic] Given your payment history, I might be able to get approval for—hold on—[brightly] yes, ten thousand, but that's the absolute best I can do.
+Customer: [relieved sigh] Okay, ten thousand. [anxiously] When does this take effect? [quickly] Because I have a payment processing tomorrow and I really can't have it declined.
+840 Customer Support: [efficiently] The new limit takes effect at midnight tonight. [more slowly] Your pending payment should process fine since it's already authorized, but [warning tone] any new charges after midnight will be subject to the new limit.
+Customer: [glumly] Great, just great. [curious] Is there any way to get my limit raised back up later? [hopefully] Like, if I pay it down and keep it low for a while?
+841 Customer Support: [encouragingly] Absolutely, sir! [speaking briskly] After six months of keeping your balance below sixty percent, you can request a review, and [cheerfully] we typically restore limits for customers who show improved utilization.
+Customer: [skeptical] Six months, huh? [sighs heavily] And I suppose you'll be watching every penny I spend like hawks until then. [resigned] What about my rewards points—do I keep those at least?
+842 Customer Support: [quickly] Your rewards remain untouched, all forty-two thousand points. [reassuringly] The limit decrease doesn't affect your rewards status or redemption options, and [helpfully] you're still earning at the same rate on purchases.
+Customer: [somewhat relieved] Well, that's something, I guess. [tiredly] Can you send me all this in writing? [firmly] I want documentation showing this was your decision, not mine defaulting or anything.
+843 Customer Support: [professionally] Of course, sir. [rapidly speaking] You'll receive an email within the hour with the limit change notice, and [clearly] a letter will be mailed to your address on file explaining the decision and the review criteria.
+Customer: [accepting] Fine, I get it, you're just doing your job. [quietly] Thanks for getting me the ten thousand instead of eight, I suppose. [sighs] Have a good rest of your day.
+--- CS TAGLESS ---
+Script: 6163bc10 | Role: Customer Support
+844 Customer Support: Domain registrar support, this is Mike. Can I have your account number or domain name to get started?
+Customer: Oh, uh, yeah—my domain is techstartup dash solutions dot com, and I think my account number is... wait, let me find it... A-C-C-3-3-9-7-1-K.
+845 Customer Support: Perfect, I have your account ACC33971K pulled up here. I see you have three domains registered with us. How can I help with your DNS settings today?
+Customer: So I'm trying to—well, I need to point my domain to a new hosting provider, and they gave me these nameservers, but I honestly have no idea where to even put them in your interface.
+846 Customer Support: No problem, I'll walk you through it. First, can you tell me the nameservers they provided? They usually start with NS1 or NS2.
+Customer: Right, okay, so they sent me N-S-1 dot hosting dash provider dash 7-7-2 dot net and then there's another one—hold on—N-S-2 dot hosting dash provider dash 7-7-2 dot net.
+847 Customer Support: Got those noted. Now, log into your control panel and look for the DNS Management section under domain settings. You should see a reference number D-N-S dash 4-4-8-9-2 at the top of that page.
+Customer: Okay, I'm—wait, is this the right page? I see something that says... oh yeah, there it is, D-N-S dash 4-4-8-9-2, and there's all these records here that I don't understand.
+848 Customer Support: Perfect, you're in the right place. Click on "Change Nameservers" on the left menu, then select "Custom Nameservers" from the dropdown. There's a confirmation code you'll need: Charlie dash Tango dash 9-9-4-5.
+Customer: Charlie dash Tango... 9-9-4-5, got it. So I just—I paste those nameserver addresses in these boxes and that's it? Nothing else needs changing with all these A records and MX records?
+849 Customer Support: If you're using their hosting completely, the nameservers handle everything, so don't touch the other records. Just enter those two nameservers and click save. The propagation tracking ID will be P-R-O-P dash 6-6-2-1-8.
+Customer: Alright, I'm entering them now... done, and—oh, it's asking for my security PIN? I definitely wrote that down somewhere but I can't remember if it was 8-8-4-3 or 8-4-8-3.
+850 Customer Support: I can send a temporary PIN to your email ending in 2-7-9 at gmail. You'll get verification code V-E-R dash 1-1-5-5-3 in about thirty seconds.
+Customer: Oh that's—yeah, that's my email, please send it. Wait, will this affect my email too, because I really can't have my business email go down during this switch.
+851 Customer Support: If your MX records are currently with us, changing nameservers will affect email routing. Do you have email service with the new host? Check if they provided MX record values starting with M-X dash priority dash 10.
+Customer: Um, let me look at their setup email again... I don't—no, I don't see anything about MX records, just something about migration code M-I-G dash 7-7-3-3-2?
+852 Customer Support: That migration code is for content transfer, not DNS. I recommend keeping our nameservers and just updating the A record to point to their IP address instead. This preserves your email service.
+Customer: Oh, that sounds—that's probably better, yeah. So what's their IP address then, because all I see in their email is the server name S-R-V dash 0-0-9 dot hostingprovider dot com?
+853 Customer Support: You'll need to contact them for the IP address behind that server name. Once you have it, come back to DNS management and update the A record. Your ticket reference is T-K-T dash 8-8-9-0-1-B.
+Customer: Alright, I'll—yeah, I'll call them and get that IP, then come back. Should I reference this ticket number T-K-T dash 8-8-9-0-1-B when I call back, or just my account number again?
+--- BASIC SCENARIOS ---
+854 [Slow] It's just, um, it's just air pockets, right? [Nervous laugh] Like driving over a bumpy road, except we're—we're thirty thousand feet up. [Whisper] Okay, okay, okay, I'm gonna count to ten and this'll be over. [Fast] One, two, three—oh God, was that normal? [Sarcastic] Oh great, the seatbelt sign's on, 'cause I was definitely planning to, uh, get up and dance right now. [Tsk] [Happy] You know what? I've been through worse—remember that roller coaster in Vegas? [Chuckle] This is nothing, literally nothing. [Angry] I paid six hundred dollars for this flight and they can't—they can't avoid a little wind? [Groan] This is ridiculous. The pilot said it would be smooth after takeoff, but I guess—[Disappointed] [Sigh] I guess they always say that, don't they? [Fast] My cousin's a flight attendant and she says turbulence never actually—I mean, planes don't just fall, they're designed for this. [Nervous laugh] [Shout] Did anyone else feel that drop? That was—that was like ten feet! [Fast] Tell me someone else felt that! [Sad] I just wanna, um, I just wanna see my kids again, y'know? [Whisper] Please let this be over soon. [Slow] Breathe in... hold it... breathe out... just like—wait, is it getting worse or am I imagining—[Groan] [Fast] No, it's definitely getting worse. Think about the beach, think about the—[Happy] [Chuckle] Actually, you know what? This kinda feels like a massage chair gone crazy. [Sarcastic] Sure, let's serve hot coffee during this—what could possibly go wrong? [Disappointed] [Tsk] Brilliant timing, really. [Whisper] If I don't look out the window, it's not happening, right? [Slow] Just gonna close my eyes and pretend I'm on a train. [Angry] [Fast] I knew I should've driven, fourteen hours isn't that bad, but no, everyone said fly, it'll be easier—[Groan] Statistics, okay, think about the statistics—one in, uh, one in eleven million or something? [Sad] [Sigh] Why doesn't that make me feel better? [Shout] Can someone please explain why the wings are bending like that? [Fast] That's not—wings aren't supposed to bend! [Disappointed] I literally took Xanax for this and I'm still—[Tsk] [Slow] I'm still white-knuckling the armrest like my life depends on it. [Happy] Hey, at least we're getting the full experience, right? [Sarcastic] [Laugh] Really getting our money's worth here, folks. [Whisper] [Slow] Just twenty more minutes, maybe thirty, and we'll be descending, and this'll all be—it'll be a funny story later. [Fast] Is it weird that I'm kinda hungry right now? Like, we might be—[Chuckle] [Sarcastic] We might be dying and I'm thinking about pretzels.
+855 [Slow] I understand you're frustrated, and I'm, uh, I'm here to help resolve this issue. [Sigh] Let's see what we can do. [Fast] Actually, sir, that's not—I mean, we don't typically handle things that way, but I can definitely check with my supervisor? [Tsk] [Sarcastic] Oh absolutely, because yelling at me is gonna make the computer system work faster, right? [Chuckle] [Whisper] Sorry, let me rephrase that. [Disappointed] You know what, I've been trying to—look, I've been nothing but patient here. [Slow] Can we please just focus on solving this? [Happy] Great news! I actually found a workaround that might—um, if you'll just give me a second to explain it properly? [Fast] [Angry] I'm gonna need you to, uh, to lower your voice please. [Sigh] This is a professional environment and I'm just trying to do my job. [Whisper] Between you and me, I'd love to tell you exactly where to—but, um, company policy and all that. [Chuckle] [Sad] Look, I genuinely wanna help, okay? But when you're speaking to me like—I mean, it's kinda hard to concentrate. [Slow] [Shout] Sir! SIR! [Fast] [Whisper] Sorry, but you need to let me finish explaining before you interrupt again. [Disappointed] I've literally been doing this job for eight years and I've never—actually, you know what? [Tsk] Let's just move forward. [Sarcastic] Sure, threatening to call corporate is definitely gonna make me process this faster—oh wait, that's not how any of this works. [Groan] [Happy] Actually, I think I can—no wait, I definitely can get you a discount if we just, um, if we approach this differently! [Laugh] [Slow] Ma'am, I'm recording this call for, uh, for quality purposes. [Angry] [Fast] Just so we're both aware of what's being said here. [Whisper] I'm basically two seconds away from—from just hanging up, but... [Sigh] [Slow] Professional face on, deep breath, here we go. [Disappointed] Y'know, most people don't realize that we're actually human beings on this side of the counter? [Tsk] [Sad] Just, just saying. [Fast] Okay so technically I'm not supposed to do this but since you've been so—er, persistent—I guess I can make an exception? [Chuckle] [Angry] That's completely—I mean, what you're asking is literally impossible! [Slow] [Whisper] But sure, let me just break the laws of physics for you. [Sarcastic] Oh no, please, continue explaining my own job to me—it's honestly fascinating. [Laugh] [Fast] Now, as I was saying about your account... [Sad] I dunno what else to tell you at this point. [Sigh] I've offered every solution we have and you've just—you've shot them all down. [Happy] You know what? [Slow] Despite everything, I actually managed to fix your issue completely. [Chuckle] [Fast] Kinda proud of myself right now, not gonna lie.
+--- MONOLOGUE ---
+This must be read out in a single delivery as one file
+856 SCENARIO: [scenario description]
+Source: 59cc3824
+SCENARIO: Upset about getting no birthday texts, then realizes their phone was on airplane mode all day
+[dejected]
+So yeah, today was my birthday and I'm just— I'm feeling really weird about it, you know? Like, I know people are busy and whatever, but I didn't get a single text. Not one.
+[hurt] [quiet]
+Like my mom didn't even text me. My mom! She literally set calendar reminders for my cousin's dog's birthday last month, but somehow she just... forgot about mine?
+[frustrated]
+And I kept checking my phone all day, just like refreshing and refreshing, thinking maybe something was wrong with my messages or— I don't know. But nothing. It's like I don't even exist.
+[getting more upset]
+I mean Sarah always texts me happy birthday, she's done it for like three years straight, and today just... nothing. And my brother, and Jake from work who remembers everyone's birthday, and—
+[confused]
+Wait, why is my phone showing that airplane mode thing? When did I— [realization dawning] Oh my god. Oh my GOD.
+[embarrassed] [laughing]
+I am such an idiot! I turned on airplane mode for that meeting this morning with the CEO and I just— I never turned it off! [nervous laugh]
+[relieved] [sheepish]
+Oh wow, okay, turning it off now and... yeah, there's like fifteen messages coming through. [small laugh] I'm gonna go die of embarrassment now, thanks.
+This must be read out in a single delivery as one file
+857 SCENARIO: [scenario description]
+Source: e1c105ac
+SCENARIO: Upset about looking bad in photos, then sees one where they look great
+[frustrated]
+Ugh, I had to take my headshots today for the company website and I just— I look terrible. Like, terrible. The photographer kept being like "great, perfect!" but I could see myself in the little preview thing and I was like, this is not great, this is not perfect.
+[annoyed] [self-conscious]
+My face looked all weird and puffy, and like— I don't know, do I always look like that? Like when people see me, is that what they're seeing? Because if so, that's just... [sigh] that's depressing.
+[building frustration]
+And then I was scrolling through my camera roll trying to find like one decent photo of myself from the past month, just one, and it's like— they're all bad. Every single one. I'm either blinking or my smile looks fake or I have like seventeen chins or—
+[surprised]
+Oh wait, what's this one? I don't remember taking this... oh it's from Sarah's birthday last week.
+[amazed] [growing confidence]
+Oh my God, I actually look... I look really good? Like really good. My smile looks genuine and my eyes are bright and I just look like— like me, but the best version of me.
+[relieved] [laughing]
+[chuckle] Okay, maybe I'm not completely hideous. Maybe I just need to stop taking selfies at like weird angles in harsh lighting. This is actually— yeah, this is a good photo.
+This must be read out in a single delivery as one file
+858 SCENARIO: [scenario description]
+Source: 338c34ef
+SCENARIO: Mad about a restaurant getting their order wrong twice, then they comp the whole meal
+[frustrated]
+Okay so I went to that new bistro place, you know the one on Fifth? And I ordered the salmon with like the lemon butter sauce, very simple, right? They bring me chicken. [scoff] Not even good chicken, like dry as hell chicken.
+[annoyed]
+So I'm like, okay fine, mistakes happen, I send it back. The server's all apologetic, "So sorry, we'll get that right out," blah blah blah. Twenty minutes later— twenty minutes— they bring me salmon, but it's like... it's swimming in this weird cream sauce that I definitely did not order.
+[irritated]
+At this point I'm just— I'm hangry, you know? I haven't eaten since like breakfast and it's almost two o'clock and I'm just like, are you kidding me right now? I was about to just walk out, I was gonna be like forget it, just—
+[surprised]
+Oh wait, the manager's calling me? That's... weird, hold on.
+[confused] [slightly defensive]
+Hello? Oh... oh wow. Um, okay so apparently the server told the manager about the whole thing and they're— they're comping my entire meal. Plus dessert. And they want to give me like a gift card for next time?
+[sheepish] [warm]
+That's actually... that's really nice. [small laugh] God, I feel kind of bad for being so pissed off now. I mean, stuff happens, right? At least they're making it right.
+This must be read out in a single delivery as one file
+859 SCENARIO: [scenario description]
+Source: 3badd9fe
+SCENARIO: Frustrated about a slow day, then something exciting happening at the end
+[frustrated] [flat]
+Ugh, honestly today was just... nothing. Like absolutely nothing happened. I kept waiting for something, anything to break up the monotony and it was just like— meeting, email, meeting, lunch alone, more emails.
+[annoyed]
+And you know how I've been waiting to hear back from that, um, that job interview? The one from last week? Still nothing. Radio silence. I keep checking my phone like every five minutes like some desperate— [sigh] I don't know, it's pathetic.
+[dejected]
+I was so sure today would be the day, you know? Like I had this feeling when I woke up, I was like "today's gonna be good, something's gonna happen." But no, just... same old garbage. Same fluorescent lights, same stale office air.
+[tired]
+I'm starting to think maybe I should just— maybe I didn't get it and they're just too polite to tell me or whatever. Companies do that now, right? They just ghost you instead of actually—
+[surprised] [suddenly energetic]
+Oh my god, wait, hold on. My phone's buzzing and it's— it's them. It's the hiring manager.
+[excited] [slightly breathless]
+Holy shit, they want me to come in tomorrow to discuss next steps. They said they were "very
+impressed" with my— [laugh] Oh my god, I can't believe this is happening right now while I'm literally complaining about my day!
