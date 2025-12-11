@@ -1,0 +1,286 @@
+--- EMPATHETIC PARTIAL ---
+
+Script: 555fd843_script | Role: Character 2 (B)
+
+Character 1: So I won my fantasy league.
+677 Character 2: Wait wait wait—you WON? Like, the whole thing? Oh my god, that's—that's incredible! How much did you, um, how much money are we talking here?
+Character 1: Twelve hundred.
+678 Character 2: Twelve HUNDRED dollars?! Are you kidding me right now? That's like—okay, that's actually life-changing money. Well, not life-changing but you know what I mean.
+Character 1: It's fine. Got lucky with injuries mostly.
+679 Character 2: No no no, don't do that thing where you're all humble about it. You've been obsessing over those lineups for like, what, four months straight? Every Sunday you're literally glued to your phone.
+Character 1: Everyone does that.
+680 Character 2: But everyone didn't WIN though, did they? I mean—god, your brother must be so pissed . Wasn't he talking all that trash in September?
+Character 1: He came in last.
+681 Character 2: Stop it. Dead last? That's—oh that's too perfect. Like, karma really said "not today, buddy." Have you told him yet or are you gonna let him find out naturally?
+Character 1: Group chat already knows. He left immediately.
+682 Character 2: Of course he did! He's probably somewhere right now like, ranting about how fantasy is all luck and no skill. Which is—I mean, there's definitely luck but come on.
+Character 1: Picked up Jefferson week three. That helped.
+683 Character 2: See? SEE? That's strategy right there. Like, you actually pay attention to this stuff while the rest of us are just, um, picking players based on their cool names or whatever .
+Character 1: You drafted three kickers.
+684 Character 2: Okay okay, that was—listen, I panicked, alright? The timer was going and I just started clicking things. But we're not talking about my disaster team right now.
+Character 1: Might do two leagues next year.
+685 Character 2: Oh so NOW you're getting cocky about it? Good—good, honestly. You should. Are you gonna like, get one of those ridiculous trophy belts or something?
+Character 1: The league already has one. It's hideous.
+686 Character 2: Wait, there's an actual belt? Like a wrestling— oh my god, please please please wear it to Thanksgiving. Just walk in wearing it over your sweater. Your brother would literally die.
+Script: e622d2ec_script | Role: Character 2 (B)
+
+Character 1: We got the gig.
+687 Character 2: Wait wait wait—what gig? Are you talking about—oh my god, is this the one at The Velvet Room? The actual venue venue?
+Character 1: Yeah. Friday night. Opening for some indie band.
+688 Character 2: I'm sorry, I'm gonna need you to like, back up here because—Friday? This Friday? That's literally in like, what, four days? Holy shit, this is real.
+Character 1: Three days. But who's counting.
+689 Character 2: Okay okay, you're being way too chill about this. This is—I mean, you guys have been practicing in Jake's garage for like, forever, and now you're gonna be on an actual stage with actual lights and—
+Character 1: There's a catch. They want five original songs.
+690 Character 2: Five originals? But don't you only have like... three? Oh no no no, I see that face. What aren't you telling me?
+Character 1: We have two. Two and a half if I finish the bridge on the third one.
+691 Character 2: Two and a—okay, um, that's... I mean, that's totally doable, right? You just gotta, y'know, write three songs in three days. No pressure or anything.
+Character 1: Jake wants to do covers instead.
+692 Character 2: Covers? But that's not—wait, isn't the whole point that they wanted to hear your stuff? Like, your actual music?
+Character 1: That's what I said. He thinks we're not ready.
+693 Character 2: Oh, screw that. Jake's just—he's scared, okay? Which like, I get it, but this is literally what you've been working toward. You can't just... chicken out now.
+Character 1: Maybe he's right though.
+694 Character 2: Stop. Just—stop right there. Remember when you played me that song about the, um, the convenience store at 3am? That was genius. Pure genius.
+Character 1: That was different. Just you in my room.
+695 Character 2: Different how? Because there wasn't a crowd? Babe, honestly, a good song is a good song. And you—you've got like, at least two good songs, which is more than most bands ever get, y'know?
+Character 1: What if I forget the lyrics. Or throw up. Or both.
+696 Character 2: Okay first of all, if you throw up on stage that's basically instant rock legend status, so... But seriously, you're gonna be incredible. I already bought tickets. Me and like, twelve other people, so no backing out now.
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+697 SCENARIO: [scenario description]==================================================Source: dd183463
+
+SCENARIO: discovering the banana they packed got smushed
+==================================================
+
+[muttering]
+Okay, so, um, lunch time, let me just— let me see what I've got in here. Sandwich, check, um, apple, and then I packed a banana because I was being all, uh, all healthy this morning, and—
+
+[slightly dismayed]
+Oh. Oh no. What is— what is this? This is, um, this is not a banana anymore. This is like, uh, like banana soup in a peel. [tsk] Great. Just— just great.
+
+[thinking out loud]
+I mean, I should've— I should've known this would happen, right? Like, bananas are basically designed to, um, to self-destruct the moment you look at them wrong. And I just threw it in here with my, uh, my heavy textbook and—
+
+[resigned but rambling]
+Maybe I can still— no, no, that's gross. That's definitely gross. I'm not eating banana mush. Although, I mean, technically it's the same banana, it's just, um, it's just differently shaped now? Like, really differently shaped.
+
+[trailing off]
+I guess I could get something from the vending machine, but that's like three dollars for a, uh, for a stale granola bar, which is... [sigh] I should really start packing more durable fruit.
+
+This must be read out in a single delivery as one file
+
+698 SCENARIO: [scenario description]==================================================Source: 69e0ecb0
+
+SCENARIO: debating whether to eat lunch now or wait until they're hungrier
+==================================================
+
+[muttering to self]
+Okay, so it's, um, it's twelve-thirty, and I'm like— I'm kind of hungry? But not, uh, not really hungry hungry, you know? Like, I could eat, but I could also— I could also just wait.
+
+[contemplative]
+The thing is, if I eat now, I'm gonna be, um, I'm gonna be hungry again at like three or something, and that's— that's weird timing for dinner, right? But if I wait, then I'm just gonna get, uh, get hangry and probably eat something stupid.
+
+[slightly whiny]
+I mean, I had breakfast at like eight, so that's— [hmm] that's four and a half hours, which is, um, which is pretty normal? I think? God, when did eating become so, uh, so complicated.
+
+[more decisive]
+Okay, but here's the thing— here's the thing, if I'm thinking about it, then I'm probably hungry enough, right? Like, if I wasn't hungry, I wouldn't be having this whole, um, this whole internal debate about—
+
+[trailing off, resigned]
+You know what? I'm just gonna— I'm just gonna make the sandwich. This is ridiculous. I'm a grown person having a, uh, having a full conversation with myself about lunch timing. [laugh] Cool. Very normal.
+
+--- CONVERSATION ---
+
+Script: ef29dc42 | Role: Character A
+
+699 Character A: [hushed panic] Did she just—did our sweet baby just say what I think she said? [faster] Right in the middle of Pastor Johnson's sermon about kindness? [Sharp intake of breath] Everyone turned around to look at us!
+Character B: [mortified whisper] She definitely said it. [getting higher] The F-word, clear as day, during the prayer! [Nervous giggle] Mrs. Henderson's face went completely white. Where did she even learn that word?
+700 Character A: [defensive] Don't look at me like that! [more quietly] I stubbed my toe last week and maybe, possibly let one slip. [Groaning] But I didn't think she was listening—she was playing with blocks!
+Character B: [accusatory tone] Oh really? [slower] Because I distinctly remember someone yelling at the football game last Sunday. [Clearing throat] "That referee is a blind—" and then little ears were definitely perked up, weren't they?
+701 Character A: [frantic whispering] Okay, okay, we both messed up! [more urgently] But what do we do now? [Gulp] Should we leave? The Johnsons are hosting coffee hour and their twins never swear—they probably recite Bible verses!
+Character B: [strained cheerfulness] We can't leave, that looks worse! [through gritted teeth] Just smile and wave like nothing happened. [Soft whimper] Maybe if we give her the iPad she'll stay quiet for the rest of service?
+702 Character A: [desperate] The iPad's dead—I forgot to charge it! [increasingly agitated] And she's getting that look, that pre-tantrum look where her face gets all red. [Gasp] Oh God, she's taking a deep breath to say it again!
+Character B: [sing-song voice] Sweetie, here's a lollipop! [more frantically] Remember our quiet church voices? [Nervous laughter] Daddy has goldfish crackers too, and after church we'll get ice cream if you use nice words, okay precious?
+703 Character A: [relieved sigh] That worked. [cautiously optimistic] She's distracted by the candy. [Exhale] Wait, is giving her sugar really the best idea right now? Remember last time she had candy before noon?
+Character B: [matter-of-fact] Would you rather have her bouncing off pews or dropping more bombs? [quieter] At least hyperactive toddler is normal church behavior. [Bitter chuckle] Half these kids are practically vibrating from their juice boxes anyway.
+704 Character A: [philosophical tone] You know, Jesus said let the little children come. [getting defensive] He probably dealt with ancient Hebrew swear words all the time! [Uncomfortable laugh] Kids back then were probably just as embarrassing as ours, right?
+Character B: [dryly] Somehow I doubt Mary had this problem with baby Jesus. [sarcastically slower] "And lo, the Christ child did speaketh his first words, and they were inappropriate." [Snort] That didn't make it into any Gospel.
+705 Character A: [sudden alarm] She's finished the lollipop already! [voice rising] How did she eat it that fast? [Panicked whisper] And now she's standing up on the pew—everyone can see her sticky face and she looks ready to perform!
+Character B: [commanding whisper] Grab her legs, I'll get her arms! [more intensely] We're making a tactical retreat to the cry room. [Hissing] Forget what people think—this is damage control mode now!
+706 Character A: [sheepishly] The Andersons are literally blocking our path to the aisle. [defeated tone] We're trapped until communion. [Sigh] Maybe if we just pretend she said "duck" really loudly? Kids love ducks, very church-appropriate.
+Character B: [giggling nervously] "Duck" doesn't sound anything like what she said! [more seriously] Though Pastor Johnson did pause his sermon for a full five seconds. [Quiet groan] I've never heard the sanctuary this silent in my life.
+707 Character A: [with dread] Oh no, she's making eye contact with the Pastor. [voice dropping] She has that mischievous smile. [Squeaking] She only smiles like that when she's about to do something we'll be apologizing for later!
+Character B: [rapidly] Quick, tell her the story about Daniel and the lions! [desperately] Or sing the wheels on the bus very quietly! [Sharp exhale] Anything to keep her mouth busy before she decides to expand her vocabulary demonstration!
+708 Character A: [exhausted] Next week we're trying the late service. [firmly] The one with the contemporary music that drowns everything out. [Weary sigh] Or maybe we just livestream from home until she's eighteen and understands social boundaries.
+Character B: [accepting fate] Look, she's falling asleep against your shoulder. [tenderly] Crisis averted, finally. [Soft chuckle] Although I'm pretty sure we're going to be "that family with the swearing toddler" in church gossip for months.
+
+Script: 1e11fd75 | Role: Character B
+
+Character A: [Cackling wildly] Did ye see the admiral's face when the powder kegs went up? [breathlessly] His precious flagship turned to splinters in seconds! [louder] Twenty years of naval pride, gone like smoke on the wind!
+709 Character B: [Low rumbling laugh] Aye, and the way they scrambled for the lifeboats! [mockingly high-pitched] "Save the colors! Save the colors!" they cried. [Snort] As if their pretty flags could stop cannonballs or put out Greek fire!
+Character A: [whispered] The best part was their new recruits. [building excitement] Fresh-faced boys who thought they'd catch pirates today! [Explosive laugh] Now they're swimming home to mama, if the sharks don't find them first in these waters!
+710 Character B: [contemplative] Three warships for the price of one barrel of pitch. [faster] We barely fired a shot before they panicked and crashed into each other! [triumphant shout] The Royal Navy defeated by their own incompetence and fear!
+Character A: [Gleeful shriek] Look at the smoke rising! [slower, savoring] Miles high, black as the devil's beard. [quietly menacing] Every port from here to Kingston will see it and know the navy bleeds tonight.
+711 Character B: [gruff tone] Count the gold we saved on ammunition alone. [Chuckle] Their cargo holds were packed with silver meant for the governor's mansion. [more excitedly] Now it'll buy us rum and women in Tortuga instead!
+Character A: [singing mockingly] "Rule Britannia, Britannia rules the waves!" [Harsh cackle] Not today, lads, not today! [venomously] Their mighty empire can't even protect three ships from two pirates with clever timing and fire!
+712 Character B: [hushed reverence] The way that mast fell... [building intensity] Crushed their steering wheel like kindling, trapped the captain underneath! [bellowing] He won't be writing reports about pirate movements anymore, that's certain! [Dark chuckle]
+Character A: [wistful] Remember when we were pressed into service on ships like those? [bitter laugh] Whipped daily, fed maggots, treated worse than dogs. [roaring] Now we're the ones doing the burning! Sweet, sweet revenge!
+713 Character B: [philosophical tone] Fire purifies everything, brother. [quickening] Their corruption, their cruelty, their gold-braided arrogance. [Wheezing laugh] All equal now, just ash and ember floating on the tide beneath a pirate's black flag!
+Character A: [trembling with excitement] Did you grab the admiral's sword before we left? [proudly] The one with rubies in the hilt? [Giggle] I want to use it to cut our victory cake when we reach port!
+714 Character B: [drawling] Better than his sword, I took his maps. [whispered conspiracy] Secret routes the navy uses, hidden supply caches on remote islands. [jubilant cry] We'll be raiding their stores for months with this information!
+Character A: [incredulous] They actually thought those fire ships last week were an accident! [increasingly manic] Believed we were simple thieves, not strategists! [Snickering] Their overconfidence burned brighter than their sails tonight, didn't it, mate?
+715 Character B: [nostalgic murmur] My father was hung by the navy when I was seven. [steadying] Said he stole bread for his family. [fierce growl] Wonder if he's watching from hell as his son burns their whole fleet!
+Character A: [rapid words] Quick, quick, raise more sail! [urgently] The wind's perfect and we need distance before their reinforcements arrive! [Cackle] Though I doubt they'll chase us through the smoke and floating corpses!
+716 Character B: [booming voice] Let them come! [quieter, deadlier] We've got their gunpowder now, their best cannons. [building rage] Every ship they send just means more trophies for our collection! [Maniacal laugh]
+Character A: [soft wonder] The water's actually glowing orange from all the flames. [poetic] Like sailing through liquid sunset, if sunset smelled of tar and defeat. [shrieking delight] The most beautiful destruction I've ever created!
+717 Character B: [measured tone] Mark this date in the log. [grandly] October fifteenth, the day two pirates sent Britain's finest to the depths! [Whooping] They'll sing shanties about us until the seas run dry!
+Character A: [exhausted happiness] My throat's raw from laughing so hard. [contented sigh] Worth every second of planning, every risk we took. [energetic again] Next time, we burn their entire harbor! What say you, brother?
+718 Character B: [solemn] Aye, but first we disappear. [calculating] Let the fear spread, let them wonder where we'll strike. [Cackling crescendo] When they see black sails again, they'll surrender before we even load the cannons!
+Script: ab2d229a | Role: Character B
+
+Character A: [hesitant] Okay sweetie, so I just press this button and— [sharp gasp] Oh God, everything disappeared! [panicking] The screen went black, did I break it? Where did all those little squares go? I knew this was a bad idea!
+719 Character B: [exasperated sigh] Mom, you literally just locked the screen. [slower, patronizing] Press. The. Same. Button. Again. [irritated] See? Everything's still there, nothing exploded, the world didn't end, your apps are perfectly fine.
+Character A: [relieved giggle] Oh thank goodness! [confused] But why do they call them apps anyway? [thoughtfully slower] In my day, applications were something you filled out at the bank. These tiny pictures don't look like paperwork at all.
+720 Character B: [through gritted teeth] It's just short for application, Mom. [speeding up] Now can we please move on to setting up your email before I lose my mind? [deep breath] We've been on this for twenty minutes already.
+Character A: [defensively] Well excuse me for being careful! [worried whisper] Your father's friend Harold clicked something wrong once and [dramatically louder] hackers stole his entire identity! They bought boats in his name! Multiple boats!
+721 Character B: [flat tone] Harold downloaded sketchy casino apps, Mom. [snorting laugh] That's completely different. [firmly] Just follow exactly what I say and you'll be fine. Now tap the little envelope icon at the bottom of your screen.
+Character A: [uncertainly] The envelope? [increasingly frantic] I see three envelope thingies! There's a blue one, a green one that's making a dinging noise, and— [triumphant] Oh wait, that last one's a shopping bag. Never mind!
+722 Character B: [barely contained frustration] The BLUE one, Mom. [sarcastically sweet] The one that literally says 'Mail' underneath it. [muttering] How did you manage to raise three kids but can't identify basic icons? This is painful.
+Character A: [hurt] I identified plenty of things before computers took over the world! [proudly] I can still balance a checkbook by hand. [mumbling] Unlike your generation who can't even write in cursive or read an analog clock properly.
+723 Character B: [defensive shout] We can read analog clocks! [quieter, resigned] Whatever, just type your email address where it says 'Email Address.' [weary sigh] And please don't ask me what email address means. You've had the same one for ten years.
+Character A: [typing sounds verbally] R... O... S... E... [confused pause] Wait, do I need the little circle thingy? [anxious] And should I capitalize anything? The computer at the library always yells at me about capitals and symbols!
+724 Character B: [loud groan] The @ symbol, yes, you need it! [speaking rapidly] It's rosemary-underscore-smith@gmail.com, all lowercase, [desperate] exactly like it's written on the sticky note you've carried in your purse since 2014! Remember?
+Character A: [thoughtful humming] Oh right, the sticky note! [rustling verbally] Let me just— [victorious] Found it! Though I don't understand why email addresses can't have spaces. [plaintively] Seems unnecessarily complicated if you ask me.
+725 Character B: [exhausted whisper] Nobody asked you. [regular volume, mechanical] Now type your password. [suddenly alert] And no, don't say it out loud! [hushed urgency] Just type it. Other people exist in this coffee shop, Mother.
+Character A: [whispering loudly] But how will I remember what I typed? [concerned] What if I make a typo? [getting louder] Last time I got locked out for three months because I accidentally held down the shift key!
+726 Character B: [defeated tone] There's literally a "show password" option. [tired laugh] See the little eye icon? [pleading] Just tap it and you can see what you're typing. We're so close to done, please don't give up now.
+Character A: [amazed gasp] The eye shows the password! [delighted] That's actually quite clever! [suspicious] Though isn't it creepy that phones have eyes now? [nervously] Is it watching me all the time? Should I put tape over it?
+727 Character B: [hysterical laughter] No Mom, it's not a real eye! [catching breath] It's just a symbol! [more calmly] Like how a trash can icon doesn't mean there's actual garbage in your phone. These are metaphors!
+Character A: [proudly] Well, I did it! [excited squeal] Look, there's already an email from someone! [reading slowly] "Nigerian prince needs your urgent help..." [hopeful] Oh how nice, royalty! Should I help him, dear?
+728 Character B: [screaming] NO! [frantic] Delete it immediately! [rapid fire] Don't open it, don't reply, don't even look at it! [exhausted groan] You know what? I'm installing parental controls. This is for your own good.
+--- CS TAGFULL ---
+
+Script: 22118b4e | Role: Customer Support
+
+729 Customer Support: [cheerfully] Good afternoon, Riverside Labs, this is Sandra speaking. [more quickly] How can I help you today?
+Customer: [frustrated] Hi, yes, I'm calling about my blood work from last week—it's been seven days and [sighs heavily] nobody's called me back. The doctor said it would be, um, three days maximum.
+730 Customer Support: [apologetically] Oh, I understand your frustration. [typing quickly] Let me pull up your file right away—could you provide your last name and date of birth please?
+Customer: [impatiently] It's Morrison, M-O-R-R-I-S-O-N, birthday is April fifteenth. [more urgently] Look, I really need these results because my surgery is scheduled for next week.
+731 Customer Support: [concerned] Okay Mr. Morrison, I see your file here and—[pause] hmm, that's strange. [more quietly] It shows the samples were processed but the results are still pending review.
+Customer: [exasperated] Pending review? What does that even mean? [louder] I've been waiting by the phone, missing work meetings because I thought someone would call!
+732 Customer Support: [quickly] I completely understand, and I'm so sorry about this delay. [more reassuringly] Let me contact the lab supervisor right now to see what's holding things up—can you hold for just a moment?
+Customer: [sighs] Fine, but I've already been on hold twice today for twenty minutes each time. [sarcastically] Third time's the charm, right?
+733 Customer Support: [briskly] Actually, you know what? Stay on the line—I'll conference call the lab directly. [determinedly] We're going to sort this out right now, no more waiting.
+Customer: [surprised] Oh, well that's... that's actually helpful. [more calmly] Thank you for taking this seriously, I've been really stressed about this whole situation.
+734 Customer Support: [professionally] Alright, I've got Dr. Kim from the lab on the line now. [quickly] She says there was a labeling issue with one vial, but—good news—they can expedite the remaining results.
+Customer: [relieved] Oh thank God! [anxiously] So when exactly will I get them? I need to send everything to my surgeon by Thursday at the latest.
+735 Customer Support: [confidently] Dr. Kim guarantees you'll have them by tomorrow afternoon, two PM at the absolute latest. [more firmly] I'm also putting a priority flag on your file.
+Customer: [skeptically] You're sure about this? Because last time someone guaranteed me three days and [pause] well, here we are having this conversation.
+736 Customer Support: [reassuringly] I understand your concern completely. [quickly] I'm giving you my direct extension—474—and I'll personally follow up with you tomorrow morning, around ten.
+Customer: [gradually calming] Okay, that... that actually makes me feel better. [sighs] Sorry if I was a bit harsh earlier, it's just been such a stressful week.
+737 Customer Support: [warmly] No apology necessary at all—medical delays are incredibly frustrating. [briskly] Is there anything else I can help you with while I have you on the line?
+Customer: [thoughtfully] Actually, yes—can you email me a confirmation of what we just discussed? [more firmly] I want documentation this time, just in case something goes wrong again.
+738 Customer Support: [efficiently] Absolutely, I'm typing that up right now. [quickly] You'll have it in your inbox within five minutes, with my contact info and Dr. Kim's notes about the expedited processing.
+Customer: [gratefully] Thank you, Sandra, you've been really helpful. [lighter tone] Guess I won't need to switch labs after all—though I was definitely considering it this morning!
+--- CS TAGLESS ---
+
+Script: 08f4a931 | Role: Customer Support
+
+739 Customer Support: Good afternoon, this is Marcus with Premier Lending, license number M-L-O-3-3-9-7-2. How can I help you with your mortgage needs today?
+Customer: Hi, um, I'm—I'm looking at buying my first home and I keep hearing about rates going up and down, and honestly I don't even know where to start with all this.
+740 Customer Support: No problem, I work with first-time buyers every day. Let me pull up today's rates—can I get your zip code to check what's available in your area?
+Customer: Yeah, it's 9-8-1-0-4, and actually, wait—should I be pre-approved first or should I be looking at rates? I'm kind of doing this backwards, aren't I?
+741 Customer Support: You're fine—knowing rates helps you understand your budget. For that zip, I'm seeing thirty-year fixed at 7.125% with APR 7.342%, loan number prefix F-H-A-3-0.
+Customer: Okay so that seven point—sorry, what was that again? And also, like, what's the difference between the rate and that APR thing you mentioned?
+742 Customer Support: Rate's 7.125%, that's your interest; APR includes all fees, so 7.342%. For pre-approval, I'll need to run application number A-P-P-2-4-6-8-1—takes about twenty minutes.
+Customer: Twenty minutes, that's—that's actually pretty quick. But I've been reading about points, and buying down rates? Someone told me about discount code D-I-S-C-9-9, is that even a real thing?
+743 Customer Support: That's not a discount code—points are prepaid interest. One point costs one percent of your loan, typically drops your rate by 0.25%, reference chart R-C-4-4-7.
+Customer: So if I'm looking at, say, a three hundred thousand dollar loan—God, that number still sounds crazy—one point would be three thousand dollars upfront?
+744 Customer Support: Exactly right, three thousand upfront to lower your monthly payment. Let me calculate your savings—what's your email for quote number Q-U-O-T-E-8-8-5-1?
+Customer: It's, um, firsttimebuyer at—actually no, use my other one—j dot smith 22 at gmail dot com, all lowercase.
+745 Customer Support: Perfect, sending to j.smith22 at gmail. Your confirmation is C-N-F-7-7-2-9-4—should arrive in thirty seconds with three scenarios.
+Customer: Okay I just—yeah, I got it. So scenario B with case number C-A-S-E-5-5-3 looks interesting, but why is the closing cost so different from scenario A?
+746 Customer Support: Scenario B includes 1.5 points, that's forty-five hundred dollars, dropping your rate to 6.875%. Your break-even is month thirty-two, tracking number T-R-K-4-4-1.
+Customer: Month thirty-two means—so like almost three years before I actually save money? What if rates drop next year and everyone's refinancing again?
+747 Customer Support: Valid concern—refinance typically costs three to five thousand. If rates drop below 6.5%, you'd refinance regardless, making points less attractive—see addendum A-D-D-2-2-9.
+Customer: This is actually making more sense now than I thought it would. Can we—should we start that pre-approval today, or should I think about it over the weekend?
+748 Customer Support: I'd start today—rates locked for sixty days with application P-R-E-9-9-3-3-1. No obligation, just gives you negotiating power when you find your house.
+Customer: You know what, yeah, let's—let's do it. I mean, I've been putting this off for months already, might as well just jump in, right?
+--- BASIC SCENARIOS ---
+
+749 [Sad] I couldn't keep pretending everything was fine when I was, like, eating ramen for the third week straight. [Sigh] [Happy] You know what's funny? [Laugh] Mom's cooking doesn't seem so bad anymore after two years of my own disasters! [Fast] Okay so basically the landlord raised rent by—get this—forty percent, and I just couldn't swing it anymore. [Angry] [Whisper] Between you and me, I kinda missed having someone to talk to at night. [Slow] The apartment got really quiet. [Sarcastic] Oh sure, living with my parents at thirty is exactly where I thought I'd be. [Tsk] Living the dream, right? [Disappointed] The job market just—it's not what they promised us it would be, you know? [Sigh] [Shout] I'm not giving up! [Fast] This is temporary, just until I figure out my next move, okay? [Slow] After the breakup, I needed to be somewhere that felt... [Sad] I dunno, safe again, I guess. [Happy] Honestly? [Chuckle] Dad's gotten way cooler since I left—we're actually friends now! [Angry] The company went under without any warning—like, literally just locked the doors one morning! [Groan] [Fast] Wait wait wait, before you judge me, let me explain—there's actually a really good reason for this. [Disappointed] [Sarcastic] Yeah, 'cause nothing says "successful adult" like asking mom to do your laundry again. [Laugh] [Fast] But hey, at least it's free! [Whisper] I had a sort of—well, let's just call it a minor breakdown, and I needed help. [Slow] [Happy] My sister had a baby and I wanted to—I mean, I couldn't miss watching my nephew grow up! [Laugh] [Sad] The medical bills were just... [Sigh] I couldn't keep up with them and rent at the same time. [Angry] Look, student loans are basically highway robbery at this point! [Fast] Eight hundred a month? Come on! [Chuckle] Would you believe me if I said I actually missed my dad's terrible jokes? [Happy] 'Cause somehow I did! [Disappointed] I thought I was ready for independence, but um—turns out I wasn't as prepared as I thought. [Tsk] [Slow] Grandma's getting older and someone needs to—well, someone should be there for her, right? [Sad] [Sigh] [Fast] So the whole startup thing kinda imploded—but whatever, I'm gonna try again once I save up! [Happy]1192 [Happy] You know what, maybe—maybe this is actually the universe's way of, like, steering me toward something better? [Laugh] [Fast] I mean, that's gotta be it, right? [Disappointed] Okay so, um, another no, but I'm not gonna let it—well, it stings a little. [Sigh] [Sarcastic] Oh fantastic, rejection number seventeen, I should probably start a, uh, a collection or something. [Tsk] [Slow] I keep telling myself that every no is just... one step closer to finding the right yes. [Sad] [Sigh] [Angry] This is so—no, you know what, forget being mad, I'm gonna channel this into something productive! [Fast] [Whisper] Sometimes I wonder if I'm, like, kidding myself here, but then I remember how far I've already come. [Chuckle] [Happy] [Shout] Tomorrow's a brand new day with brand new opportunities! [Disappointed] I mean, I kinda expected this one to be different, but, um, here we are again, I guess. [Slow] [Tsk] [Fast] [Laugh] My mom keeps saying persistence pays off and honestly she's—she's usually right about these things, so I'm gonna keep going! [Sarcastic] [Groan] Sure, why not make it an even twenty rejections, I'm basically a professional at this point. [Sad] It's just that I really thought—never mind, dwelling on it won't, er, won't change anything. [Whisper] [Happy] Listen, Thomas Edison failed like a thousand times before the light bulb, so I'm basically on track! [Fast] [Chuckle] [Angry] [Slow] I am so tired of hearing "we've decided to go in a different direction" that I could just—actually, no, breathe. [Disappointed] [Sigh] Another one down, but, um, at least I'm getting really good at handling disappointment, right? [Shout] You know what, their loss! [Happy] [Laugh] Seriously, they're gonna regret this someday! [Whisper] [Sad] I keep a folder of all the rejections and sometimes I look at them and think—maybe I should just... [Fast] Okay so basically what I've learned is that rejection is, like, part of the process and I gotta embrace it or whatever. [Tsk] [Sarcastic] [Chuckle] I should get a punch card—ten rejections and the eleventh one's free, y'know? [Slow] [Happy] Every single person who's successful has been where I am right now, so, um, I guess I'm in good company. [Angry] Why do they always—wait, no, getting worked up isn't gonna help anything. [Sigh] [Disappointed] I just gotta keep swimming, I suppose.--- MONOLOGUE ---
+This must be read out in a single delivery as one file
+
+751 SCENARIO: [scenario description]==================================================Source: ba6332b1
+
+SCENARIO: Frustrated about a parking garage, then remembers they parked on a different level
+==================================================
+
+[frustrated]
+Oh my god, don't even get me started on this stupid parking garage. I was walking around for like twenty minutes looking for my car, just— just wandering around like an idiot pressing the little button on my keys hoping to hear something beep.
+
+[annoyed]
+And of course it's like ninety degrees in there because their ventilation is garbage, so I'm sweating and getting more and more pissed off. I'm thinking maybe someone stole it? Like who steals a 2018 Honda Civic but, I don't know, maybe they do.
+
+[increasingly agitated]
+So I'm about to call the police, right? I've got my phone out and I'm like rehearsing what I'm gonna say— "Hi, um, I think my car got stolen from the Third Street garage," and I feel like such an idiot because who loses their car, you know?
+
+[embarrassed realization]
+But then I'm looking at my parking ticket and I— oh. Oh no. [nervous laugh] I'm on level two. My ticket says level four.
+
+[sheepish] [slightly amused]
+I parked on level four. I've been wandering around level two this entire time like a complete moron. Twenty minutes! In the wrong— in the completely wrong section of the garage.
+
+[laughing at self]
+So yeah, that's— that's how my day's going. I'm apparently losing my mind. [chuckle] At least my car wasn't actually stolen, so there's that.
+
+This must be read out in a single delivery as one file
+
+752 SCENARIO: [scenario description]==================================================Source: e9bfe4d1
+
+SCENARIO: Casually describing a spot they've been scratching, then looking at it, then seeing it's become a wound from scratching, ending in self-inflicted skin damage guilt
+==================================================
+
+[casual]
+Oh, yeah, so I've been, um, I've been scratching this spot on my arm all day. You know how it is when you get like, uh, like a mosquito bite or something? It's just been, um, really itchy.
+
+[matter-of-fact]
+I think it started yesterday, actually. Just this little, uh, this little bump thing on my forearm. But I kept, um, I kept going at it without really thinking, you know? [light laugh] Like when you're watching TV or whatever.
+
+[slightly concerned]
+Actually, let me— let me just check how it's, uh, how it's looking now because it's been bothering me all morning and I— [pause] Oh. Oh wow, that's, um...
+
+[worried]
+That's— that's not good. That's not, uh, that's not a mosquito bite anymore. There's like, um, there's actually blood? And it's all, uh, it's all raw looking now. [nervous laugh] I really— I really went at this thing.
+
+[guilt building]
+God, I can't— I can't believe I did this to myself. I just, um, I just kept scratching and scratching without even— without even looking at what I was doing. It's like, uh, it's like I was on autopilot or something.
+
+[spiraling with shame]
+This is so stupid. I'm, um, I'm twenty-eight years old and I can't— I can't stop myself from scratching a— a bug bite until it's, uh, until it's bleeding? [groan] What is wrong with me? I literally— I literally damaged my own skin because I have no self-control!
+
+This must be read out in a single delivery as one file
+
+753 SCENARIO: [scenario description]==================================================Source: df28e6c2
+
+SCENARIO: Excited about a promotion, then second-guesses if they can handle it, then gets an encouraging text from their mentor
+==================================================
+
+[excited]
+Oh my God, I had to call you immediately! I got it— I got the promotion! They just told me like twenty minutes ago and I'm still like, I can't even— [nervous laugh] I'm literally shaking right now.
+
+[thrilled] [breathless]
+It's the senior manager position, the one I've been like wanting forever, and apparently they were really impressed with that client presentation I did last month. The one where I was like sweating bullets the whole time? [laugh] That one!
+
+[excitement fading] [uncertain]
+But now I'm like— I mean, it's amazing, don't get me wrong, but I'm starting to think about what this actually means and I'm like... do I actually know what I'm doing? Like, I'll have people reporting to me now and I've never— I don't know how to manage people.
+
+[worried]
+What if I'm terrible at it? What if they realize they made a mistake and I'm just like, I don't know, winging it the whole time? God, what if I let everyone down?
+
+[surprised] [softer]
+Oh wait, hold on, my mentor Sarah is— she's texting me. Um... she says "Heard the amazing news! You've earned this completely. Trust yourself - you're going to be incredible." With like three heart emojis.
+
+[emotional] [grateful]
+That's... wow. She always knows exactly when I need to hear something like that. [small laugh] Okay, yeah. I can do this. I can totally do this.
