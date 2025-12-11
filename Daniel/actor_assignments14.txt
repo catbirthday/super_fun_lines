@@ -1,0 +1,226 @@
+--- EMPATHETIC PARTIAL ---
+--- MONOLOGUE SELFTALK ---
+This must be read out in a single delivery as one file
+918 SCENARIO: [scenario description]
+Source: b6976cf3
+SCENARIO: a queen holding court, noticing her throne has a slightly wobbly armrest
+[composed but distracted]
+Right, so we have the matter of the grain subsidies for the northern provinces, which is— [clears throat] —which is obviously a priority given the recent drought and— oh for heaven's sake, is this thing wobbling?
+[trying to maintain dignity]
+The, um, the throne is definitely— it's moving. Just slightly but it's— okay, don't lean to the right. Note to self: do not lean to the right during important pronouncements about taxation.
+[increasingly flustered]
+Where was I? Grain subsidies, yes. Very important. Life and death, actually, people could starve if we don't— [exhale] —if we don't act decisively and— is everyone noticing this? They have to be noticing this.
+[paranoid whisper]
+Maybe it's sabotage. Maybe someone loosened it on purpose to undermine my authority. Or maybe it's just old and falling apart like everything else in this damn castle.
+[resigned but regal]
+You know what? I'm just gonna— I'm gonna sit very still and get through this audience. Very, very still. Like a statue. A slightly unstable statue.
+This must be read out in a single delivery as one file
+919 SCENARIO: [scenario description]
+Source: aabe5c66
+SCENARIO: a student named Marcus lands his dream internship at NASA
+[muttering to himself]
+Okay, so, um, I should probably— I should probably call my mom, right? Like, this is, uh, this is the kind of thing you call your mom about. NASA. [exhale] NASA, dude. That's, um, that's not something you just text about.
+[getting a little excited]
+But wait, wait wait wait. Should I call Dad first? He's the one who got me into, uh, into all the space stuff when I was little. Remember those— those documentaries we used to watch? But Mom's gonna be, like, she's gonna be so—
+[second-guessing]
+Actually, no, maybe I should— maybe I should just sit with this for a minute? Like, what if I'm, um, what if I'm getting too excited and it's not as big a deal as I think? I mean, it's just an internship, it's not like I'm, uh, I'm not going to space or anything.
+[brightening up again]
+But it's NASA though. [laugh] It's literally NASA. The place with the rockets and the— and the smart people who do the, um, the Mars thing.
+[trailing off, softer]
+Okay, I'm definitely calling Mom first...
+This must be read out in a single delivery as one file
+920 SCENARIO: [scenario description]
+Source: 0aecc66b
+SCENARIO: a woman named Sofia gets proposed to
+[breathless, slightly stunned]
+Okay, so, um— so that just happened. That just— [exhale] Marcus just proposed. Like, actually proposed. With a ring and everything, and I said yes, but now I'm just, uh, I'm just standing here in the bathroom talking to myself because— because what do you even do after that?
+[faster, excited but confused]
+I mean, I knew it was coming, right? Like, we've been talking about it for months, and his sister kept giving me these weird looks at dinner last week, so I— I kind of suspected, but still. It's different when it's actually, um, when it's actually happening.
+[quieter, working through it]
+The ring is really pretty. It's not huge or anything, which is— which is good because I would've felt weird about that. But now what? Do I call people? Do I post something? [nervous laugh] I don't know the, uh, the protocol here.
+[slightly overwhelmed]
+My mom is going to lose her mind. She's been asking about grandkids since our second date, and now she's gonna be like, planning a wedding before we even— [sigh] oh god, the wedding. That's a whole thing, isn't it?
+[softer, more settled]
+But, um, but I'm happy. I think I'm just— I'm just processing. This is good. This is really, really good.
+--- CONVERSATION ---
+Script: 33119c95 | Role: Character A
+921 Character A: [defensively] Mom, before you say anything, [speaking quickly] just remember I'm twenty-five years old. [Deep breath] I make my own money, pay my own bills, and this is my body—I can decorate it however I want, okay?
+Character B: [Shocked gasp] Is that... is that permanent? [voice rising] Oh my God, what have you done to yourself? [trembling] Your beautiful skin, the skin I kept perfect for eighteen years, and you've gone and ruined it forever!
+922 Character A: [exasperated] It's not ruined, it's art! [more firmly] See the detail in the phoenix wings? [softening] The artist spent six hours on this—she's won awards. This represents my journey through depression, rising from my darkest moments.
+Character B: [Bitter laugh] Art belongs on walls, not on my daughter! [quieter] What will people think at church? [voice cracking] How will you wear a wedding dress? Your future children will think their mother is some kind of criminal!
+923 Character A: [sarcastically] Oh wow, a criminal, really? [frustrated sigh] It's 2023, Mom—judges have tattoos, doctors have tattoos. [pleading] Even that nice banker you love, Mrs. Peterson's son, has a full sleeve under his suit jacket!
+Character B: [wailing] Don't compare yourself to others' mistakes! [sharp whisper] Your grandmother is rolling in her grave. [louder] She survived the war with dignity intact, and you mark yourself like livestock! What would your father say?
+924 Character A: [coldly] Dad already knows. [nervous chuckle] He saw it last month and said it was beautiful. [warming up] He understood what it meant to me, understood that sometimes we need physical reminders of our strength and survival.
+Character B: [stunned silence] He... he knew? [voice breaking] For a whole month, my own husband kept this from me? [getting louder] This betrayal, this conspiracy in my own home! Both of you, lying to my face every single day!
+925 Character A: [gently] We weren't lying, we were waiting. [tired tone] Waiting for the right moment to tell you. [more urgently] But there's never a right moment with you, is there? Everything I do disappoints you somehow, Mom.
+Character B: [crying] That's not true! [defensive shout] I just wanted better for you! [whimpering] All those years of ballet lessons, violin practice, straight A's—for what? To throw it all away with this rebellious phase?
+926 Character A: [laughing bitterly] Phase? This isn't a phase! [steadier] This is me claiming my story, my pain, my triumph. [voice shaking] You never asked about the therapy, the medication, the nights I couldn't get out of bed.
+Character B: [softer] I didn't know it was that bad. [Shaky breath] You always seemed fine at Sunday dinners. [desperately] But surely there were other ways to heal? Couldn't you have just talked to me about these feelings?
+927 Character A: [incredulous] Talked to you? [harsh whisper] The woman who called therapy "paying strangers to create problems"? [normal volume] This tattoo represents everything I couldn't say to you, everything you refused to hear or acknowledge about my struggles.
+Character B: [defeated sigh] So I'm the villain in your story now. [quietly bitter] The mother who loved too much, worried too much. [voice hardening] Fine, keep your tattoo, but don't expect me to look at it during family photos.
+928 Character A: [hurt] That's your choice, Mom. [determined] But I'm not hiding it, not anymore. [softer] I spent too many years hiding everything else—my sexuality, my mental health, my real dreams. This phoenix stays visible.
+Character B: [Sharp gasp] Your sexuality? [panicked whisper] What else are you hiding? [voice breaking] How many more surprises do you have waiting to destroy what's left of my heart? Is there anything real left of my daughter?
+929 Character A: [firmly] I'm more real now than ever. [emotional] This is your daughter, just honest finally. [pleading tone] The tattoo, being bi, choosing social work over law—it's all me, Mom. The real me you never wanted to see.
+Character B: [long pause] Social work? [weak voice] You dropped law school? [barely audible] When did my baby girl become this stranger? How did I miss all these changes, all these signs that you were drifting away?
+930 Character A: [gently] You didn't miss them, Mom. [sadder] You just looked away every time they appeared. [hopeful whisper] But maybe now, seeing this phoenix on my shoulder, you can finally start seeing me—really seeing me.
+Character B: [Shuddering breath] I need time to process this. [slowly] All of this. [resigned] But that phoenix—if it helped you survive something I couldn't... [trailing off] Maybe I need to learn what it means to you.
+Script: 149479ac | Role: Character A
+931 Character A: [mumbling] I'm such an idiot, honestly. [bitter laugh] Failed another interview today—couldn't even answer basic questions properly. [quieter] Why do I even bother trying anymore when I mess up everything I touch?
+Character B: [concerned] Hey, stop that right now. [firmly] You're being way too hard on yourself again. [softer] One interview doesn't define your worth, and you know you've accomplished so much already this year.
+932 Character A: [sarcastically] Oh yeah, massive accomplishments. [Scoff] Like what—remembering to brush my teeth? [dejected whisper] Everyone else my age has their life together while I'm still a complete disaster pretending to be functional.
+Character B: [frustrated sigh] This is exactly what I mean! [urgently] You literally got promoted last month, helped your sister move, and [warmly] organized that entire charity event. How is that not having your life together?
+933 Character A: [dismissively] The promotion was pure luck—they needed someone and I was there. [Hollow laugh] I'm basically fooling everyone into thinking I'm competent. [trailing off] One day they'll realize I'm a fraud and fire me immediately.
+Character B: [Exasperated groan] Imposter syndrome much? [steadily] You earned that position through three years of dedicated work. [more intensely] Stop crediting luck for what your talent and effort actually achieved, please!
+934 Character A: [weakly] You're just saying that because you're my friend. [Shaky breath] If I was actually talented, I wouldn't have anxiety attacks about simple presentations. [self-loathing] I literally threw up before the last team meeting—how pathetic is that?
+Character B: [gently] Anxiety doesn't make you pathetic, it makes you human. [Deep breath] Even CEOs get nervous—I've seen our boss's hands shake during speeches. [reassuringly] You still delivered an amazing presentation despite feeling sick.
+935 Character A: [bitterly laughing] Amazing? I stuttered through half of it! [higher pitch] My voice cracked like a teenager's. [Groaning] I bet everyone was internally cringing and counting down the seconds until I finally shut up.
+Character B: [firmly] Nobody noticed any stuttering except you. [more emphatically] Sarah literally asked me afterward for your slide templates because she loved them. [Soft chuckle] You're your own worst critic, creating problems that don't exist.
+936 Character A: [defensive] Sarah was just being polite—she feels sorry for me. [Sighing heavily] Just like how people invite me places out of obligation. [quieter each word] I'm basically everyone's charity case friend they tolerate.
+Character B: [shocked] Are you kidding me right now? [louder] We invite you because we genuinely enjoy your company! [Frustrated laugh] You're hilarious, thoughtful, and honestly the most loyal friend anyone could ask for.
+937 Character A: [doubtfully] Loyal maybe, but only because I'm too desperate to lose anyone. [Nervous laugh] I'm that clingy friend who texts too much. [ashamed whisper] Sometimes I delete messages before sending because I know I'm being annoying.
+Character B: [tenderly] You're not annoying—you're caring. [more firmly] Your check-in texts have saved me during rough days multiple times. [Gentle sigh] I wish you could see yourself through my eyes for just one minute.
+938 Character A: [cynically] Your eyes need prescription checks then. [Bitter chuckle] All I see in mirrors is failure and wasted potential. [breaking voice] My parents probably regret having such a disappointing kid who can't do anything right.
+Character B: [angrily] Stop it! Stop talking about my best friend like that! [Sharp breath] Your parents literally brag about you to everyone constantly. [softer but intense] This negative voice in your head is lying to you.
+939 Character A: [vulnerably] But what if it's not lying? [Shaky whisper] What if I really am as worthless as I feel? [sniffling] Maybe everyone would be better off without me dragging them down with my issues.
+Character B: [urgently] Don't you dare finish that thought. [trembling] You make everyone's life brighter just by existing in it. [Steadying breath] Tomorrow we're calling that therapist together—this self-hatred has gone way too far.
+940 Character A: [hesitantly] Therapy feels like admitting I'm broken beyond fixing myself. [Tired sigh] But maybe you're right—I'm exhausted from fighting my own brain constantly. [quietly hopeful] Would you really come with me to make the call?
+Character B: [warmly] Of course I will—that's what friends do. [relieved exhale] Asking for help shows incredible strength, not weakness. [lovingly firm] We're going to get through this together, and you'll learn to be your own friend eventually.
+Script: e4b7b65e | Role: Character B
+Character A: [nervously] Hi Marcus, thanks for meeting with me. [clearing throat] I know this transition has been... complicated. [quieter] I really value your experience here, and I'd love to discuss how we can work together moving forward.
+941 Character B: [flat tone] Sure, boss. [more sarcastically] Eight years of experience, right here at your service. [bitter laugh] What exactly did you want to discuss about my role supporting someone who's been here three months?
+Character A: [defensive] Look, I didn't ask for this promotion over you. [softer] But I'm here now, and we need to make this work. [steadier voice] Can we at least try to find some common ground professionally?
+942 Character B: [slow and measured] Common ground. [scoff] You want common ground when you got my job because you have an MBA? [louder] I built half the systems you're using! [trailing off] But sure, let's find common ground.
+Character A: [frustrated sigh] This isn't about degrees, Marcus! [pleading] I need your help—I'm drowning here. [whispered admission] I don't even understand half the technical stuff you built, and everyone expects me to just know it all.
+943 Character B: [surprised] Wait, you're actually admitting that? [more gently] Most new managers come in acting like they know everything. [contemplative pause] Maybe you're not completely hopeless after all. [mumbling] Though the jury's still out on that one.
+Character A: [exhausted laugh] I'm too tired to pretend anymore. [desperately] Yesterday I accidentally deleted a client database thinking it was a test file. [panicked whisper] IT recovered it, but I nearly had a heart attack waiting.
+944 Character B: [shocked gasp] You deleted the Morrison account database? [building anger] That took me six months to optimize! [suddenly amused] Though honestly, watching Jerry from IT panic must have been worth the price of admission.
+Character A: [relieved giggle] Jerry turned three different shades of purple. [more seriously] But Marcus, this is exactly why I need you. [genuine tone] Would you consider being technical lead? Same team, but you'd own all system architecture decisions.
+945 Character B: [skeptical] Technical lead? [considering slowly] So I'd have autonomy over the systems, but you'd handle all the budget meetings and executive presentations? [interested now] You mean I could skip those awful quarterly reviews with corporate?
+Character A: [eagerly] Yes, exactly that! [laughing] God, I hate those quarterly reviews too. [confidentially] Last week Henderson talked for forty minutes about synergy. [groaning] I wanted to throw myself out the conference room window.
+946 Character B: [genuine laughter] Henderson and his synergy speeches! [reminiscing] Once I counted—he said it thirty-seven times in one presentation. [warming up] Maybe we could tag-team this thing after all, if you're serious about the technical autonomy.
+Character A: [firmly] Completely serious. [hopeful] You know the systems, I'll handle the politics. [quieter and sincere] Plus, between us, your salary adjustment would reflect the expanded role—I already got it pre-approved before asking you here.
+947 Character B: [impressed whistle] You got budget approval before our meeting? [respectfully] That's actually pretty smart negotiating. [chuckling] Alright rookie, you might survive this job after all. When would this new arrangement start exactly?
+Character A: [excited] Monday, if you're on board! [quickly] I've already drafted the org chart changes. [nervous again] Though I should warn you, Peterson from accounting is furious about the budget increase—he might corner you.
+948 Character B: [dismissive laugh] Peterson's been furious since 1987, that's nothing new. [determined] Fine, I'm in. [warning tone] But if you micromanage my technical decisions, this partnership ends. I won't tolerate design-by-committee nonsense.
+Character A: [relief washing over] Thank God, I thought you'd say no. [firmly] Zero micromanaging, I promise. [lighter] Honestly, I'll be too busy trying to understand what you're doing to interfere anyway. [pause] That's a joke. Mostly.
+949 Character B: [dry humor] Mostly, she says. [more warmly] Look, Sarah, we both know this company promoted you for reasons beyond merit. [thoughtfully] But maybe that's not your fault—and maybe we can actually fix things together.
+Character A: [vulnerably] Thank you for saying that, Marcus. [steadying breath] I know I have a lot to learn from you. [determined] But I promise I'll also have your back with upper management—that's something I actually am good at.
+950 Character B: [accepting tone] Fair enough. [slight smile in voice] Let's get coffee tomorrow and you can show me that org chart. [sarcastically optimistic] Who knows? Maybe this disaster will actually work out. [chuckle] Stranger things have happened around here.
+--- CS TAGFULL ---
+Script: 89910c8f | Role: Customer Support
+951 Customer Support: [cheerfully] Good afternoon, Riverside Medical, this is Janet speaking. [quickly] How may I assist you today?
+Customer: [exhausted] Hi, I've been waiting for over two hours for my appointment. [sighs heavily] Nobody's told me anything and I'm just... is there any way to know how much longer?
+952 Customer Support: [sympathetically] Oh, I'm so sorry about that wait. [more briskly] Let me pull up your information—can I get your last name and date of birth, please?
+Customer: [flatly] Thompson. March fifteenth, nineteen eighty-one. [frustrated] Look, I took the whole day off work for this, and my parking meter's about to expire.
+953 Customer Support: [quickly] Okay, Ms. Thompson, I see you here. [apologetically] Unfortunately, Dr. Martinez is running about ninety minutes behind due to an emergency this morning. [more reassuringly] But you're next after the current patient.
+Customer: [incredulous] Ninety minutes? [groans] So I've already waited two hours and there's still... what, another hour? [desperately] Can I at least leave and come back?
+954 Customer Support: [hesitant] Well, technically yes, but—here's the thing—if you're not here when called, [more quickly] we'd have to mark you as a no-show and reschedule completely.
+Customer: [sarcastically] Great, so I'm basically held hostage. [sighs] My kids need to be picked up at four, and it's already two-thirty. [pleading] Is there seriously no other option?
+955 Customer Support: [briskly] Let me check something for you. [pause] Actually, I can squeeze you in with Dr. Patel tomorrow at eight AM, [cautiously] but you'd lose today's copay.
+Customer: [defeated] No, I can't... I can't take another day off. [quietly] I already used my last sick day for this. [more firmly] Just tell me honestly—will I make it out by three-thirty?
+956 Customer Support: [uncomfortably] I wish I could guarantee that, but... [more quickly] realistically, probably not. The current patient just went in ten minutes ago.
+Customer: [bitter laugh] Of course they did. [exhausted] You know what bothers me most? Nobody in that waiting room has been told anything. [accusingly] We're all just sitting there like furniture.
+957 Customer Support: [defensively] I understand your frustration, truly. [more apologetically] Our front desk should've been updating everyone—I'll speak with them about that right away.
+Customer: [resigned] Yeah, well... [sighs] I guess I'll wait another twenty minutes and see. [sarcastically] Maybe a miracle will happen and someone will actually move quickly.
+958 Customer Support: [quickly] Ms. Thompson, wait—I'm flagging your chart as urgent. [more encouragingly] Sometimes that helps the doctor prioritize, especially with your time constraint.
+Customer: [surprised] Oh. That's... actually helpful, thank you. [skeptically] Does that really work though, or is it just to make me feel better?
+959 Customer Support: [honestly] It does help, about sixty percent of the time. [rapidly] The doctors do check these notes between patients, I promise.
+Customer: [wearily] Alright, I'll give it until three. [firmly] But if I'm not seen by then, I'm rescheduling for next month when I have more time off.
+960 Customer Support: [understanding] That's completely fair. [briskly] I'm also adding a note about compensation for today's wait—billing might waive some fees. [gently] No promises, but it's worth trying.
+Customer: [slightly relieved] I appreciate that, Janet. [sighs] Sorry for being so... difficult. [quietly] It's just been a really long day already, you know?
+--- CS TAGLESS ---
+Script: 27488e96 | Role: Customer Support
+961 Customer Support: FSA Benefits Administration, this is Marcus speaking. May I have your employee ID and company code to access your flexible spending account?
+Customer: Oh, um, yes—it's E-M-P-3-3-7-9-2, and the company code is... wait, let me find it... okay, C-X-4-4-1.
+962 Customer Support: Perfect, I have your account pulled up. Your current FSA balance shows $1,847.50 available. How can I assist you with reimbursement today?
+Customer: Right, so I submitted this claim three weeks ago—claim number F-S-A-9-9-1-2-6—for my son's orthodontist, but it got denied? The receipt was for $450, and I don't understand why it's not eligible.
+963 Customer Support: I see claim FSA99126 here, denied on October 15th. The rejection code R-7-7-B indicates the receipt didn't include the provider's tax ID number, which is required for amounts over $200.
+Customer: But I—wait, what? The orthodontist gave me this receipt, it has everything on it, the date, the amount, even has their office stamp and everything.
+964 Customer Support: Unfortunately, IRS regulations require tax ID number 3-3-hyphen-8-9-1-2-4-5-6 format for healthcare providers. Can you obtain an itemized statement from provider location zip 9-4-1-0-8?
+Customer: This is—okay, so I need to go back to them and ask for a whole new receipt? Even though I already paid them in September, transaction reference T-X-M-4-4-8-9-1?
+965 Customer Support: Correct, you'll need documentation showing their federal tax ID. Once you resubmit through portal case C-A-S-E-7-7-2-1-9, processing takes 5-7 business days.
+Customer: So frustrating—I mean, can't you just look up their tax ID somehow? They're Bright Smiles Orthodontics on Maple Street, you must have it from other claims, right?
+966 Customer Support: I cannot access provider tax IDs directly due to privacy regulations. However, I show seven previous approved claims from that same provider in your history.
+Customer: Wait, what? Then why—if you've approved them before, why is this one different? Those other claims all went through fine, I never had this problem.
+967 Customer Support: Let me check those prior submissions. Claims F-S-A-8-8-9-0-1 through 8-8-9-0-7 were all under $200, which don't require tax ID verification.
+Customer: Oh, you've got to be—so because this one is $450 instead of, like, $199, suddenly I need all this extra documentation?
+968 Customer Support: That's correct, the $200 threshold is an IRS requirement under code section 2-1-3-hyphen-D. Would you like me to email you the resubmission form R-S-B-4-4-1?
+Customer: Yes, fine, send it to my email on file—wait, you have the right one, right? It should end in at gmail, not the work email.
+969 Customer Support: I show primary email K-Thompson-7-7 at gmail dot com. I'll send form RSB441 there now, confirmation number E-M-L-9-9-3-3-2.
+Customer: Okay, and just to be clear—once I get this tax ID thing and resubmit, the $450 will definitely be approved, right? There's nothing else wrong with it?
+970 Customer Support: The service date of September 12th qualifies, and orthodontia is covered under your plan code P-L-N-5-5-6-A. Just need that tax ID to complete processing.
+Customer: Alright, I guess I'll call them tomorrow and—hopefully they can just email it or something. Thanks for explaining it, even though this whole system is absolutely ridiculous.
+Script: d4aab317 | Role: Customer Support
+971 Customer Support: Next! I can help you at window 7. What brings you to the DMV today?
+Customer: Hi, um, I need to get one of those—what do you call them—Real IDs? The new license thing with the star on it, I think?
+972 Customer Support: Yes, the Real ID. I'll need to see your current license and verify your documents. Do you have your proof of identity and two proofs of residency?
+Customer: Wait, two proofs? I brought my—hold on, let me check—I have my passport here, number K-4-7-8-9-2-3-5-1, and this utility bill from last month.
+973 Customer Support: The passport works for identity, good. For residency, I need two documents. Your utility bill is one—what's the service account number on that, starting with U-T?
+Customer: Oh, it's, uh, U-T-3-3-9-0-4-A. But I only brought one bill—nobody told me I needed two things for address proof.
+974 Customer Support: You need two proofs of residency for Real ID compliance under federal regulation H-R-7-1-2. Do you have a bank statement, mortgage document, or vehicle registration with you?
+Customer: Actually, yeah—my car registration might be in my glove compartment. Should I go get it? The plate number is 8-K-M-Z-9-4-2 if that helps.
+975 Customer Support: Yes, please retrieve it. I'll hold your passport and utility bill here. You have reference number D-M-V-2-0-2-4-R-5-5-8 for this transaction.
+Customer: Okay, got it—here's my registration. Though actually, wait, this shows my old address on Pine Street, not my new one on Oak Avenue where the utility bill is.
+976 Customer Support: The addresses must match across all documents. Your registration shows zip code 9-4-5-0-2 but your utility bill shows 9-4-5-0-7. These are different residences.
+Customer: But I just moved like—three months ago? Four months? Can't you just use the passport and the utility bill then, since those are current?
+977 Customer Support: Passport doesn't count for residency, only identity. You need two residency proofs from the same address. Did you update your address with us yet?
+Customer: No, I—that's actually why I'm here too, to change everything over. So what, I need to do the address change first, then come back another day?
+978 Customer Support: I can process form D-L-1-4 for address change today, fee code F-2-2-A for twenty-eight dollars. Then you'll need to return with matching residency documents for Real ID.
+Customer: This is so confusing—can't I just do it all at once? I mean, I live there now, the utility bill proves it, right?
+979 Customer Support: Federal guidelines require two proofs, no exceptions. Complete the address change today, update your vehicle registration to match, then return with both documents showing zip 9-4-5-0-7.
+Customer: Fine, okay, let's—let's just do the address change then. Do I at least get some kind of temporary license or something today?
+980 Customer Support: You'll receive temporary license T-M-P-3-3-0-7-B-2 valid for 60 days. Your permanent Real ID will require a separate appointment once you have proper documentation.
+Customer: Alright, whatever, I'll take it. So I need to make another appointment online, or—how does this work exactly with the new system?
+--- BASIC SCENARIOS ---
+981 [Disappointed] I know I said I'd be there, but my kid just threw up all over the—the bathroom is like a disaster zone right now. [Sigh] [Fast] [Angry] So apparently my boss just decided, like five minutes ago, that this report has to be done tonight—tonight!—and I'm stuck here until who knows when. [Sad] My mom's in the hospital again and I just... I can't leave her alone right now, you know? [Slow] Not after what happened last time. [Sarcastic] Oh sure, because the airline totally cares that I have somewhere to be—my flight's been delayed for the third time. [Tsk] [Disappointed] [Whisper] I'm actually having a panic attack and I—I can't even get out of bed right now. [Sigh] This is so embarrassing. [Happy] Wait, you're gonna hate me but—I completely forgot and bought tickets to that concert months ago! [Laugh] [Fast] I'm literally on my way there now! [Slow] The car won't start and, um, honestly? [Disappointed] I think I'm just gonna take this as a sign from the universe or whatever. [Angry] [Shout] My ex is gonna be there and I am NOT dealing with that drama tonight! [Chuckle] You're not gonna believe this but I'm locked in my own bathroom—the doorknob just, like, fell off. [Sarcastic] So that's how my day's going. [Fast] [Disappointed] I've got food poisoning from that sketchy taco place and I'm—let's just say I can't be more than ten feet from a toilet right now. [Sad] [Slow] My dog is... we have to put him down tomorrow morning and I just wanna spend tonight with him, okay? [Happy] Dude, my water just broke! [Laugh] [Fast] We're heading to the hospital—this baby's coming! [Whisper] [Disappointed] I literally have seven dollars to my name until payday and I can't even afford gas to get there. [Sarcastic] [Slow] So remember how I said my in-laws never visit? Guess who just showed up unannounced for the whole weekend. [Angry] I've been on hold with customer service for two hours about this fraud thing and if I hang up now—I'm basically starting over. [Groan] [Fast] [Happy] Plot twist—I'm actually already at a different party and it's kinda amazing and I don't wanna leave! [Chuckle] Sorry not sorry? [Disappointed] [Sigh] The babysitter just canceled and we've called everyone—literally everyone—and nobody can watch the kids tonight. [Sad] I'm having one of those days where I just... I can't pretend to be okay around people, y'know? [Slow] Maybe next time. [Angry] [Fast] My roommate used my car without asking and crashed it into a—a freaking mailbox, and now I'm dealing with insurance and police and ugh! [Whisper] Honestly? [Tsk] [Disappointed] I just realized I double-booked myself and I already promised my grandma I'd have dinner with her tonight.
+982 [Slow] Okay, everyone just—can we all just take a breath here for a second? [Sigh] Nobody's listening to anybody right now. [Shout] Stop! [Fast] You're both saying the exact same thing but you're too stubborn to actually hear each other! [Disappointed] This is, um, this is exactly what happened at Thanksgiving, and we promised we wouldn't—here we go again. [Tsk] [Whisper] Dad's crying in the kitchen, you know. [Sad] Is this really worth it? [Sarcastic] Oh great, yeah, bringing up something from 1987 is definitely gonna help right now. [Groan] [Happy] Hey, remember when we all got along for like five minutes at Sarah's wedding? [Chuckle] Can we channel that energy maybe? [Fast] I'm literally gonna lock you both in the garage until you figure this out—I mean it! [Angry] [Slow] You know what, I've been sitting here for an hour and, honestly, I still don't even understand what we're fighting about anymore. [Sigh] [Sad] Mom would be so—she'd be heartbroken if she could see us like this. [Whisper] Absolutely heartbroken. [Disappointed] I drove three hours to help sort this out and you're just gonna—fine, whatever. [Tsk] I'm done trying. [Happy] Actually, wait—didn't Uncle Jerry do the exact same thing and everyone forgave him? [Laugh] The irony here is killing me! [Angry] Would you let them finish a damn sentence before you—sorry, but seriously, just let them talk! [Groan] [Sarcastic] Sure, let's just keep screaming over each other, that's super productive. [Slow] Really solving all our problems here, guys. [Fast] Okay so basically what I'm hearing is you're mad about the money but really it's about respect, right? [Sigh] Am I close? [Whisper] The kids are upstairs listening to every word of this. [Disappointed] Is this the example we wanna set? [Shout] Time out! [Chuckle] We're acting like toddlers and I'm gonna treat us like toddlers—everyone to your corners! [Sad] I just, um, I miss when we could have dinner without it turning into—into whatever this is. [Slow] I really miss that. [Angry] You're both being so—actually, you know what, I was gonna stay neutral but you're both being ridiculous! [Fast] There, I said it! [Happy] Plot twist—what if we're all wrong and Grandma was right about everything? [Laugh] [Sarcastic] Wouldn't that be something? [Whisper] I'm gonna count to ten, and when I'm done, we're either talking like adults or I'm leaving. [Slow] One... two...
+983 [Disappointed] So they're saying, um, another two hours minimum? [Sigh] I mean, at this point I might as well just—no, forget it, I already paid for the hotel. [Sarcastic] Oh fantastic, the gate agent just disappeared. [Tsk] That's really helpful when we're all trying to figure out what's happening here. [Happy] Wait, there's actually a decent restaurant past security? [Laugh] Well, at least this delay's gonna give me time to try those tacos everyone talks about! [Angry] [Shout] Are you kidding me with this? I've been sitting here since—what, six this morning? [Groan] This is absolutely ridiculous! [Whisper] That couple over there has been fighting for, like, twenty minutes straight. [Slow] Delays really bring out the worst in people, y'know? [Fast] Okay so I just called mom and she's gonna pick up the kids from soccer practice but I still need to—wait, did they just change our gate again? [Sad] I'm gonna miss her graduation ceremony. [Sigh] [Slow] After all this planning, I'm just... stuck here watching planes that aren't mine take off. [Chuckle] You know what? I'm basically getting paid to sit here and read my book, so honestly, delay away. [Happy] First vacation day that actually feels like one! [Disappointed] The wifi's been down for an hour and I've got this presentation to—ugh, never mind. [Tsk] [Fast] Maybe I can hotspot from my phone if it'll actually work. [Angry] They lost my luggage AND now the flight's delayed? [Slow] This is, um, this is like some kind of cosmic joke at this point. [Sarcastic] [Laugh] "Mechanical issues," they say, like we haven't heard that excuse three times already today. [Whisper] [Fast] Don't look now but I think that's actually that actor from—you know, the show with the dragons? [Happy] Three hundred dollar voucher for the inconvenience! [Laugh] [Fast] I mean, yeah, it sucks but honestly that's gonna cover my next trip so I'm not even mad anymore! [Sad] [Slow] I just... I dunno, I really needed this trip to go smoothly, you know? [Sigh] Everything else has been such a mess lately. [Shout] No, I don't want to be rebooked for tomorrow! [Angry] I need to be there tonight—do you not understand what "emergency" means? [Chuckle] That guy's been asleep at gate B12 for like four hours. [Slow] He's probably missed, what, three flights by now? [Disappointed] [Fast] So basically they overbooked, then there was weather, now it's mechanical—I mean, what's next, the pilot forgot to show up? [Tsk] [Sarcastic] [Slow] Sure, let's all crowd around the one working outlet like it's the last water source in the desert. [Groan] This is perfectly civilized. [Happy] You're stuck too? [Chuckle] Well hey, at least we can grab a drink and complain together—beats sitting here refreshing the app every thirty seconds! [Whisper] [Sad] I'm kinda relieved, actually? Like, I wasn't really ready to—to say goodbye anyway, so maybe this is, um, the universe giving me more time.
+--- MONOLOGUE ---
+This must be read out in a single delivery as one file
+984 SCENARIO: [scenario description]
+Source: b4bfb6a3
+SCENARIO: Offhandedly describing a spot treatment they put on their face, then looking in the mirror, then seeing it's made things way worse, ending in skincare regret spiral
+[casual]
+Oh, so last night I put some of that spot treatment on this little breakout I had on my chin. You know, just dabbed a tiny bit on before bed, figured I'd wake up and it would be, like, half the size or whatever.
+[matter-of-fact]
+It's that salicylic acid one everyone raves about online? I've been wanting to try it for ages, so when I finally got it I was like, perfect timing, little pimple to test it on.
+[slight concern]
+But then this morning I'm brushing my teeth and I catch myself in the mirror and I'm like... wait. [pause] Wait, that looks... bigger?
+[growing alarm]
+So I lean in closer and— oh my god. Oh my GOD. It's not just bigger, it's like... it's angry. It's this huge red welted thing and the skin around it is all flaky and— [sharp exhale] it looks like I burned myself!
+[panicking]
+And now I'm spiraling because what if I'm allergic? What if this is gonna scar? What if it gets worse? I have that work presentation tomorrow and I look like I— [groan] like I stuck my face in a beehive!
+[frantic] [laughing nervously]
+I'm googling "salicylic acid chemical burn" at seven in the morning! This is not— [whimper] why didn't I patch test it first? Why am I like this?
+This must be read out in a single delivery as one file
+985 SCENARIO: [scenario description]
+Source: 1e18d1dc
+SCENARIO: Upset about a critical comment from their parent, then rethinks it and sees the caring behind it
+[upset]
+So my mom called me this morning and just— ugh, she completely tore apart my presentation. Like I was so excited to tell her about it, you know? I got that promotion at work and I had to do this big pitch to the whole leadership team, and I thought it went really well.
+[frustrated]
+But she's like immediately asking me if I practiced enough, and did I remember to make eye contact, and she's like "you know how you get when you're nervous, your voice gets all quiet." And I'm just— [sigh] I'm twenty-eight years old, like why is she still treating me like I'm in middle school debate club?
+[annoyed]
+I was like, Mom, it went fine, they liked it, I got the promotion, and she's still going on about how I should have worn a different shirt or whatever. Like nothing I do is ever— nothing's ever good enough, you know?
+[pause] [realizing]
+But actually... wait, hold on. She did ask me like three times if I was proud of myself. And she wanted me to tell her the whole thing, like step by step.
+[softer] [thoughtful]
+Oh. Oh wow, she was nervous for me, wasn't she? Like she was— she was trying to help me prepare for next time because she cares. [small laugh] God, I totally missed that. I was so focused on feeling criticized that I didn't even— yeah, she was just being mom.
+This must be read out in a single delivery as one file
+986 SCENARIO: [scenario description]
+Source: d925b4fa
+SCENARIO: Matter-of-factly talking about a message they sent to the wrong group chat, then checking which chat it went to, then seeing it was the worst possible group, ending in group chat horror
+[matter-of-fact]
+So I accidentally sent a message to the wrong group chat today. You know how it is, you're typing fast and you just— [sigh] well, whatever, happens to everyone, right?
+[casual]
+It was just this dumb meme about our boss looking like that guy from The Office. Nothing too bad, just a harmless joke about how he does that same awkward laugh thing.
+[slight concern]
+But now I'm thinking about it and I should probably check which chat it actually went to. Hold on, let me just— [pause] I'm scrolling back through my messages here...
+[growing worry]
+Okay, it wasn't the work friends chat. And it's not the college group either. Um... [nervous laugh] where the hell did this thing go?
+[alarm building]
+Oh. Oh no. [sharp exhale] Oh no, no, no. It went to the— it went to the WORK chat. The official work chat. With my boss in it.
+[panic]
+With my BOSS in it! The guy I was literally making fun of! [groan] And HR is in there too, and— oh my god, there are already three people typing responses right now!
+[spiraling] [frantic]
+The little dots! I can see the little dots! [whimper] They're all typing at the same time! This is it, this is how I get fired, over a stupid Office meme! [defeated groan] I'm so dead.
