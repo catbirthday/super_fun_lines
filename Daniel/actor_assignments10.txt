@@ -2,49 +2,46 @@
 
 Script: 555fd843_script | Role: Character 2 (B)
 
-Character 1: So I won my fantasy league.
-677 Character 2: Wait wait wait—you WON? Like, the whole thing? Oh my god, that's—that's incredible! How much did you, um, how much money are we talking here?
-Character 1: Twelve hundred.
-678 Character 2: Twelve HUNDRED dollars?! Are you kidding me right now? That's like—okay, that's actually life-changing money. Well, not life-changing but you know what I mean.
-Character 1: It's fine. Got lucky with injuries mostly.
-679 Character 2: No no no, don't do that thing where you're all humble about it. You've been obsessing over those lineups for like, what, four months straight? Every Sunday you're literally glued to your phone.
-Character 1: Everyone does that.
-680 Character 2: But everyone didn't WIN though, did they? I mean—god, your brother must be so pissed . Wasn't he talking all that trash in September?
-Character 1: He came in last.
-681 Character 2: Stop it. Dead last? That's—oh that's too perfect. Like, karma really said "not today, buddy." Have you told him yet or are you gonna let him find out naturally?
-Character 1: Group chat already knows. He left immediately.
-682 Character 2: Of course he did! He's probably somewhere right now like, ranting about how fantasy is all luck and no skill. Which is—I mean, there's definitely luck but come on.
-Character 1: Picked up Jefferson week three. That helped.
-683 Character 2: See? SEE? That's strategy right there. Like, you actually pay attention to this stuff while the rest of us are just, um, picking players based on their cool names or whatever .
-Character 1: You drafted three kickers.
-684 Character 2: Okay okay, that was—listen, I panicked, alright? The timer was going and I just started clicking things. But we're not talking about my disaster team right now.
-Character 1: Might do two leagues next year.
-685 Character 2: Oh so NOW you're getting cocky about it? Good—good, honestly. You should. Are you gonna like, get one of those ridiculous trophy belts or something?
-Character 1: The league already has one. It's hideous.
-686 Character 2: Wait, there's an actual belt? Like a wrestling— oh my god, please please please wear it to Thanksgiving. Just walk in wearing it over your sweater. Your brother would literally die.
-Script: e622d2ec_script | Role: Character 2 (B)
-
-Character 1: We got the gig.
-687 Character 2: Wait wait wait—what gig? Are you talking about—oh my god, is this the one at The Velvet Room? The actual venue venue?
-Character 1: Yeah. Friday night. Opening for some indie band.
-688 Character 2: I'm sorry, I'm gonna need you to like, back up here because—Friday? This Friday? That's literally in like, what, four days? Holy shit, this is real.
-Character 1: Three days. But who's counting.
-689 Character 2: Okay okay, you're being way too chill about this. This is—I mean, you guys have been practicing in Jake's garage for like, forever, and now you're gonna be on an actual stage with actual lights and—
-Character 1: There's a catch. They want five original songs.
-690 Character 2: Five originals? But don't you only have like... three? Oh no no no, I see that face. What aren't you telling me?
-Character 1: We have two. Two and a half if I finish the bridge on the third one.
-691 Character 2: Two and a—okay, um, that's... I mean, that's totally doable, right? You just gotta, y'know, write three songs in three days. No pressure or anything.
-Character 1: Jake wants to do covers instead.
-692 Character 2: Covers? But that's not—wait, isn't the whole point that they wanted to hear your stuff? Like, your actual music?
-Character 1: That's what I said. He thinks we're not ready.
-693 Character 2: Oh, screw that. Jake's just—he's scared, okay? Which like, I get it, but this is literally what you've been working toward. You can't just... chicken out now.
-Character 1: Maybe he's right though.
-694 Character 2: Stop. Just—stop right there. Remember when you played me that song about the, um, the convenience store at 3am? That was genius. Pure genius.
-Character 1: That was different. Just you in my room.
-695 Character 2: Different how? Because there wasn't a crowd? Babe, honestly, a good song is a good song. And you—you've got like, at least two good songs, which is more than most bands ever get, y'know?
-Character 1: What if I forget the lyrics. Or throw up. Or both.
-696 Character 2: Okay first of all, if you throw up on stage that's basically instant rock legend status, so... But seriously, you're gonna be incredible. I already bought tickets. Me and like, twelve other people, so no backing out now.
---- MONOLOGUE SELFTALK ---
+Character 1: I don't really want to talk about it.
+677 Character 2: [speaking slowly] That's okay. We don't have to talk about anything specific. We can just... be here for a bit. What's going on right now?
+Character 1: Nothing. I'm fine. Everything's fine.
+678 Character 2: [pause] You're not fine. And that's—that's not a judgment. You just don't seem fine. Your shoulders are tense, you're not making eye contact, and you said you didn't want to talk about it before I even asked what it was.
+Character 1: [angry] See, this is why I didn't want to come. You people are always reading into things.
+679 Character 2: You're right, I am reading into things. That's kind of my job. But like, I'm not trying to trap you or prove you wrong. I'm just noticing what I'm seeing. [pause] And if I'm off base, you can tell me.
+Character 1: You're not off base. I'm just—I don't want to talk about her. Okay?
+680 Character 2: Okay. We won't talk about her. [pause] But like, she's the thing you don't want to talk about, so—[pause]—maybe that's where we need to start.
+Character 1: [voice breaking] No. I'm done talking about it. I've said everything there is to say.
+681 Character 2: [gently] Have you? Because it sounds like there's still a lot of feeling there. And like, you don't have to let it out right now if you're not ready. But—[pause]—the fact that you're not ready is information too.
+Character 1: [getting quiet] I keep thinking she's going to text me. Like, I'll be doing something normal and I'll think "oh, I should tell her about this" and then I remember and it's like... it's like finding out all over again.
+682 Character 2: [pause] That sounds exhausting. Like, your brain hasn't caught up with the reality yet.
+Character 1: My brain is fine. It's my stupid heart that won't accept it.
+683 Character 2: [pause] I don't think that's stupid. I think that's just grief. Your mind knows she's gone, but your body, your habits, your whole nervous system is still wired for her being here. That takes time to rewire.
+Character 1: [sobbing] How much time? Because I can't keep doing this. I can't keep reaching for my phone to call her.
+684 Character 2: [speaking slowly] There's no timeline for this. And like, I know that's frustrating because you probably want an answer. But grief isn't linear. Some days will be harder than others. Some days you'll forget for five minutes and then remember and it'll hit you all over again.
+Character 1: [angry again] That sounds horrible.
+685 Character 2: It is. It really is. [pause] But like, the fact that you're grieving this hard—that means she mattered. That means the relationship was real and deep and important. [pause] And that's actually not nothing.
+Character 1: [chuckle, but sad] She would hate that I'm here. She always said therapy was for people who couldn't handle their own problems.
+686 Character 2: [pause] Well, she's not here anymore. So maybe this is something you get to decide for yourself now. [pause] And like, I think she'd want you to be okay. Even if she wouldn't admit it.
+Character 1: Dude are you seriously not ready yet?
+687 Character 2: [Very fast] I'm ready, I'm ready — I just — I can't find my other shoe, okay? It was right here like — like ten minutes ago.
+Character 1: We're gonna be late.
+688 Character 2: [Very loud] I know we're gonna be late! You think I don't — [chuckle] okay wait, found it. It was under the — why was it under the couch? Whatever. Okay. Let's go, let's go.
+Character 1: You got the tickets?
+689 Character 2: [Whisper] Oh no. [Very loud] I'm kidding! [Chuckle] Your face though. Yes I have the tickets, they're — they're on my phone. Section 114, row 8, seats — uh — 12 and 13.
+Character 1: Don't do that to me man.
+690 Character 2: [Chuckle] Sorry, sorry. I couldn't resist. [Happy] But dude — section 114! That's like — that's right behind the bench basically. I can't believe you got these.
+Character 1: My cousin came through.
+691 Character 2: [Very loud] Your cousin's a legend! A literal — [chuckle] okay we actually have to leave now. Doors open at 6 and it's already — wait what time is it?
+Character 1: 5:20.
+692 Character 2: [Very angry] 5:20?! Why didn't you — okay no that's on me. That's on me. [Very fast] Okay shoes on, wallet, keys, phone — do I need a jacket? Is it gonna be cold? What's the — what's the weather doing?
+Character 1: It's fine, you don't need a jacket.
+693 Character 2: [Whisper] Okay. Okay okay okay. [Cheerful] We're doing this! Game night! [Chuckle] Sorry I'm being weird, I've just been looking forward to this all — all week honestly. Work has been so — ugh.
+Character 1: Yeah you mentioned. The spreadsheet thing?
+694 Character 2: [Very angry] The spreadsheet thing! Dude — 47 pages. 47. And Marcus just kept — kept adding columns like it was nothing. Like we don't have to actually read this stuff. [Chuckle] But whatever, that's — that's not tonight's vibe. Tonight we watch large men skate fast and hit each other.
+Character 1: That's the spirit.
+695 Character 2: [Happy] Right? [Very fast] Oh! We should stop and get food first because stadium nachos are like — eleven dollars for like seven chips and I'm not doing that again. There's that taco place on 5th that's — it's right on the way.
+Character 1: The one with the green salsa?
+696 Character 2: [Very loud] Yes! The green salsa place! [Cheerful] Okay see, this is — this is gonna be a good night. I can feel it. Tacos, hockey, no spreadsheets — [whisper] no Marcus — [chuckle] let's get out of here.
 
 This must be read out in a single delivery as one file
 
@@ -91,53 +88,46 @@ Okay, but here's the thing— here's the thing, if I'm thinking about it, then I
 You know what? I'm just gonna— I'm just gonna make the sandwich. This is ridiculous. I'm a grown person having a, uh, having a full conversation with myself about lunch timing. [laugh] Cool. Very normal.
 
 --- CONVERSATION ---
-
-Script: ef29dc42 | Role: Character A
-
-699 Character A: [hushed panic] Did she just—did our sweet baby just say what I think she said? [faster] Right in the middle of Pastor Johnson's sermon about kindness? [Sharp intake of breath] Everyone turned around to look at us!
-Character B: [mortified whisper] She definitely said it. [getting higher] The F-word, clear as day, during the prayer! [Nervous giggle] Mrs. Henderson's face went completely white. Where did she even learn that word?
-700 Character A: [defensive] Don't look at me like that! [more quietly] I stubbed my toe last week and maybe, possibly let one slip. [Groaning] But I didn't think she was listening—she was playing with blocks!
-Character B: [accusatory tone] Oh really? [slower] Because I distinctly remember someone yelling at the football game last Sunday. [Clearing throat] "That referee is a blind—" and then little ears were definitely perked up, weren't they?
-701 Character A: [frantic whispering] Okay, okay, we both messed up! [more urgently] But what do we do now? [Gulp] Should we leave? The Johnsons are hosting coffee hour and their twins never swear—they probably recite Bible verses!
-Character B: [strained cheerfulness] We can't leave, that looks worse! [through gritted teeth] Just smile and wave like nothing happened. [Soft whimper] Maybe if we give her the iPad she'll stay quiet for the rest of service?
-702 Character A: [desperate] The iPad's dead—I forgot to charge it! [increasingly agitated] And she's getting that look, that pre-tantrum look where her face gets all red. [Gasp] Oh God, she's taking a deep breath to say it again!
-Character B: [sing-song voice] Sweetie, here's a lollipop! [more frantically] Remember our quiet church voices? [Nervous laughter] Daddy has goldfish crackers too, and after church we'll get ice cream if you use nice words, okay precious?
-703 Character A: [relieved sigh] That worked. [cautiously optimistic] She's distracted by the candy. [Exhale] Wait, is giving her sugar really the best idea right now? Remember last time she had candy before noon?
-Character B: [matter-of-fact] Would you rather have her bouncing off pews or dropping more bombs? [quieter] At least hyperactive toddler is normal church behavior. [Bitter chuckle] Half these kids are practically vibrating from their juice boxes anyway.
-704 Character A: [philosophical tone] You know, Jesus said let the little children come. [getting defensive] He probably dealt with ancient Hebrew swear words all the time! [Uncomfortable laugh] Kids back then were probably just as embarrassing as ours, right?
-Character B: [dryly] Somehow I doubt Mary had this problem with baby Jesus. [sarcastically slower] "And lo, the Christ child did speaketh his first words, and they were inappropriate." [Snort] That didn't make it into any Gospel.
-705 Character A: [sudden alarm] She's finished the lollipop already! [voice rising] How did she eat it that fast? [Panicked whisper] And now she's standing up on the pew—everyone can see her sticky face and she looks ready to perform!
-Character B: [commanding whisper] Grab her legs, I'll get her arms! [more intensely] We're making a tactical retreat to the cry room. [Hissing] Forget what people think—this is damage control mode now!
-706 Character A: [sheepishly] The Andersons are literally blocking our path to the aisle. [defeated tone] We're trapped until communion. [Sigh] Maybe if we just pretend she said "duck" really loudly? Kids love ducks, very church-appropriate.
-Character B: [giggling nervously] "Duck" doesn't sound anything like what she said! [more seriously] Though Pastor Johnson did pause his sermon for a full five seconds. [Quiet groan] I've never heard the sanctuary this silent in my life.
-707 Character A: [with dread] Oh no, she's making eye contact with the Pastor. [voice dropping] She has that mischievous smile. [Squeaking] She only smiles like that when she's about to do something we'll be apologizing for later!
-Character B: [rapidly] Quick, tell her the story about Daniel and the lions! [desperately] Or sing the wheels on the bus very quietly! [Sharp exhale] Anything to keep her mouth busy before she decides to expand her vocabulary demonstration!
-708 Character A: [exhausted] Next week we're trying the late service. [firmly] The one with the contemporary music that drowns everything out. [Weary sigh] Or maybe we just livestream from home until she's eighteen and understands social boundaries.
-Character B: [accepting fate] Look, she's falling asleep against your shoulder. [tenderly] Crisis averted, finally. [Soft chuckle] Although I'm pretty sure we're going to be "that family with the swearing toddler" in church gossip for months.
-
-Script: 1e11fd75 | Role: Character B
-
-Character A: [Cackling wildly] Did ye see the admiral's face when the powder kegs went up? [breathlessly] His precious flagship turned to splinters in seconds! [louder] Twenty years of naval pride, gone like smoke on the wind!
-709 Character B: [Low rumbling laugh] Aye, and the way they scrambled for the lifeboats! [mockingly high-pitched] "Save the colors! Save the colors!" they cried. [Snort] As if their pretty flags could stop cannonballs or put out Greek fire!
-Character A: [whispered] The best part was their new recruits. [building excitement] Fresh-faced boys who thought they'd catch pirates today! [Explosive laugh] Now they're swimming home to mama, if the sharks don't find them first in these waters!
-710 Character B: [contemplative] Three warships for the price of one barrel of pitch. [faster] We barely fired a shot before they panicked and crashed into each other! [triumphant shout] The Royal Navy defeated by their own incompetence and fear!
-Character A: [Gleeful shriek] Look at the smoke rising! [slower, savoring] Miles high, black as the devil's beard. [quietly menacing] Every port from here to Kingston will see it and know the navy bleeds tonight.
-711 Character B: [gruff tone] Count the gold we saved on ammunition alone. [Chuckle] Their cargo holds were packed with silver meant for the governor's mansion. [more excitedly] Now it'll buy us rum and women in Tortuga instead!
-Character A: [singing mockingly] "Rule Britannia, Britannia rules the waves!" [Harsh cackle] Not today, lads, not today! [venomously] Their mighty empire can't even protect three ships from two pirates with clever timing and fire!
-712 Character B: [hushed reverence] The way that mast fell... [building intensity] Crushed their steering wheel like kindling, trapped the captain underneath! [bellowing] He won't be writing reports about pirate movements anymore, that's certain! [Dark chuckle]
-Character A: [wistful] Remember when we were pressed into service on ships like those? [bitter laugh] Whipped daily, fed maggots, treated worse than dogs. [roaring] Now we're the ones doing the burning! Sweet, sweet revenge!
-713 Character B: [philosophical tone] Fire purifies everything, brother. [quickening] Their corruption, their cruelty, their gold-braided arrogance. [Wheezing laugh] All equal now, just ash and ember floating on the tide beneath a pirate's black flag!
-Character A: [trembling with excitement] Did you grab the admiral's sword before we left? [proudly] The one with rubies in the hilt? [Giggle] I want to use it to cut our victory cake when we reach port!
-714 Character B: [drawling] Better than his sword, I took his maps. [whispered conspiracy] Secret routes the navy uses, hidden supply caches on remote islands. [jubilant cry] We'll be raiding their stores for months with this information!
-Character A: [incredulous] They actually thought those fire ships last week were an accident! [increasingly manic] Believed we were simple thieves, not strategists! [Snickering] Their overconfidence burned brighter than their sails tonight, didn't it, mate?
-715 Character B: [nostalgic murmur] My father was hung by the navy when I was seven. [steadying] Said he stole bread for his family. [fierce growl] Wonder if he's watching from hell as his son burns their whole fleet!
-Character A: [rapid words] Quick, quick, raise more sail! [urgently] The wind's perfect and we need distance before their reinforcements arrive! [Cackle] Though I doubt they'll chase us through the smoke and floating corpses!
-716 Character B: [booming voice] Let them come! [quieter, deadlier] We've got their gunpowder now, their best cannons. [building rage] Every ship they send just means more trophies for our collection! [Maniacal laugh]
-Character A: [soft wonder] The water's actually glowing orange from all the flames. [poetic] Like sailing through liquid sunset, if sunset smelled of tar and defeat. [shrieking delight] The most beautiful destruction I've ever created!
-717 Character B: [measured tone] Mark this date in the log. [grandly] October fifteenth, the day two pirates sent Britain's finest to the depths! [Whooping] They'll sing shanties about us until the seas run dry!
-Character A: [exhausted happiness] My throat's raw from laughing so hard. [contented sigh] Worth every second of planning, every risk we took. [energetic again] Next time, we burn their entire harbor! What say you, brother?
-718 Character B: [solemn] Aye, but first we disappear. [calculating] Let the fear spread, let them wonder where we'll strike. [Cackling crescendo] When they see black sails again, they'll surrender before we even load the cannons!
-Script: ab2d229a | Role: Character B
+Character 1: I don't know why I called.
+699 Character 2: That's okay. You don't, you don't need a reason really. I'm here. So. What's going on?
+Character 1: Everything's just... a lot right now.
+700 Character 2: [speaking slowly] Yeah. I hear that. A lot can mean, I mean, it can mean different things. Is it one big thing or more like, like everything piling up at once?
+Character 1: The piling thing.
+701 Character 2: Mm. That's hard. When it's one thing you can, you can point at it, you know? But the pile is just... it's heavy and you can't even explain why. Does anyone know you're struggling?
+Character 1: Not really. I don't want to burden people.
+702 Character 2: [softly] That's, that's a very common thing to feel. But can I say something? And you can disagree. The people who love you, they'd probably want to know. The burden thing, it's... it's something we tell ourselves but it's not usually true.
+Character 1: What if they can't handle it?
+703 Character 2: Then you find out, I guess. And that's information too. But most of the time people surprise us. They're, they're stronger than we give them credit for. [chuckle] Sorry, that sounded like a fortune cookie.
+Character 1: A little bit.
+704 Character 2: Yeah, I know. I'm just, I'm trying to say you don't have to do this alone. Whatever "this" is. You called, right? That's something. That's, that's you reaching out even if it doesn't feel like it.
+Character 1: I almost didn't.
+705 Character 2: [speaking slowly] But you did. That matters. The almost doesn't, doesn't cancel out the did. You're here now.
+Character 1: [sad] I'm just so tired.
+706 Character 2: I know. I can, I can hear it. The tired that sleep doesn't fix, right? That's a different kind of tired. It's okay to feel that. It doesn't mean you're broken or, or weak. It just means you've been carrying too much for too long.
+Character 1: [sobbing] I don't remember when it started.
+707 Character 2: [softly] Hey. It's okay. You don't need to know when it started to, to start feeling better. That's not how it works. You just, you start where you are. Which is here. On the phone. With me. That's enough for right now.
+Character 1: I'm sorry for crying.
+708 Character 2: Don't be. Please. [getting happy] Actually, crying is, it's good. It means something is moving instead of staying stuck. You're not broken. You're just, you're human and you're hurting and you reached out. That took courage. Real courage. Okay? I'm glad you called.
+Character 1: You can't just decide that for me. That's not how this works.
+709 Character 2: [quickly] I'm not deciding anything. I'm just saying—from my perspective, from what I'm seeing—you're making a mistake and I can't watch you do it without saying something.
+Character 1: Well, don't. [pause] You don't get to be the voice of reason here.
+710 Character 2: [speaking slowly] Why... because I'm the one who cares enough to say the hard thing? Because everyone else is just nodding along and I'm the only one willing to actually—
+Character 1: You're not the only one. You're just the loudest.
+711 Character 2: [chuckle, but not in a nice way] Okay, fair. Yeah, I am loud. But like, someone has to be, because you're not listening to yourself right now.
+Character 1: I'm listening to myself just fine, thanks.
+712 Character 2: [angry] No, you're not. You're listening to what you think you should want, not what you actually want. And there's a difference.
+Character 1: [pause] How would you even know what I actually want?
+713 Character 2: [getting happy, almost laughing] Because I pay attention? Because I've watched you light up when you talk about the thing you said you didn't care about anymore? Because you're a terrible liar and your face does this thing where—[catches self]—never mind.
+Character 1: Where what?
+714 Character 2: [speaking slowly, softer] Where you look scared. Like you're about to say something real and then you pull back.
+Character 1: I'm not scared.
+715 Character 2: [sad] Yeah, you are. And that's fine. But don't pretend you're not.
+Character 1: [pause] You don't get to tell me how I feel.
+716 Character 2: [quickly] I'm not telling you how you feel. I'm telling you what I see. And what I see is someone who's about to make a choice they're going to regret because they're afraid of something.
+Character 1: [sobbing slightly] Maybe I like being afraid, okay? Maybe that's safer than—than being vulnerable or whatever the hell you're asking me to be.
+717 Character 2: [pause, speaking slowly] Then be afraid. Be afraid and do it anyway. [pause] That's kind of what brave is, isn't it?
+Character 1: [quiet] I don't know how to do that.
+718 Character 2: [chuckle, warm this time] Yeah, you do. You just did it. You admitted you're scared. That's the hardest part.
 
 Character A: [hesitant] Okay sweetie, so I just press this button and— [sharp gasp] Oh God, everything disappeared! [panicking] The screen went black, did I break it? Where did all those little squares go? I knew this was a bad idea!
 719 Character B: [exasperated sigh] Mom, you literally just locked the screen. [slower, patronizing] Press. The. Same. Button. Again. [irritated] See? Everything's still there, nothing exploded, the world didn't end, your apps are perfectly fine.
