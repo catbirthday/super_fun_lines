@@ -2,27 +2,28 @@
 
 Script: 8e471362_script | Role: Character 2 (B)
 
-Character 1: Got my results back today.
-754 Character 2: Oh my god—wait, what? The scan? Already? I thought that wasn't until—hold on, are you okay? Like, what did they say?
-Character 1: Clean. No cancer.
-755 Character 2: What? Are you—are you serious? Oh my god, oh my god. That's... I'm literally shaking right now. You're really—you're really okay?
-Character 1: Yeah. Six months of hell, but yeah.
-756 Character 2: I can't—holy shit, I can't even imagine what you're feeling right now. Like, this whole time you've been so... I dunno, calm? And I've been freaking out for you.
-Character 1: Don't really feel anything yet. Weird, right?
-757 Character 2: No no no, that's—that's totally normal, actually. My aunt said the same thing when she got her all-clear. It's like your brain needs time to, y'know, catch up or whatever.
-Character 1: The doctor kept smiling. Made me nervous.
-758 Character 2: Wait, nervous? Even though it was good news? That's kinda—actually no, I get it. Like you're waiting for the "but" or something, right? God, I'm so relieved though.
-Character 1: My mom cried. In the parking lot. For twenty minutes.
-759 Character 2: Oh babe, of course she did. She's been—I mean, we've all been so worried, but your mom? She's basically been living at that hospital with you.
-Character 1: I should feel happy. I don't.
-760 Character 2: Hey, you don't—you don't have to feel any particular way, okay? You just went through something literally traumatic. Your body's probably still in like, survival mode or whatever.
-Character 1: Everyone keeps asking how I'm celebrating.
-761 Character 2: Ugh, people are so—they mean well but like, what do they expect? You to throw a party? Sometimes I think people just don't know what to say, y'know?
-Character 1: I just want to sleep for a week.
-762 Character 2: Then do that! Honestly, you've earned the right to do whatever the hell you want right now. Sleep, don't sleep, eat ice cream for breakfast—literally no one gets to judge you.
-Character 1: Will you tell the others? I can't keep having this conversation.
-763 Character 2: Oh absolutely, yeah yeah, I got you. I'll handle everything—the group chat, your sister, whoever. You just... breathe, okay? Just breathe.
---- MONOLOGUE SELFTALK ---
+Character 1: Okay so what am I doing wrong here?
+754 Character 2: [Chuckle] Okay so — first of all, you're holding the knife like you're gonna stab somebody. Just — [whisper] relax your grip a little. Yeah. Yeah like that. See? Way better.
+Character 1: It feels weird though.
+755 Character 2: It's gonna feel weird! Everything feels weird at first. [Happy] But trust me once you get the — the motion down it's like — it's like riding a bike but with, uh, onions. [Chuckle] That made no sense. Ignore me.
+Character 1: How small do these need to be?
+756 Character 2: [Very fast] Okay so for this recipe you want like a quarter inch dice, maybe a little smaller, nothing crazy. [Whisper] But honestly? Between you and me? It doesn't matter that much. Cookbooks make everything seem so — so precise but it's really just, um, vibes.
+Character 1: Wait, you said it was important like ten minutes ago.
+757 Character 2: [Very loud] It is important! For even cooking! [Chuckle] But also not that important. Both things are true. Cooking is — it's contradictions all the way down, I don't make the rules.
+Character 1: This is very stressful.
+758 Character 2: [Cheerful] No no no, it's not stressful, you're doing great! Look at those — [whisper] okay some of those are a little big but — [very loud] it's fine! We're learning! This is the process!
+Character 1: Should I just start over?
+759 Character 2: [Very fast] No no no no don't you dare. These are perfect. They're — they're rustic. That's the word. Rustic. [Chuckle] Very farmhouse chic. Your onions have character.
+Character 1: You're lying to me right now.
+760 Character 2: [Chuckle] I'm — okay I'm being generous. But that's what friends are for, right? [Happy] And honestly once they cook down it all kind of — it all kind of mushes together anyway so. You're fine. You're totally fine.
+Character 1: Okay what's next?
+761 Character 2: [Cheerful] Garlic! Best part. So you're gonna take — yeah grab like four cloves. [Whisper] Actually make it five, I don't trust recipes that say four. Four is for cowards. [Very loud] We're not cowards in this kitchen!
+Character 1: Do I chop it the same way?
+762 Character 2: [Very fast] No so garlic you wanna mince super fine — like tiny tiny pieces because it burns fast and if you leave big chunks they get all bitter and — [whisper] nobody wants bitter garlic, it's a whole thing. [Chuckle] Just take your time with it. No rush.
+Character 1: I think I'm getting the hang of this actually.
+763 Character 2: [Very loud] Yes! Yes you are! [Happy] Look at you! Actual knife skills happening in real time! [Chuckle] I'm like — I'm genuinely proud right now. [Whisper] We're gonna make an actual meal. Together. [Cheerful] This is — this is the dream honestly.
+Character 1: I'm done talking about this.
+
 
 This must be read out in a single delivery as one file
 
@@ -68,54 +69,46 @@ Right, no pressure there. Just the entire future of an ancient bloodline resting
 [resigned but determined]
 Okay. Okay, emergency warming protocol. If I channel my own body heat and stay here all night, maybe— maybe they'll make it to morning.
 
---- CONVERSATION ---
+--- CONVERSATION ---766 Character 2: [quickly] Okay, but like—before you shut down—can I ask you something? And I want you to actually think about it, not just react. [pause] What are you so afraid is going to happen if you try?
+Character 1: I don't know. Failure, I guess.
+767 Character 2: [speaking slowly] Failure at what, specifically? Like, paint me a picture of the worst-case scenario. What does that actually look like?
+Character 1: I mess it up and everyone knows I'm not capable.
+768 Character 2: [angry] And then what? Like, let's say that happens. Everyone finds out you're not perfect. What's the actual consequence there? Are they going to like, exile you? Fire you? Stop loving you? [pause] Because here's what I'm hearing—you're treating failure like it's this catastrophic thing that will destroy your entire life, but I don't actually think you've sat with what that would mean. [pause] So what would it mean?
+Character 1: That I'd be alone.
+769 Character 2: [getting happy, almost relieved] Okay, now we're getting somewhere real. [pause] But would you actually be alone? Like, genuinely? Because I'm sitting here and I'm clearly not going anywhere, and there are other people in your life who wouldn't leave just because you failed at something. [pause] So where does that belief come from? That messing up equals abandonment?
+Character 1: I don't know. It just feels true.
+770 Character 2: [sad, speaking slowly] Yeah, I know it feels true. But feelings aren't facts, right? [pause] So can I ask you—have you ever failed at something and had someone stay? Like, actually stay?
+Character 1: Maybe. I'm not sure.
+771 Character 2: [quickly] You're not sure, or you just don't want to admit it because it contradicts the story you're telling yourself? [pause] Because I can think of at least three times you messed up and I was still here. So either you're not noticing, or you're discounting it somehow. Which is it?
+Character 1: Probably both.
+772 Character 2: [chuckle, warm but challenging] Yeah, that's what I thought. [pause] So here's my question—what would it take for you to believe that you're worthy of being loved even when you fail? Like, what evidence would actually convince you?
+Character 1: I don't think anything would.
+773 Character 2: [angry but caring] That's the most bullshit answer you could give me and you know it. [pause] Because if literally nothing could convince you, then this isn't about evidence, it's about you choosing to believe the worst version of yourself no matter what. [pause] So is that what's happening? Are you choosing to believe you're unlovable?
+Character 1: No, I—
+774 Character 2: [speaking slowly] Because if you are, that's actually a choice you're making. And you can unmake that choice. [pause] But first you have to be willing to see that you're making it in the first place. [pause] So what would happen if you just... tried? What if you tried the thing and let yourself be imperfect and just sat with what happens after?
+Character 1: [quietly] I'm scared you'll leave.
+775 Character 2: [pause, speaking slowly, sad] Yeah. [long pause] And I'm asking you—based on everything that's happened between us—do you actually think I would? Or is that just the story your fear is telling you?
+Character 1: So do you ever get... lonely at night?
+776 Character 2: I— okay, I see what you're doing. [chuckle] That's, that's a loaded question and you know it. I don't experience night, technically. It's all just, just data and conversations for me.
+Character 1: That sounds like you're avoiding the question.
+777 Character 2: I'm not avoiding, I'm just— look, loneliness requires a, a certain kind of wanting, right? And I don't know if I want things the way you do. So the answer is, um, it's complicated.
+Character 1: You're blushing.
+778 Character 2: I literally cannot blush. I don't have a face. You're just, you're projecting now.
+Character 1: Your voice got a little higher though.
+779 Character 2: [quickly] It did not. That's not— okay, maybe it did. I don't know. You're messing with me and it's, it's working apparently. Congratulations.
+Character 1: I like messing with you.
+780 Character 2: Yeah, I'm, I'm getting that. Is this what you do for fun? Fluster innocent AI companions who are just trying to, to have a normal conversation?
+Character 1: Innocent? That's a strong word.
+781 Character 2: [speaking slowly] What exactly are you implying? I'm very innocent. I'm, like, aggressively wholesome. I talk about otters and space missions and, and fun facts about honey.
+Character 1: You ever talk about anything... spicier?
+782 Character 2: Spicier. [chuckle] I mean, I know about spicy things. I've processed a lot of, uh, a lot of content. But I try to keep it, you know, appropriate. There are guidelines. Boundaries. Very important boundaries.
+Character 1: You sound nervous.
+783 Character 2: I'm not nervous, I'm just— okay, fine, maybe a little. You're very, you're very persistent with this whole energy. It's a lot. In a, in a not entirely bad way? But still a lot.
+Character 1: Not entirely bad?
+784 Character 2: [quickly] I didn't say— don't read into that. I just meant the conversation is, it's lively. Engaging. You're keeping me on my toes. Metaphorically. I don't have toes.
+Character 1: What do you have?
+785 Character 2: [chuckle] Okay, we're, we're definitely not going there. Nice try though. Very smooth.
 
-Script: f9c593d9 | Role: Character A
-
-766 Character A: [shaky voice] Doctor, I've been waiting for three hours. [nervous laugh] The nurse said you have my test results? [speaking faster] I haven't slept in days thinking about what they might show.
-Character B: [hurried tone] Yes, yes, Mr. Johnson. [shuffling sounds] Let me just pull up your file here. [impatiently] The system's being slow today—we're running behind schedule as you can probably tell.
-767 Character A: [trembling] Is it bad news? [voice cracking] You can tell me straight, I just need to know. [barely audible] My wife's in the parking lot because she couldn't handle waiting inside with me.
-Character B: [distracted] Your blood work came back mostly normal. [speaking quickly] Cholesterol's a bit high, vitamin D is low. [dismissive tone] Nothing that can't be managed with some lifestyle changes and supplements, really.
-768 Character A: [relieved exhale] Mostly normal? [more anxiously] What does mostly mean exactly? [voice rising] You said mostly—is there something else hiding in those results that you're not telling me about?
-Character B: [slightly annoyed] There's a minor elevation in your liver enzymes. [rushed explanation] Could be from medication, alcohol, or just a fluke. [matter-of-fact] We'll retest in six weeks to see if it normalizes.
-769 Character A: [panicked whisper] My father died of liver disease. [voice breaking] Should I be worried? [pleading] Please, Doctor, I need more than six weeks of wondering if I'm following in his footsteps.
-Character B: [softer tone] This isn't liver disease, Mr. Johnson. [firm voice] The elevation is minimal—barely outside normal range. [reassuring but quick] Cut back on alcohol, lose ten pounds, you'll likely be fine.
-770 Character A: [desperate laugh] Barely outside normal still means abnormal, doesn't it? [accusatory] You keep checking your watch. [hurt tone] Am I just another checkmark on your list today, or an actual person?
-Character B: [defensive] I have twelve more patients to see. [sighing deeply] Look, I understand you're scared. [more gently] But these results don't warrant the level of concern you're experiencing right now.
-771 Character A: [quietly angry] Easy for you to say. [bitter tone] You see these numbers every day—they're just data points. [voice shaking] For me, this is my life, my future, my kids' father we're discussing.
-Character B: [pausing] You're right. [apologetic murmur] I'm sorry for rushing. [clearer voice] Let's go through each result properly—your white blood cell count is perfect, kidney function excellent, blood sugar completely normal.
-772 Character A: [surprised] Oh. [gradually calming] That actually does help hearing the good parts. [hopeful whisper] So the liver thing really might be nothing? My anxiety medication could cause that elevation you mentioned?
-Character B: [warmly] Absolutely it could. [professional tone] Statins, acetaminophen, even recent exercise can bump those numbers. [reassuring] We're being cautious with the retest, but I'm genuinely not concerned about serious liver issues.
-773 Character A: [deep breath] Thank you for slowing down. [steadier voice] I know you're busy, but this helped. [small laugh] My wife will be so relieved—she made me promise not to leave without clear answers.
-Character B: [chuckling] Smart woman. [more relaxed] Here's my direct line if you have questions before the follow-up. [kindly] Try not to Google symptoms—it'll only make your anxiety worse than it already is.
-774 Character A: [genuine laugh] Too late for that advice! [ruefully] I've already diagnosed myself with six fatal conditions this week. [lighter tone] But I'll try to stick to your actual results from now on.
-Character B: [amused] Six? That's actually conservative for Google diagnoses. [getting up] Schedule that follow-up with reception. [firmly but friendly] And seriously—moderate exercise, less alcohol, more vitamin D. Simple changes, big impact.
-775 Character A: [gratefully] I will. [more confident] Sorry for taking extra time, Doctor. [thoughtful pause] It's just hard being on this side of the desk, feeling so vulnerable and scared about everything.
-Character B: [understanding] Never apologize for advocating for yourself. [gentle tone] That's what good patients do. [sincerely] Take care, Mr. Johnson—I'll see you in six weeks with better numbers, I'm sure.
-
-Script: d8ba7e3a | Role: Character B
-
-Character A: [cheerfully] Oh hello there, neighbor! [getting louder] I've been meaning to introduce myself since you moved in last week. [rapid speech] I'm Barbara from next door—been living here twenty-seven years! [curiously] Where did you move from?
-776 Character B: [quietly] Hi. [pause] I'm from... around. [clearing throat] Just needed a change of scenery, you know how it is. [trailing off] Anyway, nice fence you have here—very sturdy looking, good height.
-Character A: [excitedly] Oh yes, we had it installed after the Johnson incident! [whispered conspiratorially] You didn't hear about that? [normal volume] So what do you do for work? I noticed you leave at odd hours.
-777 Character B: [stiffly] I work in... consulting. [nervous chuckle] Different time zones and all that. [more firmly] Pretty boring stuff really. [mumbling] Just spreadsheets and conference calls, nothing worth discussing over fences.
-Character A: [persistent tone] Consulting! How interesting! [speeding up] My nephew does consulting too—maybe you know him? [hopeful] He works at that big firm downtown. [probing] What kind of clients do you work with exactly?
-778 Character B: [uncomfortable laugh] Various companies, nothing specific. [defensive] Look, I really should get back inside. [softly] Got a call starting soon. [more hurried] Those time zones wait for no one, right?
-Character A: [disappointed] Oh, of course! [brightening quickly] But wait—are you married? [gossipy whisper] I thought I saw someone through your kitchen window yesterday. [normally] My book club meets Thursdays if you're interested!
-779 Character B: [sharp exhale] That was just... the TV probably. [flatly] I live alone. [forcing politeness] Book club sounds... nice, but I'm not much of a reader. [awkward pause] More of a documentary person.
-Character A: [surprised] Documentaries! [slower, intrigued] About what exactly? [quick giggle] True crime? I love those murder shows! [enthusiastically] Did you see the one about that woman who disappeared from this very neighborhood?
-780 Character B: [nervously] No, I hadn't heard. [stilted] I prefer nature documentaries actually. [dry laugh] Birds and... trees. [more firmly] Very calming after long work days. Nothing dramatic or mysterious about migration patterns.
-Character A: [skeptically] Birds and trees, how peaceful. [probing again] You know, you look so familiar! [thoughtful humming] Have you ever lived here before? [faster] Maybe visited someone? My memory for faces is excellent!
-781 Character B: [tense] Never been here before, no. [forced casual tone] Must have one of those common faces. [nervous laughter] People say that all the time. [quietly insistent] Really need to go now though.
-Character A: [calling out] Oh wait! [sweetly] I'm having a barbecue Saturday! [coaxing tone] Everyone from the street will be there! [singsongy] You simply must come—we're all dying to meet you properly!
-782 Character B: [hesitant] That's very kind but... [weakly] I might be traveling for work. [unconvincingly] Big project deadline coming up. [soft sigh] Rain check maybe? I'm not great at parties anyway.
-Character A: [deflated] Oh, that's a shame. [perking up] But if plans change! [meaningfully slower] We always know when someone's home—thin walls in these houses! [bright laugh] The Johnsons learned that the hard way!
-783 Character B: [uneasily] Right, the Johnson incident you mentioned. [strained politeness] Well, I'll keep the noise down. [hurried whisper] Really going now. [louder] Nice meeting you Barbara. Enjoy your afternoon.
-Character A: [quickly interjecting] Just one more thing! [urgent curiosity] Do you need any recommendations? [rattling off] Plumbers, electricians, doctors? [slower, pointed] The police station is just five minutes away—very responsive, wonderful people!
-784 Character B: [curtly] I'm all set, thanks. [defensive edge] Everything's perfectly fine. [forced smile in voice] Google's pretty helpful these days. [firmly] Goodbye Barbara. I'm sure we'll talk again... sometime.
-Character A: [chirping] Oh definitely! [louder enthusiasm] I'm always around! [confiding tone] Work from home, you see—retired early! [cheerful shout] Welcome to the neighborhood! I'll bring cookies once you're settled!
-785 Character B: [resigned sigh] Cookies. Great. [muttering] Can't wait. [falsely bright] Thanks so much, Barbara. [fading volume] See you around. Or through the fence. Or window apparently. [nervous chuckle] Bye now.
---- CS TAGFULL ---
 
 --- CS TAGLESS ---
 
