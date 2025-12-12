@@ -220,7 +220,7 @@ Customer: Okay, holding it now—one, two, three—oh, it beeped twice and the l
 Customer: A complete reset? But I spent like two hours setting up all those no-go zones and—ugh—can't you just, I don't know, fix the existing map somehow?
 511 Customer Support: Unfortunately corrupted data can't be recovered, but I can email you quick-setup guide Q-S-G dash 1-0-3 to speed up remapping. What's your registered email ending in at gmail?
 Customer: It's, uh, the one ending in 2-3 at gmail, yeah. So after I reset it, will it remember my cleaning schedules or do I have to redo those too?
- Customer Support: Schedules are stored separately in cloud profile C-P dash 8-8-1-5, so those will automatically restore. Hold both the spot and home buttons simultaneously for ten seconds to initiate reset.
+512 Customer Support: Schedules are stored separately in cloud profile C-P dash 8-8-1-5, so those will automatically restore. Hold both the spot and home buttons simultaneously for ten seconds to initiate reset.
 Customer: Both buttons, got it—pressing now and—there, it played a little melody and the lights went off. Should I wait for it to restart or what?
 513 Customer Support: Wait approximately thirty seconds for full restart. You'll see a blue flashing light indicating setup mode, then open your VacBot app version 3.2.1 or higher.
 Customer: Okay it's—yeah, blue light's flashing now. The app is... let me check... version 3.1.8, so I guess I need to update that first?
