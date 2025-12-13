@@ -1,0 +1,297 @@
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1242 SCENARIO: [scenario description]
+==================================================
+
+Source: a468d4e3
+
+SCENARIO: waiting for someone to merge so traffic can move
+==================================================
+
+[muttering]
+Okay, so, um, we're all just gonna sit here because this one person can't figure out how to, uh, how to merge. Like, there's plenty of space, just— just go. It's not that complicated.
+
+[slightly impatient]
+I mean, I get it, merging is scary or whatever, but come on. The gap is like— it's like three car lengths. That's, um, that's more than enough space to just... [sigh] ...slip right in there.
+
+[talking faster]
+And now everyone behind them is stuck because they're just— they're just sitting there with their blinker on. Which, okay, at least they're using their blinker, that's something. But you gotta actually, uh, you gotta actually commit at some point, right?
+
+[resigned]
+Oh wait, wait wait wait. Are they on their phone? I think they're— yeah, they're definitely looking down. Great. Cool. So we're all just waiting for someone to finish their, um, their text or whatever.
+
+[deadpan]
+Aaand there we go. Finally. Only took like two minutes to do a five-second maneuver. Traffic's moving again, everybody wins. [exhale] Rush hour, am I right?
+
+This must be read out in a single delivery as one file
+
+1243 SCENARIO: [scenario description]
+==================================================
+
+Source: 257f1b8d
+
+SCENARIO: a courtier at a royal banquet, realizing he missed the part where the duchess said her name
+==================================================
+
+[muttering]
+Okay, so she just said "I am Duchess—" and then I completely zoned out watching that servant trip over his own feet. Brilliant. Just— just brilliant timing on my part.
+
+[increasingly panicked]
+She's looking right at me now. She's definitely expecting me to, um, to use her name when I respond. That's basic courtesy 101. "Your Grace" might work? But what if she's one of those duchesses who insists on—
+
+[frantic]
+Think, think. Was it Marguerite? Cordelia? Something with an M? Or was that the countess from last month? [gulp] Oh God, she's still staring. Her eyebrow is doing that thing. That's not a good thing.
+
+[grasping]
+Maybe I can just— I can just bow really low and mumble something about being honored by her presence without actually saying her name? That's, uh, that's vague enough to work, right?
+
+[resigned]
+Right. Here goes absolutely nothing. [exhale] Time to find out if I still have a position at court tomorrow.
+
+This must be read out in a single delivery as one file
+
+1244 SCENARIO: [scenario description]
+==================================================
+
+Source: 1eddc8fd
+
+SCENARIO: trying to decide if that noise means the dishwasher is done
+==================================================
+
+[muttering]
+Okay, so that was, um— that was definitely a noise. From the kitchen. Which means the dishwasher is, uh, is probably done? I think? I mean, it sounded like the, um, the little beep thing, but also maybe not.
+
+[uncertain]
+It could've been the, uh— what else makes noise in there? The fridge does that weird, like, settling thing sometimes. Or the, um, the microwave if I accidentally hit a button or something. Which I do. A lot. [sigh]
+
+[slightly more confident]
+But no, no wait, it was definitely more of a, uh, a dishwasher-y sound. Like that little— that little end-of-cycle beep situation. Right? I mean, how long has it been running? I started it after, um, after lunch, so that's like...
+
+[trailing off, confused]
+Actually, I don't— I don't really know what time it is right now. [laugh] Great. Super helpful. Could be done, could be, uh, could be like halfway through for all I know.
+
+[resigned]
+I should probably just, um, just go check. Walk to the kitchen. Look at the dishwasher. See if there's, like, a little light or whatever. Revolutionary concept, really.
+
+--- CONVERSATION ---
+
+Script: f5e7884a | Role: Character A
+
+1245 Character A: [nervous giggle] Okay, okay, we said we'd do this together, right? [breathing rapidly] My hands are literally shaking so bad I can't even open the envelope. [higher pitch] Should we count to three or just rip them open simultaneously?
+Character B: [panicked whisper] I feel like I'm gonna throw up. [quick breaths] Mom's watching from the kitchen pretending she's not watching. [louder] What if we both get rejected? What if only one of us gets in somewhere good?
+1246 Character A: [forcefully] Stop catastrophizing! [shaky exhale] We studied our butts off for four years. [softer] Remember when we pulled that all-nighter before SATs and ate nothing but gummy bears? We've earned whatever's in these letters.
+Character B: [hysterical laugh] The UCLA one is so thick! [squealing] That has to be good, right? [drops to whisper] Or maybe they just really wanted to thoroughly explain why they don't want me there.
+1247 Character A: [breathlessly fast] Oh my God oh my God oh my God! [shrieking] I got into Berkeley! [sobbing] I actually got in! Look at this - they're offering me a partial scholarship too! This is insane!
+Character B: [screaming] Open mine, open mine! [gasping] I can't breathe, my fingers won't work! [pleading voice] Just tear it open for me - I literally cannot handle another second of not knowing what UCLA decided!
+1248 Character A: [reading aloud] "Dear Maya, we are pleased to inform you—" [explosive scream] YOU'RE IN! [crying] You got into UCLA! We're both going to California! This is actually happening to us right now!
+Character B: [through tears] Wait, there's still three more letters each! [sniffling] What about Columbia? [determined tone] Let's just rapid-fire open them all - I can't take this emotional rollercoaster anymore. Ready? One, two—
+1249 Character A: [defeated whisper] Columbia said no. [steadier] But you know what? [building excitement] Who cares when I have Berkeley! And look - NYU said yes with honors program admission! I have actual choices here!
+Character B: [shakily] Boston University wants me too! [disbelief] How is this real life? [laughing through tears] Six months ago I was convinced I'd be going to community college. Penn said waitlist though - should I stay on it?
+1250 Character A: [thoughtfully] Honestly? [more firmly] You already have UCLA calling your name. [gentle tone] That's been your dream since middle school, remember? You literally had a vision board with palm trees and Royce Hall on it.
+Character B: [wistfully] You're right, you're so right. [getting excited again] Can you imagine us both in California? [rapidly] Weekend trips to see each other, exploring LA and San Francisco, actual independence from our parents!
+1251 Character A: [suddenly panicking] Wait, how are we telling Mom and Dad? [nervous laughter] They think we're both staying East Coast for sure. [whispered dread] Dad's gonna freak about us being three thousand miles away.
+Character B: [giggling uncontrollably] That's tomorrow's problem! [shouting] Today we celebrate! [more quietly] Should we call Grandma first? She bet Mom fifty dollars we'd both get into our top choices - she's gonna be insufferable.
+1252 Character A: [mock serious] Let's open the last ones first. [dramatically] Harvard and Yale, because apparently we thought we were those people. [snorting] What delusion possessed us to even apply to the Ivies?
+Character B: [ripping paper] Harvard said no, shocking absolutely nobody. [sarcastic tone] "After careful consideration of your application—" [genuine surprise] Wait wait wait, hold up - Yale deferred me to regular waitlist consideration!
+1253 Character A: [stunned] That's actually incredible though! [building energy] You realize that means you were competitive enough for them to want another look? [squeaking] Maya, you almost got into Yale! That's completely bonkers!
+Character B: [overwhelmed] I need water. And air. [breathing heavily] And possibly therapy after this experience. [calming down] But first, we're taking the world's most obnoxious acceptance letter photoshoot for Instagram, agreed?
+1254 Character A: [excitedly] Yes! And we're making Mom cry on video! [mischievous tone] Let's pretend we both got rejected everywhere first. [whispering conspiratorially] She'll lose her mind, then we'll show her the real letters.
+Character B: [loving tone] You know what the best part is? [getting emotional] We actually did this together, just like we always planned. [firmly] California, here come the Harrison sisters - they better be ready for us.
+
+Script: c18b9364 | Role: Character B
+
+Character A: [exhausted] So... that was the worst set of my entire life. [long pause] The silence after my airline food joke was so thick, [voice cracking] I could've carved it with a knife and served it as dessert.
+1255 Character B: [matter-of-fact] Yeah, watching you up there was like witnessing a car crash [slower] in slow motion. [Sharp exhale] Except the car kept reversing and hitting the same tree over and over again.
+Character A: [defensive] Come on, the crowd was dead from the start! [pleading] That guy in the front row was literally asleep before I even grabbed the mic. [quieter] Maybe my material just went over their heads?
+1256 Character B: [incredulous] Over their heads? [Snort] Buddy, your jokes were so underground they needed mining equipment. [bluntly] That bit about your ex and the toaster made absolutely zero sense to anyone breathing.
+Character A: [frantically] But I workshopped that one for weeks! [higher pitch] Sarah said it was hilarious when I practiced it at her place. [mumbling] Though she was pretty drunk at the time, now that I think about it.
+1257 Character B: [dryly] Sarah also thinks her cat can predict the weather. [more firmly] Listen, when three separate people walked out during your setup, [Bitter laugh] that's not a timing issue, that's a content emergency.
+Character A: [desperately cheerful] Okay but what about when I recovered with the impression? [voice dropping] The manager seemed to smile... [trailing off] or maybe that was a grimace, hard to tell in that lighting actually.
+1258 Character B: [exasperated] Your Christopher Walken sounded like Kermit the Frog with bronchitis. [Groan] I've heard more convincing impressions from my nephew, [pointedly] and he's four years old and thinks all celebrities are named Bob.
+Character A: [defeated whisper] Should I just quit? [stronger] Five years of open mics and I'm still bombing like it's my first night. [Shaky breath] Even the bartender stopped pretending to laugh at this point.
+1259 Character B: [gentler] Look, you don't quit, you evolve. [thoughtfully] Remember when you killed with that story about your mom and the DMV? [encouraging] That was real, that connected with people.
+Character A: [hopeful] You really think there's still hope? [nervously fast] Because I've got this new bit about dating apps that I've been working on and— [stopping short] wait, you're making that face again.
+1260 Character B: [carefully] The dating app material is... [pause] it's been done. [Sigh] By literally everyone since 2015. You need to dig deeper, find what makes your perspective actually unique.
+Character A: [frustrated growl] But unique doesn't pay bills! [sarcastically] Should I talk about my thrilling life as a part-time barista who lives with three roommates? [deflating] Because that's my unique perspective right there.
+1261 Character B: [animated] Actually, yes! [firmly] That's exactly what you should talk about. [warming up] Real struggles, real awkwardness, the weird stuff that happens when you're broke and trying to make it.
+Character A: [skeptical] You want me to go up there and just... [slowly] talk about my actual pathetic life? [Nervous giggle] "Hey everyone, today my roommate used my coffee mug as an ashtray, how's your Tuesday?"
+1262 Character B: [enthusiastically] See, that's already funnier than your toaster joke! [insistent] People relate to mess and chaos. [quieter] Stop trying to be Seinfeld when you're clearly more of a disaster-story comedian.
+Character A: [considering] I did have that thing happen with the landlord and the raccoons last week. [building excitement] And my roommate's girlfriend who keeps stealing our toilet paper. [brightening] Maybe you're onto something here.
+1263 Character B: [proudly] Now you're thinking like a real comedian. [Chuckle] Embrace the chaos of your actual existence. [seriously] Your life is already a joke, just learn how to tell it properly.
+Character A: [renewed energy] Alright, new plan then! [determined] I'm ditching all the airplane food garbage and going full millennial-crisis mode. [laughing] If I'm going down, at least it'll be as myself.
+1264 Character B: [supportively] That's the spirit! [teasingly] Though maybe workshop it with someone besides Sarah this time. [Loud laugh] And for the love of comedy, please retire that Christopher Walken impression forever.
+
+Script: dc7f89fb | Role: Character B
+
+Character A: [breathless] I can't—I can't believe the soap actually melted through! [hysterical giggling] Three months of collecting bars from the commissary, [louder] and it WORKED! The drain cover just... dissolved like butter!
+1265 Character B: [wheezing laugh] And the guards! [gasping] Did you see Henderson's face when he checked our beds? [higher pitch] He actually believed those pillows were us! The man needs glasses worse than my grandma!
+Character A: [whispered excitement] We're actually out. [building volume] We're standing in a field, Marcus! [explosive laughter] Not concrete, not bars—GRASS! I haven't touched grass in four years!
+1266 Character B: [slow disbelief] Twenty-three nights of digging with plastic spoons. [speeding up] My hands are destroyed, my back is killing me, [cackling] but we're FREE! Those idiots never checked behind the Rita Hayworth poster!
+Character A: [shrieking] The warden's toupee! [more controlled] Remember when it flew off during inspection? [snorting laugh] That's when I knew—if he couldn't keep his hair on, he couldn't keep us in!
+1267 Character B: [trembling voice] My heart's still racing from the tunnel. [steadier] Thought I was gonna get stuck at that turn. [nervous giggle] But your butter trick from kitchen duty? Genius, absolute genius!
+Character A: [mock serious] "Inmates Johnson and Marcus, report for morning count." [breaking into laughter] They're counting empty beds right now! [gleeful shout] By tomorrow we'll be in Mexico eating tacos!
+1268 Character B: [quiet amazement] The laundry truck was there. [growing louder] Just like Timothy said it would be! [whooping] Five years of planning, and that beautiful, stinking truck was exactly where promised!
+Character A: [choked up] We did it, man. [stronger] After all their "maximum security" talk, their cameras, their dogs. [triumphant laugh] Two guys with soap and spoons beat their million-dollar system!
+1269 Character B: [rapidly] Can you imagine the news tomorrow? [slower, dramatic] "Daring escape from state prison." [bursting] We're gonna be legends! My nephew's gonna think I'm cooler than Batman!
+Character A: [hushed urgency] Wait, wait—do you hear that? [relieved exhale] Just a rabbit! [hysterical] I thought it was bloodhounds! A rabbit! I'm scared of woodland creatures now!
+1270 Character B: [delirious giggling] Your face! [more seriously] You looked ready to surrender to a bunny! [loud cackle] From hardened criminal to Peter Cottontail's prisoner in two seconds flat!
+Character A: [philosophical tone] You know what's crazy? [speeding up excitedly] We complained about the meatloaf every Tuesday for three years. [wistful laugh] I'd kill for that garbage meatloaf right now!
+1271 Character B: [sarcastically] Oh sure, miss the cuisine! [genuine warmth] Not the armed guards or the solitary confinement. [chuckling] You miss mystery meat! Your priorities are absolutely backwards, Johnson!
+Character A: [shaky whisper] My legs are jello. [getting stronger] Adrenaline's wearing off and I can barely stand. [giddy laughter] But I'd crawl to Canada if it meant staying free!
+1272 Character B: [monotone disbelief] We actually did it. [increasingly animated] Every movie makes it look impossible, but we actually did it! [screaming joy] SHAWSHANK'S GOT NOTHING ON US!
+Character A: [quietly intense] Remember when Big Tony said we were idiots? [building energy] Said we'd die trying? [maniacal laughter] Wonder what he's thinking now, stuck in his cell!
+1273 Character B: [tired but happy] My mom always said I'd never amount to anything. [perking up] Well, I just accomplished the impossible! [soft chuckle] Granted, she probably didn't mean this, but still!
+Character A: [reverent whisper] Listen to that silence. [normal volume] No bells, no counts, no metal doors slamming. [emotional break] Just crickets and freedom. Beautiful, beautiful crickets and freedom.
+1274 Character B: [determined] We're never going back. [quieter] I don't care if we have to live in caves. [fierce whisper] Die before going back. [explosive laugh] But first—let's find some real food!
+
+--- CS TAGFULL ---
+
+Script: 13869ea8 | Role: Customer Support
+
+1275 Customer Support: [briskly] Alright, so you're telling me the water still feels hard? [quickly] Let me check—what's your current hardness setting showing on the display?
+Customer: [confused] The display? [pause] There's like three different numbers here and they keep, um, blinking at me. [frustrated sigh] Should it say twenty-four or forty-eight, because right now it's showing both somehow?
+1276 Customer Support: [more patiently] Okay, twenty-four is your hardness level, forty-eight is probably your regeneration cycle hours. [faster] Press the up arrow twice, then tell me what the middle number says.
+Customer: [hesitant] I pressed it and now—wait, everything went dark. [nervous chuckle] Did I just... did I break it? [more urgently] The screen's completely blank!
+1277 Customer Support: [reassuring] No, no, you're fine, it's just in sleep mode. [quickly] Tap any button to wake it back up, then we need to get into the programming menu—hold SELECT for three seconds.
+Customer: [relieved] Oh good, it's back. [groans] But now it's asking for a code? Nobody told me about any code when they installed this thing last month.
+1278 Customer Support: [matter-of-factly] The default is usually zero-zero-zero-one, unless your installer changed it. [more quickly] Try that, and if it doesn't work, check the manual—sometimes they write it inside the salt tank lid.
+Customer: [triumphant] Got it! [confused again] Okay, so now there's all these settings... iron level, salt dose, backwash time. [overwhelmed] Which one actually makes the water, you know, softer?
+1279 Customer Support: [brisk tone] The hardness setting is the main one—that's your grains per gallon. [faster] But listen, if your water test showed thirty grains, you need to set it to thirty-three or thirty-four to compensate for iron.
+Customer: [skeptical] Wait, set it higher than the actual hardness? [chuckles nervously] That seems backwards. Wouldn't that make it work harder or use more salt or something?
+1280 Customer Support: [more firmly] Trust me on this—iron acts like extra hardness to the resin. [quickly] Two parts iron equals three grains hardness, so we're basically lying to your softener for its own good.
+Customer: [slowly] Lying to my softener. [amused] That's a new one. So I just... increase this number here to thirty-three?
+1281 Customer Support: [encouraging] Exactly, use the arrow keys to adjust it up. [more urgently] And while you're in there, check your salt dose setting—should be around eight pounds for your tank size.
+Customer: [uncertain] Eight pounds per... per what? [pause] It just says "salt" and then has a number six next to it. [worried] Have I been under-salting this whole time?
+1282 Customer Support: [quickly] Six is probably fine if you're regenerating twice a week. [brisker] But change your regeneration frequency too—hit NEXT until you see "days" on the screen.
+Customer: [concentrating] Okay, days... it says fourteen. [shocked] Fourteen days? [louder] No wonder my shower doors look like frosted glass!
+1283 Customer Support: [chuckles] Yeah, that's your problem right there. [rapidly] Set it to four days maximum, three if you've got more than two people in the house—your resin bed's probably exhausted.
+Customer: [relieved sigh] Three days it is. So that's it? [hopefully] Just change these two numbers and my water stops feeling like liquid sandpaper?
+1284 Customer Support: [confidently] Should solve it, but give it twenty-four hours after it regenerates tonight. [more quickly] Oh, and manually start a regeneration now—hold the REGEN button until it beeps twice.
+Customer: [satisfied] It's beeping, water's running... [gratefully] I can't believe it was just the wrong settings this whole time. [chuckles] My wife's going to be thrilled her hair might actually feel clean again!
+
+--- CS TAGLESS ---
+
+Script: e6905076 | Role: Customer Support
+
+1285 Customer Support: Crypto exchange support, this is Marcus. For security purposes, I'll need your account ID and the last four digits of your registered phone number.
+Customer: Oh, um, yeah the account is—let me just pull this up—it's C-R-Y-P-T-zero-3-8-9-K. And the phone, that would be... 7-7-2-1.
+1286 Customer Support: Perfect, I have your account CRYPT0389K verified. How can I assist with your wallet today?
+Customer: So I'm trying to, well, I need to understand—my wallet address shows X-T-C-4-4-B-9-F-2-A but when I check the blockchain it's... it's just not showing my balance correctly.
+1287 Customer Support: I see wallet address XTC44B9F2A on your account. What's the transaction hash for the deposit that's not reflecting?
+Customer: Right, okay, so the transaction—hold on I wrote this down somewhere—it's hash T-X-dash-8-8-F-F-2-2-1-1-C-C-3-3. Should've been like, I don't know, point zero five Bitcoin?
+1288 Customer Support: Transaction TX-88FF2211CC33 shows completed on our end at 14:42 UTC. Your current balance displays 0.05127 BTC, which includes your deposit plus previous balance of 0.00127.
+Customer: Wait, but that doesn't—I mean when I log in through the app it shows nothing, just zeros. My authenticator code is working fine, I used app version 3.2.7.
+1289 Customer Support: App sync issues are common with version 3.2.7. Please update to 3.3.1 and use refresh code R-E-F-9-9-1-1-X when prompted.
+Customer: Refresh code R-E-F... 9-9-1-1-X, got it. Should I also, um, do I need to re-verify with that confirmation email you sent, the one with code V-E-R-7-7-3-3?
+1290 Customer Support: VER7733 was for initial setup only. After updating, just enter the refresh code and your wallet will resync within 2-3 minutes.
+Customer: Alright, and if that doesn't work, should I—I mean, is there a ticket number or something for this call?
+1291 Customer Support: I'm creating ticket C-X-T-K-1-0-8-8-4 for your records. You'll receive an email confirmation shortly to your registered address.
+Customer: That's perfect, C-X-T-K-1-0-8-8-4, writing that down now. Oh, one more thing—my withdrawal address whitelist, is that still, you know, active after this update?
+1292 Customer Support: Your three whitelisted addresses ending in D-4-K, M-9-L, and P-2-Z remain active. The update won't affect your security settings.
+Customer: Good, good, especially that D-4-K one, that's my—that's the main cold storage. Actually, while I have you, can I add another address real quick?
+1293 Customer Support: New address additions require 24-hour security hold. Submit the request through your dashboard using verification code S-E-C-4-4-7-7-B when prompted.
+Customer: Twenty-four hours, okay, that's... that's reasonable I guess. And that code again was S-E-C-4-4-7-7-B?
+1294 Customer Support: Correct, SEC4477B for whitelist additions. Is there anything else I can help you with regarding your wallet or account today?
+Customer: No, I think—actually yeah, that covers everything. I'll try that update now and hopefully... hopefully it syncs properly this time.
+
+--- BASIC SCENARIOS ---
+
+1295 [Fast] So my alarm didn't go off, and then—no wait, it did go off, but I must've, um, turned it off in my sleep? [Groan] [Disappointed] I dunno how I keep doing this. [Sarcastic] Oh, you're gonna love this one—my neighbor decided six a.m. was the perfect time to, like, practice their trombone. [Tsk] [Slow] Kept me up all night, basically. [Whisper] Between you and me, I kinda stopped to help this old lady with her groceries? [Happy] She was so sweet, I just couldn't leave her struggling like that. [Angry] The train just sat there for forty-five minutes with no explanation—nothing! [Shout] They could've at least told us what was happening! [Sad] My cat got out again and I, um, I spent an hour looking for her. [Sigh] Found her under the porch, but still. [Chuckle] Would you believe me if I said a family of ducks was crossing the highway? [Slow] Like, literally twelve little ducklings just waddling across. [Disappointed] I actually left on time, but then I realized—wait for it—I forgot my laptop at home. [Fast] Had to turn around, hit every red light on the way back. [Happy] Okay so, plot twist—I ran into my college roommate at the coffee shop! [Laugh] Haven't seen her in, what, five years? [Sarcastic] The GPS took me on this "shortcut" through, uh, basically every construction zone in the city. [Groan] Saved negative twenty minutes, thanks technology. [Whisper] Honestly? [Slow] I was sitting in the parking lot for ten minutes just, like, trying to psych myself up for today's meeting. [Angry] [Fast] My babysitter cancelled last minute—no warning, no nothing—and I had to drop the kids at my mom's across town. [Sad] The thing is—I mean, I don't wanna make excuses, but my insomnia's been really bad lately? [Sigh] [Disappointed] Overslept again. [Chuckle] You know how I said I was gonna bike to work to get in shape? [Fast] Yeah, um, turns out I'm really outta shape. [Laugh] [Shout] There was an actual fire in my apartment building! [Happy] Everyone's okay, but like, we all had to evacuate for an hour. [Slow] I got kinda turned around in that new parking garage—it's like a maze, right? [Tsk] [Sarcastic] Super intuitive design, really. [Disappointed] My car wouldn't start this morning, so I had to wait for a jump from my neighbor who, er, wasn't exactly in a rush. [Groan] [Fast] [Angry] The coffee machine exploded—I'm not even joking—coffee everywhere, had to change my entire outfit, total disaster. [Whisper] Can I be honest? [Sad] I had a panic attack in my car and needed to, um, just breathe for a bit. [Sigh] [Happy] [Fast] Oh my god, there was this huge rainbow after the rain, and I just—I had to pull over and take a picture! [Laugh] Worth it though. [Sarcastic] Apparently today was "bring your pet to the vet day" because that waiting room was, uh, basically a zoo. [Slow] [Tsk] Two hours for a five-minute appointment.
+
+1296 [Slow] I understand you're frustrated, and I'm, uh, I'm here to help resolve this issue. [Sigh] Let's see what we can do. [Fast] Actually, sir, that's not—I mean, we don't typically handle things that way, but I can definitely check with my supervisor? [Tsk] [Sarcastic] Oh absolutely, because yelling at me is gonna make the computer system work faster, right? [Chuckle] [Whisper] Sorry, let me rephrase that. [Disappointed] You know what, I've been trying to—look, I've been nothing but patient here. [Slow] Can we please just focus on solving this? [Happy] Great news! I actually found a workaround that might—um, if you'll just give me a second to explain it properly? [Fast] [Angry] I'm gonna need you to, uh, to lower your voice please. [Sigh] This is a professional environment and I'm just trying to do my job. [Whisper] Between you and me, I'd love to tell you exactly where to—but, um, company policy and all that. [Chuckle] [Sad] Look, I genuinely wanna help, okay? But when you're speaking to me like—I mean, it's kinda hard to concentrate. [Slow] [Shout] Sir! SIR! [Fast] [Whisper] Sorry, but you need to let me finish explaining before you interrupt again. [Disappointed] I've literally been doing this job for eight years and I've never—actually, you know what? [Tsk] Let's just move forward. [Sarcastic] Sure, threatening to call corporate is definitely gonna make me process this faster—oh wait, that's not how any of this works. [Groan] [Happy] Actually, I think I can—no wait, I definitely can get you a discount if we just, um, if we approach this differently! [Laugh] [Slow] Ma'am, I'm recording this call for, uh, for quality purposes. [Angry] [Fast] Just so we're both aware of what's being said here. [Whisper] I'm basically two seconds away from—from just hanging up, but... [Sigh] [Slow] Professional face on, deep breath, here we go. [Disappointed] Y'know, most people don't realize that we're actually human beings on this side of the counter? [Tsk] [Sad] Just, just saying. [Fast] Okay so technically I'm not supposed to do this but since you've been so—er, persistent—I guess I can make an exception? [Chuckle] [Angry] That's completely—I mean, what you're asking is literally impossible! [Slow] [Whisper] But sure, let me just break the laws of physics for you. [Sarcastic] Oh no, please, continue explaining my own job to me—it's honestly fascinating. [Laugh] [Fast] Now, as I was saying about your account... [Sad] I dunno what else to tell you at this point. [Sigh] I've offered every solution we have and you've just—you've shot them all down. [Happy] You know what? [Slow] Despite everything, I actually managed to fix your issue completely. [Chuckle] [Fast] Kinda proud of myself right now, not gonna lie.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1297 SCENARIO: [scenario description]
+==================================================
+
+Source: cb4744c1
+
+SCENARIO: Casually talking about a sticker they put on something, then trying to remove it, then seeing it's leaving residue and damage, spiraling into sticker regret
+==================================================
+
+[casual]
+Oh, so, um, I put this cute little sticker on my laptop today. It was like, uh, this rainbow holographic thing? I thought it would, um, you know, brighten up the boring black cover a bit.
+
+[matter-of-fact]
+But then I was like, eh, maybe it's, um, maybe it's a bit much for work meetings and stuff. So I figured I'd just, uh, just peel it off real quick before my next call.
+
+[slightly concerned]
+Except it's not— it's not coming off clean, you know? Like there's this, um, this weird sticky residue and it's— oh no, wait. [sharp exhale] I think it's actually, um, it's actually taking some of the laptop finish with it?
+
+[more worried]
+Oh god, there's like— there's like a pale spot now where the sticker was. The, uh, the black coating is literally— it's literally peeling off in little, um, in little flakes with the adhesive.
+
+[panicking]
+This is a work laptop! This is— oh my god, what am I gonna— how do I explain to IT that I, um, that I damaged company property with a— with a rainbow sticker? [nervous laugh] They're gonna think I'm twelve years old!
+
+[spiraling]
+And now I can't get the sticky stuff off and it's worse— it's so much worse than just leaving the sticker! It looks like, um, like I attacked it with— with sandpaper or something! [groan] Why did I— why did I do this? It was fine! It was perfectly fine!
+
+This must be read out in a single delivery as one file
+
+1298 SCENARIO: [scenario description]
+==================================================
+
+Source: e4da717f
+
+SCENARIO: Excited about a road trip, then worried about car trouble, then the drive is completely smooth
+==================================================
+
+[excited]
+Oh my God, so I finally did it! I booked that road trip to the coast we've been talking about forever. Like, I literally just hit "reserve" on the Airbnb and I'm— I'm so pumped. Three days, that little cottage right by the beach, it's gonna be perfect.
+
+[excited] [slightly rushed]
+I've been planning this route, you know, with all those scenic stops? That lighthouse you showed me on Instagram, and there's this little town with the antique shops, and— oh, the farmer's market on Saturday mornings! I timed it perfectly.
+
+[worried]
+But then this morning my car started making this weird... like, grinding noise? And I'm thinking, oh great, perfect timing, right? Three days before I leave and now I'm gonna be stuck with some massive repair bill or— [sigh] or worse, I can't even go.
+
+[anxious]
+I was literally googling "grinding noise car emergency" at like 6 AM, spiraling about having to cancel everything, lose the deposit...
+
+[relieved] [brightening]
+Wait, but— oh my God, I'm an idiot. I just remembered, I drove here today and it was completely fine! Like, totally smooth, no weird sounds at all. I think maybe I just had something stuck in the— the brake or whatever? 
+
+[laughing] [excited again]
+God, I was so worried for nothing! [chuckle] Okay, road trip is back on!
+
+This must be read out in a single delivery as one file
+
+1299 SCENARIO: [scenario description]
+==================================================
+
+Source: a670c1fc
+
+SCENARIO: Casually mentioning a thing they told someone in confidence, then hearing it back from someone else, then realizing the confident broke confidence and now tracing who knows, ending in trust violation spiral
+==================================================
+
+[casual]
+So I had, um, I had coffee with Maya this morning, and I— I mentioned that whole thing with, uh, with Derek applying for that job at my company? You know, the, um, the one I told you about? I just— I figured she'd keep it, you know, between us.
+
+[matter-of-fact]
+It was nothing major, just like, uh, "oh hey, Derek's interviewing where I work" kind of thing. Super casual. I mean, it's not— it's not like it's state secrets or whatever, but, um, but I did say "don't mention it" because, you know, he's— he's being weird about people knowing.
+
+[slight concern]
+But then at lunch, I'm— I'm talking to James from accounting and he's like, "oh yeah, I heard Derek's applying here." And I'm like, um, how do you— how do you know that? Because I definitely didn't tell James, and Derek— Derek barely knows James exists.
+
+[growing unease]
+So I'm like, "where'd you hear that?" And he goes, "Oh, Lisa mentioned it." Lisa! Who I've, um, I've maybe spoken to twice in my life. So now I'm thinking, okay, um, how does Lisa know? Maya must have told someone, right? But— but who did Maya tell that, uh, that knows Lisa?
+
+[anxious realization]
+Wait, hang on. [sharp exhale] Maya and Lisa are— they're in that book club together. So Maya tells Lisa, Lisa tells James, and— oh god, who else did Lisa tell? Because Lisa is— she's basically the, um, the office newsletter.
+
+[building panic]
+And now I'm thinking, like, how many people know? Because if this gets back to Derek's current boss somehow, he's— he's screwed. And it's my fault because I— I trusted Maya with something that wasn't even mine to share in the first place. [groan] God, I'm such an idiot.
+
+[spiraling anxiety]
+I can't— I can't even ask around because that'll just make it worse. But what if Derek finds out it came from me? What if he— what if he doesn't get the job because someone couldn't keep their mouth shut? I literally— I literally told Maya "don't tell anyone" and she just— [frustrated exhale] 
+
+[full panic]
+Oh my god, what if it's already everywhere? What if Derek already knows and that's why he hasn't texted me back today? I just— I can't believe I trusted her with this. I can't believe I'm— I'm that person who ruins someone's career because I can't keep my mouth shut! [whimper] This is a disaster.
