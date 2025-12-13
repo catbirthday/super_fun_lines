@@ -1,0 +1,303 @@
+--- EMPATHETIC PARTIAL ---
+
+--- MONOLOGUE SELFTALK ---
+
+This must be read out in a single delivery as one file
+
+1184 SCENARIO: [scenario description]
+==================================================
+
+Source: 04766e33
+
+SCENARIO: realizing they brought the wrong adapter for their trip
+==================================================
+
+[muttering]
+Okay, so I need to, um, I need to charge my phone and— wait. Wait, this is— [pause] this is not the right one. This is definitely not the, uh, the right adapter.
+
+[slightly annoyed]
+Great. Cool. So I brought the, um, the European one, but I'm in— I'm in the UK, which means I need the, uh, the three-prong thing, not the— not this two-prong whatever this is. [sigh] How did I even—
+
+[talking faster]
+Okay, okay, so I definitely grabbed something from the drawer, I remember grabbing something, but I must have just— I must have just grabbed the wrong— I mean, they all look the same when you're, um, when you're packing at like six in the morning, right?
+
+[resigned]
+So now I need to, what, find a store? Or maybe the hotel has— do hotels still do that? Do they, um, do they lend you adapters? [hmm] I feel like that's a thing but maybe I'm just—
+
+[trailing off]
+I guess I could ask at the front desk, or there's probably a, uh, a shop somewhere nearby that sells... phone stuff...
+
+This must be read out in a single delivery as one file
+
+1185 SCENARIO: [scenario description]
+==================================================
+
+Source: 6614818a
+
+SCENARIO: realizing they're the only one who dressed up
+==================================================
+
+[muttering]
+Oh. Oh no. So, um, so everyone else is in, like, jeans and t-shirts and I'm— I'm over here looking like I'm going to, uh, going to a wedding or something. Great. This is, um, this is awkward.
+
+[slightly panicked]
+Wait, did I— did I miss something? Like, did they say casual? I feel like someone said— someone definitely said "dress nice" but maybe that was, uh, maybe that was for something else entirely and I just—
+
+[deflated]
+I mean, I look fine, right? It's not like I'm, um, I'm not overdressed overdressed, I'm just... more dressed. [nervous laugh] Yeah, that's— that's what I'll go with. More dressed.
+
+[trying to convince herself]
+Actually, you know what, maybe— maybe this is better? Like, better to be overdressed than underdressed, right? That's a thing people say. My mom always says that.
+
+[resigned but lighter]
+Okay, so, um, so I'll just own it. I'm the fancy one today. [exhale] Could be worse, I guess.
+
+This must be read out in a single delivery as one file
+
+1186 SCENARIO: [scenario description]
+==================================================
+
+Source: 716102d0
+
+SCENARIO: a wizard mid-summoning, realizing he brought the wrong incantation scroll
+==================================================
+
+[muttering]
+Okay, so the circle's drawn, candles are lit, ingredients are— wait. Wait wait wait. This isn't the demon summoning scroll. This is— [rustling paper] this is the scroll for summoning a, uh, a minor water sprite?
+
+[increasingly panicked]
+How did I— I specifically grabbed the red scroll from the top shelf, I remember doing that! But this is definitely blue, and it definitely says "Aqueous Manifestation of Lesser— " Oh no. Oh no no no.
+
+[frantic]
+The ritual's already started! The circle's glowing, there's definitely something coming through, and I'm about to get some tiny pixie thing instead of a proper demon lord. This is— this is really bad.
+
+[grimacing] 
+Maybe I can just— can I modify it on the fly? Like, change "bubbling brook" to "fires of the abyss"? That's not how magic works, is it? [nervous laugh] That's definitely not how magic works.
+
+[resigned]
+Well, I guess I'm about to find out if a water sprite can help me take over the kingdom. [sigh] This is gonna be embarrassing.
+
+--- CONVERSATION ---
+
+Script: 13580d8f | Role: Character A
+
+1187 Character A: [shaky breath] I-I can't remember my opening line. [voice cracking] What if I just blank out completely up there? [increasingly panicked] There's going to be two hundred people staring at me, waiting for me to say something brilliant.
+Character B: [flatly] You've had three months to prepare. [dismissive sigh] Stop whining about forgetting—you either know it or you don't. [harshly] Those two hundred people won't care about your feelings, they want competence and information, period.
+1188 Character A: [whispered] My hands won't stop shaking. [nervous laugh] Look, even holding these note cards is impossible right now. [more desperately] Maybe we should postpone? I could claim food poisoning or a family emergency—anything to avoid this disaster.
+Character B: [loudly] Postpone? [scoffing laugh] That's your solution to everything difficult, isn't it? [coldly] Winners don't make excuses, they make presentations. Your shaking hands are irrelevant if your mouth can still form words—so start talking.
+1189 Character A: [quivering] The spotlight makes me sweat so much. [gulp] Last time I presented, someone said I looked like I'd run a marathon. [quieter] What if they notice the sweat stains spreading across my shirt during the presentation?
+Character B: [irritated groan] Wear black then, genius. [sarcastically] Or better yet, stop focusing on your perspiration and focus on your presentation. [more firmly] Nobody's paying admission to watch you sweat—they want content, data, results.
+1190 Character A: [rapidly] What about when they ask questions I can't answer? [voice rising] You know how aggressive the board members get! [trembling] Henderson destroyed that poor analyst last quarter—made him cry right there in the conference room.
+Character B: [slow and menacing] Henderson smells fear like a shark smells blood. [sharp exhale] If you can't handle basic questions about your own project, you deserve whatever humiliation comes. [louder] Man up or get off the stage.
+1191 Character A: [barely audible] I practiced in the mirror fifty times yesterday. [stronger] But it's different when real eyes are watching, judging every word. [breaking] My throat gets so dry I can barely speak without my voice catching.
+Character B: [exasperated sigh] Bring water then. [mockingly] Such revolutionary problem-solving skills you have. [cutting tone] If you spent less time cataloging your fears and more time practicing actual solutions, we wouldn't be having this pathetic conversation.
+1192 Character A: [pleading] Can't you give me something encouraging? [softer] Just one positive thing to hold onto when I'm up there? [desperately quick] My therapist says negative reinforcement only makes the anxiety worse—I need support, not criticism!
+Character B: [dry laugh] Your therapist isn't giving this presentation. [brutally calm] Here's your encouragement: you'll either succeed or fail spectacularly. [rising volume] Either way, in three hours it'll be over and you can cry about it then.
+1193 Character A: [defeated whisper] You're right, I'm being ridiculous. [steadier] I know every slide, every transition, every data point by heart. [wavering again] But knowing it and delivering it to hostile executives are completely different beasts altogether.
+Character B: [impatiently] Finally, some self-awareness. [clipped words] Yes, they're hostile—so what? [forcefully] They're hostile to everyone, not just you. Stop taking it personally and start taking it professionally. This is business.
+1194 Character A: [breathing heavily] The worst part is the silence. [anxiously] Those moments between slides when everyone's just staring, waiting. [faster] What if I freeze during one of those transitions and can't find my way back?
+Character B: [snorting] Then you'll look foolish. [matter-of-factly] But you'll look foolish anyway if you keep spiraling like this. [firmly] The silence is three seconds maximum—count it out and move on. Stop catastrophizing every pause.
+1195 Character A: [suddenly determined] You know what? [building confidence] Maybe you're right—maybe I should just accept that it'll be awful. [nervously laughing] If I expect disaster, anything better will be a pleasant surprise, right?
+Character B: [surprised grunt] Now you're thinking strategically. [less harsh] Low expectations mean less disappointment when you inevitably stumble. [businesslike] Focus on getting through it, not impressing anyone. Survival is success enough for someone like you.
+1196 Character A: [shakily] Twenty minutes until showtime. [quick breath] My PowerPoint's loaded, my notes are ready, my voice is somewhat functional. [resigned sigh] If I pass out, at least make sure someone films it for the office Christmas party.
+Character B: [dark chuckle] I'll film it myself. [dryly] Consider it motivation to stay conscious—your humiliation immortalized in high definition. [commanding] Now get out there and don't completely embarrass me. I have a reputation to maintain.
+
+Script: 3fe7551f | Role: Character B
+
+Character A: [sweetly] Oh honey, that swaddle is much too loose! [getting faster] When you were a baby, we wrapped you tight as a burrito. [tsking sound] Here, let me show you the proper way—babies need to feel secure, like in the womb.
+1197 Character B: [exhausted] Mom, the pediatrician specifically said not to swaddle too tightly. [firmly] It's different now—there are new guidelines about hip dysplasia. [Deep sigh] I've got this under control, really, I've read all the latest research and recommendations.
+Character A: [dismissively] Research changes every five minutes! [louder] I raised three children without any fancy studies, and you all turned out fine. [Soft chuckle] Besides, is he sleeping through the night yet? Mine always did by six weeks old.
+1198 Character B: [defensive whisper] He's only four weeks old, Mom. [more frustrated] Every baby is different—you can't compare them like that. [voice breaking] I haven't slept in days, and these constant suggestions aren't helping me feel any more confident here.
+Character A: [hurt tone] I'm only trying to help, sweetheart. [quavering] When I see him crying like that, my heart breaks. [more insistently] A little rice cereal in his bottle would fill his tummy right up—works like magic, always has.
+1199 Character B: [shocked] Rice cereal at four weeks? [louder] Absolutely not! That's actually dangerous—his digestive system isn't ready for solids. [Exasperated groan] The AAP says six months minimum, and I'm following medical advice, not old wives' tales, Mom.
+Character A: [indignant] Old wives' tales? [voice rising] These methods worked for generations of mothers before you! [Bitter laugh] But fine, let him cry himself hungry while you follow your internet doctors who've never even met your baby.
+1200 Character B: [near tears] They're not internet doctors—it's his actual pediatrician! [shaking voice] You're undermining everything I do, making me feel like a terrible mother. [Sniffling] Can't you see I'm trying my best here? This is really, really hard already.
+Character A: [softer] Oh no, no, you're not terrible. [reassuring tone] You're just overwhelmed and overthinking everything, dear. [gentle but persistent] Maybe if you tried the baby on his tummy to sleep, like we used to do—he'd rest so much better.
+1201 Character B: [incredulous shout] On his tummy?! [quieter but firm] Mom, that's literally the opposite of safe sleep guidelines—back is best, always. [controlled anger] How many more outdated suggestions are you going to make? I need support, not constant contradiction.
+Character A: [wounded] I stayed up countless nights with colicky babies, no help from anyone. [trembling] Your father worked nights, and I managed everything alone. [more emotionally] I just want to share my experience, pass down wisdom that actually worked.
+1202 Character B: [gentler] I know you did your best with what you knew then. [steadier voice] But things have changed—we know more about SIDS, allergies, development now. [Soft exhale] Can you please trust that I'm making informed decisions for my baby?
+Character A: [reluctantly] Fine, but when you're exhausted and he won't stop fussing, remember Granny's tricks work. [muttering] That expensive white noise machine is nothing compared to a car ride. [hopeful] At least let me hold him my way?
+1203 Character B: [compromising tone] You can hold him, of course, just please support his head properly. [warming slightly] And yes, car rides do help sometimes—you're right about that. [Tired laugh] Though gas prices make that an expensive sleep solution these days.
+Character A: [brightening] See? Grandma knows a thing or two! [eagerly] Now, about that diaper rash—cornstarch works wonders, much better than those chemical creams. [conspiratorial whisper] And a little whiskey on his gums when teething starts never hurt anyone.
+1204 Character B: [disbelief] Whiskey? On his gums? [stern voice] Mom, that's actually illegal now—it's considered child endangerment. [Heavy sigh] Please, please stop suggesting things that could literally get CPS called on me. Modern diaper cream works perfectly fine.
+Character A: [offended gasp] Child endangerment! [defensive] For something every mother in my generation did? [sarcastically] I suppose next you'll tell me that fresh air is dangerous too. What's this world coming to when grandmothers can't share wisdom?
+1205 Character B: [pleading] Fresh air is great—I take him on walks daily. [slower pace] I'm not rejecting everything you say, Mom. [voice cracking] I just need you to respect that I'm his mother, and I get to make the final decisions here.
+Character A: [resigned sigh] You're right, you're his mother. [quietly] I remember feeling this same frustration with your grandmother, actually. [thoughtful pause] She insisted on giving you honey for hiccups—drove me absolutely crazy back then. [Soft chuckle]
+1206 Character B: [relieved] Really? Grandma did that to you too? [lighter tone] Maybe this is just how it goes—each generation thinking they know best. [warmly] I do appreciate your help, Mom. [genuine] Just maybe check with me first before doing things?
+
+Script: f8eb7794 | Role: Character B
+
+Character A: [nervous laughter] So my therapist says I have commitment issues. [voice cracking] I told her, "Lady, I've been doing stand-up for twelve years!" [quieter] Though I guess bombing every night doesn't really count as committing to success, does it?
+1207 Character B: [loud and drunk] Hey buddy, maybe try committing to being funny first! [cackling] My grandmother tells better jokes than this! [shouting] And she's been dead for five years!
+Character A: [defensive] Oh great, another expert critic in the audience. [shakily] What, did you get your comedy degree from YouTube University? [bitter laugh] Let me guess, you're the guy who thinks yelling makes everything funnier, right?
+1208 Character B: [mockingly] At least I don't sweat through my shirt before the punchline! [snorting laugh] Look at you up there! [slower] You're shaking like a chihuahua in a thunderstorm!
+Character A: [voice breaking] You know what? [increasingly panicked] You're right, I am sweating because—because this is hard! [almost crying] Standing up here while people like you just sit there judging, it's terrifying!
+1209 Character B: [sarcastically gentle] Aww, does baby need his bottle? [harsh laugh] This is comedy, not therapy! [getting louder] If you can't handle one drunk guy, maybe stick to open mics at the library!
+Character A: [suddenly angry] Listen pal, I've been heckled by professionals! [trembling] You're just some Tuesday night nobody with liquid courage! [desperate chuckle] But sure, keep going—you're actually making me look good by comparison!
+1210 Character B: [amused] Oh, NOW he's got some fire! [slow clap sounds] Where was this energy five minutes ago? [taunting] Maybe I should heckle you more often, give your act some actual personality!
+Character A: [defeated whisper] You know what the sad part is? [voice rising] Tomorrow you'll forget this whole thing, but I'll replay it in my head for weeks. [hollow laugh] That's the difference between us—this matters to me.
+1211 Character B: [quieter] Wait, are you actually about to cry up there? [uncomfortable chuckle] Dude, I was just—[trailing off] Man, this got weird real fast.
+Character A: [regaining composure] No, no, please continue! [fake cheerful] You're doing great! [bitterly] In fact, why don't you come up here and take over? [sarcastic] I'm sure everyone would love your groundbreaking "dead grandmother" material!
+1212 Character B: [defensive now] Hey, I paid for my ticket! [less confident] I can say whatever I want! [mumbling] Besides, you comedians always say you feed off the crowd's energy, right?
+Character A: [exhausted] Energy? [incredulous laugh] Brother, you're not giving energy, you're sucking it out like some kind of comedy vampire! [pleading] Just let me finish my set so we can both go home!
+1213 Character B: [stubborn] Fine, but only if you actually tell a joke! [grumbling] I've heard funeral eulogies with more laughs! [under breath] Twenty dollar cover for this...
+Character A: [sudden confidence] Alright, here's a joke for you. [steadier] A heckler walks into a comedy club, ruins everyone's night, and wonders why he drinks alone. [pause] Oh wait, that's not a joke—that's your Tuesday!
+1214 Character B: [genuinely laughing] Okay, okay! [surprised] That was actually pretty good! [appreciative] See what happens when you stop whining and start swinging?
+Character A: [relieved sigh] Ladies and gentlemen, we've just witnessed a miracle! [more energetic] The heckler likes something! [joking now] Quick, someone call the Vatican—we've got our third miracle for his sainthood!
+1215 Character B: [playing along] Don't push it, funny boy! [chuckling] I still think your first ten minutes were garbage! [lighter tone] But hey, at least you finished strong!
+Character A: [warming up] You know what? [genuine] Thanks for the weirdest pep talk I've ever gotten. [laughing] Nothing builds confidence like being emotionally destroyed and then rebuilt by a drunk stranger!
+1216 Character B: [raising glass] To emotional destruction! [bellowing] And to comedians with actual balls! [softer] You're alright, kid. [friendly] Next round's on me if you survive the rest!
+
+--- CS TAGFULL ---
+
+Script: cfab1ad6 | Role: Customer Support
+
+1217 Customer Support: [professionally] Thank you for calling card services, my name is Sarah, how can I— [pause] assist you today? [more quickly] I see you're calling from the number ending in 4782, is this regarding your account?
+Customer: [frustrated] Yes, finally someone picks up! [louder] I've been trying to buy groceries for the past hour and my card keeps getting declined. [exasperated sigh] There's definitely money in my account, I just checked it this morning!
+1218 Customer Support: [sympathetically] I completely understand your frustration, sir. [briskly] Let me pull up your account right away to see what's happening. [more reassuringly] Can you verify the last four digits of your social and your mother's maiden name?
+Customer: [impatiently] It's 5598, and her name was Richardson. [groans] Look, I'm standing here at the checkout with a line of people behind me. [more urgently] Can we please fix this quickly?
+1219 Customer Support: [quickly] Thank you for verifying, Mr. Thompson. [pause] I can see here that, um, there were three attempted transactions in the last hour. [more carefully] It appears our fraud prevention system flagged unusual activity from a different state.
+Customer: [incredulous] Different state? [louder] I'm in my hometown grocery store where I shop every single week! [sarcastically] How is buying milk and bread suspicious activity?
+1220 Customer Support: [apologetically] I know this is incredibly inconvenient. [more quickly] The system sometimes flags transactions if you've recently traveled or— [briskly] wait, I see here you made a purchase in Nevada yesterday?
+Customer: [confused] Nevada? [firmly] I haven't been to Nevada in two years! [voice rising] What purchase are you talking about? This better not be— [gasps] someone stole my information?
+1221 Customer Support: [calmly] Let's not jump to conclusions just yet, sir. [rapidly] There's a charge for $1,847 at an electronics store in Las Vegas. [more seriously] Did you authorize anyone else to use your card, perhaps a family member?
+Customer: [shocked] Eighteen hundred dollars?! [angrily] Absolutely not, nobody else has my card! [breathing heavily] You need to cancel that right now and— [desperately] please, can you just unblock it so I can pay for my groceries?
+1222 Customer Support: [decisively] I'm immediately freezing your current card to prevent further unauthorized charges. [quickly] We'll overnight you a new card, and I'm filing a dispute for that Vegas transaction. [reassuringly] The temporary hold should lift in about ten minutes for verified merchants.
+Customer: [exhausted] Ten more minutes... [sighs deeply] Fine, I'll have to wait. [more calmly] But what about the fraud charge, when do I get that money back?
+1223 Customer Support: [efficiently] The dispute process typically takes 5-7 business days, but since it's clearly fraudulent— [more optimistically] we'll issue a provisional credit within 24 hours. [quickly] You'll receive an email confirmation shortly with all the case details.
+Customer: [relieved] Okay, that's... that's better than nothing. [pause] But how did someone even get my card information? [worried] I'm always so careful with it, I never shop online at sketchy sites.
+1224 Customer Support: [sympathetically] Unfortunately, data breaches can happen at legitimate retailers too. [briskly] Our fraud team will investigate the source, but meanwhile— [more firmly] I recommend setting up transaction alerts on your account, have you done that?
+Customer: [defensively] I thought I had alerts on! [frustrated groan] Apparently not, or I would've known about Nevada. [more quietly] This is such a mess, I just wanted to buy dinner.
+1225 Customer Support: [helpfully] I can activate those alerts right now while we're on the phone. [rapidly] You'll get texts for any purchase over twenty dollars, international transactions, and— [pause] online purchases. Would that work for you?
+Customer: [tiredly] Yes, please do all of that. [chuckles bitterly] Twenty dollars might be annoying but better than finding out about two thousand dollar surprises. [sighs] At least you caught it before they bought more.
+1226 Customer Support: [reassuringly] That's all set up now, Mr. Thompson. [quickly] Your new card will arrive tomorrow by 3 PM, and the temporary access should be working— [pause] actually, try your card now, it should work.
+Customer: [hopefully] Really? Let me— [pause] oh thank God, it went through! [gratefully] Thank you so much, Sarah. [more cheerfully] Sorry for being so agitated earlier, this whole thing just caught me off guard.
+
+--- CS TAGLESS ---
+
+Script: f30dac81 | Role: Customer Support
+
+1227 Customer Support: Good afternoon, this is Marcus with retirement planning. Can I have your account number to access your profile?
+Customer: Oh, um, let me find that... I think it's—wait, is that the one that starts with R? Okay, it's R-P-3-3-9-1-K-L.
+1228 Customer Support: Perfect, RP3391KL. I see you're calling about contribution limits for tax year 2024. What specific questions can I help you with today?
+Customer: Well, I'm trying to figure out how much I can put in my—what do you call it—the 401k thing? Someone told me it was like twenty thousand something, but that doesn't sound right.
+1229 Customer Support: For 2024, the 401k contribution limit is twenty-three thousand dollars, reference code IRS-Notice-2-0-2-3-dash-7-5. Are you under or over age fifty?
+Customer: I'm, uh, fifty-two, so—does that mean I can put in more? My wife said something about catch-up contributions or whatever that means.
+1230 Customer Support: Correct, you qualify for an additional eight thousand in catch-up contributions, bringing your total to thirty-one thousand. Your plan document P-D-F-4-4-2-8-A confirms you're eligible.
+Customer: Okay, so that's for the whole year, right? And wait—can I also do that other thing, the IRA or Roth thing at the same time?
+1231 Customer Support: Yes, you can contribute to both simultaneously. IRA limits for 2024 are seven thousand base plus one thousand catch-up, totaling eight thousand for those over fifty.
+Customer: So if I'm doing the math right here—hold on—that's like thirty-nine thousand total? But my employer matches some of my 401k, so does that count against it?
+1232 Customer Support: Employer matches don't count toward your thirty-one thousand limit. The combined employee-employer limit is seventy thousand, or seventy-eight thousand five hundred with catch-up, per regulation code C-F-R-1-4-1-5.
+Customer: That's—wow, that's a lot of numbers. Can you, um, send me something with all this written down? My email is in your system, right?
+1233 Customer Support: I'll email document summary R-S-dash-2-0-2-4-dash-0-0-9 to the address ending in at gmail. Is there anything else about contribution timing or vesting schedules?
+Customer: Oh yeah, vesting—I don't really get that part. My statement shows something like sixty percent vested, account number V-S-T-9-9-2, but what does that actually mean?
+1234 Customer Support: Vesting percentage indicates how much employer contribution money you own if you leave. Your vesting schedule S-C-H-3-3-7 shows you'll be fully vested after five years of service.
+Customer: So I've been there—let me think—three years now, which means... I only keep sixty percent of their matching if I quit tomorrow?
+1235 Customer Support: Exactly right. You'd keep all your personal contributions plus sixty percent of employer matches. Your current vested balance shows as forty-two thousand three hundred per statement S-T-M-T-1-0-2-4.
+Customer: Okay, that makes more sense now. One more thing—when do I have to, you know, make these contributions by for this year's taxes?
+1236 Customer Support: 401k contributions must come from payroll by December thirty-first, but IRA contributions can be made until April fifteenth, 2025. Your payroll code P-R-L-7-7-2 shows bi-weekly deductions currently active.
+Customer: Alright, so I should probably—yeah, I'll increase those deductions soon then. Thanks for explaining all this stuff, it's really confusing sometimes, you know?
+
+--- BASIC SCENARIOS ---
+
+1237 [Disappointed] So, um, yeah—there's this two-year thing where I wasn't really doing the whole corporate thing, you know? [Sigh] I needed to figure some stuff out. [Fast] [Happy] Actually, best decision I ever made, taking that time off to travel and just—wow, I learned so much about myself! [Laugh] [Sarcastic] Oh, that gap? [Tsk] I was obviously running a secret underground empire, but I can't put that on LinkedIn, can I? [Slow] My mom got sick, and I just... [Sad] someone had to be there, y'know? [Angry] Look, I'm gonna be honest—my last company imploded, okay? [Fast] Everyone got laid off, it was a complete disaster, and finding something new took forever. [Whisper] Between you and me, I kinda had a nervous breakdown. [Sigh] But I'm, uh, I'm totally fine now, really. [Happy] [Chuckle] Would you believe I tried to become a professional poker player? Spoiler alert: didn't quite work out. [Disappointed] I mean, I applied to literally hundreds of places during that time—it's just, nobody was hiring in my field. [Slow] Really brutal market. [Fast] [Angry] You wanna know the truth? I got screwed over by a non-compete clause that basically made me unemployable for eighteen months! [Groan] [Sad] After the accident, I couldn't really—I mean, physically, I just wasn't able to work for a while. [Sigh] Long recovery. [Shout] I was raising twins! [Laugh] [Happy] Have you ever tried job hunting with two screaming toddlers attached to your legs? [Sarcastic] [Chuckle] Yeah, so apparently "finding yourself" in Thailand doesn't count as professional development—who knew, right? [Slow] Honestly? [Disappointed] I just got really, really burnt out and needed to step away before I completely lost it. [Whisper] [Sad] The divorce was, um—it got pretty messy, and I couldn't really focus on career stuff while that was happening. [Happy] Oh, I went back to school! [Fast] Didn't finish the degree though—realized halfway through it wasn't for me, but hey, at least I tried! [Angry] [Tsk] That gap is because my previous employer is still in litigation with me about—actually, my lawyer says I shouldn't discuss it. [Chuckle] I, uh, I basically spent a year trying to launch this app that was gonna revolutionize—okay, it totally flopped. [Disappointed] But I learned coding! [Slow] [Whisper] Depression is a hell of a thing, y'know? But I got help and I'm ready to get back out there now. [Sarcastic] [Fast] No big mystery—just took me forever to find a job that didn't require me to sell my soul for minimum wage, basically. [Happy] Actually, I was homeschooling my kid during COVID and—wow, teachers deserve so much more money! [Laugh] [Slow] Anyway, that's why there's nothing from 2020 to 2021.
+
+1238 [Happy] Oh my god, you're actually—wait, you're serious about moving to Japan? [Laugh] This is, like, the most incredible thing I've heard all year! [Disappointed] I mean, I'm happy for you, but... [Sigh] I kinda thought we'd be doing this whole adulting thing together, y'know? [Sarcastic] Well, that's just fantastic—you drop this on me now, after I already, um, planned your entire birthday party? [Tsk] [Whisper] Hold on, does anyone else know about this yet, or am I literally the first person you're telling? [Slow] Because that's, uh, that's huge. [Angry] You've been planning this for months and you didn't—you couldn't even give me a heads up? [Shout] Are you kidding me right now? [Fast] Okay so basically what you're saying is everything's gonna change and I just gotta, like, deal with it? [Groan] [Sad] I wanna be supportive, I really do, but this is just... [Slow] it's a lot to process, okay? [Happy] Stop it, you're gonna make me cry—this is honestly the best news! [Chuckle] [Fast] When do we start planning your going-away party? [Disappointed] [Slow] So all those times we talked about, um, about our plans for next year... [Sigh] those just don't matter anymore? [Sarcastic] Right, because throwing away your entire career for this is totally—I mean, what could possibly go wrong? [Chuckle] [Whisper] Wait, are you absolutely sure about this? [Fast] Like, have you really thought through all the, uh, the consequences and everything? [Happy] [Shout] Shut up, shut up, SHUT UP—you're actually doing it! [Laugh] I can't believe you finally grew a backbone! [Angry] [Slow] You know what, I'm not even—I can't even look at you right now. [Tsk] This is so typical of you. [Sad] I guess I just... [Whisper] I dunno, I thought I'd be part of this decision somehow, but obviously I was wrong. [Fast] Hold up, back up, start over—you're telling me this is happening, like, next month? [Disappointed] [Groan] That's basically tomorrow! [Sarcastic] Oh sure, just casually mention you're having twins like it's, um, like it's no big deal or something. [Laugh] [Happy] [Slow] This is gonna sound weird, but I literally had a dream about this last week—I kinda knew it was coming. [Chuckle] [Angry] So what, I'm just supposed to smile and pretend this doesn't completely—[Fast] actually, you know what, forget it, do whatever you want. [Whisper] [Sad] I mean, if this makes you happy, then... [Sigh] then I guess that's all that really matters, right? [Disappointed] Honestly? [Slow] Part of me wonders if you're just, like, running away from your problems here, but... [Tsk] maybe that's not my place to say.
+
+--- MONOLOGUE ---
+
+This must be read out in a single delivery as one file
+
+1239 SCENARIO: [scenario description]
+==================================================
+
+Source: e5e4b14f
+
+SCENARIO: Calmly describing a streak they've been maintaining, then checking, then finding they already broke it and didn't notice, ending in streak-break despair
+==================================================
+
+[casual]
+So I've been, um, I've been doing really well with this meditation streak, you know? Like, uh, forty-seven days straight now. Which is, um, which is pretty good for me, I think.
+
+[pleased]
+I mean, I've never— I've never really stuck with anything like this before, so, um, so yeah. It's been, uh, it's been nice actually. Just ten minutes every morning, right when I wake up.
+
+[conversational]
+The app sends these, um, these little reminders and like, uh, encouraging messages about keeping it up. I was just telling my mom about it yesterday, how, um, how proud I am that I've been so consistent for once.
+
+[starting to doubt]
+Actually, wait. Let me just— let me just double-check what day I'm on. I thought it was forty-seven but maybe it's, um, maybe it's forty-eight now? [nervous laugh]
+
+[concern creeping in]
+Okay so, um, looking at this and— oh. Oh wait. What does— what does this mean? It says my, uh, my current streak is... one day?
+
+[disbelief building]
+One day? That's— that can't be right. I just— I meditated this morning! And yesterday! I remember because I, um, I specifically thought about how good I was doing with—
+
+[dawning horror]
+Oh my god. Oh no, no, no. Tuesday. I— I missed Tuesday completely. I was rushing to that, um, that early meeting and I just— [groan] I totally forgot.
+
+[devastated]
+Forty-six days! Gone! And I didn't even— I kept going for three more days thinking I still had it! I've been, um, I've been bragging about a streak that didn't even exist! [defeated sigh] This is— ugh, this is so typical of me.
+
+This must be read out in a single delivery as one file
+
+1240 SCENARIO: [scenario description]
+==================================================
+
+Source: 548f6cda
+
+SCENARIO: Casually describing a time they spoke over speakerphone, then remembering where they were, then calculating who could have heard, spiraling into public speakerphone shame
+==================================================
+
+[casual]
+So I had to, um, call my mom earlier about, uh, about dinner plans for Sunday. Nothing major, just like, you know, figuring out what time to— to come over and stuff.
+
+[matter-of-fact]
+And I was, um, I was walking to my car so I just put her on speaker, you know? Made it easier to, uh, to dig around for my keys and everything. We're just chatting about, like, uh, what to bring, whether I should pick up dessert or— or whatever.
+
+[slight realization]
+Actually, wait, where was I— oh right, I was, um, I was at the coffee shop on Fifth Street. You know the one with the, uh, the little tables outside?
+
+[growing awareness]
+And we're talking about— oh god, we're talking about my, um, my gynecologist appointment. Like in detail. My mom's asking about, uh, about birth control and whether I'm— [nervous laugh] whether I'm being safe with, um, with Jake and—
+
+[mounting horror]
+Oh no. Oh no, no, no. It was, uh, it was like noon on a Saturday. The— the patio was completely full. There were families with, um, with kids, there were— [groan] there were like, uh, college students everywhere.
+
+[spiraling]
+They all heard about my— my IUD insertion! And my, um, my irregular periods! And my mom asking if Jake and I are— [whimper] oh my god, the— the barista kept looking at me weird when I went back in!
+
+[mortified]
+I can never— I can never go back there. Ever. That's, um, that's my favorite coffee shop and I just— [defeated groan] I basically announced my entire reproductive health to, uh, to half the neighborhood!
+
+This must be read out in a single delivery as one file
+
+1241 SCENARIO: [scenario description]
+==================================================
+
+Source: 6e5e7f9a
+
+SCENARIO: Upset about a passive-aggressive text from a sibling, then rereads it and it's actually sincere
+==================================================
+
+[frustrated]
+Oh my god, you're not gonna believe the text I got from Sarah this morning. She goes "Thanks for offering to help with Mom's birthday party, I'm sure you'll do great with whatever you can manage."
+
+[annoyed]
+Like what is that supposed to mean? "Whatever I can manage"? I literally— I literally organized Dad's whole retirement thing last year, like down to the centerpieces and everything, so what, what is she trying to say exactly?
+
+[getting more worked up]
+And the whole tone of it, you know? Like she's being all, uh, fake-nice about it but really she's just being... [scoff] I don't know, condescending? Like I'm some kind of amateur who's gonna mess it up or something.
+
+[irritated]
+I was gonna text her back but I was like, no, I'm not gonna— I'm not gonna start drama over this, but honestly it's just so typical of her to be all passive-aggressive and—
+
+[pausing, uncertain]
+Wait, let me... let me actually read this again because now I'm— 
+
+[quieter] [realization dawning]
+Oh. Oh no. She said "Thanks for offering to help with Mom's birthday party, I'm sure you'll do great with whatever you can manage."
+
+[guilty] [embarrassed]
+She wasn't being sarcastic. She was actually like— she was being grateful. [small laugh] God, I totally read that wrong. She's probably just stressed about planning everything and I was like ready to bite her head off.
